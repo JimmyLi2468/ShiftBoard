@@ -1,0 +1,101 @@
+[
+ {
+  "match": [
+   "kettlebrook.example/careers"
+  ],
+  "file": "careers_kettlebrook.html"
+ },
+ {
+  "match": [
+   "boards-api.greenhouse.io/v1/boards/kettlebrookfoods/"
+  ],
+  "file": "greenhouse_kettlebrook.json"
+ },
+ {
+  "match": [
+   "boards-api.greenhouse.io/v1/boards/lathewise/"
+  ],
+  "file": "greenhouse_lathewise.json"
+ },
+ {
+  "match": [
+   "api.lever.co/v0/postings/sauconprecision"
+  ],
+  "file": "lever_saucon.json"
+ },
+ {
+  "match": [
+   "api.ashbyhq.com/posting-api/job-board/kestrelhollow"
+  ],
+  "file": "ashby_kestrel.json"
+ },
+ {
+  "match": [
+   "smartrecruiters.com/v1/companies/MillraceIndustrial/postings/mr-100"
+  ],
+  "file": "sr_millrace_100.json"
+ },
+ {
+  "match": [
+   "smartrecruiters.com/v1/companies/MillraceIndustrial/postings/mr-101"
+  ],
+  "file": "sr_millrace_101.json"
+ },
+ {
+  "match": [
+   "smartrecruiters.com/v1/companies/MillraceIndustrial/postings?"
+  ],
+  "file": "sr_millrace.json"
+ },
+ {
+  "match": [
+   "/wday/cxs/palisaderidge/External/jobs"
+  ],
+  "file": "wd_palisade_list.json"
+ },
+ {
+  "match": [
+   "/wday/cxs/palisaderidge/External/job/",
+   "R1001"
+  ],
+  "file": "wd_palisade_R1001.json"
+ },
+ {
+  "match": [
+   "/wday/cxs/palisaderidge/External/job/",
+   "R1002"
+  ],
+  "file": "wd_palisade_R1002.json"
+ },
+ {
+  "match": [
+   "/wday/cxs/palisaderidge/External/job/",
+   "R1003"
+  ],
+  "file": "wd_palisade_R1003.json"
+ },
+ {
+  "match": [
+   "api.adzuna.com/v1/api/jobs/us/search/1"
+  ],
+  "file": "adzuna.json"
+ },
+ {
+  "match": [
+   "hn.algolia.com/api/v1/search_by_date"
+  ],
+  "file": "hn_search.json"
+ },
+ {
+  "match": [
+   "hn.algolia.com/api/v1/items/45000000"
+  ],
+  "file": "hn_item.json"
+ },
+ {
+  "match": [
+   "news.google.com/rss/search"
+  ],
+  "file": "news.xml"
+ }
+]

@@ -1,0 +1,34 @@
+{
+ "jobs": [
+  {
+   "id": 7001,
+   "title": "Founding Forward Deployed Engineer, ERP Integrations",
+   "location": {
+    "name": "New York, NY"
+   },
+   "absolute_url": "https://boards.greenhouse.io/lathewise/jobs/7001",
+   "first_published": "2026-10-17T12:00:00-04:00",
+   "content": "&lt;p&gt;Lathewise (YC W26) is a seed-stage startup building AI agents that read engineering drawings and turn RFQs into quotes for aerospace machine shops.&lt;/p&gt;&lt;h3&gt;What you’ll do&lt;/h3&gt;&lt;p&gt;Connect our product to customers’ ERPs (SAP, Epicor, JobBOSS) and EDI feeds, sit with estimators on the shop floor, and turn what you learn into product. Python, Postgres and React.&lt;/p&gt;&lt;p&gt;In person 5 days a week in SoHo. Must be a U.S. person (ITAR).&lt;/p&gt;&lt;p&gt;$150K – $185K + 0.3%–0.6% equity.&lt;/p&gt;"
+  },
+  {
+   "id": 7002,
+   "title": "Founding Business Systems & Security Engineer",
+   "location": {
+    "name": "New York, NY"
+   },
+   "absolute_url": "https://boards.greenhouse.io/lathewise/jobs/7002",
+   "first_published": "2026-10-20T08:00:00-04:00",
+   "content": "&lt;p&gt;Own our internal systems end to end: SSO and device management, SOC 2 Type I with Vanta, and ITAR controls for customer CAD data. You’ll be the first person on the team who owns business systems.&lt;/p&gt;"
+  },
+  {
+   "id": 7003,
+   "title": "Senior Software Engineer",
+   "location": {
+    "name": "San Francisco, CA"
+   },
+   "absolute_url": "https://boards.greenhouse.io/lathewise/jobs/7003",
+   "first_published": "2026-10-15T08:00:00-04:00",
+   "content": "&lt;p&gt;Backend.&lt;/p&gt;"
+  }
+ ]
+}

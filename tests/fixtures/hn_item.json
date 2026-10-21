@@ -1,0 +1,25 @@
+{
+ "id": 45000000,
+ "children": [
+  {
+   "id": 45000101,
+   "created_at": "2026-10-02T15:00:00.000Z",
+   "text": "Spindlework | Founding Implementation Engineer | NYC (onsite) | Full-time | $140k-$170k + equity<p>We build scheduling software for CNC machine shops and job shops. You’ll own customer onboarding: ERP data imports (Epicor, JobBOSS, ProShop), integrations, and training on the shop floor. Seed stage, YC S25."
+  },
+  {
+   "id": 45000102,
+   "created_at": "2026-10-02T16:00:00.000Z",
+   "text": "Pixelpush | Frontend Engineer | REMOTE | Full-time<p>We make landing pages for marketers."
+  },
+  {
+   "id": 45000103,
+   "created_at": "2026-10-03T16:00:00.000Z",
+   "text": "Beadline AI | Solutions Engineer | Boston, MA | Contract<p>Vision models for welding robots in factories."
+  },
+  {
+   "id": 45000104,
+   "created_at": "2026-10-04T16:00:00.000Z",
+   "text": "Cellwright Energy | Senior Data Engineer | Hybrid, Jersey City, NJ | Full-time | $165,000 - $190,000<p>We optimize battery manufacturing plants with real-time data from MES and SCADA. Series A."
+  }
+ ]
+}

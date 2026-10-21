@@ -1,0 +1,35 @@
+{
+ "totalFound": 2,
+ "content": [
+  {
+   "id": "mr-100",
+   "name": "Director, Portfolio Operations – ERP & Carve-outs",
+   "releasedDate": "2026-10-18T12:00:00.000Z",
+   "location": {
+    "city": "New York",
+    "region": "NY",
+    "country": "us",
+    "remote": false
+   },
+   "typeOfEmployment": {
+    "label": "Full-time"
+   },
+   "ref": "https://api.smartrecruiters.com/v1/companies/MillraceIndustrial/postings/mr-100"
+  },
+  {
+   "id": "mr-101",
+   "name": "Operating Associate, Value Creation",
+   "releasedDate": "2026-10-08T12:00:00.000Z",
+   "location": {
+    "city": "Greenwich",
+    "region": "CT",
+    "country": "us",
+    "remote": false
+   },
+   "typeOfEmployment": {
+    "label": "Full-time"
+   },
+   "ref": "https://api.smartrecruiters.com/v1/companies/MillraceIndustrial/postings/mr-101"
+  }
+ ]
+}

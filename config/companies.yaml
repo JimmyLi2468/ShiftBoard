@@ -1,0 +1,41 @@
+# Company watchlist. Each run reads these companies' own job boards directly.
+#
+# Easiest: give careers_url and the scraper finds the job board (Greenhouse, Lever, Ashby,
+# Workday or SmartRecruiters) on that page and caches it in data/discovered.json.
+# If discovery fails, the Settings > Sources panel in the app says so; then set it by hand:
+#   ats: greenhouse | lever | ashby | smartrecruiters   plus   slug: <board name in the URL>
+#   ats: workday   plus   workday: {host: acme.wd5.myworkdayjobs.com, tenant: acme, site: External}
+#   search: [SAP, ERP]   (Workday only: search terms to run on that board)
+#
+# kind: startup | manufacturer | si | pe | quant   (adds a tag)
+# stage: seed | series-a | series-b | growth       (startups only)
+#
+# None of these slugs or URLs has been checked against the live sites yet. Run once and
+# look at the Sources panel.
+
+# ---- Manufacturing software and robotics startups (Northeast)
+- {name: Augury, kind: startup, stage: growth, careers_url: "https://www.augury.com/careers/"}
+- {name: Keychain, kind: startup, stage: series-b, careers_url: "https://www.keychain.com/careers"}
+- {name: Tulip Interfaces, kind: startup, stage: growth, careers_url: "https://tulip.co/careers/"}
+- {name: Paperless Parts, kind: startup, stage: growth, careers_url: "https://www.paperlessparts.com/careers/"}
+- {name: Formlabs, kind: startup, stage: growth, ats: greenhouse, slug: formlabs, careers_url: "https://formlabs.com/company/careers/"}
+- {name: Locus Robotics, kind: startup, stage: growth, careers_url: "https://locusrobotics.com/careers"}
+- {name: Xometry, kind: startup, stage: growth, careers_url: "https://www.xometry.com/careers/"}
+
+# ---- Quant and systematic investing (NYC / CT)
+- {name: Hudson River Trading, kind: quant, ats: greenhouse, slug: wehrtyou, careers_url: "https://www.hudsonrivertrading.com/careers/"}
+- {name: Bridgewater Associates, kind: quant, ats: greenhouse, slug: bridgewater89, careers_url: "https://www.bridgewater.com/working-at-bridgewater"}
+- {name: Point72, kind: quant, careers_url: "https://careers.point72.com/"}
+- {name: AQR Capital Management, kind: quant, careers_url: "https://careers.aqr.com/"}
+
+# ---- Manufacturers in the target region (often on Workday)
+- {name: Air Products, kind: manufacturer, careers_url: "https://careers.airproducts.com/", search: [SAP, ERP, business systems]}
+- {name: Regeneron, kind: manufacturer, careers_url: "https://careers.regeneron.com/", search: [SAP, ERP, manufacturing systems]}
+- {name: Stanley Black & Decker, kind: manufacturer, careers_url: "https://www.stanleyblackanddecker.com/careers", search: [SAP, ERP]}
+- {name: Hubbell, kind: manufacturer, careers_url: "https://careers.hubbell.com/", search: [SAP, ERP]}
+- {name: McCormick, kind: manufacturer, careers_url: "https://careers.mccormick.com/", search: [SAP, ERP]}
+- {name: Mini-Circuits, kind: manufacturer, careers_url: "https://www.minicircuits.com/careers"}
+
+# ---- Add PE firms' portfolio companies and SAP integrators here as you find them.
+# - {name: Example Portfolio Co, kind: pe, careers_url: "https://example.com/careers"}
+# - {name: Example SAP Partner, kind: si, careers_url: "https://example.com/careers"}

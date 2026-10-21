@@ -1,0 +1,12 @@
+# Fictional companies used by the tests and the sample data in the web app.
+- {name: Kettlebrook Foods, kind: manufacturer, careers_url: "https://kettlebrook.example/careers"}
+- {name: Lathewise, kind: startup, stage: seed, ats: greenhouse, slug: lathewise}
+- {name: Saucon Precision Components, kind: manufacturer, ats: lever, slug: sauconprecision}
+- {name: Kestrel Hollow Capital, kind: quant, ats: ashby, slug: kestrelhollow}
+- {name: Millrace Industrial Partners, kind: pe, ats: smartrecruiters, slug: MillraceIndustrial}
+- name: Palisade Ridge Pharma
+  kind: manufacturer
+  ats: workday
+  workday: {host: palisaderidge.wd5.myworkdayjobs.com, tenant: palisaderidge, site: External}
+  search: [SAP]
+- {name: Copperline Tools, kind: manufacturer, careers_url: "https://copperline.example/careers"}

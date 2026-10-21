@@ -1,0 +1,32 @@
+{
+ "total": 3,
+ "jobPostings": [
+  {
+   "title": "Associate Director, SAP Manufacturing Systems",
+   "externalPath": "/job/Warren-NJ/Associate-Director--SAP-Manufacturing-Systems_R1001",
+   "locationsText": "Warren, NJ",
+   "postedOn": "Posted 2 Days Ago",
+   "bulletFields": [
+    "R1001"
+   ]
+  },
+  {
+   "title": "SAP EWM Lead",
+   "externalPath": "/job/Tarrytown-NY/SAP-EWM-Lead_R1002",
+   "locationsText": "2 Locations",
+   "postedOn": "Posted Yesterday",
+   "bulletFields": [
+    "R1002"
+   ]
+  },
+  {
+   "title": "SAP Analyst, Temporary",
+   "externalPath": "/job/Warren-NJ/SAP-Analyst--Temporary_R1003",
+   "locationsText": "Warren, NJ",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "R1003"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "count": 8,
+ "results": [
+  {
+   "id": "1001",
+   "title": "SAP Solution <strong>Architect</strong>",
+   "company": {
+    "display_name": "Quillfield Systems Integrators"
+   },
+   "location": {
+    "display_name": "Hartford, Connecticut",
+    "area": [
+     "US",
+     "Connecticut",
+     "Hartford County",
+     "Hartford"
+    ]
+   },
+   "contract_time": "full_time",
+   "created": "2026-10-18T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1001",
+   "description": "Quillfield is an SAP partner delivering S/4HANA conversions for mid-size manufacturers. Client-facing and billable, with travel up to 50% to client sites...",
+   "salary_is_predicted": "1",
+   "salary_min": 150000,
+   "salary_max": 180000
+  },
+  {
+   "id": "1002",
+   "title": "ERP Manager",
+   "company": {
+    "display_name": "Marlow Bay Packaging"
+   },
+   "location": {
+    "display_name": "Edison, New Jersey",
+    "area": [
+     "US",
+     "New Jersey",
+     "Middlesex County",
+     "Edison"
+    ]
+   },
+   "contract_time": "full_time",
+   "created": "2026-10-19T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1002",
+   "description": "Marlow Bay Packaging is opening a new plant in Edison next spring. Lead our Dynamics 365 rollout to the new site and manage a team of three analysts...",
+   "salary_is_predicted": "0",
+   "salary_min": 135000,
+   "salary_max": 155000
+  },
+  {
+   "id": "1003",
+   "title": "Business Systems Manager",
+   "company": {
+    "display_name": "Tidewater Row Brewing"
+   },
+   "location": {
+    "display_name": "Baltimore, Maryland",
+    "area": [
+     "US",
+     "Maryland",
+     "Baltimore City",
+     "Baltimore"
+    ]
+   },
+   "contract_time": "full_time",
+   "created": "2026-10-15T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1003",
+   "description": "Own NetSuite, our brewery MES and Power BI reporting across two production sites. You'll report to the CFO...",
+   "salary_is_predicted": "0"
+  },
+  {
+   "id": "1004",
+   "title": "SAP S/4HANA Functional Lead",
+   "company": {
+    "display_name": "Keyline Advisory"
+   },
+   "location": {
+    "display_name": "Philadelphia, Pennsylvania",
+    "area": [
+     "US",
+     "Pennsylvania",
+     "Philadelphia County",
+     "Philadelphia"
+    ]
+   },
+   "contract_time": "contract",
+   "created": "2026-10-19T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1004",
+   "description": "12-month contract supporting a pharma client...",
+   "salary_is_predicted": "0",
+   "salary_min": 95,
+   "salary_max": 120
+  },
+  {
+   "id": "1005",
+   "title": "SAP Analyst",
+   "company": {
+    "display_name": "Prairie Table Foods"
+   },
+   "location": {
+    "display_name": "Dallas, Texas",
+    "area": [
+     "US",
+     "Texas",
+     "Dallas County",
+     "Dallas"
+    ]
+   },
+   "contract_time": "full_time",
+   "created": "2026-10-19T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1005",
+   "description": "Support SAP SD...",
+   "salary_is_predicted": "1",
+   "salary_min": 90000,
+   "salary_max": 110000
+  },
+  {
+   "id": "1006",
+   "title": "SAP S/4HANA Solution Architect",
+   "company": {
+    "display_name": "Saucon Precision Components"
+   },
+   "location": {
+    "display_name": "Bethlehem, Pennsylvania",
+    "area": [
+     "US",
+     "Pennsylvania",
+     "Northampton County",
+     "Bethlehem"
+    ]
+   },
+   "contract_time": "full_time",
+   "created": "2026-10-18T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1006",
+   "description": "Saucon Precision Components is starting a brownfield conversion to S/4HANA...",
+   "salary_is_predicted": "1",
+   "salary_min": 160000,
+   "salary_max": 190000
+  },
+  {
+   "id": "1007",
+   "title": "Senior Quantitative Analyst",
+   "company": {
+    "display_name": "Ashgrove Re"
+   },
+   "location": {
+    "display_name": "Boston, Massachusetts",
+    "area": [
+     "US",
+     "Massachusetts",
+     "Suffolk County",
+     "Boston"
+    ]
+   },
+   "contract_time": "full_time",
+   "created": "2026-10-17T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1007",
+   "description": "Build stochastic catastrophe models and pricing tools for our reinsurance portfolio...",
+   "salary_is_predicted": "1",
+   "salary_min": 140000,
+   "salary_max": 175000
+  },
+  {
+   "id": "1008",
+   "title": "Remote SAP EDI Consultant",
+   "company": {
+    "display_name": "Tri-Borough Integration"
+   },
+   "location": {
+    "display_name": "US",
+    "area": [
+     "US"
+    ]
+   },
+   "contract_time": "full_time",
+   "created": "2026-10-16T12:00:00Z",
+   "redirect_url": "https://www.adzuna.com/land/ad/1008",
+   "description": "Fully remote. Map X12 and IDoc flows on SAP PO/PI and CPI for manufacturing clients...",
+   "salary_is_predicted": "0",
+   "salary_min": 125000,
+   "salary_max": 145000
+  }
+ ]
+}

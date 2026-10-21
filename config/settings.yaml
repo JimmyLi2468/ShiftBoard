@@ -1,0 +1,150 @@
+# Shift Board settings. The daily GitHub Action reads this file; edit it and push.
+
+regions:
+  states: [NY, NJ, CT, PA, MA, MD]    # MD covers Baltimore; drop it if you don't want it
+  include_remote_us: true             # "Remote (US)" postings with no state attached
+  exclude_cities: [Pittsburgh, Erie]  # western PA; the web app can hide more on the fly
+
+full_time_only: true
+max_age_days: 45        # ignore postings older than this
+retention_days: 30      # keep a closed posting this long after it disappears
+detail_budget: 150      # max full-posting fetches per run (Workday, SmartRecruiters)
+
+# Titles must match one of these to be kept, and must not match an exclude.
+relevance:
+  title_include:
+    - \bsap\b
+    - \berp\b
+    - s/?4
+    - business systems
+    - enterprise (applications|systems)
+    - solutions?\s(architect|engineer|consultant)
+    - architect
+    - integration
+    - \bedi\b
+    - \bdata\b
+    - analytics
+    - \bbi\b
+    - quant
+    - research(er)?\b
+    - systems (analyst|engineer|manager|lead)
+    - \bit\b
+    - information technology
+    - digital (transformation|manufacturing|operations)
+    - \bmes\b
+    - software engineer
+    - developer
+    - forward[- ]deployed
+    - implementation
+    - (manufacturing|plant) (systems|it|technology)
+    - supply chain (systems|technology|analyst)
+    - portfolio operations
+    - value creation
+    - operating (partner|associate|principal)
+    - founding
+    - \bcio\b
+    - \bcto\b
+    - head of
+  title_exclude:
+    - sales (rep|representative|executive)
+    - account (executive|manager)
+    - recruit
+    - \bnurse\b
+    - \bdriver\b
+    - technician
+    - mechanic
+    - \boperator\b
+    - assembler
+    - warehouse associate
+    - customer service rep
+    - help ?desk
+    - desktop support
+
+# Adzuna: broad discovery across employers. Free key at https://developer.adzuna.com
+# Pairs of (query, state) rotate across days to stay inside the free tier.
+adzuna:
+  enabled: true
+  country: us
+  max_calls: 25        # per run
+  pages: 2
+  rotate_days: 3       # each pair runs every 3rd day...
+  max_days_old: 4      # ...so look back 4 days
+  queries:
+    - {what: "SAP S/4HANA", scope: states}
+    - {what: "SAP solution architect", scope: states}
+    - {what: "ERP manager", scope: states}
+    - {what: "business systems manager", scope: states}
+    - {what: "quantitative researcher", scope: states}
+    - {what: "portfolio operations private equity", scope: states}
+    - {what: "SAP EWM", scope: national}
+    - {what: "SAP EDI", scope: national}
+    - {what: "S/4HANA migration", scope: national}
+    - {what: "ECC S/4HANA conversion", scope: national}
+    - {what: "new plant ERP", scope: national}
+    - {what: "forward deployed engineer", scope: national}
+    - {what: "carve-out SAP", scope: national}
+
+# Monthly "Ask HN: Who is hiring?" thread, kept only when the post is manufacturing-related.
+hn:
+  enabled: true
+  require_patterns:
+    - manufactur
+    - \bfactor(y|ies)\b
+    - \bindustrial
+    - supply chain
+    - \berp\b
+    - \bsap\b
+    - \bhardware\b
+    - aerospace
+    - robotic
+    - \bcnc\b
+    - machin(ing|e shops?)
+    - \bplant floor\b
+
+# Signals tab: Google News searches. "when:14d" limits results to the last 14 days.
+news:
+  enabled: true
+  keep_days: 60
+  queries:
+    - 'new manufacturing plant ("New York" OR "New Jersey" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d'
+    - 'groundbreaking facility jobs (Pennsylvania OR "New Jersey" OR "New York" OR Connecticut) when:14d'
+    - '"S/4HANA" (migration OR "go-live" OR implementation) manufacturer when:30d'
+    - 'carve-out manufacturing "private equity" when:14d'
+    - 'plant "begins production" (Pennsylvania OR "New York" OR "New Jersey" OR Maryland) when:30d'
+
+# Match score (0-100) shown on each job. Base + tag weights + title phrases + pay.
+scoring:
+  base: 30
+  tags:
+    sap: 12
+    erp: 6
+    s4 migration: 12
+    ecc: 4
+    new plant: 14
+    post-go-live: 10
+    architect: 8
+    manager: 4
+    edi / integration: 5
+    ewm / wms: 4
+    mes: 3
+    data / bi: 3
+    manufacturing: 6
+    seed stage: 8
+    series a/b: 6
+    fde / solutions: 8
+    quant: 8
+    pe portfolio: 8
+    carve-out: 12
+    itar / us person: 2
+    pm role: -15
+    travel 50%+: -10
+  title_boost:
+    solution architect: 8
+    business systems: 6
+    enterprise applications: 6
+    forward deployed: 4
+  salary_top:          # [top of range at least, points]
+    - [200000, 14]
+    - [160000, 10]
+    - [140000, 3]
+    - [0, -8]

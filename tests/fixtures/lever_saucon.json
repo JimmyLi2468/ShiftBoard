@@ -1,0 +1,65 @@
+[
+ {
+  "id": "sp-1",
+  "text": "SAP S/4HANA Solution Architect",
+  "hostedUrl": "https://jobs.lever.co/sauconprecision/sp-1",
+  "createdAt": 1792245600000,
+  "categories": {
+   "commitment": "Full-time",
+   "location": "Bethlehem, PA",
+   "allLocations": [
+    "Bethlehem, PA"
+   ],
+   "team": "IT"
+  },
+  "salaryRange": {
+   "min": 170000,
+   "max": 205000,
+   "currency": "USD",
+   "interval": "per-year-salary"
+  },
+  "workplaceType": "hybrid",
+  "descriptionPlain": "Saucon Precision Components machines parts for aerospace and medical devices across four plants running SAP ECC 6.0. We are starting a brownfield conversion to S/4HANA in 2027 and need an architect to own the solution design across PP, MM, SD, QM and FI/CO, the integration with our MES and EDI partners, and the cutover plan. Travel 20% between plants.",
+  "lists": [
+   {
+    "text": "What you bring",
+    "content": "<li>Two or more full-cycle SAP implementations</li><li>Discrete manufacturing experience</li>"
+   }
+  ],
+  "additionalPlain": ""
+ },
+ {
+  "id": "sp-2",
+  "text": "ERP Program Manager",
+  "hostedUrl": "https://jobs.lever.co/sauconprecision/sp-2",
+  "createdAt": 1791900000000,
+  "categories": {
+   "commitment": "Full-time",
+   "location": "White Plains, NY",
+   "allLocations": [
+    "White Plains, NY"
+   ]
+  },
+  "salaryRange": {
+   "min": 140000,
+   "max": 160000,
+   "currency": "USD",
+   "interval": "per-year-salary"
+  },
+  "workplaceType": "onsite",
+  "descriptionPlain": "Run the program office for our S/4HANA migration: schedule, budget, RAID log and steering committee.",
+  "lists": []
+ },
+ {
+  "id": "sp-3",
+  "text": "Production Supervisor",
+  "hostedUrl": "https://jobs.lever.co/sauconprecision/sp-3",
+  "createdAt": 1792159200000,
+  "categories": {
+   "commitment": "Full-time",
+   "location": "Reading, PA"
+  },
+  "descriptionPlain": "Lead second shift.",
+  "lists": []
+ }
+]

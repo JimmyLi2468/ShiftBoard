@@ -1,0 +1,69 @@
+{
+ "jobs": [
+  {
+   "id": "kh-1",
+   "title": "Quantitative Researcher, Industrials",
+   "employmentType": "FullTime",
+   "location": "Stamford, CT",
+   "secondaryLocations": [],
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "publishedAt": "2026-10-16T15:00:00.000+00:00",
+   "jobUrl": "https://jobs.ashbyhq.com/kestrelhollow/kh-1",
+   "descriptionPlain": "Kestrel Hollow Capital is a systematic investing firm. Research alpha signals for industrial and manufacturing equities using alternative data on plant utilization, shipments and supply chains. You have a graduate degree in a quantitative field and strong stochastic calculus and Bayesian statistics.",
+   "compensation": {
+    "compensationTierSummary": "$175K – $250K",
+    "summaryComponents": [
+     {
+      "compensationType": "Salary",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": 175000,
+      "maxValue": 250000
+     }
+    ]
+   }
+  },
+  {
+   "id": "kh-2",
+   "title": "Quantitative Developer",
+   "employmentType": "FullTime",
+   "location": "New York, NY",
+   "secondaryLocations": [
+    {
+     "location": "Stamford, CT"
+    }
+   ],
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "Hybrid",
+   "publishedAt": "2026-10-12T15:00:00.000+00:00",
+   "jobUrl": "https://jobs.ashbyhq.com/kestrelhollow/kh-2",
+   "descriptionPlain": "Build research infrastructure in Python: backtesting, portfolio optimization and data pipelines used by every researcher.",
+   "compensation": {
+    "compensationTierSummary": "$160K – $220K",
+    "summaryComponents": [
+     {
+      "compensationType": "Salary",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": 160000,
+      "maxValue": 220000
+     }
+    ]
+   }
+  },
+  {
+   "id": "kh-3",
+   "title": "Quantitative Research Intern (Summer 2027)",
+   "employmentType": "Intern",
+   "location": "Stamford, CT",
+   "isListed": true,
+   "publishedAt": "2026-10-10T15:00:00.000+00:00",
+   "jobUrl": "https://jobs.ashbyhq.com/kestrelhollow/kh-3",
+   "descriptionPlain": "Summer internship.",
+   "compensation": {}
+  }
+ ]
+}

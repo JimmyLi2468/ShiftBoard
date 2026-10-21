@@ -1,0 +1,44 @@
+{
+ "jobs": [
+  {
+   "id": 4011,
+   "title": "SAP Business Systems Manager, Allentown Plant",
+   "location": {
+    "name": "Allentown, PA"
+   },
+   "absolute_url": "https://boards.greenhouse.io/kettlebrookfoods/jobs/4011",
+   "first_published": "2026-10-19T13:00:00-04:00",
+   "content": "&lt;p&gt;Kettlebrook Foods is a family-owned maker of soups and sauces.&lt;/p&gt;&lt;h3&gt;About the role&lt;/h3&gt;&lt;p&gt;We are opening a new production facility in Allentown and need a hands-on SAP lead to own the plant’s S/4HANA rollout from blueprint through hypercare. You will configure PP, QM and WM, coordinate the integration partner, and run the plant systems team after go-live.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lead fit-gap and UAT for the new plant&lt;/li&gt;&lt;li&gt;Own EDI with co-packers and 3PLs&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hybrid, 3 days on site. Travel up to 15% to our Camden, NJ plant.&lt;/p&gt;&lt;p&gt;The base salary range for this role is $150,000 - $175,000.&lt;/p&gt;&lt;p&gt;Kettlebrook Foods is an equal opportunity employer.&lt;/p&gt;"
+  },
+  {
+   "id": 4012,
+   "title": "Plant Systems Analyst (Contract)",
+   "location": {
+    "name": "Allentown, PA"
+   },
+   "absolute_url": "https://boards.greenhouse.io/kettlebrookfoods/jobs/4012",
+   "first_published": "2026-10-18T10:00:00-04:00",
+   "content": "&lt;p&gt;Six-month assignment.&lt;/p&gt;"
+  },
+  {
+   "id": 4013,
+   "title": "Manufacturing IT Lead",
+   "location": {
+    "name": "Camden, NJ"
+   },
+   "absolute_url": "https://boards.greenhouse.io/kettlebrookfoods/jobs/4013",
+   "first_published": "2026-10-14T09:00:00-04:00",
+   "content": "&lt;h3&gt;The role&lt;/h3&gt;&lt;p&gt;Own plant-floor systems at our Camden kitchen: MES on Ignition, label printing, and scale integrations. You’ll lead post-go-live stabilization of our new SAP system and keep USDA and HACCP records audit-ready.&lt;/p&gt;"
+  },
+  {
+   "id": 4014,
+   "title": "Line Operator, 2nd Shift",
+   "location": {
+    "name": "Allentown, PA"
+   },
+   "absolute_url": "https://boards.greenhouse.io/kettlebrookfoods/jobs/4014",
+   "first_published": "2026-10-19T09:00:00-04:00",
+   "content": ""
+  }
+ ]
+}
