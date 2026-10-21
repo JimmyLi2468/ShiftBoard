@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T04:28:07+00:00",
- "calls": 31,
+ "generated": "2026-10-21T16:18:37+00:00",
+ "calls": 4752,
  "sources": [
   {
    "name": "Augury",
@@ -124,9 +124,9 @@
   {
    "name": "Board index (Common Crawl)",
    "kind": "index",
-   "status": "needs setup",
-   "jobs": 0,
-   "note": "0 of 0 boards checked today, 0 with matching jobs, 0 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=boards.greenhouse.io%2F%2A&output=json&showNumPages=true."
+   "status": "ok",
+   "jobs": 2008,
+   "note": "3,717 of 3,722 boards checked today, 653 with matching jobs, 725 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=jobs.lever.co%2F%2A&output=json&showNumPages=true."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,7 +139,7 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 50,
+   "jobs": 54,
    "note": ""
   },
   {
@@ -153,21 +153,21 @@
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 23,
+   "jobs": 22,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 24,
+   "jobs": 23,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 6,
+   "jobs": 7,
    "note": ""
   }
  ]

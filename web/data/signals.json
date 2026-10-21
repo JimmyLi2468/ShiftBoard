@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T04:28:07+00:00",
+ "generated": "2026-10-21T16:18:37+00:00",
  "items": [
   {
    "id": "2967164f1c50",
@@ -23,6 +23,41 @@
    "tags": [],
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "f54171d6b468",
+   "title": "New York investor buys second Kansas City manufacturing facility in recent months",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0lwNjFyWmVpaXhKSlpnXzl6SV9kYzE5akdXcmxtdHhiTW1Sb1dYaWUxU3ZxVlJUOUpjQmdPYk9xV1BobFhpcUxjeDRjbER4bzRaV2tnSGdiQ25GQnhvZTlqUWQzYndfTl95MklKYVNvWEx5RUVnTnVwaEZiMHNQdkhzTkxzcm9mZTBCYzBLZnBqOW5iOTJTN003WTZkMGFHcGRCNlR1ZkVYUWJDRXk0?oc=5",
+   "source": "The Business Journals",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ad65cc91e10e",
+   "title": "Micron Funds Critical Minerals Refining in New York, Bolstering Domestic Semiconductor Materials Supply Chain",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTm9vNF92UHVVXy0tZ1hGM3gwR25RdnZWSWtmOFgtNG1mN1JncW84SlVOY0E1UVlYTldqak9ZeEJBQ0QzVC1lTlhzXzRCa1hrT3NoemEwQ2FQa1RQY2Z2M2otdTRkQ1BCRTdMTkdVZmJ0aEFxZ1E?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "861d9717ba6d",
+   "title": "Phoenix Tailings $375M Rare Earth Plant in Rochester, NY - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUJtVElRVEh6eHRCZmUxODk1NUMzR3BMeXdnbFkyUXUxWUxQdWg1MUFWUHhDV1FIM2hrcy1Sb29sbmhodkNPMkNiWjIyOFlMcmYteUZsaW0yYW5qdVdyUkNZNi1FMDhLMVdOejc1VjVKZFdYWTNzdlVCNWxUOUJBbUR2amFHYzJ5cTRkMllteVNNMUxRczdFWXNMakhuMGtjZlc0cUZtYWlxczRXbFlvRGxXYnlQd2U2QmYzVQ?oc=5",
+   "source": "IndexBox",
+   "date": "2026-10-21",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-21"
   },
   {
@@ -233,6 +268,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "4b0abaa09144",
+   "title": "Phoenix Tailings $375M Freedom Separation Rare Earth Plant in New York - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHlLWGZYYi02WkpHWUlIQk9sMkczUnpENHZMaW1USlJMOHczTFpIbkdEdVZJTVpYaEdOSGdOeV9qQUg1WUpmTmx0eDVLOUVCeWVWWk40NDRCWkZwVHYtbmRCdzVyczdQb1F5T2ZJWDJwVVUtam9fOWVHNnFOT0NoQi1XMGUzRjNzQW9VaVoyZ29GUWlYSVVGcFg5NGFzMFozVC1NdzdkaDlNWGU3Z2xWcw?oc=5",
+   "source": "IndexBox",
+   "date": "2026-10-20",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "73d53fff7ee5",
    "title": "GSK Investing $800M in Biopharma Manufacturing in Pennsylvania",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNllWUVZnWnItUGNUYXJZdnhqd0Z6aXNsQ2gzQ0hHd1VyeVhreFoxSkNiZU9ndFhZTGxUdkZjb0tDaHFCUFJfNGlaRTJUWU1xMEQ3MzVodlhXdzZuVm1RMTd5WjdLd3pxVjEwb2VGcFY1MlZNejlzeGEtdU5wYzhzRTdRdUVvZWs?oc=5",
@@ -276,6 +324,17 @@
    "tags": [],
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "aac9b8a95330",
+   "title": "Top 10 Best IT Consulting Firms In Germany 2026",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UWl9ZUjBvX25EX1VPMjFySmgtMlJhVjQ0YmFkZUtJR2FMZVpsOTZncXotaXFOZVRCM1IzVzdVbGVvSmJEZ0djUUtzRDhHQW9ySGRydDhBOGNhV2V0dWUtVEVSaW9nRVpsclEwOWxYTGY5VWs?oc=5",
+   "source": "Nubia Magazine!",
+   "date": "2026-10-19",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-21"
   },
   {
@@ -555,6 +614,17 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "d38e44152b3b",
+   "title": "'Cambrian Explosion': Freshfields Partners Discuss Spinning Out AI Business, Market Reacts",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd0hNSXdSOFg5Nm5TWGlYN2RmVm9TbWlad2VNTFRNbTl4RzhPS0JpazYtbWFqT3lJZ2RoUGRKOURDUjIyVTVWX3dRNHhLWllpLTZwbW9VLUlHR0ZzYVl2NGs4aklMRERpMHZOdjgyTEdycG9uWl9MRDM2ZU5kTmM4STByTkpHTmEyblFmanVUak9VOG9XbFVUNERfeEtZcFZJTnJJaEhJQVJjUDhDZHh3MHRmb3M3Q1RPakx0MHlJcE84bUJ6NEJXbnVPNXIzczAyUkNQaC1udw?oc=5",
+   "source": "Law.com",
+   "date": "2026-10-15",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "46ede9ce8a68",
    "title": "GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiative",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW9mTXJLZWtuSlVKNGw4bTZ1aTJuXzZ4UGZkcW14SFpXVjc5eDFsQUo5eldnMFo1a1NBNFpvTnhVSm5qRHAxbzE3Nl95cU9OMkhFLWMyamdST2ljcTl3NnhndjJzRnNnR3BwSWtiNTA5TWl2Vkx4YVBIVE1rZC1haFNDZjhUQUNXanlGZUFVN3NFT3Bzckp4UFRXaXRWbEZtYV9GbjBlakNXazBkSEtoSDJUbWJLTTFwOFZBMm1oWnN4T2dnSjIyY2laazlNLUxZQ3NrZWswMUY0M0Z6RWZn?oc=5",
@@ -687,6 +757,19 @@
    "tags": [],
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "fae9589931ae",
+   "title": "Telit Cinterion plans to open cellular IoT module manufacturing facility in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLV9HcTJtOGxwcjlsd3E4eklYbkh5TWlYdWN4Q2NodWRlbHpKSEtlSHFxV09VNFk0d0U2RURsMy1mM3ZTY0lERi1fVEstWXo3VDV2dG5tQkdTYUk0WlFEc3Vhck1NVm5aV25wUThlUUF4dktnZlgwWW4ySTFWSXZMaHpXRmg5VkhTSEZPV1g2ZE1oTnl0NkJuaFFMbVhoWTdWdjFtUjltZ0I1aWRfbFJiS2hBcGItc29BcmU3bDI4Y1NNSFhvRE5hYU1Zc0Z0MC1VNmdrX09JWVFkYnlIcUdR?oc=5",
+   "source": "Plant Services",
+   "date": "2026-10-14",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-21"
   },
   {
@@ -1064,6 +1147,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "c34040f6b0fa",
+   "title": "Maryland’s $6.6B Arsenal-2 Shipyard to Expand Submarine Component Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHdSbk1KN3V5RXBGNDdQdGdhMDJnSDdQX0VVU2VUbVhJWDBudUZiS0RVZnY2QnBhZWlPQXA1ZlNsMlNxcDU2Y1Y4MWFTU2hLQ2NTWk03Ykgxb2RjNTRiT0tyVlJHZDRjWkp5VXZ3Z0lKd2ZNOVF1cnZpWTd4Qk4xSm5ISlZUeGtaNUJtOVhid2h4bTYyNHN1S1dNQUQ2N2hjMlJZczBMdC1nOWs5VWM2SnRB0gHCAUFVX3lxTE5FcW1IOUxFajZySzUzcVBka2dEd3hpRkJtaThNMmpaZ2IwZzh3TXZZem1Tb2FHekZBUllERTBpeHNIQk1TUXFBTkI0ckptRkZMME9fS0QyamlzbHY4ckRBOTVfYUp6Vi03bnppUjFlaWpTMFR4U3VxZm85UWtUMWdiNTVndGt1Y3pFZE5jYk50QjhKX3NwV2dVR19DWDZvT2c5NUI4dXpXVVZwT29XQkRSV1h0S1NjYUZMZ1I0THlUYWt3?oc=5",
+   "source": "ConstructConnect News",
+   "date": "2026-10-07",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "90f62fd2facd",
    "title": "A new tech chief will lead ScottsMiracle-Gro’s AI integration",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejNuemh6V0ZEdUJjX0h5bThmbXMzWUdfTWRVOHJIeXk1YkNjaTh2clBvLTh4a1JSUVBrYTF1VlFMLUtmSkdLaExoSVpwSjl4MDRjV09yQzZRUlpEVXVRTU9EVGZKWE4wR1EyUkpTSUdDeTUxV3hIaWdOVFV1a2Y4LVdLbzUyUDJvVlFFSlVnYWp4ZzZhR3hoSFhGdUltdjBhcE1Ld1hJdGkyempXb0g1MHpvYW9CWnBJSk5teWR4RQ?oc=5",
@@ -1132,6 +1228,19 @@
    "tags": [],
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "05885dc641d2",
+   "title": "'The Watcher' Finally Begins Production on Season 2, Four Years After Being Renewed: Returning Stars Revealed",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGI0Y2w4a0ZqVV9IRTg1NkxJSVNlUnFZN0xoOG5oZGNlTHlkSzFaQUhmQ0FuTmxYOHdDQl9oRFN3UmZQU20yR044amt3MGdETDVVWHRqQlliTFVvVURiMklLTzdQUk10bG9CWFFJaDdQcE16M1RLa0NZMGUtZFZUdkdDRzNNZlVDTlJKZndDOVF1MFJ0b0JRSlVrbUlhQWp5QTJiVUdZTC02WVZWUDY4eEQ4bmEyRzJlcF80Y3hQNFN3Y3ZvV21LX0JqZl93aXBlOG9YLWVPeG9fTHM?oc=5",
+   "source": "Just Jared",
+   "date": "2026-10-02",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-21"
   },
   {
