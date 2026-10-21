@@ -1,0 +1,61 @@
+{
+ "https://www.augury.com/careers/": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ },
+ "https://www.keychain.com/careers": {
+  "error": "Couldn’t load careers page: 403 Client Error: Forbidden for url: https://www.keychain.com/careers",
+  "checked": "2026-10-21"
+ },
+ "https://tulip.co/careers/": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ },
+ "https://www.paperlessparts.com/careers/": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ },
+ "https://locusrobotics.com/careers": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ },
+ "https://www.xometry.com/careers/": {
+  "ats": "greenhouse",
+  "slug": "xometry",
+  "checked": "2026-10-21"
+ },
+ "https://careers.point72.com/": {
+  "ats": "greenhouse",
+  "slug": "point72",
+  "checked": "2026-10-21"
+ },
+ "https://careers.aqr.com/": {
+  "ats": "greenhouse",
+  "slug": "aqr",
+  "checked": "2026-10-21"
+ },
+ "https://careers.airproducts.com/": {
+  "error": "Couldn’t load careers page: HTTPSConnectionPool(host='careers.airproducts.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='careers.ai",
+  "checked": "2026-10-21"
+ },
+ "https://careers.regeneron.com/": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ },
+ "https://www.stanleyblackanddecker.com/careers": {
+  "error": "Couldn’t load careers page: HTTPSConnectionPool(host='www.stanleyblackanddecker.com', port=443): Read timed out. (read timeout=25)",
+  "checked": "2026-10-21"
+ },
+ "https://careers.hubbell.com/": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ },
+ "https://careers.mccormick.com/": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ },
+ "https://www.minicircuits.com/careers": {
+  "error": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page.",
+  "checked": "2026-10-21"
+ }
+}

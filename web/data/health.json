@@ -1,0 +1,174 @@
+{
+ "generated": "2026-10-21T04:28:07+00:00",
+ "calls": 31,
+ "sources": [
+  {
+   "name": "Augury",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "Keychain",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "Couldn’t load careers page: 403 Client Error: Forbidden for url: https://www.keychain.com/careers"
+  },
+  {
+   "name": "Tulip Interfaces",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "Paperless Parts",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "Formlabs",
+   "kind": "greenhouse",
+   "status": "ok",
+   "jobs": 22,
+   "note": ""
+  },
+  {
+   "name": "Locus Robotics",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "Xometry",
+   "kind": "greenhouse",
+   "status": "ok",
+   "jobs": 27,
+   "note": ""
+  },
+  {
+   "name": "Hudson River Trading",
+   "kind": "greenhouse",
+   "status": "ok",
+   "jobs": 3,
+   "note": ""
+  },
+  {
+   "name": "Bridgewater Associates",
+   "kind": "greenhouse",
+   "status": "ok",
+   "jobs": 1,
+   "note": ""
+  },
+  {
+   "name": "Point72",
+   "kind": "greenhouse",
+   "status": "ok",
+   "jobs": 4,
+   "note": ""
+  },
+  {
+   "name": "AQR Capital Management",
+   "kind": "greenhouse",
+   "status": "ok",
+   "jobs": 5,
+   "note": ""
+  },
+  {
+   "name": "Air Products",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "Couldn’t load careers page: HTTPSConnectionPool(host='careers.airproducts.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='careers.ai"
+  },
+  {
+   "name": "Regeneron",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "Stanley Black & Decker",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "Couldn’t load careers page: HTTPSConnectionPool(host='www.stanleyblackanddecker.com', port=443): Read timed out. (read timeout=25)"
+  },
+  {
+   "name": "Hubbell",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "McCormick",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "Mini-Circuits",
+   "kind": "company",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "No Greenhouse, Lever, Ashby, Workday or SmartRecruiters link on the page."
+  },
+  {
+   "name": "Board index (Common Crawl)",
+   "kind": "index",
+   "status": "needs setup",
+   "jobs": 0,
+   "note": "0 of 0 boards checked today, 0 with matching jobs, 0 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=boards.greenhouse.io%2F%2A&output=json&showNumPages=true."
+  },
+  {
+   "name": "HN Who’s Hiring",
+   "kind": "aggregator",
+   "status": "ok",
+   "jobs": 4,
+   "note": ""
+  },
+  {
+   "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
+   "kind": "signals",
+   "status": "ok",
+   "jobs": 50,
+   "note": ""
+  },
+  {
+   "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
+   "kind": "signals",
+   "status": "ok",
+   "jobs": 5,
+   "note": ""
+  },
+  {
+   "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
+   "kind": "signals",
+   "status": "ok",
+   "jobs": 23,
+   "note": ""
+  },
+  {
+   "name": "News: carve-out manufacturing \"private equity\" when:14",
+   "kind": "signals",
+   "status": "ok",
+   "jobs": 24,
+   "note": ""
+  },
+  {
+   "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
+   "kind": "signals",
+   "status": "ok",
+   "jobs": 6,
+   "note": ""
+  }
+ ]
+}

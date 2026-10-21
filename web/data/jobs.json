@@ -1,0 +1,1896 @@
+{
+ "generated": "2026-10-21T04:28:07+00:00",
+ "count": 52,
+ "jobs": [
+  {
+   "id": "b0c212a30ab2",
+   "title": "Trade Network Architect",
+   "company": "Hudson River Trading",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "In this role, you will lead hardware evaluation and lab benchmarking while leveraging Python and data analysis techniques to analyze high-volume PCAP captures, telemetry streams, and tick-to-trade latency distributions.",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8303684",
+   "posted": "2026-10-20",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Hudson River Trading",
+   "tags": [
+    "architect",
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 46,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "128fa2a67d7b",
+   "title": "Research & Portfolio Management Engineering - Analyst",
+   "company": "AQR Capital Management",
+   "locations": [
+    {
+     "label": "Greenwich, CT",
+     "state": "CT",
+     "remote": false
+    }
+   ],
+   "salary_min": 135000,
+   "salary_max": 155000,
+   "salary_est": false,
+   "summary": "As a software engineer at AQR, you will build or extend our: Scalable, AWS-based storage and computing infrastructure Generalized research platform Data ingestion and validation engine Model computation and signal generation pipeline Machine learning / Natural Language Processing pipeline",
+   "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
+   "posted": "2026-10-20",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:AQR Capital Management",
+   "tags": [
+    "ai",
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 41,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "944b1de4334a",
+   "title": "Head of Information Technology (IT)",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 150000,
+   "salary_max": 190000,
+   "salary_est": false,
+   "summary": "Join Formlabs if you want to bring ground-breaking professional 3D printers to the desktop of every designer, engineer, researcher, and artist in the world.",
+   "url": "https://careers.formlabs.com/job/8289955/apply/?gh_jid=8289955",
+   "posted": "2026-10-19",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "director+",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 46,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "9ad0db83dbdc",
+   "title": "Head of Technical Operations (TechOps)",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 150000,
+   "salary_max": 190000,
+   "salary_est": false,
+   "summary": "Join Formlabs if you want to bring ground-breaking professional 3D printers to the desktop of every designer, engineer, researcher, and artist in the world.",
+   "url": "https://careers.formlabs.com/job/8301504/apply/?gh_jid=8301504",
+   "posted": "2026-10-19",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "director+",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 46,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "0fa5b6ece6d6",
+   "title": "Head of Manufacturing Engineering",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 175000,
+   "salary_max": 300000,
+   "salary_est": false,
+   "summary": "Report directly to the Chief Operating Officer Build and execute a multi-year strategy to scale Formlabs’ global operations and expand product capabilities",
+   "url": "https://careers.formlabs.com/job/8203847/apply/?gh_jid=8203847",
+   "posted": "2026-10-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "director+",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "4aa4a2545241",
+   "title": "Data Sourcing & Strategy Operations Analyst",
+   "company": "Point72",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 90000,
+   "salary_max": 110000,
+   "salary_est": false,
+   "summary": "As a Data Sourcing and Strategy Operations analyst, you will collaborate with our team, colleagues across the firm, and external vendors to provide essential support required to source data and conduct research that may ultimately be used by our investment teams.",
+   "url": "https://boards.greenhouse.io/point72/jobs/8888064002?gh_jid=8888064002",
+   "posted": "2026-10-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Point72",
+   "tags": [
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 30,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f333defafc15",
+   "title": "Lead Data Strategist",
+   "company": "Point72",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 185000,
+   "salary_max": 225000,
+   "salary_est": false,
+   "summary": "Shape the firm’s data strategy by identifying differentiated data and research sources that can inform investment decision-making. Lead evaluations of new data ecosystems, translating market developments into actionable sourcing opportunities for research and investment teams.",
+   "url": "https://boards.greenhouse.io/point72/jobs/8885528002?gh_jid=8885528002",
+   "posted": "2026-10-13",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Point72",
+   "tags": [
+    "manager",
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 56,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "9619b522877a",
+   "title": "Senior Data Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "Waltham, MA",
+     "state": "MA",
+     "remote": false
+    },
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 119000,
+   "salary_max": 155000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5263613007",
+   "posted": "2026-10-12",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "data / bi",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 42,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f8b4094022c2",
+   "title": "Senior Data Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 119000,
+   "salary_max": 155000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5263559007",
+   "posted": "2026-10-12",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "data / bi",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 42,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "79732ae27a97",
+   "title": "Data Research Fellowship",
+   "company": "Point72",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "This 6-month intensive fellowship offers hands-on experience in data-driven research, business analysis, cross-functional collaboration, and the discretionary investment process within a fast-paced, compliance-focused environment.",
+   "url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002",
+   "posted": "2026-10-12",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Point72",
+   "tags": [
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 38,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "3036af4f3448",
+   "title": "Head of Software Product Management",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 160000,
+   "salary_max": 260000,
+   "salary_est": false,
+   "summary": "Do you want to change how the world creates? At Formlabs, we’re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices.",
+   "url": "https://careers.formlabs.com/job/8273112/apply/?gh_jid=8273112",
+   "posted": "2026-10-11",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "director+",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "ca4bd41b323c",
+   "title": "Embedded Software Engineering Manager",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 170000,
+   "salary_max": 260000,
+   "salary_est": false,
+   "summary": "Own delivery of embedded firmware for current and upcoming printers: hit program milestones, set the quality bar, and decide with program leads what ships now and what waits.",
+   "url": "https://careers.formlabs.com/job/8267674/apply/?gh_jid=8267674",
+   "posted": "2026-10-09",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "manager",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 54,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "b19c5de3af52",
+   "title": "Lead Embedded Software Engineer",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 170000,
+   "salary_max": 260000,
+   "salary_est": false,
+   "summary": "Own delivery of embedded firmware for current and upcoming printers: hit program milestones, set the quality bar, and decide with program leads what ships now and what waits.",
+   "url": "https://careers.formlabs.com/job/8267740/apply/?gh_jid=8267740",
+   "posted": "2026-10-09",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "manager",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 54,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "714ff64d5d95",
+   "title": "Head of Product - SLS",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 160000,
+   "salary_max": 280000,
+   "salary_est": false,
+   "summary": "We are looking for an exceptional hardware product leader to own and grow our SLS hardware business, and to be the architect of what comes next. Reporting directly to the CPO, you’ll step into an established business with a strong foundation and an exciting new chapter to shape.",
+   "url": "https://careers.formlabs.com/job/8267824/apply/?gh_jid=8267824",
+   "posted": "2026-10-09",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "director+",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "3697f253ace9",
+   "title": "Senior Software Engineer (Thomas)",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "Waltham, MA",
+     "state": "MA",
+     "remote": false
+    },
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 176250,
+   "salary_max": 182500,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5261839007",
+   "posted": "2026-10-08",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "ai",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 46,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f9c81985bf1f",
+   "title": "Senior Software Engineer (Thomas)",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 176250,
+   "salary_max": 182500,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Senior Software Engineer (Thomas)",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5261841007",
+   "posted": "2026-10-08",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "ai",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 46,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "61fb57a46dec",
+   "title": "Senior Data Engineer",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 125000,
+   "salary_max": 160000,
+   "salary_est": false,
+   "summary": "Department: Systems Location: Somerville, MA Join Formlabs if you want to bring ground-breaking professional 3D printers to the desktop of every designer, engineer, researcher, and artist in the world.",
+   "url": "https://careers.formlabs.com/job/8262990/apply/?gh_jid=8262990",
+   "posted": "2026-10-07",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "erp",
+    "data / bi",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 55,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "7c59e5240c83",
+   "title": "Research Data Expert",
+   "company": "Hudson River Trading",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Data is a cornerstone of HRT’s trading strategies, serving as the raw fuel that powers research, automated trading, and risk management.",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8259961",
+   "posted": "2026-10-07",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Hudson River Trading",
+   "tags": [
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 38,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "645f22f05b0b",
+   "title": "Data Engineer",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 80000,
+   "salary_max": 125000,
+   "salary_est": false,
+   "summary": "Department: Systems Location: Somerville, MA Join Formlabs if you want to bring ground-breaking professional 3D printers to the desktop of every designer, engineer, researcher, and artist in the world.",
+   "url": "https://careers.formlabs.com/job/8262437/apply/?gh_jid=8262437",
+   "posted": "2026-10-07",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "erp",
+    "data / bi",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 37,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "fb6a96fc45eb",
+   "title": "Global Stock Selection Researcher – Alternative Data",
+   "company": "AQR Capital Management",
+   "locations": [
+    {
+     "label": "Greenwich, CT",
+     "state": "CT",
+     "remote": false
+    }
+   ],
+   "salary_min": 225000,
+   "salary_max": 245000,
+   "salary_est": false,
+   "summary": "Candidates should be motivated and enthusiastic about implementing new ideas and are expected to be hands-on and self-sufficient in conducting all aspects of research projects.",
+   "url": "https://careers.aqr.com/jobs?gh_jid=8255819&gh_jid=8255819",
+   "posted": "2026-10-05",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:AQR Capital Management",
+   "tags": [
+    "ai",
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "05623eeb1204",
+   "title": "Business Operations Analyst - Data",
+   "company": "Hudson River Trading",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "This role supports the workflows that keep data access, vendor processes, exchange reporting, and billing running smoothly at scale. You will work across internal teams and external counterparties to keep processes accurate, timely, and well-controlled.",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8249229",
+   "posted": "2026-10-05",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Hudson River Trading",
+   "tags": [
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 38,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "3787e75ce964",
+   "title": "Various Software Engineering Roles",
+   "company": "Prophet Town LLC",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 140000,
+   "salary_max": 264000,
+   "salary_est": false,
+   "summary": "We are a people-first, boutique tech agency creating on-demand teams and software solutions for long-standing clients. These clients trust us to practice engineering excellence as though we were members of their own staff.",
+   "url": "https://news.ycombinator.com/item?id=49940381",
+   "posted": "2026-10-03",
+   "sources": [
+    "hn"
+   ],
+   "feed": "hn",
+   "tags": [
+    "erp",
+    "ai",
+    "remote",
+    "startup"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "7a2f9b925aac",
+   "title": "Staff/Principal Software Engineer (Full-Stack, AI, Backend, Platform)",
+   "company": "Seeq",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 170000,
+   "salary_max": 205000,
+   "salary_est": false,
+   "summary": "Our core product is a robust calculation engine capable of executing advanced math and machine learning algorithms on streaming time-series data. By leveraging generative AI, we enhance usability and accelerate outcomes for our users. We've built up a great remote culture (e.g.",
+   "url": "https://news.ycombinator.com/item?id=49929522",
+   "posted": "2026-10-02",
+   "sources": [
+    "hn"
+   ],
+   "feed": "hn",
+   "tags": [
+    "ai",
+    "manufacturing",
+    "startup"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "afc85abf5112",
+   "title": "Technical PM, ML Infra, Research Scientist/Engineer, Backend, Full Stack",
+   "company": "Prior Labs",
+   "locations": [
+    {
+     "label": "Freiburg, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We build foundation models for tabular data. Deep learning transformed text and images but mostly skipped tables, which are still the data behind most clinical trials, financial models and scientific experiments.",
+   "url": "https://news.ycombinator.com/item?id=49935497",
+   "posted": "2026-10-02",
+   "sources": [
+    "hn"
+   ],
+   "feed": "hn",
+   "tags": [
+    "sap",
+    "erp",
+    "ai",
+    "on-site",
+    "startup"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 48,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "bee5c80ccc7e",
+   "title": "Software Engineers, Senior Research Engineer",
+   "company": "CVector",
+   "locations": [
+    {
+     "label": "New York City (FiDi), NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We integrate real-time data visualization and analytics to help power generation stations, chemical plants, and other critical infrastructure make informed decisions in rapidly changing environments.",
+   "url": "https://news.ycombinator.com/item?id=49929264",
+   "posted": "2026-10-02",
+   "sources": [
+    "hn"
+   ],
+   "feed": "hn",
+   "tags": [
+    "ai",
+    "manufacturing",
+    "on-site",
+    "startup"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 36,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "7bee5695b59e",
+   "title": "Finance Systems Engineer",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 105000,
+   "salary_max": 140000,
+   "salary_est": false,
+   "summary": "Join Formlabs if you want to bring ground-breaking professional 3D printers to the desktop of every designer, engineer, researcher, and artist in the world. The Finance Systems team owns the enterprise systems used to record, process, and report financial data across Formlabs.",
+   "url": "https://careers.formlabs.com/job/8239336/apply/?gh_jid=8239336",
+   "posted": "2026-10-01",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "erp",
+    "data / bi",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 48,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "980f6d4eaad8",
+   "title": "Robotic Systems Integration Manager",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 170000,
+   "salary_max": 260000,
+   "salary_est": false,
+   "summary": "Lead the System Integration team by example; take a hands-on approach to technology development by balancing customer value, cost, and engineering effort to consistently deploy optimal solutions.",
+   "url": "https://careers.formlabs.com/job/8237585/apply/?gh_jid=8237585",
+   "posted": "2026-09-29",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "manager",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 54,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "6df67291a753",
+   "title": "Head Of Treasury Technology",
+   "company": "Point72",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 300000,
+   "salary_max": 400000,
+   "salary_est": false,
+   "summary": "In this role, you will be responsible for supporting Point72’s Treasury function with best-in-class technology solutions.",
+   "url": "https://boards.greenhouse.io/point72/jobs/8621332002?gh_jid=8621332002",
+   "posted": "2026-09-29",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Point72",
+   "tags": [
+    "director+",
+    "ai",
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "0a4d196526f4",
+   "title": "Robotic Systems Integration Engineer (SLA & SLS)",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    },
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 90000,
+   "salary_max": 163000,
+   "salary_est": false,
+   "summary": "Do you want to change how the world creates? At Formlabs, we’re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices.",
+   "url": "https://careers.formlabs.com/job/8241436/apply/?gh_jid=8241436",
+   "posted": "2026-09-29",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 46,
+   "feeds": [
+    "greenhouse:Formlabs"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "b5c13aacc40a",
+   "title": "Senior Robotic Systems Integration Engineer (SLA & SLS)",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 130000,
+   "salary_max": 225000,
+   "salary_est": false,
+   "summary": "To reinvent an industry, you have to build the best team. Join Formlabs if you want to bring groundbreaking professional 3D printers to the desktop of every designer, engineer, researcher, and artist in the world.",
+   "url": "https://careers.formlabs.com/job/8241439/apply/?gh_jid=8241439",
+   "posted": "2026-09-29",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 44,
+   "feeds": [
+    "greenhouse:Formlabs"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "b19d3cc69739",
+   "title": "Legal and Compliance Infrastructure Data, Associate/Vice President",
+   "company": "AQR Capital Management",
+   "locations": [
+    {
+     "label": "Greenwich, CT",
+     "state": "CT",
+     "remote": false
+    }
+   ],
+   "salary_min": 125000,
+   "salary_max": 150000,
+   "salary_est": false,
+   "summary": "Perform analysis and use data science to build pipelines that feed into compliance monitoring and reporting processes. Create functional requirements, specifications, and designs for analytics-driven solutions supporting compliance and regulatory operations.",
+   "url": "https://careers.aqr.com/jobs?gh_jid=8220134&gh_jid=8220134",
+   "posted": "2026-09-29",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:AQR Capital Management",
+   "tags": [
+    "director+",
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 41,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "2658fb70d08c",
+   "title": "Robotic Systems Integration Engineer (SLA & SLS) - June 2027 Grads",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 90000,
+   "salary_max": 130000,
+   "salary_est": false,
+   "summary": "Do you want to change how the world creates? At Formlabs, we’re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices.",
+   "url": "https://careers.formlabs.com/job/8241424/apply/?gh_jid=8241424",
+   "posted": "2026-09-29",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 28,
+   "feeds": [
+    "greenhouse:Formlabs"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f1627edff682",
+   "title": "Sr. Software Engineer, Testing",
+   "company": "Bridgewater Associates",
+   "locations": [
+    {
+     "label": "Westport, CT",
+     "state": "CT",
+     "remote": false
+    }
+   ],
+   "salary_min": 350000,
+   "salary_max": 500000,
+   "salary_est": false,
+   "summary": "We are hiring for this role into both the Portfolio and Trading teams. SWE, Testing will design and build advanced test automation platforms that support high-performance, mission-critical systems.",
+   "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8838725002",
+   "posted": "2026-09-28",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Bridgewater Associates",
+   "tags": [
+    "manufacturing",
+    "on-site",
+    "quant"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 58,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "512dd8086192",
+   "title": "2027 PhD Summer Associate, Machine Learning Research",
+   "company": "AQR Capital Management",
+   "locations": [
+    {
+     "label": "Greenwich, CT",
+     "state": "CT",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Candidates should be motivated and enthusiastic about implementing new ideas and are expected to be hands-on and self-sufficient in conducting all aspects of research projects.",
+   "url": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708",
+   "posted": "2026-09-22",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:AQR Capital Management",
+   "tags": [
+    "ai",
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 38,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "232316196933",
+   "title": "Workday Systems Lead Architect",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "Waltham, MA",
+     "state": "MA",
+     "remote": false
+    },
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    }
+   ],
+   "salary_min": 140000,
+   "salary_max": 160000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5242027007",
+   "posted": "2026-09-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "erp",
+    "post-go-live",
+    "architect",
+    "manager",
+    "data / bi",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 77,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "6bab54fb3baf",
+   "title": "Workday Systems Lead Architect",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    }
+   ],
+   "salary_min": 140000,
+   "salary_max": 160000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5242015007",
+   "posted": "2026-09-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "erp",
+    "post-go-live",
+    "architect",
+    "manager",
+    "data / bi",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 77,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "3a34ee036fef",
+   "title": "Enterprise Architect - Internal Business Systems",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 140000,
+   "salary_max": 200000,
+   "salary_est": false,
+   "summary": "Join Formlabs if you want to bring ground-breaking professional 3D printers to the desktop of every designer, engineer, researcher, and artist in the world.",
+   "url": "https://careers.formlabs.com/job/8214510/apply/?gh_jid=8214510",
+   "posted": "2026-09-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "erp",
+    "architect",
+    "ai",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 64,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "b1b871710622",
+   "title": "Senior Solutions Engineer, Injection Molding",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "Waltham, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 101000,
+   "salary_max": 150000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5242406007",
+   "posted": "2026-09-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "fde / solutions",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": 20,
+   "score": 47,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "e58ff88fd87c",
+   "title": "Senior Solutions Engineer, Injection Molding",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    }
+   ],
+   "salary_min": 101000,
+   "salary_max": 150000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5242388007",
+   "posted": "2026-09-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "fde / solutions",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": 20,
+   "score": 47,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "e27e46278c1c",
+   "title": "Staff Data Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 180000,
+   "salary_max": 200000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is looking for a Staff Data Engineer to join our Data Platform team.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240996007",
+   "posted": "2026-09-17",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "erp",
+    "data / bi",
+    "ai",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 59,
+   "feeds": [
+    "greenhouse:Xometry"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "a0b6e34e1757",
+   "title": "Manager, Data Analytics, Pricing & Yield Management",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 135000,
+   "salary_max": 160000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5241069007",
+   "posted": "2026-09-17",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "manager",
+    "data / bi",
+    "ai",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 53,
+   "feeds": [
+    "greenhouse:Xometry"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "443c074fc822",
+   "title": "Principal Software Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 200000,
+   "salary_max": 225000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240950007",
+   "posted": "2026-09-17",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 50,
+   "feeds": [
+    "greenhouse:Xometry"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "a5f2428a9d50",
+   "title": "Senior Data Scientist, Product Analytics",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 140000,
+   "salary_max": 160000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240971007",
+   "posted": "2026-09-17",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "ai",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 46,
+   "feeds": [
+    "greenhouse:Xometry"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "234fde557e55",
+   "title": "Global Head of Customer Experience",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 135000,
+   "salary_max": 220000,
+   "salary_est": false,
+   "summary": "Do you want to change how the world creates? At Formlabs, we're building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices.",
+   "url": "https://careers.formlabs.com/job/8204675/apply/?gh_jid=8204675",
+   "posted": "2026-09-15",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "director+",
+    "manufacturing",
+    "startup",
+    "growth stage"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f67d6413112c",
+   "title": "Head of AI and Support Strategy",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 135000,
+   "salary_max": 220000,
+   "salary_est": false,
+   "summary": "Do you want to change how the world creates? At Formlabs, we're building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices.",
+   "url": "https://careers.formlabs.com/job/8204664/apply/?gh_jid=8204664",
+   "posted": "2026-09-15",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "director+",
+    "manufacturing",
+    "startup",
+    "growth stage"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "44780b8ff7bc",
+   "title": "Head of Supply Planning",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 135000,
+   "salary_max": 200000,
+   "salary_est": false,
+   "summary": "Lead the development and execution of scalable supply and demand planning strategies to drive operational excellence, align with growth objectives, and support new product launches across all product categories.",
+   "url": "https://careers.formlabs.com/job/8202157/apply/?gh_jid=8202157",
+   "posted": "2026-09-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "sap",
+    "erp",
+    "director+",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 68,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "4557bf8df15d",
+   "title": "Global Stock Selection - Implementation Researcher",
+   "company": "AQR Capital Management",
+   "locations": [
+    {
+     "label": "Greenwich, CT",
+     "state": "CT",
+     "remote": false
+    }
+   ],
+   "salary_min": 270000,
+   "salary_max": 290000,
+   "salary_est": false,
+   "summary": "Candidates should be motivated and enthusiastic about implementing new ideas and are expected to be hands-on and self-sufficient in conducting all aspects of research projects.",
+   "url": "https://careers.aqr.com/jobs?gh_jid=8094484&gh_jid=8094484",
+   "posted": "2026-09-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:AQR Capital Management",
+   "tags": [
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "8c9d8dd152cb",
+   "title": "Associate Solutions Engineer, Aerospace & Defense",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "Waltham, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 71250,
+   "salary_max": 73500,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is seeking an early-career engineer for a critical role.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5236805007",
+   "posted": "2026-09-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "erp",
+    "fde / solutions",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 42,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "d2e8e3c2d30f",
+   "title": "Associate Solutions Engineer, Aerospace & Defense",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    }
+   ],
+   "salary_min": 71250,
+   "salary_max": 73500,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is seeking an early-career engineer for a critical role.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5236799007",
+   "posted": "2026-09-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "erp",
+    "fde / solutions",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 42,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "9b77512d4318",
+   "title": "Staff Software Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 160000,
+   "salary_max": 180000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is looking for a Staff Software Engineer to join our Core Platform team.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240985007",
+   "posted": "2026-09-10",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "edi / integration",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage",
+    "ai"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 51,
+   "feeds": [
+    "greenhouse:Xometry"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "03301e4f3432",
+   "title": "Staff Software Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "Waltham, MA",
+     "state": "MA",
+     "remote": false
+    },
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 170000,
+   "salary_max": 195000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Staff Software Engineer (Thomas)",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5261835007",
+   "posted": "2026-09-10",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "ai",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage",
+    "edi / integration"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 51,
+   "feeds": [
+    "greenhouse:Xometry"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "e3ea817d127c",
+   "title": "Founding Marketer, Form Now",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Billerica, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 70000,
+   "salary_max": 145000,
+   "salary_est": false,
+   "summary": "Use analytics to identify where Form Now should grow next: which customer segments, which channels, and which campaigns are actually working Own campaign effectiveness end to end: set up email and LinkedIn campaigns, run them, and measure what drove results",
+   "url": "https://careers.formlabs.com/job/8188886/apply/?gh_jid=8188886",
+   "posted": "2026-09-09",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 39,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  }
+ ]
+}
