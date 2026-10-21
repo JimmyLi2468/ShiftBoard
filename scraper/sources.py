@@ -155,7 +155,8 @@ def smartrecruiters(http, c: dict) -> Iterator[dict]:
             locs = [", ".join(x for x in (loc.get("city"), loc.get("region")) if x)]
             if loc.get("remote"):
                 locs.append("Remote" if (loc.get("country") or "us").lower() == "us" else f"Remote ({loc.get('country')})")
-            yield raw("smartrecruiters", j.get("id"), c["name"], j.get("name", ""), locs,
+            name = ((j.get("company") or {}).get("name") if c.get("api_name") else None) or c["name"]
+            yield raw("smartrecruiters", j.get("id"), name, j.get("name", ""), locs,
                       f"https://jobs.smartrecruiters.com/{c['slug']}/{j.get('id')}", j.get("releasedDate"),
                       employment_type=(j.get("typeOfEmployment") or {}).get("label"),
                       detail={"kind": "smartrecruiters", "url": j.get("ref")}, company_cfg=c)
@@ -214,6 +215,7 @@ def enrich(http, r: dict) -> None:
         r["url"] = info.get("externalUrl") or r["url"]
         r["posted"] = to_date(info.get("startDate")) or r["posted"]
         r["workplace"] = info.get("remoteType") or r.get("workplace")
+        r["org_name"] = (data.get("hiringOrganization") or {}).get("name")
     elif d["kind"] == "smartrecruiters":
         sections = ((data.get("jobAd") or {}).get("sections") or {})
         r["text"] = "\n".join(clean_html((sections.get(k) or {}).get("text", ""))

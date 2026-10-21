@@ -1,0 +1,12 @@
+[
+ {
+  "id": "CC-MAIN-2026-40",
+  "name": "October 2026 Index",
+  "cdx-api": "https://index.commoncrawl.org/CC-MAIN-2026-40-index"
+ },
+ {
+  "id": "CC-MAIN-2026-33",
+  "name": "August 2026 Index",
+  "cdx-api": "https://index.commoncrawl.org/CC-MAIN-2026-33-index"
+ }
+]

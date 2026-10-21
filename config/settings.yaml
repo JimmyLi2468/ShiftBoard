@@ -8,7 +8,7 @@ regions:
 full_time_only: true
 max_age_days: 45        # ignore postings older than this
 retention_days: 30      # keep a closed posting this long after it disappears
-detail_budget: 150      # max full-posting fetches per run (Workday, SmartRecruiters)
+detail_budget: 300      # max full-posting fetches per run (Workday, SmartRecruiters)
 
 # Titles must match one of these to be kept, and must not match an exclude.
 relevance:
@@ -60,10 +60,29 @@ relevance:
     - help ?desk
     - desktop support
 
-# Adzuna: broad discovery across employers. Free key at https://developer.adzuna.com
-# Pairs of (query, state) rotate across days to stay inside the free tier.
-adzuna:
+# Board index: our own aggregator. Every month it collects the job boards of thousands of
+# employers from Common Crawl's free URL index (Greenhouse, Lever, Ashby, SmartRecruiters,
+# Workday), then checks a slice of them each day. No account or key needed.
+board_index:
   enabled: true
+  providers: [greenhouse, lever, ashby, smartrecruiters, workday]
+  harvest_pages_per_run: 60    # Common Crawl index pages read per run until a pass is complete
+  max_pages_per_query: 400     # very large indexes (Workday) are sampled evenly beyond this
+  reharvest_days: 30           # start a fresh pass from the newest crawl this often
+  boards_per_run: 4000         # boards checked per day
+  recheck_days: 5              # boards with no recent matches are re-checked this often
+  hot_days: 45                 # boards with a match in this window are checked every day
+  workers: 3                   # parallel requests; keep it low to stay polite
+  workday_search: [SAP, ERP]   # search terms run on each Workday board
+  # Workday boards are kept only if their job URLs have ever shown a relevant title AND a
+  # location in your states (URLs look like /job/Allentown-PA/SAP-Analyst_R123).
+  workday_relevant: 'SAP|ERP|S-?4|HANA|Business-Systems|Enterprise-Applications|Solution-Architect|Quant'
+
+# Adzuna (optional): a commercial aggregator with a free API key. Off by default; to use it,
+# register at https://developer.adzuna.com, add ADZUNA_APP_ID and ADZUNA_APP_KEY secrets,
+# and set enabled: true. Pairs of (query, state) rotate across days to stay inside the free tier.
+adzuna:
+  enabled: false
   country: us
   max_calls: 25        # per run
   pages: 2

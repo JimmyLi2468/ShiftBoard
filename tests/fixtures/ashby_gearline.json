@@ -1,0 +1,29 @@
+{
+ "jobs": [
+  {
+   "id": "g-1",
+   "title": "Founding Solutions Engineer",
+   "employmentType": "FullTime",
+   "location": "Boston, MA",
+   "secondaryLocations": [],
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "Hybrid",
+   "publishedAt": "2026-10-18T15:00:00.000+00:00",
+   "jobUrl": "https://jobs.ashbyhq.com/gearline/g-1",
+   "descriptionPlain": "Gearline Robotics builds palletizing cells for food and beverage plants. Series A. Scope customer cells, integrate with their WMS and ERP, and run the first weeks on site after go-live.",
+   "compensation": {
+    "compensationTierSummary": "$150K – $180K",
+    "summaryComponents": [
+     {
+      "compensationType": "Salary",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": 150000,
+      "maxValue": 180000
+     }
+    ]
+   }
+  }
+ ]
+}

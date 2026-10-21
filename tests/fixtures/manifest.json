@@ -97,5 +97,139 @@
    "news.google.com/rss/search"
   ],
   "file": "news.xml"
+ },
+ {
+  "match": [
+   "index.commoncrawl.org/collinfo.json"
+  ],
+  "file": "cc_collinfo.json"
+ },
+ {
+  "match": [
+   "CC-MAIN-2026-40-index",
+   "showNumPages=true"
+  ],
+  "file": "cc_pages.json"
+ },
+ {
+  "match": [
+   "CC-MAIN-2026-40-index",
+   "url=boards.greenhouse.io",
+   "page=0"
+  ],
+  "file": "cc_greenhouse.ndjson"
+ },
+ {
+  "match": [
+   "CC-MAIN-2026-40-index",
+   "url=job-boards.greenhouse.io",
+   "page=0"
+  ],
+  "file": "cc_greenhouse2.ndjson"
+ },
+ {
+  "match": [
+   "CC-MAIN-2026-40-index",
+   "url=jobs.lever.co",
+   "page=0"
+  ],
+  "file": "cc_lever.ndjson"
+ },
+ {
+  "match": [
+   "CC-MAIN-2026-40-index",
+   "url=jobs.ashbyhq.com",
+   "page=0"
+  ],
+  "file": "cc_ashby.ndjson"
+ },
+ {
+  "match": [
+   "CC-MAIN-2026-40-index",
+   "url=jobs.smartrecruiters.com",
+   "page=0"
+  ],
+  "file": "cc_smartrecruiters.ndjson"
+ },
+ {
+  "match": [
+   "CC-MAIN-2026-40-index",
+   "myworkdayjobs.com",
+   "page=0"
+  ],
+  "file": "cc_workday.ndjson"
+ },
+ {
+  "match": [
+   "boards-api.greenhouse.io/v1/boards/brassworks/jobs"
+  ],
+  "file": "gh_brassworks.json"
+ },
+ {
+  "match": [
+   "boards-api.greenhouse.io/v1/boards/brassworks"
+  ],
+  "file": "gh_brassworks_meta.json"
+ },
+ {
+  "match": [
+   "boards-api.greenhouse.io/v1/boards/quillfield/jobs"
+  ],
+  "file": "gh_quillfield.json"
+ },
+ {
+  "match": [
+   "boards-api.greenhouse.io/v1/boards/quillfield"
+  ],
+  "file": "gh_quillfield_meta.json"
+ },
+ {
+  "match": [
+   "api.lever.co/v0/postings/marlowbay"
+  ],
+  "file": "lever_marlowbay.json"
+ },
+ {
+  "match": [
+   "https://jobs.lever.co/marlowbay"
+  ],
+  "file": "lever_marlowbay_page.html"
+ },
+ {
+  "match": [
+   "api.ashbyhq.com/posting-api/job-board/gearline"
+  ],
+  "file": "ashby_gearline.json"
+ },
+ {
+  "match": [
+   "https://jobs.ashbyhq.com/gearline"
+  ],
+  "file": "ashby_gearline_page.html"
+ },
+ {
+  "match": [
+   "smartrecruiters.com/v1/companies/TidewaterRow/postings/744000001"
+  ],
+  "file": "sr_tidewater_1.json"
+ },
+ {
+  "match": [
+   "smartrecruiters.com/v1/companies/TidewaterRow/postings?"
+  ],
+  "file": "sr_tidewater.json"
+ },
+ {
+  "match": [
+   "/wday/cxs/northfield/Careers/jobs"
+  ],
+  "file": "wd_northfield_list.json"
+ },
+ {
+  "match": [
+   "/wday/cxs/northfield/Careers/job/",
+   "R55"
+  ],
+  "file": "wd_northfield_R55.json"
  }
 ]

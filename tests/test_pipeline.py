@@ -4,7 +4,9 @@ import shutil
 from pathlib import Path
 
 import pytest
+import yaml
 
+from scraper import board_index as bix
 from scraper import run
 from scraper.client import scrub
 from scraper.normalize import is_full_time, parse_location, parse_salary, summarize
@@ -15,7 +17,12 @@ ROOT = Path(__file__).parent.parent
 
 @pytest.fixture()
 def out(tmp_path):
-    args = ["--offline", str(FIX), "--companies", str(FIX / "companies.yaml"), "--config", str(ROOT / "config"),
+    # The real settings, with the optional Adzuna source switched on so its parser is tested too.
+    cfg = yaml.safe_load((ROOT / "config" / "settings.yaml").read_text())
+    cfg["adzuna"]["enabled"] = True
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config" / "settings.yaml").write_text(yaml.safe_dump(cfg))
+    args = ["--offline", str(FIX), "--companies", str(FIX / "companies.yaml"), "--config", str(tmp_path / "config"),
             "--out", str(tmp_path / "web"), "--state", str(tmp_path / "state"), "--today", "2026-10-20"]
     assert run.main(args) == 0
     load = lambda name: json.loads((tmp_path / "web" / name).read_text())
@@ -108,3 +115,35 @@ def test_helpers():
     assert is_full_time("Full-time", "SAP Analyst (Contract)") is False
     assert "first person" in summarize("Acme is a company that makes widgets for people. You will be the first person to own it.", company="Acme")
     assert scrub("https://api.adzuna.com/x?app_id=123&app_key=secret") == "https://api.adzuna.com/x?app_id=***&app_key=***"
+
+
+def test_board_index_finds_new_employers(out):
+    idx = json.loads((out["tmp"] / "state" / "index" / "board_index.json").read_text())
+    boards = idx["boards"]
+    assert "greenhouse:brassworks" in boards and "greenhouse:robots" not in boards and "greenhouse:embed" not in boards
+    assert "workday:northfield.wd1.myworkdayjobs.com/careers" in boards     # relevant titles + region in its URLs
+    assert not any(k.startswith("workday:sunnyretail") for k in boards)        # SAP titles, but only in Texas
+    assert boards["lever:oldmill"]["fails"] == 1                               # board is gone
+    assert "last_checked" not in boards["greenhouse:lathewise"]                # already on the watchlist
+    jobs = out["jobs"]
+    assert by_title(jobs, "SAP Supply Chain Lead")["company"] == "Brassworks Valve Co."      # name from Greenhouse
+    assert by_title(jobs, "S/4HANA Migration Lead")["company"] == "Northfield Bottling Co."  # name from Workday
+    assert by_title(jobs, "Founding Solutions Engineer")["company"] == "Gearline Robotics"   # name from page title
+    assert by_title(jobs, "ERP Manager")["sources"] == ["adzuna", "lever"]                   # same job, two sources
+    assert idx["harvest"]["finished"] == "2026-10-20"
+
+
+def test_board_index_scheduling():
+    today = __import__("datetime").date(2026, 10, 20)
+    index = {"boards": {
+        "a": {"last_hit": "2026-10-01", "last_checked": "2026-10-19"},   # hot: every day
+        "b": {"last_checked": "2026-10-18"},                              # cold, checked 2 days ago: not due
+        "c": {"last_checked": "2026-10-10"},                              # cold, due
+        "d": {},                                                          # never checked: first
+        "e": {"fails": 3},                                                # dead
+    }}
+    picked = [k for k, _ in bix.pick_boards(index, today, {"recheck_days": 5, "boards_per_run": 3}, skip=set())]
+    assert picked == ["a", "d", "c"]
+    assert bix.page_plan(10, 4) == [0, 2, 5, 8]
+    assert bix.clean_title("Jobs at Gearline Robotics") == "Gearline Robotics"
+    assert bix.clean_title("Acme Corp - Careers") == "Acme Corp"

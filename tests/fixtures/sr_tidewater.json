@@ -1,0 +1,24 @@
+{
+ "totalFound": 1,
+ "content": [
+  {
+   "id": "744000001",
+   "name": "Business Systems Manager",
+   "releasedDate": "2026-10-15T12:00:00.000Z",
+   "company": {
+    "identifier": "TidewaterRow",
+    "name": "Tidewater Row Brewing"
+   },
+   "location": {
+    "city": "Baltimore",
+    "region": "MD",
+    "country": "us",
+    "remote": false
+   },
+   "typeOfEmployment": {
+    "label": "Full-time"
+   },
+   "ref": "https://api.smartrecruiters.com/v1/companies/TidewaterRow/postings/744000001"
+  }
+ ]
+}

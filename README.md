@@ -7,27 +7,34 @@ A daily job board for one person's search: SAP/ERP roles at new and migrating pl
 | Path | What it does |
 |---|---|
 | `scraper/` | Python pipeline: fetch → keep full-time, in-region, relevant titles → tag → score → dedupe → merge with yesterday |
+| `scraper/board_index.py` | Our own aggregator: finds thousands of employers' job boards in Common Crawl and checks a slice each day |
 | `config/settings.yaml` | Regions, title filters, Adzuna queries, news searches, scoring weights |
 | `config/companies.yaml` | Company watchlist (their own job boards) |
 | `web/index.html` | The app. Reads `web/data/*.json`; shows sample data if those don't exist yet |
 | `.github/workflows/daily.yml` | Runs the pipeline at 11:15 UTC, commits the data, deploys Pages |
 | `tests/` | Fixture-based tests for every source (fictional companies) |
 
-Sources: Adzuna's API (broad discovery, free key), each watchlist company's public Greenhouse / Lever / Ashby / SmartRecruiters / Workday board, the monthly HN "Who is hiring?" thread (manufacturing-related posts only), and Google News RSS for the Signals tab. Nothing logs in anywhere and nothing touches LinkedIn or Indeed.
+Sources, none of which need an account or key:
+
+- **Board index.** Common Crawl publishes a free index of every URL in its monthly web crawl. Every employer that hosts jobs on Greenhouse, Lever, Ashby, SmartRecruiters or Workday shows up there, so the scraper collects those job boards (thousands of them) and checks a slice each day through the boards' public APIs. Boards with recent matches are checked daily; the rest every 5 days.
+- **Watchlist.** Companies you name in `config/companies.yaml`, checked every day.
+- **HN "Who is hiring?"**, manufacturing-related posts only.
+- **Google News RSS** for the Signals tab.
+
+Adzuna is supported but off by default (see below). Nothing logs in anywhere and nothing touches LinkedIn or Indeed.
 
 ## Setup (about 15 minutes)
 
 1. **Make a GitHub repo** and push this folder to it. GitHub Pages is free for public repos; a private repo needs a paid plan for Pages (or run locally, below). The repo only holds job postings and config. Your tracker and notes never leave your browser.
-2. **Get an Adzuna key** at https://developer.adzuna.com (free). In the repo: Settings → Secrets and variables → Actions → add `ADZUNA_APP_ID` and `ADZUNA_APP_KEY`. Without them, everything else still runs.
-3. **Turn on Pages**: Settings → Pages → Source: **GitHub Actions**.
-4. **Run it once**: Actions → Daily job scan → Run workflow. When it finishes, the page URL is on the run summary.
-5. **Check Settings → Sources in the app.** Any company marked "needs setup" didn't reveal its job board; fix it in `companies.yaml` (below).
+2. **Turn on Pages**: Settings → Pages → Source: **GitHub Actions**.
+3. **Run it once**: Actions → Daily job scan → Run workflow. When it finishes, the page URL is on the run summary.
+4. **Give the index a few days.** The first Common Crawl harvest reads 60 index pages per run, so the list of boards fills in over the first few days and job counts climb with it. Settings → Sources in the app shows its progress.
+5. **Check the watchlist rows in Settings → Sources.** Any company marked "needs setup" didn't reveal its job board; fix it in `companies.yaml` (below).
 
 ## Running locally
 
 ```bash
 pip install -r requirements.txt
-export ADZUNA_APP_ID=... ADZUNA_APP_KEY=...   # optional
 python -m scraper.run
 python -m http.server -d web 8000             # open http://localhost:8000
 ```
@@ -54,6 +61,22 @@ If discovery fails (some careers sites load the board with JavaScript), open a j
 ```
 
 The starter list hasn't been checked against the live sites, so expect a few to need this.
+
+## The board index
+
+`board_index` in `settings.yaml` controls it. What happens each run:
+
+1. **Harvest** (until a pass is complete, then again every 30 days): read the next 60 pages of Common Crawl's URL index for `boards.greenhouse.io`, `job-boards.greenhouse.io`, `jobs.lever.co`, `jobs.ashbyhq.com`, `jobs.smartrecruiters.com` and `*.myworkdayjobs.com`, and add any new boards. Workday boards are kept only if their job URLs have shown a relevant title and a location in your states, because Workday hosts most large employers of every kind.
+2. **Check** up to 4,000 boards, 3 requests at a time: every board with a match in the last 45 days, then the boards checked longest ago. A board that fails 3 times in a row is dropped.
+3. **Name** each board the first time it has a match (Greenhouse's API, the board page's title, or Workday's posting data).
+
+The index lives in the GitHub Actions cache, not in the repo. If the cache is ever evicted, the next runs simply rebuild it.
+
+What it can't see: employers whose careers sites run on SAP SuccessFactors, iCIMS, Taleo, UKG, ADP and similar systems, because those don't show up as tidy board URLs. Many SAP-heavy manufacturers recruit through SuccessFactors, so that's the biggest gap. It can be closed later with a reader for SuccessFactors career sites, or by turning on Adzuna, which does see them.
+
+## Adzuna (optional)
+
+Adzuna is a commercial job aggregator with a free API key. It sees postings on career systems the board index can't. To use it, register at https://developer.adzuna.com, add `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` as repository secrets, and set `adzuna.enabled: true` in `settings.yaml`. Its free tier has a monthly call limit; the default config rotates (query, state) pairs over three days and caps each run at 25 calls.
 
 ## Tags
 
@@ -82,10 +105,12 @@ The plant list lives in the app (Settings → Plant projects, or "Track as a pla
 
 ## Limits worth knowing
 
-- Adzuna's free tier has a monthly call limit. The default config rotates (query, state) pairs over three days and caps each run at 25 calls. Check your limit on the Adzuna dashboard and change `max_calls` or `rotate_days` to fit.
-- Adzuna estimates pay when a posting doesn't list it. Those show as "est." and can be hidden with a filter.
+- Common Crawl's index server is a free shared service and is sometimes slow or busy. The harvest retries and, if it still can't get through, pauses until the next run; checking the boards already in the index carries on regardless.
+- Each daily check is one request per board (plus a few for Workday postings), similar to a person opening the career page. Keep `workers` low.
+- If Adzuna is on, it estimates pay when a posting doesn't list it. Those show as "est." and can be hidden with a filter.
 - Pay-transparency laws mean most NY, NJ, MA and MD postings include a range; CT and PA ones often don't, so keep "Include jobs with no posted pay" on unless you want to drop them.
 - A posting from a company board is marked closed the first day it's missing from a board that loaded fine. Adzuna and HN postings get two weeks, since their queries rotate.
+- The job list starts small and grows over the first week as the index fills in.
 - Tracker data is per browser. Use Settings → Export backup to move it.
 
 ## Tests

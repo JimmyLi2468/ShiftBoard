@@ -1,0 +1,24 @@
+[
+ {
+  "id": "mb-1",
+  "text": "ERP Manager",
+  "hostedUrl": "https://jobs.lever.co/marlowbay/mb-1",
+  "createdAt": 1792414800000,
+  "categories": {
+   "commitment": "Full-time",
+   "location": "Edison, NJ",
+   "allLocations": [
+    "Edison, NJ"
+   ]
+  },
+  "salaryRange": {
+   "min": 135000,
+   "max": 155000,
+   "currency": "USD",
+   "interval": "per-year-salary"
+  },
+  "workplaceType": "onsite",
+  "descriptionPlain": "Marlow Bay Packaging is opening a new plant in Edison next spring. Lead our Dynamics 365 rollout to the new site and manage a team of three analysts.",
+  "lists": []
+ }
+]

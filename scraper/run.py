@@ -12,10 +12,13 @@ from pathlib import Path
 
 import yaml
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+from . import board_index as bix
 from . import sources
 from .client import FixtureHttp, Http, scrub
 from .news import google_news
-from .normalize import in_region, is_full_time, parse_locations, parse_salary, summarize
+from .normalize import CITY_HINTS, STATES, in_region, is_full_time, parse_locations, parse_salary, summarize
 from .tagger import score_job, tag_job
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -59,7 +62,9 @@ class Run:
         rel = cfg.get("relevance", {})
         self.title_include = re.compile("|".join(rel.get("title_include", [".*"])), re.I)
         self.title_exclude = re.compile("|".join(rel.get("title_exclude", ["$^"])), re.I)
-        self.detail_budget = int(cfg.get("detail_budget", 150))
+        self.detail_budget = int(cfg.get("detail_budget", 300))
+        self.watch_keys: set[str] = set()
+        self.index: dict | None = None
         self.health: list[dict] = []
         self.ok_feeds: set[str] = set()
 
@@ -67,6 +72,18 @@ class Run:
         self.health.append({"name": name, "kind": kind, "status": status, "jobs": jobs, "note": scrub(note)[:300]})
 
     # ------------------------------------------------------------ processing
+
+    def quick_ok(self, r: dict) -> bool:
+        """Cheap title + region check, before any extra requests."""
+        title = r["title"]
+        if not title or self.title_exclude.search(title) or not self.title_include.search(title):
+            return False
+        locs = parse_locations(r["locations"])
+        if not any(l.get("state") or l.get("remote") for l in locs):
+            return bool(r.get("detail"))  # e.g. Workday "2 Locations": decide after the detail call
+        if self.remote_ok and _REMOTE_TITLE.search(title):
+            return True
+        return in_region(locs, self.state_set, self.remote_ok, self.exclude_cities)
 
     def process(self, r: dict) -> dict | None:
         title = r["title"]
@@ -142,11 +159,84 @@ class Run:
         for c in companies:
             self._company(c, discovered, out)
 
+        if self.cfg.get("board_index", {}).get("enabled") and self.index is not None:
+            self.scan_index(self.index, out)
+
         h = self.cfg.get("hn", {})
         if h.get("enabled"):
             if self._drain("HN Who’s Hiring", "aggregator", "hn", sources.hn_whoishiring(self.http, h), out) is not None:
                 self.ok_feeds.add("hn")
         return out
+
+    def scan_index(self, index: dict, out: list) -> None:
+        """Harvest a little more of the Common Crawl board list, then check today's slice of boards."""
+        cfg = self.cfg.get("board_index", {})
+        rel = re.compile(cfg.get("workday_relevant", r"SAP|ERP|S-?4|HANA|Business-Systems|Solution-Architect|Quant"), re.I)
+        try:
+            progress = bix.harvest_step(self.http, index, cfg, self.today, rel, self.region_rx())
+        except Exception as e:
+            progress = f"harvest paused: {scrub(e)[:160]}"
+        picked = bix.pick_boards(index, self.today, cfg, self.watch_keys)
+        fetched, errors = [], 0
+        with ThreadPoolExecutor(max_workers=max(1, int(cfg.get("workers", 3)))) as pool:
+            futures = {pool.submit(self._fetch_board, b): (key, b) for key, b in picked}
+            for fut in as_completed(futures):
+                key, b = futures[fut]
+                b["last_checked"] = self.today.isoformat()
+                try:
+                    fetched.append((key, b, fut.result()))
+                    b["fails"] = 0
+                except Exception:
+                    b["fails"] = b.get("fails", 0) + 1
+                    errors += 1
+        jobs = hits = 0
+        for key, b, raws in sorted(fetched, key=lambda t: t[0]):
+            feed = f"index:{key}"
+            self.ok_feeds.add(feed)
+            cands = [r for r in raws if self.quick_ok(r)]
+            if not cands:
+                continue
+            if b["ats"] == "workday" and not b.get("name"):
+                for r in cands[:1]:
+                    if r.get("detail") and self.detail_budget > 0:
+                        self._enrich(r)
+            if not b.get("name"):
+                b["name"] = bix.board_name(self.http, b, cands)
+            n = 0
+            for r in cands:
+                r["company"], r["feed"] = b["name"], feed
+                job = self.process(r)
+                if job:
+                    out.append(job)
+                    n += 1
+            if n:
+                b["last_hit"] = self.today.isoformat()
+                jobs += n
+                hits += 1
+        total = len(index.get("boards", {}))
+        self.note("Board index (Common Crawl)", "index", "ok" if picked or total else "needs setup", jobs,
+                  f"{len(picked):,} of {total:,} boards checked today, {hits} with matching jobs, "
+                  f"{errors} unreachable. {progress}.")
+
+    def _fetch_board(self, b: dict) -> list[dict]:
+        c = {"name": b.get("name") or bix.prettify(b.get("slug") or b.get("workday", {}).get("tenant", "")),
+             "ats": b["ats"], "slug": b.get("slug"), "workday": b.get("workday"), "api_name": True,
+             "search": self.cfg.get("board_index", {}).get("workday_search", ["SAP", "ERP"]), "max_per_term": 40}
+        gen = {
+            "greenhouse": lambda: sources.greenhouse(self.http, c),
+            "lever": lambda: sources.lever(self.http, c),
+            "ashby": lambda: sources.ashby(self.http, c),
+            "smartrecruiters": lambda: sources.smartrecruiters(self.http, c),
+            "workday": lambda: sources.workday(self.http, c, self.today),
+        }[b["ats"]]
+        return list(gen())
+
+    def region_rx(self) -> re.Pattern:
+        """Matches target-region locations inside Workday job URLs, e.g. /job/Allentown-PA/..."""
+        parts = [rf"\b{s}\b" for s in self.states]
+        parts += [STATES[s].replace(" ", "-") for s in self.states if s in STATES]
+        parts += [h.split(",")[0].strip().title().replace(" ", "-") for h, st in CITY_HINTS.items() if st in self.state_set]
+        return re.compile("|".join(sorted(set(parts))), re.I)
 
     def _company(self, c: dict, discovered: dict, out: list, retried: bool = False) -> None:
         resolved = self._resolve(c, discovered)
@@ -163,6 +253,7 @@ class Run:
         if not fetch:
             self.note(c["name"], "company", "error", note=f"Unknown ats '{resolved['ats']}'.")
             return
+        self.watch_keys.add(bix.board_key(resolved["ats"], resolved.get("slug"), resolved.get("workday")))
         feed = f"{resolved['ats']}:{c['name']}"
         n = self._drain(c["name"], resolved["ats"], feed, fetch(), out)
         if n is not None:
@@ -286,6 +377,8 @@ def main(argv=None) -> int:
 
     run = Run(cfg, http, today)
     discovered = load_json(state_dir / "discovered.json", {})
+    index_path = state_dir / "index" / "board_index.json"
+    run.index = load_json(index_path, {"version": 1, "boards": {}})
     jobs = dedupe(run.collect(companies, discovered, bool(args.offline)))
     prev = load_json(out_dir / "jobs.json", {}).get("jobs", [])
     jobs = merge_history(prev, jobs, today, run.ok_feeds, cfg)
@@ -308,6 +401,9 @@ def main(argv=None) -> int:
     write_json(out_dir / "signals.json", {"generated": stamp, "items": signals})
     write_json(out_dir / "health.json", {"generated": stamp, "calls": http.calls, "sources": run.health})
     write_json(state_dir / "discovered.json", discovered)
+    if cfg.get("board_index", {}).get("enabled"):
+        index_path.parent.mkdir(parents=True, exist_ok=True)
+        index_path.write_text(json.dumps(run.index, separators=(",", ":")))
     active = sum(1 for j in jobs if j["active"])
     print(f"{active} active jobs ({len(jobs)} incl. recently closed), {len(signals)} signals, {http.calls} requests")
     for h in run.health:
