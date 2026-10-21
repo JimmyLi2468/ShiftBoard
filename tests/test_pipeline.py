@@ -147,3 +147,27 @@ def test_board_index_scheduling():
     assert bix.page_plan(10, 4) == [0, 2, 5, 8]
     assert bix.clean_title("Jobs at Gearline Robotics") == "Gearline Robotics"
     assert bix.clean_title("Acme Corp - Careers") == "Acme Corp"
+
+
+def test_pay_estimates(out):
+    jobs = out["jobs"]
+    lead = by_title(jobs, "Manufacturing IT Lead")                      # no pay in the posting
+    assert lead["salary_max"] is None
+    assert 130000 <= lead["pay_est_min"] <= lead["pay_est_max"] <= 200000
+    assert lead["pay_est_n"] >= 2 and lead["pay_est_examples"]
+    assert all("Lead" in e["title"] for e in lead["pay_est_examples"])  # compared with other lead roles
+    posted = by_title(jobs, "SAP Supply Chain Lead")
+    assert "pay_est_max" not in posted                                   # real pay is never overwritten
+    hist = json.loads((out["tmp"] / "state" / "pay_history.json").read_text())
+    assert any(h["title"] == "SAP Supply Chain Lead" for h in hist)
+    assert not any(h["title"] == "Manufacturing IT Lead" for h in hist)  # estimates never feed the history
+
+
+def test_pay_levels():
+    from scraper import pay
+    assert pay.family("Associate Director, SAP Manufacturing Systems") == "leader"
+    assert pay.family("Quantitative Developer") == "quant developer"
+    assert pay.level("Associate Director, SAP") < pay.level("Director, IT") < pay.level("VP, Technology")
+    hist = [{"id": "x", "title": "Operating Associate", "company": "A", "locations": [{"state": "NY"}], "tags": [], "min": 100000, "max": 120000}]
+    est = pay.estimate({"id": "y", "title": "Operating Partner", "company": "B", "locations": [{"state": "NY"}], "tags": []}, hist)
+    assert est and est["min"] >= 100000  # level difference nudges the estimate, never below the neighbour

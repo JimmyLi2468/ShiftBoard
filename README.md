@@ -8,6 +8,7 @@ A daily job board for one person's search: SAP/ERP roles at new and migrating pl
 |---|---|
 | `scraper/` | Python pipeline: fetch → keep full-time, in-region, relevant titles → tag → score → dedupe → merge with yesterday |
 | `scraper/board_index.py` | Our own aggregator: finds thousands of employers' job boards in Common Crawl and checks a slice each day |
+| `scraper/pay.py` | Estimates pay for postings that don't list it, from similar postings that do |
 | `config/settings.yaml` | Regions, title filters, Adzuna queries, news searches, scoring weights |
 | `config/companies.yaml` | Company watchlist (their own job boards) |
 | `web/index.html` | The app. Reads `web/data/*.json`; shows sample data if those don't exist yet |
@@ -78,6 +79,16 @@ What it can't see: employers whose careers sites run on SAP SuccessFactors, iCIM
 
 Adzuna is a commercial job aggregator with a free API key. It sees postings on career systems the board index can't. To use it, register at https://developer.adzuna.com, add `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` as repository secrets, and set `adzuna.enabled: true` in `settings.yaml`. Its free tier has a monthly call limit; the default config rotates (query, state) pairs over three days and caps each run at 25 calls.
 
+## Pay estimates
+
+When a posting doesn't list pay, the app shows an estimate in italics, like *est. $145K–$175K*. Tap it to see what it's based on.
+
+Every posting that does list pay is saved to `data/pay_history.json` for a year. NY, NJ, MA and MD require ranges in postings, so this fills up quickly. For a posting without pay, `scraper/pay.py` finds the most similar saved postings and takes a weighted median of their ranges. Similarity counts the kind of role (architect, manager, lead, analyst, quant and so on), the level (senior, manager, director and so on), the state, whether it's an SAP/ERP role, and shared title words. Each neighbour's range is nudged about 10% per level of difference.
+
+Each estimate is labelled by how good the match is: close (4 or more strong matches), partial (2 or 3), or rough (1). It isn't shown at all when nothing similar has been seen yet. Expect estimates to be thin for the first week and to improve as the history grows. They're a guide for deciding what to apply to, not a negotiation number.
+
+The filter "Use estimated pay when a posting has none" decides whether estimates count toward the pay floor and the Highest pay sort.
+
 ## Tags
 
 Tags come from rules in `scraper/tagger.py` (title and description patterns) plus the company's `kind` and `stage`. The app adds four of its own: plant tags from your plant list, `stale`, `closed`, and `manual`.
@@ -107,8 +118,8 @@ The plant list lives in the app (Settings → Plant projects, or "Track as a pla
 
 - Common Crawl's index server is a free shared service and is sometimes slow or busy. The harvest retries and, if it still can't get through, pauses until the next run; checking the boards already in the index carries on regardless.
 - Each daily check is one request per board (plus a few for Workday postings), similar to a person opening the career page. Keep `workers` low.
-- If Adzuna is on, it estimates pay when a posting doesn't list it. Those show as "est." and can be hidden with a filter.
-- Pay-transparency laws mean most NY, NJ, MA and MD postings include a range; CT and PA ones often don't, so keep "Include jobs with no posted pay" on unless you want to drop them.
+- If Adzuna is on, its own pay estimates are used for its postings instead of ours.
+- Pay-transparency laws mean most NY, NJ, MA and MD postings include a range; CT and PA ones often don't, which is where the estimates matter most.
 - A posting from a company board is marked closed the first day it's missing from a board that loaded fine. Adzuna and HN postings get two weeks, since their queries rotate.
 - The job list starts small and grows over the first week as the index fills in.
 - Tracker data is per browser. Use Settings → Export backup to move it.

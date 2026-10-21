@@ -1,0 +1,14 @@
+{
+  "name": "Shift Board",
+  "short_name": "Shift Board",
+  "description": "Daily SAP, ERP, manufacturing-startup and quant job board.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E9ECE8",
+  "theme_color": "#F6F7F4",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

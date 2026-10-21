@@ -15,6 +15,7 @@ import yaml
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from . import board_index as bix
+from . import pay
 from . import sources
 from .client import FixtureHttp, Http, scrub
 from .news import google_news
@@ -383,6 +384,20 @@ def main(argv=None) -> int:
     prev = load_json(out_dir / "jobs.json", {}).get("jobs", [])
     jobs = merge_history(prev, jobs, today, run.ok_feeds, cfg)
 
+    # Pay estimates for postings without pay, from similar postings that list it.
+    history = pay.update_history(load_json(state_dir / "pay_history.json", []), jobs, today)
+    estimated = 0
+    for j in jobs:
+        for k in ("pay_est_min", "pay_est_max", "pay_est_n", "pay_est_confidence", "pay_est_examples"):
+            j.pop(k, None)
+        if j.get("salary_max") is None:
+            est = pay.estimate(j, history)
+            if est:
+                j.update(pay_est_min=est["min"], pay_est_max=est["max"], pay_est_n=est["n"],
+                         pay_est_confidence=est["confidence"], pay_est_examples=est["examples"])
+                j["score"] = score_job(j["title"], j["tags"], est["max"], cfg.get("scoring", {}))
+                estimated += 1
+
     signals_prev = load_json(out_dir / "signals.json", {}).get("items", [])
     fresh_signals = []
     n = cfg.get("news", {})
@@ -401,11 +416,13 @@ def main(argv=None) -> int:
     write_json(out_dir / "signals.json", {"generated": stamp, "items": signals})
     write_json(out_dir / "health.json", {"generated": stamp, "calls": http.calls, "sources": run.health})
     write_json(state_dir / "discovered.json", discovered)
+    write_json(state_dir / "pay_history.json", history)
     if cfg.get("board_index", {}).get("enabled"):
         index_path.parent.mkdir(parents=True, exist_ok=True)
         index_path.write_text(json.dumps(run.index, separators=(",", ":")))
     active = sum(1 for j in jobs if j["active"])
-    print(f"{active} active jobs ({len(jobs)} incl. recently closed), {len(signals)} signals, {http.calls} requests")
+    print(f"{active} active jobs ({len(jobs)} incl. recently closed), {estimated} pay estimates from "
+          f"{len(history)} postings with pay, {len(signals)} signals, {http.calls} requests")
     for h in run.health:
         if h["status"] != "ok":
             print(f"  {h['status']}: {h['name']} - {h['note']}")
