@@ -79,6 +79,18 @@ What it can't see: employers whose careers sites run on SAP SuccessFactors, iCIM
 
 Adzuna is a commercial job aggregator with a free API key. It sees postings on career systems the board index can't. To use it, register at https://developer.adzuna.com, add `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` as repository secrets, and set `adzuna.enabled: true` in `settings.yaml`. Its free tier has a monthly call limit; the default config rotates (query, state) pairs over three days and caps each run at 25 calls.
 
+## Sync between devices
+
+The tracker, notes, added jobs and settings are saved in each browser. To keep your phone and laptop in step, connect both to a private GitHub repo of your own (Settings → Sync between devices in the app has the same steps):
+
+1. On GitHub, create a new **private** repository named `ShiftBoard-data`. It can stay empty.
+2. GitHub Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token. Repository access: **Only select repositories** → `ShiftBoard-data`. Permissions → Repository permissions → **Contents: Read and write**. Pick an expiration and copy the token.
+3. In Shift Board on each device: Settings → Sync between devices → paste the token → Connect.
+
+How it works: the app keeps one file, `shift-board-sync.json`, in that repo. It syncs when the app opens, when you come back to it, and a few seconds after each change. Every tracker entry and added job carries a timestamp, so if both devices changed things, the newer edit of each item wins and removals carry over. The app refuses to connect to a public repo. The token is stored only in that browser and can only touch that one repo; disconnecting removes it. Sync doesn't work inside the Claude preview, only on your GitHub Pages site.
+
+Without sync: Settings → Export backup (on a phone this opens the share sheet, so you can AirDrop the file to your laptop), then Import backup on the other device. Imports merge by the same timestamps rather than overwrite.
+
 ## Pay estimates
 
 When a posting doesn't list pay, the app shows an estimate in italics, like *est. $145K–$175K*. Tap it to see what it's based on.
@@ -122,7 +134,7 @@ The plant list lives in the app (Settings → Plant projects, or "Track as a pla
 - Pay-transparency laws mean most NY, NJ, MA and MD postings include a range; CT and PA ones often don't, which is where the estimates matter most.
 - A posting from a company board is marked closed the first day it's missing from a board that loaded fine. Adzuna and HN postings get two weeks, since their queries rotate.
 - The job list starts small and grows over the first week as the index fills in.
-- Tracker data is per browser. Use Settings → Export backup to move it.
+- Tracker data is per browser unless sync is on. A home screen app on iPhone has its own storage, separate from Safari.
 
 ## Tests
 

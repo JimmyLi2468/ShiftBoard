@@ -233,6 +233,14 @@ input[type="range"] { width: 100%; accent-color: var(--accent); margin: 8px 0 2p
 .prefs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
 .prefs-grid label { display: grid; gap: 3px; font-size: .9rem; }
 .btn-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn-row.spaced { margin-top: 12px; }
+.sync-status { color: var(--muted); margin: 0 0 10px; }
+.howto { margin-top: 14px; max-width: 70ch; }
+.howto summary { cursor: pointer; font-weight: 600; }
+.howto ol { padding-left: 20px; margin: 8px 0; }
+.howto li { margin: 4px 0; }
+.howto p { color: var(--muted); margin: 6px 0 0; }
+.howto code, .set-section code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .88em; background: var(--chip); padding: 1px 4px; border-radius: 3px; }
 .table-wrap { overflow-x: auto; }
 table { border-collapse: collapse; width: 100%; font-size: .9rem; }
 th, td { text-align: left; padding: 6px 10px 6px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
@@ -394,7 +402,7 @@ dialog::backdrop { background: rgba(10, 18, 22, .45); }
 </main>
 
 <footer>
-  <p id="credits">Listings come from employers’ own job boards and Hacker News. Your tracker, notes and settings stay in this browser; export a backup from Settings.</p>
+  <p id="credits">Listings come from employers’ own job boards and Hacker News. Your tracker, notes and settings stay in this browser unless you turn on sync in Settings.</p>
 </footer>
 
 <dialog id="addDialog" aria-labelledby="addTitle">
@@ -483,11 +491,208 @@ function loadStore() {
 }
 const store = loadStore();
 let saveTimer;
+function writeStore() {
+  try { localStorage.setItem(KEY, JSON.stringify(store)); } catch (e) { toast('Couldn’t save to this browser’s storage. Export a backup from Settings.'); }
+}
 function save() {
   clearTimeout(saveTimer);
   saveTimer = setTimeout(() => {
-    try { localStorage.setItem(KEY, JSON.stringify(store)); } catch (e) { toast('Couldn’t save to this browser’s storage. Export a backup from Settings.'); }
+    const changed = stampChanges();
+    writeStore();
+    if (changed) scheduleSync();
   }, 150);
+}
+
+// ------------------------------------------------------------ change stamps (for sync and backups)
+// Each tracker entry, added job and the shared settings carry a timestamp, so two devices can
+// merge their copies: the newer edit of each item wins, and deletions are remembered.
+const SYNC_DEFAULTS = { owner: 'JimmyLi2468', repo: 'ShiftBoard-data', path: 'shift-board-sync.json', token: '', lastSync: 0, status: '' };
+store.sync = { ...SYNC_DEFAULTS, ...(store.sync || {}) };
+store.tomb = store.tomb || {};
+store.prefsTs = store.prefsTs || 0;
+const sharedPrefs = (p) => { const { theme, ...rest } = p || {}; return rest; };
+const bare = (o) => { const { ts, ...rest } = o || {}; return JSON.stringify(rest); };
+// Settings customised before sync existed count as newer than another device's untouched defaults.
+if (!store.prefsTs && JSON.stringify(sharedPrefs(store.prefs)) !== JSON.stringify(sharedPrefs(defaults().prefs))) store.prefsTs = 1;
+const snap = { prefs: '', track: {}, manual: {} };
+function takeSnapshot() {
+  snap.prefs = JSON.stringify(sharedPrefs(store.prefs));
+  snap.track = Object.fromEntries(Object.entries(store.track).map(([id, t]) => [id, bare(t)]));
+  snap.manual = Object.fromEntries(store.manual.map((m) => [m.id, bare(m)]));
+}
+takeSnapshot();
+function stampChanges() {
+  const now = Date.now();
+  let changed = false;
+  const p = JSON.stringify(sharedPrefs(store.prefs));
+  if (p !== snap.prefs) { store.prefsTs = now; snap.prefs = p; changed = true; }
+  for (const [id, t] of Object.entries(store.track)) {
+    const b = bare(t);
+    if (snap.track[id] !== b) { t.ts = now; snap.track[id] = b; delete store.tomb[`track:${id}`]; changed = true; }
+  }
+  for (const id of Object.keys(snap.track)) {
+    if (!store.track[id]) { store.tomb[`track:${id}`] = now; delete snap.track[id]; changed = true; }
+  }
+  const ids = new Set();
+  for (const m of store.manual) {
+    ids.add(m.id);
+    const b = bare(m);
+    if (snap.manual[m.id] !== b) { m.ts = now; snap.manual[m.id] = b; delete store.tomb[`manual:${m.id}`]; changed = true; }
+  }
+  for (const id of Object.keys(snap.manual)) {
+    if (!ids.has(id)) { store.tomb[`manual:${id}`] = now; delete snap.manual[id]; changed = true; }
+  }
+  return changed;
+}
+const canon = (v) => (Array.isArray(v) ? `[${v.map(canon).join(',')}]`
+  : v && typeof v === 'object' ? `{${Object.keys(v).sort().filter((k) => v[k] !== undefined).map((k) => `${JSON.stringify(k)}:${canon(v[k])}`).join(',')}}`
+  : JSON.stringify(v ?? null));
+function corePayload(src) {
+  return { track: src.track || {}, manual: src.manual || [], prefs: sharedPrefs(src.prefs), prefsTs: src.prefsTs || 0, tomb: src.tomb || {} };
+}
+function mergeData(a, b) {
+  const tomb = { ...a.tomb };
+  Object.entries(b.tomb || {}).forEach(([key, t]) => { tomb[key] = Math.max(tomb[key] || 0, t); });
+  const newer = (x, y) => (!x ? y : !y ? x : (y.ts || 0) > (x.ts || 0) ? y : x);
+  const alive = (key, e) => e && (tomb[key] === undefined || tomb[key] < (e.ts || 0));
+  const track = {};
+  new Set([...Object.keys(a.track), ...Object.keys(b.track || {})]).forEach((id) => {
+    const e = newer(a.track[id], (b.track || {})[id]);
+    if (alive(`track:${id}`, e)) track[id] = e;
+  });
+  const am = Object.fromEntries(a.manual.map((m) => [m.id, m]));
+  const bm = Object.fromEntries((b.manual || []).map((m) => [m.id, m]));
+  const manual = [...new Set([...Object.keys(am), ...Object.keys(bm)])].sort()
+    .map((id) => newer(am[id], bm[id])).filter((e) => alive(`manual:${e.id}`, e));
+  const cutoff = Date.now() - 120 * 864e5;
+  Object.keys(tomb).forEach((key) => { if (tomb[key] < cutoff) delete tomb[key]; });
+  const takeB = (b.prefsTs || 0) > (a.prefsTs || 0);
+  return { track, manual, prefs: takeB ? { ...a.prefs, ...sharedPrefs(b.prefs) } : a.prefs, prefsTs: Math.max(a.prefsTs || 0, b.prefsTs || 0), tomb };
+}
+function applyMerged(m) {
+  store.track = m.track;
+  store.manual = m.manual;
+  store.tomb = m.tomb;
+  store.prefsTs = m.prefsTs;
+  store.prefs = { ...store.prefs, ...m.prefs, theme: store.prefs.theme };
+  takeSnapshot();
+  writeStore();
+  if (!S.all) return;
+  prep();
+  const typing = document.activeElement && document.activeElement.matches('input, textarea, select');
+  if (!typing) {
+    if (S.view === 'jobs') renderJobs(); else if (S.view === 'tracker') renderTracker(); else if (S.view === 'prefs') renderSettings(); else renderSignals();
+  }
+  renderCounts();
+}
+
+// ------------------------------------------------------------ sync through a private GitHub repo
+const b64encode = (str) => {
+  const bytes = new TextEncoder().encode(str);
+  let bin = '';
+  for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
+  return btoa(bin);
+};
+const b64decode = (b64) => new TextDecoder().decode(Uint8Array.from(atob((b64 || '').replace(/\s/g, '')), (c) => c.charCodeAt(0)));
+const repoPath = (c) => `/repos/${encodeURIComponent(c.owner)}/${encodeURIComponent(c.repo)}`;
+const filePath = (c) => `${repoPath(c)}/contents/${c.path.split('/').map(encodeURIComponent).join('/')}`;
+async function gh(c, path, opts = {}) {
+  try {
+    return await fetch(`https://api.github.com${path}`, {
+      cache: 'no-store', ...opts,
+      headers: { Accept: 'application/vnd.github+json', Authorization: `Bearer ${c.token}`, ...(opts.body ? { 'Content-Type': 'application/json' } : {}) },
+    });
+  } catch (e) {
+    throw new Error('Couldn’t reach GitHub. It will try again the next time the app opens.');
+  }
+}
+async function checkRepo(c) {
+  const r = await gh(c, repoPath(c));
+  if (r.status === 401) throw new Error('GitHub didn’t accept that token. Check that it was copied in full and hasn’t expired.');
+  if (r.status === 403 || r.status === 404) throw new Error(`Couldn’t open ${c.owner}/${c.repo}. Check the name, and that the token was given access to that repo.`);
+  if (!r.ok) throw new Error(`GitHub answered ${r.status}. Try again in a minute.`);
+  const repo = await r.json();
+  if (repo.private === false) throw new Error(`${c.owner}/${c.repo} is public, so your notes would be visible to anyone. Use a private repo.`);
+}
+async function remoteRead(c) {
+  const r = await gh(c, filePath(c));
+  if (r.status === 404) return null;
+  if (r.status === 401) throw new Error('GitHub no longer accepts the token. It may have expired; make a new one and reconnect.');
+  if (!r.ok) throw new Error(`Couldn’t read the sync file (GitHub answered ${r.status}).`);
+  const j = await r.json();
+  let data = {};
+  try { data = JSON.parse(b64decode(j.content)); } catch (e) { throw new Error('The sync file on GitHub isn’t readable. Delete it from the repo and sync again.'); }
+  return { sha: j.sha, data };
+}
+async function remoteWrite(c, data, sha) {
+  const body = { message: `Shift Board sync ${new Date().toISOString().slice(0, 16)}`, content: b64encode(JSON.stringify(data)) };
+  if (sha) body.sha = sha;
+  const r = await gh(c, filePath(c), { method: 'PUT', body: JSON.stringify(body) });
+  if (r.status === 409 || r.status === 422) return 'conflict'; // the other device saved first
+  if (r.status === 403) throw new Error('The token can read the repo but not write to it. Give it Contents: Read and write.');
+  if (!r.ok) throw new Error(`Couldn’t save the sync file (GitHub answered ${r.status}).`);
+  return 'ok';
+}
+let syncTimer = null;
+function scheduleSync(delay = 2500) {
+  if (!store.sync.token) return;
+  clearTimeout(syncTimer);
+  syncTimer = setTimeout(() => { syncNow(); }, delay);
+}
+async function syncNow(opts = {}) {
+  const c = store.sync;
+  if (!c.token || S.syncing) return false;
+  S.syncing = true;
+  setSyncStatus('Syncing…');
+  try {
+    for (let attempt = 0; attempt < 3; attempt += 1) {
+      stampChanges();
+      const remote = await remoteRead(c);
+      const local = corePayload(store);
+      const merged = mergeData(local, corePayload(remote ? remote.data : {}));
+      if (canon(merged) !== canon(local)) applyMerged(merged);
+      if (remote && canon(corePayload(remote.data)) === canon(merged)) break; // nothing new to send
+      if (await remoteWrite(c, { app: 'shift-board', version: 1, updated: new Date().toISOString(), ...merged }, remote && remote.sha) === 'ok') break;
+    }
+    c.lastSync = Date.now();
+    c.status = '';
+    return true;
+  } catch (e) {
+    c.status = e.message || 'Sync failed.';
+    if (opts.loud) toast(c.status);
+    return false;
+  } finally {
+    S.syncing = false;
+    writeStore();
+    setSyncStatus();
+  }
+}
+function syncStatusText() {
+  const c = store.sync;
+  if (c.status) return `Last sync didn’t work: ${c.status}`;
+  if (!c.lastSync) return 'Not synced yet.';
+  const d = new Date(c.lastSync);
+  return `Last synced ${d.toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}.`;
+}
+function setSyncStatus(text) {
+  const el = document.getElementById('syncStatus');
+  if (el) el.textContent = text || syncStatusText();
+}
+async function connectSync(btn) {
+  const val = (k) => ($(`[data-sync="${k}"]`) || {}).value || '';
+  const c = { ...store.sync, owner: val('owner').trim(), repo: val('repo').trim(), token: val('token').trim(), status: '', lastSync: 0 };
+  if (!c.owner || !c.repo || !c.token) { toast('Fill in your GitHub username, the private repo and the token.'); return; }
+  btn.disabled = true;
+  btn.textContent = 'Connecting…';
+  try {
+    await checkRepo(c);
+    store.sync = c;
+    writeStore();
+    if (await syncNow({ loud: true })) toast('Connected. This device now syncs with GitHub.');
+  } catch (e) {
+    toast(e.message || 'Couldn’t connect.');
+  }
+  renderSettings();
 }
 
 // ------------------------------------------------------------ state
@@ -868,9 +1073,10 @@ function renderSettings() {
       <label>Theme<select class="select" data-pref="theme"><option value="auto" ${p.theme === 'auto' ? 'selected' : ''}>Match my device</option><option value="light" ${p.theme === 'light' ? 'selected' : ''}>Light</option><option value="dark" ${p.theme === 'dark' ? 'selected' : ''}>Dark</option></select></label>
     </div>
   </section>
+  ${syncSectionHTML()}
   <section class="set-section">
     <h2>Your data</h2>
-    <p>The tracker, notes, manual jobs and settings live in this browser only. Export a backup now and then, and import it on another device.</p>
+    <p>Without sync, the tracker, notes, added jobs and settings live in this browser only. To move them by hand, export a backup on one device and import it on the other. On a phone, Export backup opens the share sheet, so you can AirDrop it or save it to Files.</p>
     <div class="btn-row">
       <button type="button" class="btn" id="exportBackup">Export backup</button>
       <label class="btn" for="importFile">Import backup</label><input type="file" id="importFile" accept="application/json,.json" class="visually-hidden">
@@ -882,6 +1088,38 @@ function renderSettings() {
     <h2>Sources</h2>
     <p>From the last daily run. The board index row shows how many employers’ boards were checked and how far the monthly Common Crawl harvest has got. “Needs setup” means a watchlist company’s careers page didn’t reveal a job board; set its ats and slug in config/companies.yaml.</p>
     ${healthRows()}
+  </section>`;
+}
+function syncSectionHTML() {
+  const c = store.sync;
+  const noAuto = 'autocapitalize="off" autocorrect="off" spellcheck="false"';
+  if (c.token) {
+    return `<section class="set-section" id="sync">
+    <h2>Sync between devices</h2>
+    <p>Connected to <b>${esc(c.owner)}/${esc(c.repo)}</b>. Changes sync a few seconds after you make them and whenever the app opens.</p>
+    <p class="sync-status" id="syncStatus" aria-live="polite">${esc(syncStatusText())}</p>
+    <div class="btn-row"><button type="button" class="btn btn-primary" id="syncNow">Sync now</button><button type="button" class="btn" id="syncDisconnect">Disconnect this device</button></div>
+  </section>`;
+  }
+  return `<section class="set-section" id="sync">
+    <h2>Sync between devices</h2>
+    <p>Keeps the tracker, notes, added jobs and settings the same on your phone and laptop by saving them to a private GitHub repo of yours. Set it up once on each device.</p>
+    <div class="prefs-grid">
+      <label>GitHub username<input class="input" data-sync="owner" value="${esc(c.owner)}" ${noAuto}></label>
+      <label>Private repo<input class="input" data-sync="repo" value="${esc(c.repo)}" ${noAuto}></label>
+      <label>Access token<input class="input" type="password" data-sync="token" placeholder="github_pat_…" autocomplete="off" ${noAuto}></label>
+    </div>
+    <div class="btn-row spaced"><button type="button" class="btn btn-primary" id="syncConnect">Connect</button></div>
+    ${c.status ? `<p class="sync-status">${esc(c.status)}</p>` : ''}
+    <details class="howto"><summary>How to set this up (about 5 minutes, once)</summary>
+      <ol>
+        <li>On GitHub, create a new <b>private</b> repository named <code>ShiftBoard-data</code>. It can stay empty.</li>
+        <li>Open GitHub Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token.</li>
+        <li>Under Repository access, choose <b>Only select repositories</b> and pick <code>ShiftBoard-data</code>. Under Permissions → Repository permissions, set <b>Contents</b> to <b>Read and write</b>. Pick an expiration, generate the token and copy it.</li>
+        <li>Paste it above and tap Connect. Then open Shift Board on your other device and connect it with the same token.</li>
+      </ol>
+      <p>The token is saved only in this browser, and it can only read and write that one private repo.</p>
+    </details>
   </section>`;
 }
 function fmtStamp(s) {
@@ -929,6 +1167,13 @@ async function saveFile(filename, text, type) {
     if (downloads) {
       try { await downloads.save({ filename, data: text }); toast(`Saved ${filename}`); }
       catch (e) { if (e && e.code !== 'declined') toast('Couldn’t save the file here.'); }
+      return;
+    }
+  }
+  if (navigator.canShare && window.matchMedia('(pointer: coarse)').matches) {
+    const file = new File([text], filename, { type });
+    if (navigator.canShare({ files: [file] })) {
+      try { await navigator.share({ files: [file], title: filename }); } catch (e) { if (e.name !== 'AbortError') toast('Couldn’t open the share sheet.'); }
       return;
     }
   }
@@ -1060,8 +1305,21 @@ document.addEventListener('click', (e) => {
   if (el.dataset.resumeRemove) { store.prefs.resumes.splice(Number(el.dataset.resumeRemove), 1); save(); renderSettings(); return; }
   if (el.id === 'addPlant') { store.prefs.plants.push({ company: '', site: '', announced: TODAY, golive: '' }); save(); renderSettings(); $$('[data-plant][data-key="company"]').pop().focus(); return; }
   if (el.dataset.plantRemove) { store.prefs.plants.splice(Number(el.dataset.plantRemove), 1); save(); prep(); renderSettings(); return; }
+  if (el.id === 'syncConnect') { connectSync(el); return; }
+  if (el.id === 'syncNow') {
+    el.disabled = true;
+    syncNow({ loud: true }).then((ok) => { if (ok) toast('Synced'); el.disabled = false; });
+    return;
+  }
+  if (el.id === 'syncDisconnect') {
+    store.sync = { ...SYNC_DEFAULTS, owner: store.sync.owner, repo: store.sync.repo };
+    writeStore(); renderSettings();
+    toast('Disconnected. The token was removed from this device.');
+    return;
+  }
   if (el.id === 'exportBackup') {
-    const data = { app: 'shift-board', version: 1, exported: new Date().toISOString(), track: store.track, manual: store.manual, prefs: store.prefs, filters: store.filters };
+    stampChanges();
+    const data = { app: 'shift-board', version: 2, exported: new Date().toISOString(), ...corePayload(store), filters: store.filters };
     return saveFile(`shift-board-backup-${TODAY}.json`, JSON.stringify(data, null, 1), 'application/json');
   }
   if (el.id === 'exportCsv') {
@@ -1078,9 +1336,10 @@ document.addEventListener('click', (e) => {
   if (el.id === 'clearData') {
     if (el.dataset.armed) {
       try { localStorage.removeItem(KEY); } catch (err) { /* ignore */ }
-      Object.assign(store, defaults());
+      Object.assign(store, defaults(), { sync: { ...SYNC_DEFAULTS }, tomb: {}, prefsTs: 0 });
+      takeSnapshot(); writeStore();
       applyTheme(); prep(); syncFilterInputs(); renderSettings(); renderCounts();
-      toast('Local data cleared');
+      toast('Cleared on this device. A synced copy on GitHub isn’t touched.');
       return;
     }
     el.dataset.armed = '1';
@@ -1176,11 +1435,13 @@ document.addEventListener('change', (e) => {
       try {
         const data = JSON.parse(String(reader.result));
         if (!data || data.app !== 'shift-board') throw new Error('not a backup');
-        store.track = { ...store.track, ...(data.track || {}) };
-        const ids = new Set(store.manual.map((m) => m.id));
-        store.manual = store.manual.concat((data.manual || []).filter((m) => !ids.has(m.id)));
-        if (data.prefs) store.prefs = { ...store.prefs, ...data.prefs };
-        save(); applyTheme(); prep(); renderSettings(); renderCounts();
+        stampChanges();
+        const incoming = corePayload(data);
+        const localPrefsUntouched = store.prefsTs === 0;
+        if (localPrefsUntouched && data.prefs && !incoming.prefsTs) incoming.prefsTs = 1; // older backups had no stamps
+        applyMerged(mergeData(corePayload(store), incoming));
+        applyTheme(); renderSettings(); renderCounts();
+        scheduleSync(500);
         toast(`Imported ${Object.keys(data.track || {}).length} tracked jobs`);
       } catch (err) {
         toast('That file isn’t a Shift Board backup. Choose a file made with Export backup.');
@@ -1222,6 +1483,9 @@ document.addEventListener('keydown', (e) => {
   if (e.key === '/' && !e.target.closest('input, textarea, select') && S.view === 'jobs') { e.preventDefault(); $('#q').focus(); }
 });
 window.addEventListener('hashchange', () => show(location.hash.slice(1), false));
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible' && store.sync.token && Date.now() - (store.sync.lastSync || 0) > 60 * 1000) syncNow();
+});
 document.addEventListener('visibilitychange', async () => {
   if (document.visibilityState !== 'visible' || S.sample || Date.now() - S.loadedAt < 30 * 60 * 1000) return;
   const before = S.generated;
@@ -1245,12 +1509,13 @@ document.addEventListener('visibilitychange', async () => {
   syncFilterInputs();
   $('#stamp').textContent = S.sample ? 'Sample data' : `Updated ${fmtStamp(S.generated)}`;
   if (S.jobs.some((j) => (j.sources || []).includes('adzuna'))) {
-    $('#credits').innerHTML = 'Listings come from employers’ own job boards, Hacker News and <a href="https://www.adzuna.com" target="_blank" rel="noopener">Jobs by Adzuna</a>. Your tracker, notes and settings stay in this browser; export a backup from Settings.';
+    $('#credits').innerHTML = 'Listings come from employers’ own job boards, Hacker News and <a href="https://www.adzuna.com" target="_blank" rel="noopener">Jobs by Adzuna</a>. Your tracker, notes and settings stay in this browser unless you turn on sync in Settings.';
   }
   if (S.sample) {
     $('#notice').innerHTML = '<div class="notice"><p>You’re looking at sample data with made-up companies. Once the daily GitHub Action runs, this page loads data/jobs.json instead. The README has the setup steps.</p></div>';
   }
   show(location.hash.slice(1) || 'jobs', false);
+  if (store.sync.token) syncNow();
 })();
 })();
 </script>
