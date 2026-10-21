@@ -249,7 +249,7 @@
    "erp"
   ],
   "min": 129000,
-  "max": 171000,
+  "max": 175000,
   "seen": "2026-10-21"
  },
  {
@@ -2278,8 +2278,8 @@
    }
   ],
   "tags": [],
-  "min": 146000,
-  "max": 194000,
+  "min": 147000,
+  "max": 196000,
   "seen": "2026-10-21"
  },
  {
@@ -2843,11 +2843,6 @@
   "title": "Product Support Solutions Developer",
   "company": "Recorded Future",
   "locations": [
-   {
-    "label": "Boston, MA",
-    "state": "MA",
-    "remote": false
-   },
    {
     "label": "Somerville, MA",
     "state": "MA",
@@ -4698,8 +4693,8 @@
    }
   ],
   "tags": [],
-  "min": 218487,
-  "max": 273110,
+  "min": 209748,
+  "max": 262185,
   "seen": "2026-10-21"
  },
  {
@@ -7855,8 +7850,8 @@
    }
   ],
   "tags": [],
-  "min": 119100,
-  "max": 265400,
+  "min": 167300,
+  "max": 307600,
   "seen": "2026-10-21"
  },
  {
@@ -8490,8 +8485,8 @@
    }
   ],
   "tags": [],
-  "min": 166000,
-  "max": 220000,
+  "min": 183000,
+  "max": 243000,
   "seen": "2026-10-21"
  },
  {
@@ -8587,7 +8582,7 @@
   ],
   "tags": [],
   "min": 170000,
-  "max": 210000,
+  "max": 200000,
   "seen": "2026-10-21"
  },
  {
@@ -10680,8 +10675,8 @@
    }
   ],
   "tags": [],
-  "min": 194212,
-  "max": 242765,
+  "min": 242765,
+  "max": 303456,
   "seen": "2026-10-21"
  },
  {
@@ -13141,11 +13136,6 @@
   "company": "Formlabs",
   "locations": [
    {
-    "label": "Boston, MA",
-    "state": "MA",
-    "remote": false
-   },
-   {
     "label": "Somerville, MA",
     "state": "MA",
     "remote": false
@@ -14063,7 +14053,7 @@
   ],
   "tags": [],
   "min": 191000,
-  "max": 253000,
+  "max": 254000,
   "seen": "2026-10-21"
  },
  {
@@ -15326,8 +15316,8 @@
    }
   ],
   "tags": [],
-  "min": 101000,
-  "max": 273000,
+  "min": 158000,
+  "max": 220000,
   "seen": "2026-10-21"
  },
  {
@@ -15934,7 +15924,7 @@
   ],
   "tags": [],
   "min": 191000,
-  "max": 253000,
+  "max": 254000,
   "seen": "2026-10-21"
  },
  {
@@ -15949,7 +15939,7 @@
    }
   ],
   "tags": [],
-  "min": 166000,
+  "min": 167000,
   "max": 220000,
   "seen": "2026-10-21"
  },
@@ -17007,8 +16997,8 @@
    }
   ],
   "tags": [],
-  "min": 166000,
-  "max": 220000,
+  "min": 167000,
+  "max": 222000,
   "seen": "2026-10-21"
  },
  {
@@ -17636,7 +17626,7 @@
   ],
   "tags": [],
   "min": 191000,
-  "max": 253000,
+  "max": 254000,
   "seen": "2026-10-21"
  },
  {
@@ -21666,8 +21656,8 @@
    }
   ],
   "tags": [],
-  "min": 190000,
-  "max": 252000,
+  "min": 220000,
+  "max": 292000,
   "seen": "2026-10-21"
  },
  {
@@ -22773,8 +22763,8 @@
    }
   ],
   "tags": [],
-  "min": 160000,
-  "max": 180000,
+  "min": 170000,
+  "max": 195000,
   "seen": "2026-10-21"
  },
  {
@@ -23695,8 +23685,8 @@
    }
   ],
   "tags": [],
-  "min": 111780,
-  "max": 146711,
+  "min": 100602,
+  "max": 132040,
   "seen": "2026-10-21"
  },
  {
@@ -24165,6 +24155,854 @@
   "tags": [],
   "min": 200007,
   "max": 333345,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "4d9e6e443e3e",
+  "title": "Solution Architect",
+  "company": "C5MI Insight",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [
+   "sap",
+   "erp",
+   "s4 migration"
+  ],
+  "min": 149000,
+  "max": 224000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "a136c98304ad",
+  "title": "Solutions Architect - Consumer Packaged Goods (CPG)",
+  "company": "Databricks",
+  "locations": [
+   {
+    "label": "Connecticut",
+    "state": "CT",
+    "remote": false
+   },
+   {
+    "label": "Maryland",
+    "state": "MD",
+    "remote": false
+   },
+   {
+    "label": "New Jersey",
+    "state": "NJ",
+    "remote": false
+   },
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   },
+   {
+    "label": "Pennsylvania, PA",
+    "state": "PA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 180000,
+  "max": 247500,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "a636a63efc1a",
+  "title": "Senior Software Engineer, Options Execution",
+  "company": "DRW",
+  "locations": [
+   {
+    "label": "Chicago, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 200000,
+  "max": 225000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "07972f689f2a",
+  "title": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
+  "company": "Grafana Labs",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   },
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 204000,
+  "max": 254000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "f5a33b0d5160",
+  "title": "Director, Client Solutions Architects, Northeast (Remote)",
+  "company": "Myriad360",
+  "locations": [
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 300000,
+  "max": 350000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "98fe38883f4d",
+  "title": "Frontend Architect",
+  "company": "Navan",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 129600,
+  "max": 288000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "a14f8c421727",
+  "title": "GTM Data Governance Manager (MDM)",
+  "company": "LaunchDarkly",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 152900,
+  "max": 210210,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "289eebfbe499",
+  "title": "Research Scientist / Research Engineer, Automated Safety",
+  "company": "Lila Sciences",
+  "locations": [
+   {
+    "label": "Cambridge, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 180000,
+  "max": 298000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "8a6d03f5b2cd",
+  "title": "Systems Engineer - Aerospace",
+  "company": "ALTEN Technology USA",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 110000,
+  "max": 170000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "06cbaca5ebb4",
+  "title": "Senior Product Manager, Advertising – Supply Integrations",
+  "company": "Roku",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   },
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 177500,
+  "max": 218300,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "9c3f0bf6a5d8",
+  "title": "People Systems, Analytics, and AI Manager",
+  "company": "LaunchDarkly",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 121800,
+  "max": 167530,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "d691691109da",
+  "title": "Senior Data Scientist, Growth Marketing",
+  "company": "Metropolis",
+  "locations": [
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 190000,
+  "max": 220000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "42de2686c3b2",
+  "title": "Manager, Analytics Engineering",
+  "company": "PatientPoint",
+  "locations": [
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 129700,
+  "max": 185400,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "ef0329108fbd",
+  "title": "Senior Software Engineer, Backend (Workload Safety)",
+  "company": "Affirm",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 195000,
+  "max": 255000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "86e3b3ea6414",
+  "title": "Sr. Developer, AI and Agentforce",
+  "company": "NeuraFlash, Part of Accenture",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 94400,
+  "max": 266300,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "187681410742",
+  "title": "Staff Software Engineer, Fullstack",
+  "company": "PathAI",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 146250,
+  "max": 224250,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "3baa03ee6a10",
+  "title": "Senior Data Scientist, Safety Enforcement",
+  "company": "Reddit",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 190800,
+  "max": 267100,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "26c424c29a2f",
+  "title": "Staff Software Engineer, iOS Platform",
+  "company": "Reddit",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 217000,
+  "max": 303900,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "549527662530",
+  "title": "Software Engineer, Integrations (US + Calgary)",
+  "company": "Syndio",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   },
+   {
+    "label": "New York Metro, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [
+   "erp"
+  ],
+  "min": 125000,
+  "max": 148000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "557ce7b80fac",
+  "title": "Software Engineer, Payments",
+  "company": "Airbnb",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 162000,
+  "max": 186000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "9fade755e161",
+  "title": "Senior Software Engineer - Agent Team",
+  "company": "Automox",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 140000,
+  "max": 190000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "1d2e66f7fdd5",
+  "title": "Software Engineer - Agent Team",
+  "company": "Automox",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 122000,
+  "max": 160000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "0e77f9e83c89",
+  "title": "Scientific Software Engineer – Machine Programming",
+  "company": "QuEra Computing, Inc.",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 102400,
+  "max": 166400,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "69775138b491",
+  "title": "Discovery Implementation Manager",
+  "company": "bswift",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 80000,
+  "max": 115000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "66e17d99c529",
+  "title": "IT Security Analyst",
+  "company": "Kairos Power",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 108735,
+  "max": 127923,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "2403f33245d9",
+  "title": "Manager of Product & Data Analytics",
+  "company": "Constant Contact",
+  "locations": [
+   {
+    "label": "Hybrid from Waltham, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 109200,
+  "max": 136500,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "7eb5f2181dfe",
+  "title": "Netsuite Systems Manager | EST United States | Remote",
+  "company": "Grafana Labs",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   },
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [
+   "erp"
+  ],
+  "min": 144000,
+  "max": 173000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "8bab10b4f2e4",
+  "title": "Engineering Manager, Data Center Operations",
+  "company": "Cloudflare",
+  "locations": [
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 174000,
+  "max": 239000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "0dc75795c562",
+  "title": "Director, IT Project Management (R6372)",
+  "company": "Shield AI",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [
+   "erp"
+  ],
+  "min": 210000,
+  "max": 320000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "7e7bb182a96c",
+  "title": "Global Data Science Lead",
+  "company": "Veeva",
+  "locations": [
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 120000,
+  "max": 250000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "f5b1b18d59cc",
+  "title": "Global Data Science Lead",
+  "company": "Veeva",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 120000,
+  "max": 250000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "b57d86f77ede",
+  "title": "Head of Client Success and Delivery",
+  "company": "Veeva",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 200000,
+  "max": 270000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "b45ead88be7b",
+  "title": "Senior Software Engineer - Full Stack",
+  "company": "Veeva",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 110000,
+  "max": 270000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "4c37383dee7d",
+  "title": "Enterprise Systems Director",
+  "company": "Blueland",
+  "locations": [
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [
+   "erp"
+  ],
+  "min": 175000,
+  "max": 195000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "f18412dc217c",
+  "title": "Marketing Data Analytics Engineer (CA)",
+  "company": "PointClickCare",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 82000,
+  "max": 92000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "e6a3b408a389",
+  "title": "Marketing Data Analytics Engineer (US)",
+  "company": "PointClickCare",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 87000,
+  "max": 97000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "1193bbaedfb9",
+  "title": "Enterprise Account Partner - Veeva Data Cloud",
+  "company": "Veeva",
+  "locations": [
+   {
+    "label": "Philadelphia, PA",
+    "state": "PA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 80000,
+  "max": 300000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "f319f376a8b0",
+  "title": "Enterprise Account Partner - Veeva Data Cloud",
+  "company": "Veeva",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 80000,
+  "max": 300000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "584d6a6d6434",
+  "title": "Systems Integration Engineer",
+  "company": "Hypori",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 135000,
+  "max": 145000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "523265f8fa5b",
+  "title": "Engineer I/II, Research Operations (1st shift)",
+  "company": "Lila Sciences",
+  "locations": [
+   {
+    "label": "Cambridge, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 75600,
+  "max": 124800,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "435bd9d6565c",
+  "title": "Software Engineer II (Authentication)",
+  "company": "Pindrop",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 107000,
+  "max": 132000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "841fbfcc39fe",
+  "title": "Sr. Manager, Enterprise Data (R6103)",
+  "company": "Shield AI",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [
+   "erp"
+  ],
+  "min": 180000,
+  "max": 270000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "19ca92493061",
+  "title": "Senior IT Systems Engineer",
+  "company": "Tines",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [
+   "sap",
+   "erp"
+  ],
+  "min": 145000,
+  "max": 145000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "94d3946ab9f0",
+  "title": "Software Engineer - Container Fabric",
+  "company": "New Relic",
+  "locations": [
+   {
+    "label": "Baltimore, MD",
+    "state": "MD",
+    "remote": false
+   },
+   {
+    "label": "Philadelphia, PA",
+    "state": "PA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 126000,
+  "max": 158000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "3fa8317ad691",
+  "title": "Supply Chain Program Manager - Rack Integration",
+  "company": "Cloudflare",
+  "locations": [
+   {
+    "label": "New York, NY",
+    "state": "NY",
+    "remote": false
+   }
+  ],
+  "tags": [
+   "erp"
+  ],
+  "min": 138000,
+  "max": 189000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "5148240bbdb3",
+  "title": "Marketing Automation Architect (US)",
+  "company": "PointClickCare",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 159000,
+  "max": 177000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "529f78c7ec87",
+  "title": "Head of Total Rewards",
+  "company": "Chainguard",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 204000,
+  "max": 240000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "c9b99c0eeed3",
+  "title": "Senior IT & Corporate Engineering",
+  "company": "Flex",
+  "locations": [
+   {
+    "label": "Remote (US)",
+    "state": null,
+    "remote": true
+   }
+  ],
+  "tags": [],
+  "min": 145000,
+  "max": 200000,
+  "seen": "2026-10-21"
+ },
+ {
+  "id": "70ad9e8ea8b4",
+  "title": "Senior Migration Consultant - Clinical Data Programming",
+  "company": "Veeva",
+  "locations": [
+   {
+    "label": "Boston, MA",
+    "state": "MA",
+    "remote": false
+   }
+  ],
+  "tags": [],
+  "min": 100000,
+  "max": 160000,
   "seen": "2026-10-21"
  }
 ]

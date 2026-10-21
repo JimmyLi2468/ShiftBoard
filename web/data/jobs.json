@@ -1,7 +1,45 @@
 {
- "generated": "2026-10-21T16:18:37+00:00",
- "count": 1905,
+ "generated": "2026-10-21T23:10:29+00:00",
+ "count": 1969,
  "jobs": [
+  {
+   "id": "4d9e6e443e3e",
+   "title": "Solution Architect",
+   "company": "C5MI Insight",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 149000,
+   "salary_max": 224000,
+   "salary_est": false,
+   "summary": "We are a high-performance team of SAP and supply chain experts who solve complex, mission critical challenges for organizations that cannot afford failure. We hire consultants who thrive in complexity, move fast, take ownership, and deliver under pressure.",
+   "url": "https://job-boards.greenhouse.io/c5miinsightllc/jobs/4437004009",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:c5miinsightllc",
+   "tags": [
+    "sap",
+    "erp",
+    "s4 migration",
+    "post-go-live",
+    "architect",
+    "itar / us person",
+    "travel 50%+",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": 50,
+   "score": 92,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
   {
    "id": "17eb2f18e5a5",
    "title": "Lead Cloud Architect",
@@ -41,6 +79,158 @@
    "active": true
   },
   {
+   "id": "44780b8ff7bc",
+   "title": "Head of Supply Planning",
+   "company": "Formlabs",
+   "locations": [
+    {
+     "label": "Somerville, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 135000,
+   "salary_max": 200000,
+   "salary_est": false,
+   "summary": "Lead the development and execution of scalable supply and demand planning strategies to drive operational excellence, align with growth objectives, and support new product launches across all product categories.",
+   "url": "https://careers.formlabs.com/job/8311383/apply/?gh_jid=8311383",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Formlabs",
+   "tags": [
+    "sap",
+    "erp",
+    "director+",
+    "manufacturing",
+    "on-site",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 68,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "a136c98304ad",
+   "title": "Solutions Architect - Consumer Packaged Goods (CPG)",
+   "company": "Databricks",
+   "locations": [
+    {
+     "label": "Connecticut",
+     "state": "CT",
+     "remote": false
+    },
+    {
+     "label": "Maryland",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "New Jersey",
+     "state": "NJ",
+     "remote": false
+    },
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    },
+    {
+     "label": "Pennsylvania, PA",
+     "state": "PA",
+     "remote": false
+    }
+   ],
+   "salary_min": 180000,
+   "salary_max": 247500,
+   "salary_est": false,
+   "summary": "As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8780675002",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:databricks",
+   "tags": [
+    "architect",
+    "data / bi",
+    "ai",
+    "manufacturing",
+    "itar / us person"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 63,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f04c33b857d6",
+   "title": "Solutions Engineer",
+   "company": "Redwood Software",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "At Redwood, we empower our customers with lights-out automation for their mission-critical business processes. Redwood Software is the leader in full stack automation fabric solutions for mission-critical business processes.",
+   "url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4459861009",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:redwoodsoftware",
+   "tags": [
+    "sap",
+    "erp",
+    "ai",
+    "fde / solutions",
+    "travel 25%+",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": 40,
+   "score": 66,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 125000,
+   "pay_est_max": 160000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Solutions Engineer",
+     "company": "AlphaSense",
+     "min": 156000,
+     "max": 180000
+    },
+    {
+     "title": "Solutions Engineer",
+     "company": "Koalafi",
+     "min": 132000,
+     "max": 170000
+    },
+    {
+     "title": "Mid-Market Retail Solutions Engineer",
+     "company": "Toast",
+     "min": 100000,
+     "max": 160000
+    }
+   ]
+  },
+  {
    "id": "6444933f95e6",
    "title": "Senior Principal Architect - Enterprise Solutions Architecture",
    "company": "3Cloud",
@@ -77,6 +267,206 @@
    "active": true
   },
   {
+   "id": "a636a63efc1a",
+   "title": "Senior Software Engineer, Options Execution",
+   "company": "DRW",
+   "locations": [
+    {
+     "label": "Chicago, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 200000,
+   "salary_max": 225000,
+   "salary_est": false,
+   "summary": "We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk.",
+   "url": "https://job-boards.greenhouse.io/drweng/jobs/8306406",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:drweng",
+   "tags": [
+    "quant"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "07972f689f2a",
+   "title": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
+   "company": "Grafana Labs",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    },
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 204000,
+   "salary_max": 254000,
+   "salary_est": false,
+   "summary": "Are you looking for something new in your career? Love to innovate and learn? This is an exciting opportunity to join a technology startup in a high growth phase. Our Enterprise Solutions Engineering team are our in-house, customer-facing product experts.",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6230151004",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:grafanalabs",
+   "tags": [
+    "fde / solutions",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f5a33b0d5160",
+   "title": "Director, Client Solutions Architects, Northeast (Remote)",
+   "company": "Myriad360",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 300000,
+   "salary_max": 350000,
+   "salary_est": false,
+   "summary": "The Director of Client Solutions Architects for the Northeast leads the regional Client Solutions Architect team and helps customers connect business priorities to practical technology solutions and services.",
+   "url": "https://boards.greenhouse.io/myriad360/jobs/8906608002?gh_jid=8906608002",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:myriad360",
+   "tags": [
+    "architect",
+    "director+",
+    "ai",
+    "travel 25%+",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": 40,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "98fe38883f4d",
+   "title": "Frontend Architect",
+   "company": "Navan",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 129600,
+   "salary_max": 288000,
+   "salary_est": false,
+   "summary": "The Frontend Architect plays a pivotal role in shaping the future of Navan's frontend infrastructure and developer experience across the organization.",
+   "url": "https://navan.com/careers/openings?gh_jid=8311102",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:tripactions",
+   "tags": [
+    "architect",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "a14f8c421727",
+   "title": "GTM Data Governance Manager (MDM)",
+   "company": "LaunchDarkly",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 152900,
+   "salary_max": 210210,
+   "salary_est": false,
+   "summary": "AI-powered workflows are only as good as the customer data underneath them. LaunchDarkly helps engineering teams ship software faster and more safely through feature management, experimentation, and AI delivery tooling.",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8040653003",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:launchdarkly",
+   "tags": [
+    "manager",
+    "data / bi",
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 51,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "289eebfbe499",
+   "title": "Research Scientist / Research Engineer, Automated Safety",
+   "company": "Lila Sciences",
+   "locations": [
+    {
+     "label": "Cambridge, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 180000,
+   "salary_max": 298000,
+   "salary_est": false,
+   "summary": "We're building a talent-dense, high-agency AI safety team at Lila that will engage all core teams within the organization (science, model training, lab integration, etc.), to identify and mitigate risks from scientific superintelligence while retaining the core scientific discovery capabilities of…",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423488009",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:lilasciences",
+   "tags": [
+    "manufacturing"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "0854f74c1782",
    "title": "Architect - DevOps",
    "company": "3Cloud",
@@ -102,6 +492,38 @@
     "remote"
    ],
    "mode": "remote",
+   "travel": null,
+   "score": 48,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "8a6d03f5b2cd",
+   "title": "Systems Engineer - Aerospace",
+   "company": "ALTEN Technology USA",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 110000,
+   "salary_max": 170000,
+   "salary_est": false,
+   "summary": "We’re ALTEN Technology USA, an engineering company helping clients bring groundbreaking ideas to life—from advancing space exploration and life-saving medical devices to building autonomous electric vehicles.",
+   "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5271804007",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:altentechnologyusa",
+   "tags": [
+    "manufacturing",
+    "itar / us person"
+   ],
+   "mode": null,
    "travel": null,
    "score": 48,
    "first_seen": "2026-10-21",
@@ -281,6 +703,210 @@
    ]
   },
   {
+   "id": "06cbaca5ebb4",
+   "title": "Senior Product Manager, Advertising – Supply Integrations",
+   "company": "Roku",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    },
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 177500,
+   "salary_max": 218300,
+   "salary_est": false,
+   "summary": "In this role, you will own the end-to-end process of onboarding publisher partners into Roku's ecosystem, standardizing and streamlining integrations while supporting each partner's unique requirements.",
+   "url": "https://www.weareroku.com/jobs/8311256?gh_jid=8311256",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:roku",
+   "tags": [
+    "manager",
+    "ai",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 48,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "9c3f0bf6a5d8",
+   "title": "People Systems, Analytics, and AI Manager",
+   "company": "LaunchDarkly",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 121800,
+   "salary_max": 167530,
+   "salary_est": false,
+   "summary": "You will build the reports, analytics, and dashboards that tell the story of our workforce, and you will use AI tooling to make those stories faster to create, easier to understand, and more compelling.",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8040320003",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:launchdarkly",
+   "tags": [
+    "manager",
+    "data / bi",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 47,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "d691691109da",
+   "title": "Senior Data Scientist, Growth Marketing",
+   "company": "Metropolis",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 190000,
+   "salary_max": 220000,
+   "salary_est": false,
+   "summary": "Design, deploy, and refine predictive models for Multi-Touch Attribution (MTA), Customer Lifetime Value (CLV), and Customer Acquisition Cost (CAC) efficiency to guide multi-channel marketing budget allocation",
+   "url": "https://job-boards.greenhouse.io/metropolis/jobs/8040355003",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:metropolis",
+   "tags": [
+    "data / bi",
+    "ai",
+    "on-site"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 47,
+   "feeds": [
+    "index:greenhouse:metropolis"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "42de2686c3b2",
+   "title": "Manager, Analytics Engineering",
+   "company": "PatientPoint",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 129700,
+   "salary_max": 185400,
+   "salary_est": false,
+   "summary": "The Manager of Analytics Engineering will lead a team responsible for transforming raw data into governed, reusable, and scalable analytics assets. This includes managing dbt models, semantic layers (LookML), and BI frameworks that empower the company with trusted, self-service insights.",
+   "url": "https://job-boards.greenhouse.io/patientpoint/jobs/4746029005",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:patientpoint",
+   "tags": [
+    "manager",
+    "data / bi",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 47,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "ef0329108fbd",
+   "title": "Senior Software Engineer, Backend (Workload Safety)",
+   "company": "Affirm",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 195000,
+   "salary_max": 255000,
+   "salary_est": false,
+   "summary": "Define and evolve workload safety standards for Affirm's EKS fleet, such as CPU and memory settings, workload isolation and placement, tolerance for disruption, graceful termination to name a few",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017284003",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:affirm",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "86e3b3ea6414",
+   "title": "Sr. Developer, AI and Agentforce",
+   "company": "NeuraFlash, Part of Accenture",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 94400,
+   "salary_max": 266300,
+   "salary_est": false,
+   "summary": "Why NeuraFlash, Part of Accenture: At NeuraFlash, Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce.",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6231542004",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:neuraflash",
+   "tags": [
+    "ai",
+    "travel 25%+",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": 25,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "7d9fb1ae5397",
    "title": "Senior Data Scientist, Pharmacy",
    "company": "Oscar Health",
@@ -302,6 +928,39 @@
    ],
    "feed": "index:greenhouse:oscar",
    "tags": [
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "187681410742",
+   "title": "Staff Software Engineer, Fullstack",
+   "company": "PathAI",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 146250,
+   "salary_max": 224250,
+   "salary_est": false,
+   "summary": "We're looking for a Staff Software Engineer to be a technical leader on the team building AISight, our digital pathology platform used by pathologists and labs worldwide. This is a fullstack role, but we don't expect equal depth everywhere.",
+   "url": "https://www.pathai.com/careers/8907646002?gh_jid=8907646002",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:pathai",
+   "tags": [
+    "ai",
+    "regulated",
     "hybrid"
    ],
    "mode": "hybrid",
@@ -339,6 +998,312 @@
    "mode": "remote",
    "travel": null,
    "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "3baa03ee6a10",
+   "title": "Senior Data Scientist, Safety Enforcement",
+   "company": "Reddit",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 190800,
+   "salary_max": 267100,
+   "salary_est": false,
+   "summary": "It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about.",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8110339",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:reddit",
+   "tags": [
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "26c424c29a2f",
+   "title": "Staff Software Engineer, iOS Platform",
+   "company": "Reddit",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 217000,
+   "salary_max": 303900,
+   "salary_est": false,
+   "summary": "Own the architecture of Reddit’s iOS Mobile App and make it scale to the next 100M+ DAUs. Propose ideas/solutions to reach our vision of “making Reddit’s Mobile Apps best-in-class.”",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8311209",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:reddit",
+   "tags": [],
+   "mode": null,
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "549527662530",
+   "title": "Software Engineer, Integrations (US + Calgary)",
+   "company": "Syndio",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    },
+    {
+     "label": "New York Metro, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 125000,
+   "salary_max": 148000,
+   "salary_est": false,
+   "summary": "We are seeking a Software Engineer to build, maintain, and manage our integration platforms, ensuring scalable, reliable, and secure data flows across systems. This role is crucial as integrations become central to our service delivery.",
+   "url": "https://synd.io/careers/?gh_jid=6231512004",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:syndio",
+   "tags": [
+    "erp",
+    "edi / integration",
+    "regulated",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "b6ebe18ce767",
+   "title": "(EG0073) Senior Business Systems Analyst",
+   "company": "Nortal",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Join   Nortal   for your next big adventure. We are   seeking   a   Business Systems Analyst with a strong focus on Marketing Operations, Data Management, and System Integration.",
+   "url": "https://job-boards.greenhouse.io/nortal/jobs/5271396007",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:nortal",
+   "tags": [
+    "erp",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 110000,
+   "pay_est_max": 175000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Salesforce Business Systems Analyst",
+     "company": "AssetWatch, Inc.",
+     "min": 100000,
+     "max": 119580
+    },
+    {
+     "title": "Senior Salesforce Business Systems Administrator",
+     "company": "Salesloft",
+     "min": 95000,
+     "max": 110000
+    },
+    {
+     "title": "Senior Business Systems Analyst",
+     "company": "Commvault",
+     "min": 72250,
+     "max": 177100
+    }
+   ]
+  },
+  {
+   "id": "557ce7b80fac",
+   "title": "Software Engineer, Payments",
+   "company": "Airbnb",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 162000,
+   "salary_max": 186000,
+   "salary_est": false,
+   "summary": "Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:",
+   "url": "https://careers.airbnb.com/positions/8274152?gh_jid=8274152",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:airbnb",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "fc9c6833625b",
+   "title": "Technical Lab IT Manager",
+   "company": "ALTEN Technology USA",
+   "locations": [
+    {
+     "label": "Cambridge, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "This role combines hands-on technical expertise with leadership responsibilities to ensure the reliability, security, compliance, and performance of laboratory systems and infrastructure.",
+   "url": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5271605007",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:altentechnologyusa",
+   "tags": [
+    "manager",
+    "manufacturing",
+    "regulated"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 43,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 130000,
+   "pay_est_max": 155000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Service Delivery Manager, IT",
+     "company": "Audax Group",
+     "min": 140000,
+     "max": 160000
+    },
+    {
+     "title": "IT Systems Manager, AI Administration",
+     "company": "Celea Therapeutics",
+     "min": 125000,
+     "max": 155000
+    },
+    {
+     "title": "Sr. Manager, IT Services",
+     "company": "Allego",
+     "min": 110000,
+     "max": 150000
+    }
+   ]
+  },
+  {
+   "id": "9fade755e161",
+   "title": "Senior Software Engineer - Agent Team",
+   "company": "Automox",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 140000,
+   "salary_max": 190000,
+   "salary_est": false,
+   "summary": "Are you ready to own something big? Automox is turning IT admins into IT heroes by replacing traditional tools with our award-winning cloud-native endpoint management platform, trusted by over 2,500 companies worldwide including NASA, Yale, Xerox, Allbirds, and UNICEF.",
+   "url": "https://job-boards.greenhouse.io/automox/jobs/5454296008",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:automox",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "1d2e66f7fdd5",
+   "title": "Software Engineer - Agent Team",
+   "company": "Automox",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 122000,
+   "salary_max": 160000,
+   "salary_est": false,
+   "summary": "Are you ready to own something big? Automox is turning IT admins into IT heroes by replacing traditional tools with our award-winning cloud-native endpoint management platform, trusted by over 2,500 companies worldwide including NASA, Yale, Xerox, Allbirds, and UNICEF.",
+   "url": "https://job-boards.greenhouse.io/automox/jobs/5454109008",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:automox",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 40,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -407,6 +1372,241 @@
    "mode": "hybrid",
    "travel": null,
    "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "0e77f9e83c89",
+   "title": "Scientific Software Engineer – Machine Programming",
+   "company": "QuEra Computing, Inc.",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 102400,
+   "salary_max": 166400,
+   "salary_est": false,
+   "summary": "This role helps the scientists who build and operate QuEra's neutral-atom quantum computers program those machines effectively.",
+   "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5460475008",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:queracomputinginc",
+   "tags": [],
+   "mode": null,
+   "travel": null,
+   "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "b1982ba1d718",
+   "title": "Senior Partner Success Implementation Engineer",
+   "company": "NICE",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "At NiCE, we don’t limit our challenges. We set the highest standards and execute beyond them. And if you’re like us, we can offer you the ultimate career opportunity that will light a fire within you. So, what’s the role all about?",
+   "url": "https://boards.eu.greenhouse.io/nice/jobs/5011751101?gh_jid=5011751101",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:nice",
+   "tags": [
+    "fde / solutions",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": 20,
+   "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 195000,
+   "pay_est_max": 270000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Solutions Engineer, MSSP Partner",
+     "company": "SentinelOne",
+     "min": 196000,
+     "max": 270000
+    },
+    {
+     "title": "Senior Solutions Engineer, Partner | US | Remote",
+     "company": "Grafana Labs",
+     "min": 204000,
+     "max": 244000
+    },
+    {
+     "title": "Senior Solutions Engineer, MSSP Ecosystem Partner",
+     "company": "SentinelOne",
+     "min": 196000,
+     "max": 270000
+    }
+   ]
+  },
+  {
+   "id": "43d64c59e4b7",
+   "title": "Principal AI Researcher",
+   "company": "Recursion",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    },
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Your work will change lives. Human biology stems from four billion years of evolution, which creates a proliferation of complexity and heterogeneity. The combinatorial explosion of biological hypotheses easily surpasses the number of atoms in the universe.",
+   "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8311323",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:recursionpharmaceuticals",
+   "tags": [
+    "manufacturing"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 260000,
+   "pay_est_max": 380000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Principal, GTM Data Operations",
+     "company": "Cloudflare",
+     "min": 230000,
+     "max": 317000
+    },
+    {
+     "title": "Principal Data Scientist, Detection",
+     "company": "Cloudflare",
+     "min": 215000,
+     "max": 225000
+    },
+    {
+     "title": "Staff Software Engineer, Applied AI",
+     "company": "Peregrine Technologies",
+     "min": 200000,
+     "max": 275000
+    }
+   ]
+  },
+  {
+   "id": "d01a57f81ee3",
+   "title": "Senior Software Engineer, Security",
+   "company": "VTS",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "A Student of the Craft: You're less interested in being the smartest person in the room than in staying honest about how fast the room is changing. AI has rewritten the security landscape almost overnight, and some of the assumptions and playbooks that worked two years ago no longer hold.",
+   "url": "https://job-boards.greenhouse.io/vts/jobs/4745960005",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:vts",
+   "tags": [
+    "ai",
+    "manufacturing"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 170000,
+   "pay_est_max": 220000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Software Engineer - Security Platform",
+     "company": "Cloudflare",
+     "min": 194000,
+     "max": 266000
+    },
+    {
+     "title": "Senior Software Engineer, Platform Security",
+     "company": "Fastly",
+     "min": 181220,
+     "max": 217464
+    },
+    {
+     "title": "Senior Software Engineer - CI/CD Security",
+     "company": "Datadog",
+     "min": 192000,
+     "max": 240000
+    }
+   ]
+  },
+  {
+   "id": "69775138b491",
+   "title": "Discovery Implementation Manager",
+   "company": "bswift",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 80000,
+   "salary_max": 115000,
+   "salary_est": false,
+   "summary": "The Discovery Implementation Manager (IM) is directly responsible for helping bswift meet and exceed client expectations by supporting consumers on our best-in-class HR software and services.",
+   "url": "https://job-boards.greenhouse.io/bswift/jobs/4722602006",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:bswift",
+   "tags": [
+    "manager",
+    "consulting / si",
+    "fde / solutions",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 34,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -530,6 +1730,66 @@
    ]
   },
   {
+   "id": "6a8fe4bdffe8",
+   "title": "Senior Software Engineer II, Decisioning Studio Integrations Team",
+   "company": "Braze",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We're looking for a Senior Software Engineer II to join the Decisioning Studio Integrations team building BrazeAI Decisioning Studio™. Decisioning Studio is a reinforcement learning platform that runs continuous experiments to personalize customer engagement for each individual.",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8290020",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:braze",
+   "tags": [
+    "data / bi",
+    "ai",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 47,
+   "feeds": [
+    "index:greenhouse:braze"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 160000,
+   "pay_est_max": 205000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Software Engineer",
+     "company": "FanDuel",
+     "min": 138000,
+     "max": 181000
+    },
+    {
+     "title": "Senior Software Engineer",
+     "company": "Altana",
+     "min": 170000,
+     "max": 200000
+    },
+    {
+     "title": "Senior Software Engineer",
+     "company": "Current",
+     "min": 170000,
+     "max": 250000
+    }
+   ]
+  },
+  {
    "id": "9944437959ed",
    "title": "Senior Systems Engineer (AWS GovCloud)",
    "company": "Broadway Ventures",
@@ -559,6 +1819,63 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "1f7bfb8b1f50",
+   "title": "Instructional Assistant (Data Analytics)",
+   "company": "Per Scholas",
+   "locations": [
+    {
+     "label": "Bronx, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "For 30 years, Per Scholas has been on a mission to drive mobility and opportunity in the ever-advancing technology landscape by unlocking the untapped potential of individuals, uplifting communities, and meeting the needs of employers through rigorous tech training.",
+   "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4721600006",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:perscholashires",
+   "tags": [
+    "data / bi",
+    "ai",
+    "on-site"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 43,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 150000,
+   "pay_est_max": 175000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Assistant Editor, Data Journalism",
+     "company": "The New York Times",
+     "min": 150000,
+     "max": 175000
+    },
+    {
+     "title": "Data Engineer II, Analytics & Modeling",
+     "company": "CLEAR - Corporate",
+     "min": 180000,
+     "max": 220000
+    },
+    {
+     "title": "Data Engineer",
+     "company": "K Health",
+     "min": 150000,
+     "max": 175000
+    }
+   ]
   },
   {
    "id": "789ae4206ee8",
@@ -614,6 +1931,172 @@
      "company": "Velir",
      "min": 145000,
      "max": 160000
+    }
+   ]
+  },
+  {
+   "id": "32f346e72312",
+   "title": "Prototype Software Engineer-Principal",
+   "company": "NetSage",
+   "locations": [
+    {
+     "label": "Annapolis Junction, MD",
+     "state": "MD",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We are seeking a Principal Software Engineer with proven experience in designing, developing, and integrating prototype applications for technical evaluation.",
+   "url": "https://netsage.com/careers/current-openings/job?gh_jid=8040599003",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:netsage",
+   "tags": [
+    "ai",
+    "itar / us person"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 46,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 170000,
+   "pay_est_max": 220000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Principal Software Engineer",
+     "company": "Xometry",
+     "min": 200000,
+     "max": 225000
+    },
+    {
+     "title": "Staff Software Engineer",
+     "company": "Xometry",
+     "min": 170000,
+     "max": 195000
+    },
+    {
+     "title": "Principal Software Engineer",
+     "company": "eClinical Solutions",
+     "min": 152000,
+     "max": 190000
+    }
+   ]
+  },
+  {
+   "id": "311bb2fd39c9",
+   "title": "Software Tool Developer-Principal",
+   "company": "NetSage",
+   "locations": [
+    {
+     "label": "Annapolis Junction, MD",
+     "state": "MD",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We are seeking a Principal Software Tool Developer to support the mission by developing advanced software tools that enhance cryptanalytic engineering and analysis.",
+   "url": "https://netsage.com/careers/current-openings/job?gh_jid=8040589003",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:netsage",
+   "tags": [
+    "itar / us person"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 46,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 175000,
+   "pay_est_max": 200000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Principal Software Engineer",
+     "company": "Xometry",
+     "min": 200000,
+     "max": 225000
+    },
+    {
+     "title": "Staff Software Engineer",
+     "company": "Xometry",
+     "min": 170000,
+     "max": 195000
+    },
+    {
+     "title": "Lead Data Scientist, AdTech",
+     "company": "Launch Potato",
+     "min": 175000,
+     "max": 200000
+    }
+   ]
+  },
+  {
+   "id": "3181f5e227a1",
+   "title": "Software Tool Developer-Senior",
+   "company": "NetSage",
+   "locations": [
+    {
+     "label": "Annapolis Junction, MD",
+     "state": "MD",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We are seeking a Senior Software Tool Developer to support the mission by developing advanced software tools that enhance cryptanalytic engineering and analysis.",
+   "url": "https://netsage.com/careers/current-openings/job?gh_jid=8040584003",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:netsage",
+   "tags": [
+    "itar / us person"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 42,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 130000,
+   "pay_est_max": 185000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Software Developer",
+     "company": "Accenture Federal Services",
+     "min": 91700,
+     "max": 178700
+    },
+    {
+     "title": "Senior Software Engineer",
+     "company": "PLACE Corporate Careers",
+     "min": 125000,
+     "max": 150000
+    },
+    {
+     "title": "Senior Software Engineer (Thomas)",
+     "company": "Xometry",
+     "min": 176250,
+     "max": 182500
     }
    ]
   },
@@ -789,6 +2272,95 @@
      "company": "Pendo",
      "min": 102000,
      "max": 140000
+    }
+   ]
+  },
+  {
+   "id": "66e17d99c529",
+   "title": "IT Security Analyst",
+   "company": "Kairos Power",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 108735,
+   "salary_max": 127923,
+   "salary_est": false,
+   "summary": "We are searching for an IT Security Analyst II to support and strengthen the security, monitoring, and compliance of our multi-site, hybrid corporate IT infrastructure, on-premises systems, and SaaS application platforms.",
+   "url": "https://job-boards.greenhouse.io/kairospower/jobs/6102019004",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:kairospower",
+   "tags": [
+    "manufacturing",
+    "itar / us person",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": 5,
+   "score": 30,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "5ae477bc8c37",
+   "title": "Senior Data Engineer",
+   "company": "Moniepoint",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Build and maintain robust data pipelines processing large volumes of data Update and optimise our data platform for speed, scalability and cost Coordinate with different functional teams to understand and meet their data needs",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5012754101",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:moniepoint",
+   "tags": [
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 145000,
+   "pay_est_max": 165000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Data Engineer",
+     "company": "Clear Street",
+     "min": 150000,
+     "max": 250000
+    },
+    {
+     "title": "Senior Data Engineer",
+     "company": "LendingTree",
+     "min": 100000,
+     "max": 130000
+    },
+    {
+     "title": "Senior Data Engineer",
+     "company": "Velir",
+     "min": 145000,
+     "max": 160000
     }
    ]
   },
@@ -973,6 +2545,147 @@
    ]
   },
   {
+   "id": "d4051a05b2e6",
+   "title": "Senior Software Engineer",
+   "company": "Schonfeld",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We’re looking for a Senior UI Engineer to join our team and play a critical role in building and shaping the firm’s internal UI platform.",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8288792",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:schonfeld",
+   "tags": [],
+   "mode": null,
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 160000,
+   "pay_est_max": 200000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Software Engineer",
+     "company": "FanDuel",
+     "min": 138000,
+     "max": 181000
+    },
+    {
+     "title": "Senior Software Engineer",
+     "company": "Altana",
+     "min": 170000,
+     "max": 200000
+    },
+    {
+     "title": "Senior Software Engineer",
+     "company": "Current",
+     "min": 170000,
+     "max": 250000
+    }
+   ]
+  },
+  {
+   "id": "1c6fa38378c2",
+   "title": "Head of Product Sales, Payouts",
+   "company": "Stripe",
+   "locations": [
+    {
+     "label": "SF, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Own and drive the global go-to-market strategy for Payouts. Recruit, inspire, and lead a high-performing global team responsible for delivering ambitious adoption and revenue targets across Stripe’s Payouts portfolio.",
+   "url": "https://stripe.com/jobs/search?gh_jid=8204649",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:stripe",
+   "tags": [
+    "director+"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 235000,
+   "pay_est_max": 295000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Head of Product Marketing",
+     "company": "INSTALILY.AI",
+     "min": 165000,
+     "max": 195000
+    },
+    {
+     "title": "Head of Alliance Sales",
+     "company": "WPP Media",
+     "min": 125000,
+     "max": 295000
+    },
+    {
+     "title": "Head of Sales Strategy and Operations",
+     "company": "Courier Health",
+     "min": 245000,
+     "max": 275000
+    }
+   ]
+  },
+  {
+   "id": "2403f33245d9",
+   "title": "Manager of Product & Data Analytics",
+   "company": "Constant Contact",
+   "locations": [
+    {
+     "label": "Hybrid from Waltham, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 109200,
+   "salary_max": 136500,
+   "salary_est": false,
+   "summary": "Data can tell us that conversion fell. Your team’s job is to tell us why. Did we impact the product experience? Did the acquisition mix change? Did we bring in lower-intent customers? Did pricing or an onboarding change alter behavior? Did instrumentation change?",
+   "url": "https://job-boards.greenhouse.io/constantcontact/jobs/8301125",
+   "posted": "2026-10-21",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:constantcontact",
+   "tags": [
+    "manager",
+    "data / bi",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 29,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "b9d30f1604f3",
    "title": "Sr. Data Analyst",
    "company": "PatientPoint",
@@ -1096,8 +2809,8 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 140000,
-   "pay_est_max": 200000,
+   "pay_est_min": 150000,
+   "pay_est_max": 225000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -1114,10 +2827,10 @@
      "max": 200000
     },
     {
-     "title": "Salesforce Technical Architect",
-     "company": "NeuraFlash, Part of Accenture",
-     "min": 94400,
-     "max": 266300
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
     }
    ]
   },
@@ -1133,7 +2846,7 @@
     }
    ],
    "salary_min": 129000,
-   "salary_max": 171000,
+   "salary_max": 175000,
    "salary_est": false,
    "summary": "We are looking for a Lead Quality Systems Engineer, Maritime to join our team and own the end-to-end AS9100 quality management system across the Maritime Division. In the near term, you will support ongoing AS9100 certification and surveillance activities.",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269559007?gh_jid=5269559007",
@@ -1289,8 +3002,8 @@
    "active": true
   },
   {
-   "id": "036b5c858902",
-   "title": "Finance Systems Manager | EST United States | Remote",
+   "id": "7eb5f2181dfe",
+   "title": "Netsuite Systems Manager | EST United States | Remote",
    "company": "Grafana Labs",
    "locations": [
     {
@@ -1392,6 +3105,45 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "036b5c858902",
+   "title": "Finance Systems Manager | EST United States | Remote",
+   "company": "Grafana Labs",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    },
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 144000,
+   "salary_max": 173000,
+   "salary_est": false,
+   "summary": "The Finance Systems team is seeking an experienced Netsuite Systems Manager with strong functional and IT support experience to join the team.",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6230160004",
+   "posted": "2026-10-20",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:grafanalabs",
+   "tags": [
+    "erp",
+    "manager",
+    "regulated",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false
   },
   {
    "id": "7bad6386ddae",
@@ -2357,12 +4109,12 @@
    ],
    "mode": "on-site",
    "travel": null,
-   "score": 45,
+   "score": 34,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 120000,
-   "pay_est_max": 155000,
+   "pay_est_min": 95000,
+   "pay_est_max": 125000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -2540,35 +4292,6 @@
    "active": true
   },
   {
-   "id": "bdeedbf8446c",
-   "title": "Senior Business Data Engineer",
-   "company": "Nex",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    }
-   ],
-   "salary_min": 140000,
-   "salary_max": 170000,
-   "salary_est": false,
-   "summary": "Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and adults to move more, play more, and have fun together.",
-   "url": "https://job-boards.greenhouse.io/nex/jobs/5437092008",
-   "posted": "2026-10-20",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:nex",
-   "tags": [],
-   "mode": null,
-   "travel": null,
-   "score": 40,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
    "id": "914a95447aee",
    "title": "Head of Sales Strategy & Operations, Global Specialist & RX Sales",
    "company": "Rubrik Job Board",
@@ -2602,6 +4325,35 @@
    "active": true
   },
   {
+   "id": "bdeedbf8446c",
+   "title": "Senior Business Data Engineer",
+   "company": "Nex",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 140000,
+   "salary_max": 170000,
+   "salary_est": false,
+   "summary": "Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and adults to move more, play more, and have fun together.",
+   "url": "https://job-boards.greenhouse.io/nex/jobs/5437092008",
+   "posted": "2026-10-20",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:nex",
+   "tags": [],
+   "mode": null,
+   "travel": null,
+   "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false
+  },
+  {
    "id": "54098e375d03",
    "title": "Staff Software Engineer - Platform",
    "company": "Alpaca",
@@ -2632,8 +4384,8 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 205000,
-   "pay_est_max": 300000,
+   "pay_est_min": 210000,
+   "pay_est_max": 305000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -3056,6 +4808,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
+     "company": "Grafana Labs",
+     "min": 204000,
+     "max": 254000
+    },
+    {
      "title": "Solutions Engineer",
      "company": "AlphaSense",
      "min": 156000,
@@ -3066,12 +4824,6 @@
      "company": "Koalafi",
      "min": 132000,
      "max": 170000
-    },
-    {
-     "title": "Security Solutions Engineer",
-     "company": "Expel",
-     "min": 102000,
-     "max": 147900
     }
    ]
   },
@@ -3403,7 +5155,7 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 90000,
-   "pay_est_max": 115000,
+   "pay_est_max": 125000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -3420,10 +5172,10 @@
      "max": 105000
     },
     {
-     "title": "IT Specialist",
-     "company": "Melio",
-     "min": 100000,
-     "max": 115000
+     "title": "IT Security Analyst",
+     "company": "Kairos Power",
+     "min": 108735,
+     "max": 127923
     }
    ]
   },
@@ -3512,7 +5264,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 140000,
+   "pay_est_min": 160000,
    "pay_est_max": 200000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -4215,6 +5967,39 @@
    "active": true
   },
   {
+   "id": "8bab10b4f2e4",
+   "title": "Engineering Manager, Data Center Operations",
+   "company": "Cloudflare",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 174000,
+   "salary_max": 239000,
+   "salary_est": false,
+   "summary": "We're looking for an experienced Data Center Operations manager to build and run the team that brings these new sites online and keeps them running around the clock. You will build a distributed team of Data Center Engineers from the ground up.",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8293647?gh_jid=8293647",
+   "posted": "2026-10-19",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:cloudflare",
+   "tags": [
+    "post-go-live",
+    "manager",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 58,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "e55a93ce1d0b",
    "title": "Solutions Architect- Public Sector (Federal Healthcare)",
    "company": "Databricks",
@@ -4272,6 +6057,41 @@
    "tags": [
     "erp",
     "regulated",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 56,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "0dc75795c562",
+   "title": "Director, IT Project Management (R6372)",
+   "company": "Shield AI",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 210000,
+   "salary_max": 320000,
+   "salary_est": false,
+   "summary": "Develop and execute the strategic vision, operating model, and multi-year maturity roadmap for the enterprise IT PMO. Establish portfolio governance, intake, prioritization, funding, resource planning, stage-gate reviews, and escalation processes for technology initiatives.",
+   "url": "https://jobs.lever.co/shieldai/9e9fcaca-678b-45fe-b81b-691c8ff0af39",
+   "posted": "2026-10-19",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:shieldai",
+   "tags": [
+    "erp",
+    "director+",
+    "consulting / si",
+    "manufacturing",
     "remote"
    ],
    "mode": "remote",
@@ -4367,7 +6187,7 @@
    "salary_max": 186000,
    "salary_est": false,
    "summary": "At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day.",
-   "url": "https://www.klaviyo.com/careers/jobs/8037132003?gh_jid=8037132003",
+   "url": "https://www.klaviyo.com/careers/jobs/8037155003?gh_jid=8037155003",
    "posted": "2026-10-19",
    "sources": [
     "greenhouse"
@@ -4553,7 +6373,7 @@
    "score": 51,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "adb47719c17e",
@@ -5278,63 +7098,6 @@
    "active": true
   },
   {
-   "id": "8bab10b4f2e4",
-   "title": "Engineering Manager, Data Center Operations",
-   "company": "Cloudflare",
-   "locations": [
-    {
-     "label": "New York, NY",
-     "state": "NY",
-     "remote": false
-    }
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_est": false,
-   "summary": "We're looking for an experienced Data Center Operations manager to build and run the team that brings these new sites online and keeps them running around the clock. You will build a distributed team of Data Center Engineers from the ground up.",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8293647?gh_jid=8293647",
-   "posted": "2026-10-19",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:cloudflare",
-   "tags": [
-    "post-go-live",
-    "manager",
-    "hybrid"
-   ],
-   "mode": "hybrid",
-   "travel": null,
-   "score": 58,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 165000,
-   "pay_est_max": 230000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Data Center Business Operations Manager",
-     "company": "Galaxy",
-     "min": 129000,
-     "max": 207000
-    },
-    {
-     "title": "Manager, Data Center Operations",
-     "company": "Ensono",
-     "min": 70000,
-     "max": 110000
-    },
-    {
-     "title": "Senior Engineering Manager, Data Platform",
-     "company": "Duolingo",
-     "min": 204000,
-     "max": 306000
-    }
-   ]
-  },
-  {
    "id": "968eead6ad32",
    "title": "Senior Product Designer, Developer Foundations",
    "company": "Coinbase",
@@ -5618,7 +7381,7 @@
    "score": 44,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "1fdc6b40e4e1",
@@ -6421,6 +8184,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "Senior Software Engineer - Full Stack",
+     "company": "Veeva",
+     "min": 110000,
+     "max": 270000
+    },
+    {
      "title": "Software Engineer I",
      "company": "Klaviyo Campus",
      "min": 104000,
@@ -6428,12 +8197,6 @@
     },
     {
      "title": "Realtime Software Engineer",
-     "company": "Anduril Industries",
-     "min": 191000,
-     "max": 253000
-    },
-    {
-     "title": "Software Engineer, Imaging",
      "company": "Anduril Industries",
      "min": 191000,
      "max": 253000
@@ -7748,8 +9511,8 @@
      "remote": false
     }
    ],
-   "salary_min": 146000,
-   "salary_max": 194000,
+   "salary_min": 147000,
+   "salary_max": 196000,
    "salary_est": false,
    "summary": "As a System Architect on the Anduril Imaging team, you will own the electronics architecture for space-bound imaging payloads and drive their design from concept through flight.",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5267600007?gh_jid=5267600007",
@@ -7913,7 +9676,7 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 95000,
-   "pay_est_max": 265000,
+   "pay_est_max": 210000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -8433,6 +10196,12 @@
    "pay_est_confidence": "partial",
    "pay_est_examples": [
     {
+     "title": "Director, Client Solutions Architects, Northeast (Remote)",
+     "company": "Myriad360",
+     "min": 300000,
+     "max": 350000
+    },
+    {
      "title": "Manager, Agent Architecture US",
      "company": "Parloa",
      "min": 160000,
@@ -8443,12 +10212,6 @@
      "company": "3Cloud",
      "min": 162800,
      "max": 244200
-    },
-    {
-     "title": "Manager of Applied AI Architecture, Startups",
-     "company": "Anthropic",
-     "min": 315000,
-     "max": 380000
     }
    ]
   },
@@ -8657,7 +10420,7 @@
    "salary_max": 300000,
    "salary_est": false,
    "summary": "Built to replace fragmented tools with a single system of record, Carta brings together the software, services, and legal infrastructure that founders use to manage equity, fund managers use to run administration and reporting, and legal teams use to close transactions.",
-   "url": "https://job-boards.greenhouse.io/carta/jobs/8035089003",
+   "url": "https://job-boards.greenhouse.io/carta/jobs/8035091003",
    "posted": "2026-10-16",
    "sources": [
     "greenhouse"
@@ -8949,7 +10712,7 @@
    "salary_max": 195600,
    "salary_est": false,
    "summary": "We’re looking for a Software Engineer II to join the User Targeting team. The team is responsible for how our customers segment and target their users. Every message Braze sends goes through our pipelines, which process billions of users per day.",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8262953",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8262294",
    "posted": "2026-10-16",
    "sources": [
     "greenhouse"
@@ -9008,11 +10771,6 @@
    "company": "Recorded Future",
    "locations": [
     {
-     "label": "Boston, MA",
-     "state": "MA",
-     "remote": false
-    },
-    {
      "label": "Somerville, MA",
      "state": "MA",
      "remote": false
@@ -9022,7 +10780,7 @@
    "salary_max": 191500,
    "salary_est": false,
    "summary": "Custom Tooling & Integration Development Design, build, and maintain custom applications, scripts, and webhook integrations across core support systems (e.g., Zendesk, Jira, Salesforce Service Cloud, Domo, StatusPage).",
-   "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8894338002",
+   "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8894737002",
    "posted": "2026-10-16",
    "sources": [
     "greenhouse"
@@ -9713,7 +11471,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "With our transformation into a fully integrated oncology company well underway, it’s an exciting time to be part of Team Olema.",
-   "url": "https://job-boards.greenhouse.io/olema/jobs/6176789004",
+   "url": "https://job-boards.greenhouse.io/olema/jobs/6176790004",
    "posted": "2026-10-16",
    "sources": [
     "greenhouse"
@@ -10362,7 +12120,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "At Moniepoint, data is at the core of everything we do. We are a customer-centric company, and your work will enable our teams to make informed, data-driven decisions that directly impact the success of our business.",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5008330101",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/5008331101",
    "posted": "2026-10-16",
    "sources": [
     "greenhouse"
@@ -10437,7 +12195,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 150000,
+   "pay_est_min": 145000,
    "pay_est_max": 175000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -11023,6 +12781,77 @@
    "active": true
   },
   {
+   "id": "7e7bb182a96c",
+   "title": "Global Data Science Lead",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 120000,
+   "salary_max": 250000,
+   "salary_est": false,
+   "summary": "The Global Analytics Business Consulting Team applies data science and AI to help customers turn commercial, medical, and regulatory data into action. We are seeking a Global Data Science Lead that will support execution of the Data Science AI strategy within this team.",
+   "url": "https://jobs.lever.co/veeva/1839fe56-7ba3-49f5-819d-545c1021fcd4",
+   "posted": "2026-10-15",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "manager",
+    "data / bi",
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 51,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f5b1b18d59cc",
+   "title": "Global Data Science Lead",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 120000,
+   "salary_max": 250000,
+   "salary_est": false,
+   "summary": "The Global Analytics Business Consulting Team applies data science and AI to help customers turn commercial, medical, and regulatory data into action. We are seeking a Global Data Science Lead that will support execution of the Data Science AI strategy within this team.",
+   "url": "https://jobs.lever.co/veeva/28960b3c-16b2-4dd2-bc1f-e18480401963",
+   "posted": "2026-10-15",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "manager",
+    "data / bi",
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 51,
+   "feeds": [
+    "index:lever:veeva"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "c0e19c2a18e0",
    "title": "Senior Director, Head of Clinical Pharmacology",
    "company": "Vir Biotechnology",
@@ -11570,7 +13399,7 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 115000,
-   "pay_est_max": 210000,
+   "pay_est_max": 225000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -11587,10 +13416,10 @@
      "max": 200000
     },
     {
-     "title": "Salesforce Technical Architect",
-     "company": "NeuraFlash, Part of Accenture",
-     "min": 94400,
-     "max": 266300
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
     }
    ]
   },
@@ -12174,7 +14003,7 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 205000,
-   "pay_est_max": 270000,
+   "pay_est_max": 255000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -12191,10 +14020,126 @@
      "max": 254000
     },
     {
-     "title": "Senior Solutions Engineer, Enterprise",
-     "company": "Tailscale",
-     "min": 250000,
+     "title": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
+     "company": "Grafana Labs",
+     "min": 204000,
+     "max": 254000
+    }
+   ]
+  },
+  {
+   "id": "ec84d58c96fb",
+   "title": "Associate Consultant - Entry-Level Clinical Data Technology Consulting",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "You’ll work hands-on with innovative Clinical Data Management technology, collaborating directly with internal teams and external customers to design, configure, and implement our clinical data software.",
+   "url": "https://jobs.lever.co/veeva/9c65ec56-b373-4579-9133-23d717723fac",
+   "posted": "2026-10-15",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "consulting / si",
+    "manufacturing",
+    "travel 25%+",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": 30,
+   "score": 28,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 85000,
+   "pay_est_max": 105000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Jr, AI and Data Consulting",
+     "company": "LinkedIn Job Wrapping",
+     "min": 85000,
+     "max": 105000
+    },
+    {
+     "title": "Associate, Mortgage Analytics",
+     "company": "National Life Insurance Company",
+     "min": 93750,
+     "max": 137500
+    },
+    {
+     "title": "Associate, Strategic Analytics",
+     "company": "New York City Economic Development Corporation",
+     "min": 80000,
+     "max": 82000
+    }
+   ]
+  },
+  {
+   "id": "5697f1ebe264",
+   "title": "Associate Consultant - Entry-Level Clinical Data Technology Consulting",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "You’ll work hands-on with innovative Clinical Data Management technology, collaborating directly with internal teams and external customers to design, configure, and implement our clinical data software.",
+   "url": "https://jobs.lever.co/veeva/bc3d2f55-c670-4e6e-95d9-734549ec95c5",
+   "posted": "2026-10-15",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "consulting / si",
+    "manufacturing",
+    "travel 25%+",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": 30,
+   "score": 28,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 85000,
+   "pay_est_max": 105000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Migration Consultant - Clinical Data Programming",
+     "company": "Veeva",
+     "min": 100000,
+     "max": 160000
+    },
+    {
+     "title": "Enterprise Account Partner - Veeva Data Cloud",
+     "company": "Veeva",
+     "min": 80000,
      "max": 300000
+    },
+    {
+     "title": "Associate Data Analyst",
+     "company": "iSpot",
+     "min": 76787,
+     "max": 92916
     }
    ]
   },
@@ -12241,16 +14186,16 @@
      "max": 160000
     },
     {
+     "title": "Manager of Product & Data Analytics",
+     "company": "Constant Contact",
+     "min": 109200,
+     "max": 136500
+    },
+    {
      "title": "Principal Product Manager, AI & Data Products",
      "company": "Parabilis Medicines",
      "min": 170000,
      "max": 205000
-    },
-    {
-     "title": "Senior Manager, CS Data & Analytics",
-     "company": "Toast",
-     "min": 145000,
-     "max": 232000
     }
    ]
   },
@@ -12584,7 +14529,7 @@
    "score": 22,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "4a00291820cc",
@@ -12652,6 +14597,40 @@
    "mode": null,
    "travel": null,
    "score": 61,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "b57d86f77ede",
+   "title": "Head of Client Success and Delivery",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 200000,
+   "salary_max": 270000,
+   "salary_est": false,
+   "summary": "The Head of Client Success and Delivery will drive enterprise retention through product adoption and drive long-term customer value creation the client portfolios.",
+   "url": "https://jobs.lever.co/veeva/57b392bc-6918-43f3-b1e2-b5be94f72947",
+   "posted": "2026-10-14",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "director+",
+    "pe portfolio",
+    "manufacturing",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 58,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -12758,6 +14737,40 @@
    "active": true
   },
   {
+   "id": "0ecaf6e278ea",
+   "title": "Senior AI Data & Analytics Engineer II",
+   "company": "Samsara",
+   "locations": [
+    {
+     "label": "Remote (MA)",
+     "state": "MA",
+     "remote": true
+    }
+   ],
+   "salary_min": 137445,
+   "salary_max": 231000,
+   "salary_est": false,
+   "summary": "Want to build the data foundation powering AI and self-serve analytics at scale? As part of Samsara's Marketing Data and Analytics (MDA) Engineering team, you will shape the technical roadmap alongside our BI and Data Science peers.",
+   "url": "https://www.samsara.com/company/careers/roles/8281491?gh_jid=8281491",
+   "posted": "2026-10-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:samsara",
+   "tags": [
+    "data / bi",
+    "ai",
+    "manufacturing",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 53,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "92e1ef06b8d5",
    "title": "Senior AI Data & Analytics Engineer II",
    "company": "Samsara",
@@ -12772,7 +14785,7 @@
    "salary_max": 231000,
    "salary_est": false,
    "summary": "Want to build the data foundation powering AI and self-serve analytics at scale? As part of Samsara's Marketing Data and Analytics (MDA) Engineering team, you will shape the technical roadmap alongside our BI and Data Science peers.",
-   "url": "https://www.samsara.com/company/careers/roles/8302004?gh_jid=8302004",
+   "url": "https://www.samsara.com/company/careers/roles/8281490?gh_jid=8281490",
    "posted": "2026-10-14",
    "sources": [
     "greenhouse"
@@ -12810,40 +14823,6 @@
    "salary_est": false,
    "summary": "Want to build the data foundation powering AI and self-serve analytics at scale? As part of Samsara's Marketing Data and Analytics (MDA) Engineering team, you will shape the technical roadmap alongside our BI and Data Science peers.",
    "url": "https://www.samsara.com/company/careers/roles/8281479?gh_jid=8281479",
-   "posted": "2026-10-14",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:samsara",
-   "tags": [
-    "data / bi",
-    "ai",
-    "manufacturing",
-    "remote"
-   ],
-   "mode": "remote",
-   "travel": null,
-   "score": 53,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
-   "id": "0ecaf6e278ea",
-   "title": "Senior AI Data & Analytics Engineer II",
-   "company": "Samsara",
-   "locations": [
-    {
-     "label": "Remote (MA)",
-     "state": "MA",
-     "remote": true
-    }
-   ],
-   "salary_min": 137445,
-   "salary_max": 231000,
-   "salary_est": false,
-   "summary": "Want to build the data foundation powering AI and self-serve analytics at scale? As part of Samsara's Marketing Data and Analytics (MDA) Engineering team, you will shape the technical roadmap alongside our BI and Data Science peers.",
-   "url": "https://www.samsara.com/company/careers/roles/8281491?gh_jid=8281491",
    "posted": "2026-10-14",
    "sources": [
     "greenhouse"
@@ -13116,7 +15095,7 @@
    "score": 52,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "53553cafeac2",
@@ -13833,6 +15812,62 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "f95674978e7e",
+   "title": "Staff Software Engineer",
+   "company": "Elation Health",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve been focused on building an intuitive, reliable experience that empowers physicians to deliver better care to patients.",
+   "url": "https://www.elationhealth.com/about-us/careers/?gh_jid=8265478",
+   "posted": "2026-10-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:elationhealth",
+   "tags": [
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false,
+   "pay_est_min": 165000,
+   "pay_est_max": 250000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Staff Software Engineer",
+     "company": "Omada Health",
+     "min": 202400,
+     "max": 253000
+    },
+    {
+     "title": "Staff Software Engineer",
+     "company": "Axios",
+     "min": 165000,
+     "max": 215000
+    },
+    {
+     "title": "Senior / Staff Platform Software Engineer",
+     "company": "Clear Street",
+     "min": 200000,
+     "max": 350000
+    }
+   ]
   },
   {
    "id": "5ffca6f4864b",
@@ -14920,16 +16955,16 @@
      "max": 130000
     },
     {
+     "title": "Software Engineer, Integrations (US + Calgary)",
+     "company": "Syndio",
+     "min": 125000,
+     "max": 148000
+    },
+    {
      "title": "IT Operations Engineer",
      "company": "Teads",
      "min": 70000,
      "max": 100000
-    },
-    {
-     "title": "IT Systems Engineer",
-     "company": "Vercel",
-     "min": 180000,
-     "max": 288000
     }
    ]
   },
@@ -15110,62 +17145,6 @@
      "company": "Komodo Health",
      "min": 196000,
      "max": 230000
-    }
-   ]
-  },
-  {
-   "id": "f95674978e7e",
-   "title": "Staff Software Engineer",
-   "company": "Elation Health",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    }
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_est": false,
-   "summary": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve been focused on building an intuitive, reliable experience that empowers physicians to deliver better care to patients.",
-   "url": "https://www.elationhealth.com/about-us/careers/?gh_jid=8265478",
-   "posted": "2026-10-14",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:elationhealth",
-   "tags": [
-    "ai",
-    "remote"
-   ],
-   "mode": "remote",
-   "travel": null,
-   "score": 44,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 165000,
-   "pay_est_max": 250000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Staff Software Engineer",
-     "company": "Omada Health",
-     "min": 202400,
-     "max": 253000
-    },
-    {
-     "title": "Staff Software Engineer",
-     "company": "Axios",
-     "min": 165000,
-     "max": 215000
-    },
-    {
-     "title": "Senior / Staff Platform Software Engineer",
-     "company": "Clear Street",
-     "min": 200000,
-     "max": 350000
     }
    ]
   },
@@ -15718,8 +17697,8 @@
      "remote": true
     }
    ],
-   "salary_min": 218487,
-   "salary_max": 273110,
+   "salary_min": 209748,
+   "salary_max": 262185,
    "salary_est": false,
    "summary": "We're looking for a Partner Solutions Architect to own the global technical relationship with Snowflake and Databricks. Snowflake and Databricks are two of Fivetran + dbt Labs’ largest platform alliances. This is a global role scoped to those two partners.",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8008322003",
@@ -16491,16 +18470,16 @@
      "max": 140000
     },
     {
+     "title": "Supply Chain Program Manager - Rack Integration",
+     "company": "Cloudflare",
+     "min": 138000,
+     "max": 189000
+    },
+    {
      "title": "IT & Business Systems Manager",
      "company": "DataGrail",
      "min": 130000,
      "max": 175000
-    },
-    {
-     "title": "Sr. Manager, Data and Analytics",
-     "company": "LOTTE BIOLOGICS USA, LLC",
-     "min": 91000,
-     "max": 142000
     }
    ]
   },
@@ -16759,37 +18738,6 @@
    "active": true
   },
   {
-   "id": "fe7aa5bf93a7",
-   "title": "Software Engineer II, Developer Experience",
-   "company": "Toast",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    }
-   ],
-   "salary_min": 133000,
-   "salary_max": 213000,
-   "salary_est": false,
-   "summary": "Location(s): US (remote), Boston (hybrid), New York (hybrid), San Francisco (hybrid) Bready* to make a change? Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8245633",
-   "posted": "2026-10-13",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:toast",
-   "tags": [
-    "remote"
-   ],
-   "mode": "remote",
-   "travel": null,
-   "score": 44,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
    "id": "9ff954290919",
    "title": "Staff Software Engineer, Care Experience",
    "company": "Toast",
@@ -16920,6 +18868,37 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "fe7aa5bf93a7",
+   "title": "Software Engineer II, Developer Experience",
+   "company": "Toast",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 133000,
+   "salary_max": 213000,
+   "salary_est": false,
+   "summary": "Location(s): US (remote), Boston (hybrid), New York (hybrid), San Francisco (hybrid) Bready* to make a change? Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8245633",
+   "posted": "2026-10-13",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:toast",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false
   },
   {
    "id": "56e902e67803",
@@ -17994,37 +19973,6 @@
    "active": true
   },
   {
-   "id": "878c1c94111b",
-   "title": "Associate Software Engineer, Frontend",
-   "company": "Justworks",
-   "locations": [
-    {
-     "label": "New York, NY",
-     "state": "NY",
-     "remote": false
-    }
-   ],
-   "salary_min": 109000,
-   "salary_max": 136000,
-   "salary_est": false,
-   "summary": "At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people.",
-   "url": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815",
-   "posted": "2026-10-13",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:justworks",
-   "tags": [
-    "hybrid"
-   ],
-   "mode": "hybrid",
-   "travel": null,
-   "score": 22,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
    "id": "4a98f73049d7",
    "title": "Implementation & Workflow Specialist",
    "company": "Octus",
@@ -18055,6 +20003,37 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "878c1c94111b",
+   "title": "Associate Software Engineer, Frontend",
+   "company": "Justworks",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 109000,
+   "salary_max": 136000,
+   "salary_est": false,
+   "summary": "At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people.",
+   "url": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815",
+   "posted": "2026-10-13",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:justworks",
+   "tags": [
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 22,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false
   },
   {
    "id": "d8805d056e6b",
@@ -18311,16 +20290,16 @@
      "max": 200000
     },
     {
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
+    },
+    {
      "title": "Salesforce Technical Architect",
      "company": "NeuraFlash, Part of Accenture",
      "min": 94400,
      "max": 266300
-    },
-    {
-     "title": "SAP SCM Architect",
-     "company": "iFIT",
-     "min": 115000,
-     "max": 135000
     }
    ]
   },
@@ -18608,41 +20587,32 @@
    "active": true
   },
   {
-   "id": "f8b4094022c2",
-   "title": "Senior Data Engineer",
-   "company": "Xometry",
+   "id": "b45ead88be7b",
+   "title": "Senior Software Engineer - Full Stack",
+   "company": "Veeva",
    "locations": [
-    {
-     "label": "North Bethesda, MD",
-     "state": "MD",
-     "remote": false
-    },
     {
      "label": "Boston, MA",
      "state": "MA",
      "remote": false
     }
    ],
-   "salary_min": 119000,
-   "salary_max": 155000,
+   "salary_min": 110000,
+   "salary_max": 270000,
    "salary_est": false,
-   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
-   "url": "https://job-boards.greenhouse.io/xometry/jobs/5263559007",
+   "summary": "This is a top software engineering job that incorporates everything you’ve worked so hard for.",
+   "url": "https://jobs.lever.co/veeva/3957164e-e2ec-402a-b3b8-c5225eb9b0fa",
    "posted": "2026-10-12",
    "sources": [
-    "greenhouse"
+    "lever"
    ],
-   "feed": "greenhouse:Xometry",
+   "feed": "index:lever:veeva",
    "tags": [
-    "data / bi",
-    "manufacturing",
-    "hybrid",
-    "startup",
-    "growth stage"
+    "remote"
    ],
-   "mode": "hybrid",
+   "mode": "remote",
    "travel": null,
-   "score": 42,
+   "score": 44,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -18673,6 +20643,46 @@
    "salary_est": false,
    "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
    "url": "https://job-boards.greenhouse.io/xometry/jobs/5263613007",
+   "posted": "2026-10-12",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "data / bi",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 42,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f8b4094022c2",
+   "title": "Senior Data Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 119000,
+   "salary_max": 155000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5263559007",
    "posted": "2026-10-12",
    "sources": [
     "greenhouse"
@@ -18783,7 +20793,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 180000,
+   "pay_est_min": 175000,
    "pay_est_max": 220000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -18801,10 +20811,10 @@
      "max": 168400
     },
     {
-     "title": "Director, Finance Systems & ERP",
-     "company": "Smartsheet",
+     "title": "Enterprise Systems Director",
+     "company": "Blueland",
      "min": 175000,
-     "max": 290000
+     "max": 195000
     }
    ]
   },
@@ -19027,6 +21037,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "Solutions Architect - Consumer Packaged Goods (CPG)",
+     "company": "Databricks",
+     "min": 180000,
+     "max": 247500
+    },
+    {
      "title": "Solutions Architect",
      "company": "Fastly",
      "min": 122280,
@@ -19037,12 +21053,6 @@
      "company": "Navan",
      "min": 129600,
      "max": 288000
-    },
-    {
-     "title": "Mainframe Modernization Architect",
-     "company": "Ensono",
-     "min": 156000,
-     "max": 210000
     }
    ]
   },
@@ -19364,6 +21374,62 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "673bf49407ee",
+   "title": "Head of Business Risk & Controls",
+   "company": "MoonPay",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We are hiring a Head of Business Risk & Controls to build and lead a strong first-line risk and control framework across relevant areas of our business. This is an opportunity for an experienced financial services controls leader to build and scale a control environment in a fast-evolving industry.",
+   "url": "https://jobs.lever.co/moonpay/5e150bc1-bf8f-485c-861a-a2abc6c81f39",
+   "posted": "2026-10-12",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:moonpay",
+   "tags": [
+    "director+",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 180000,
+   "pay_est_max": 200000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Head of Market & Liquidity Risk",
+     "company": "Mercury",
+     "min": 252000,
+     "max": 315600
+    },
+    {
+     "title": "Head of Growth",
+     "company": "Code3",
+     "min": 180000,
+     "max": 200000
+    },
+    {
+     "title": "Head of Marketing",
+     "company": "Code3",
+     "min": 155000,
+     "max": 180000
+    }
+   ]
   },
   {
    "id": "ec0c14c71246",
@@ -20004,6 +22070,41 @@
    "mode": null,
    "travel": null,
    "score": 52,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "4c37383dee7d",
+   "title": "Enterprise Systems Director",
+   "company": "Blueland",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 175000,
+   "salary_max": 195000,
+   "salary_est": false,
+   "summary": "Reporting to the CFO, this role will own Blueland's enterprise systems and day-to-day IT operations.",
+   "url": "https://jobs.lever.co/blueland/88235715-dee4-4249-b50c-4e026b68a8d9",
+   "posted": "2026-10-09",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:blueland",
+   "tags": [
+    "erp",
+    "director+",
+    "edi / integration",
+    "regulated",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 51,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -20857,7 +22958,7 @@
    "salary_max": 275000,
    "salary_est": false,
    "summary": "Backed by leading Silicon Valley investors, Peregrine helps public safety organizations, state and local and governments, federal agencies , and private-sector institutions address society’s challenges with unprecedented speed and accuracy.",
-   "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4740979005",
+   "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4740980005",
    "posted": "2026-10-09",
    "sources": [
     "greenhouse"
@@ -21037,12 +23138,12 @@
    ],
    "mode": "remote",
    "travel": null,
-   "score": 45,
+   "score": 34,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 130000,
-   "pay_est_max": 155000,
+   "pay_est_min": 95000,
+   "pay_est_max": 125000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -21094,12 +23195,12 @@
    ],
    "mode": "remote",
    "travel": null,
-   "score": 45,
+   "score": 34,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 130000,
-   "pay_est_max": 155000,
+   "pay_est_min": 95000,
+   "pay_est_max": 125000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -21336,7 +23437,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 185000,
+   "pay_est_min": 170000,
    "pay_est_max": 225000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -21376,7 +23477,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "We help leading and emerging brands grow by combining deep vertical expertise, strategic thinking, and enterprise intelligence to drive measurable business outcomes. For more than a decade, we have built our business around one belief: the best technology makes great people better.",
-   "url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5262550007",
+   "url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5262547007",
    "posted": "2026-10-09",
    "sources": [
     "greenhouse"
@@ -22585,6 +24686,70 @@
    "active": true
   },
   {
+   "id": "f18412dc217c",
+   "title": "Marketing Data Analytics Engineer (CA)",
+   "company": "PointClickCare",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 82000,
+   "salary_max": 92000,
+   "salary_est": false,
+   "summary": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.",
+   "url": "https://jobs.lever.co/pointclickcare/e826a207-dba8-41ff-b7b0-c4a4210d5f7d",
+   "posted": "2026-10-09",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:pointclickcare",
+   "tags": [
+    "data / bi",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 25,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "e6a3b408a389",
+   "title": "Marketing Data Analytics Engineer (US)",
+   "company": "PointClickCare",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 87000,
+   "salary_max": 97000,
+   "salary_est": false,
+   "summary": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.",
+   "url": "https://jobs.lever.co/pointclickcare/96d77b19-2396-4f9e-9513-59471b3e28ed",
+   "posted": "2026-10-09",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:pointclickcare",
+   "tags": [
+    "data / bi",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 25,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "0d65a4edcc1a",
    "title": "2027 Early Career Systems Engineer",
    "company": "Anduril Industries",
@@ -22661,7 +24826,7 @@
    "salary_max": 228491,
    "salary_est": false,
    "summary": "Define technical strategy and lead architectural design across cloud, data, and AI/ML systems for end-to-end engagements Architect scalable cloud-native solutions, including multi-cloud and hybrid strategies (e.g., AWS, Azure, GCP, Kubernetes)",
-   "url": "https://job-boards.greenhouse.io/robotsandpencils/jobs/5448647008",
+   "url": "https://job-boards.greenhouse.io/robotsandpencils/jobs/5448173008",
    "posted": "2026-10-08",
    "sources": [
     "greenhouse"
@@ -22788,7 +24953,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 140000,
+   "pay_est_min": 150000,
    "pay_est_max": 200000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -22800,16 +24965,16 @@
      "max": 200000
     },
     {
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
+    },
+    {
      "title": "Salesforce Technical Architect",
      "company": "NeuraFlash, Part of Accenture",
      "min": 94400,
      "max": 266300
-    },
-    {
-     "title": "SAP SCM Architect",
-     "company": "iFIT",
-     "min": 115000,
-     "max": 135000
     }
    ]
   },
@@ -23073,7 +25238,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 140000,
+   "pay_est_min": 150000,
    "pay_est_max": 200000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -23085,16 +25250,16 @@
      "max": 200000
     },
     {
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
+    },
+    {
      "title": "Salesforce Technical Architect",
      "company": "NeuraFlash, Part of Accenture",
      "min": 94400,
      "max": 266300
-    },
-    {
-     "title": "SAP SCM Architect",
-     "company": "iFIT",
-     "min": 115000,
-     "max": 135000
     }
    ]
   },
@@ -24062,8 +26227,8 @@
     {
      "title": "Staff Software Engineer",
      "company": "Xometry",
-     "min": 160000,
-     "max": 180000
+     "min": 170000,
+     "max": 195000
     },
     {
      "title": "Principal Software Engineer",
@@ -24117,8 +26282,8 @@
     {
      "title": "Staff Software Engineer",
      "company": "Xometry",
-     "min": 160000,
-     "max": 180000
+     "min": 170000,
+     "max": 195000
     },
     {
      "title": "Principal Software Engineer",
@@ -24264,10 +26429,10 @@
      "max": 60320
     },
     {
-     "title": "Insights Analyst, Implementation & QA",
-     "company": "NPR",
-     "min": 91276,
-     "max": 98294
+     "title": "IT Security Analyst",
+     "company": "Kairos Power",
+     "min": 108735,
+     "max": 127923
     }
    ]
   },
@@ -24463,12 +26628,12 @@
    ],
    "mode": "remote",
    "travel": null,
-   "score": 40,
+   "score": 44,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 125000,
-   "pay_est_max": 195000,
+   "pay_est_max": 210000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -25511,11 +27676,17 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 95000,
+   "pay_est_min": 115000,
    "pay_est_max": 210000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
+    {
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
+    },
     {
      "title": "Salesforce Solution Architect, Revenue Cloud",
      "company": "NeuraFlash, Part of Accenture",
@@ -25527,12 +27698,6 @@
      "company": "Loenbro",
      "min": 185000,
      "max": 200000
-    },
-    {
-     "title": "Salesforce Technical Architect",
-     "company": "NeuraFlash, Part of Accenture",
-     "min": 94400,
-     "max": 266300
     }
    ]
   },
@@ -25873,11 +28038,11 @@
      "remote": false
     }
    ],
-   "salary_min": 119100,
-   "salary_max": 265400,
+   "salary_min": 167300,
+   "salary_max": 307600,
    "salary_est": false,
-   "summary": "In this role, you will own the end-to-end process of onboarding publisher partners into Roku's ecosystem, working to both standardize and streamline those integrations while supporting the unique requirements each partner brings.",
-   "url": "https://www.weareroku.com/jobs/8263080?gh_jid=8263080",
+   "summary": "In this role, you will own the end-to-end process of onboarding publisher partners into Roku's ecosystem, standardizing and streamlining integrations while supporting each partner's unique requirements.",
+   "url": "https://www.weareroku.com/jobs/8311265?gh_jid=8311265",
    "posted": "2026-10-07",
    "sources": [
     "greenhouse"
@@ -25891,6 +28056,9 @@
    "mode": "hybrid",
    "travel": null,
    "score": 48,
+   "feeds": [
+    "index:greenhouse:roku"
+   ],
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -26114,7 +28282,7 @@
    "salary_max": 210450,
    "salary_est": false,
    "summary": "Reports to: Director, IT Engineering Direct Reports: None — this is an individual contributor role p]:inline\" data-streamdown=\"list-item\">Serve as the technical owner and lead administrator for Axon’s Google Workspace / Google Enterprise environment.",
-   "url": "https://job-boards.greenhouse.io/axon/jobs/8015689003",
+   "url": "https://job-boards.greenhouse.io/axon/jobs/8015690003",
    "posted": "2026-10-07",
    "sources": [
     "greenhouse"
@@ -26482,10 +28650,10 @@
      "max": 200000
     },
     {
-     "title": "Salesforce Technical Architect",
-     "company": "NeuraFlash, Part of Accenture",
-     "min": 94400,
-     "max": 266300
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
     }
    ]
   },
@@ -26576,6 +28744,68 @@
     "hybrid"
    ],
    "mode": "hybrid",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "1193bbaedfb9",
+   "title": "Enterprise Account Partner - Veeva Data Cloud",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "Philadelphia, PA",
+     "state": "PA",
+     "remote": false
+    }
+   ],
+   "salary_min": 80000,
+   "salary_max": 300000,
+   "salary_est": false,
+   "summary": "The Veeva Data Cloud Sales team is looking for a skilled Account Partner to drive sales of our modern data platform to large pharma Life Sciences companies.",
+   "url": "https://jobs.lever.co/veeva/55015bf0-a504-4a7d-baea-e9a0cc974489",
+   "posted": "2026-10-07",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "f319f376a8b0",
+   "title": "Enterprise Account Partner - Veeva Data Cloud",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 80000,
+   "salary_max": 300000,
+   "salary_est": false,
+   "summary": "The Veeva Data Cloud Sales team is looking for a skilled Account Partner to drive sales of our modern data platform to large pharma Life Sciences companies.",
+   "url": "https://jobs.lever.co/veeva/71574aed-f982-4602-93ca-4016d957b058",
+   "posted": "2026-10-07",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
    "travel": null,
    "score": 44,
    "first_seen": "2026-10-21",
@@ -26959,6 +29189,38 @@
    "active": true
   },
   {
+   "id": "584d6a6d6434",
+   "title": "Systems Integration Engineer",
+   "company": "Hypori",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 135000,
+   "salary_max": 145000,
+   "salary_est": false,
+   "summary": "is a high-growth cybersecurity SaaS company transforming how organizations think about secure mobility. Our virtual workspace platform enables users to access enterprise apps an d d ata from a ny mobile device—with zero data on the endpoint and total personal privacy.",
+   "url": "https://job-boards.greenhouse.io/hypori/jobs/6220076004",
+   "posted": "2026-10-07",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:hypori",
+   "tags": [
+    "manufacturing",
+    "on-site"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 39,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "7c59e5240c83",
    "title": "Research Data Expert",
    "company": "Hudson River Trading",
@@ -27111,6 +29373,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "Marketing Automation Architect (US)",
+     "company": "PointClickCare",
+     "min": 159000,
+     "max": 177000
+    },
+    {
      "title": "Senior Security Solutions Architect (Remote)",
      "company": "Myriad360",
      "min": 200000,
@@ -27121,12 +29389,6 @@
      "company": "Myriad360",
      "min": 145000,
      "max": 170000
-    },
-    {
-     "title": "Architect - DevOps",
-     "company": "3Cloud",
-     "min": 125200,
-     "max": 187800
     }
    ]
   },
@@ -27384,62 +29646,6 @@
    "active": true
   },
   {
-   "id": "584d6a6d6434",
-   "title": "Systems Integration Engineer",
-   "company": "Hypori",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    }
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_est": false,
-   "summary": "is a high-growth cybersecurity SaaS company transforming how organizations think about secure mobility. Our virtual workspace platform enables users to access enterprise apps an d d ata from a ny mobile device—with zero data on the endpoint and total personal privacy.",
-   "url": "https://job-boards.greenhouse.io/hypori/jobs/6220076004",
-   "posted": "2026-10-07",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:hypori",
-   "tags": [
-    "manufacturing",
-    "on-site"
-   ],
-   "mode": "on-site",
-   "travel": null,
-   "score": 46,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 145000,
-   "pay_est_max": 165000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Systems Engineer IV – Systems",
-     "company": "Voyager Technologies, Inc.",
-     "min": 125700,
-     "max": 173700
-    },
-    {
-     "title": "Systems Engineer",
-     "company": "Shift5",
-     "min": 143000,
-     "max": 156000
-    },
-    {
-     "title": "Systems Engineer",
-     "company": "Kairos Power",
-     "min": 122270,
-     "max": 143847
-    }
-   ]
-  },
-  {
    "id": "baf29234f5dd",
    "title": "Data Access Manager",
    "company": "Power Digital",
@@ -27454,7 +29660,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "We help leading and emerging brands grow by combining deep vertical expertise, strategic thinking, and enterprise intelligence to drive measurable business outcomes. For more than a decade, we have built our business around one belief: the best technology makes great people better.",
-   "url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5260817007",
+   "url": "https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5260832007",
    "posted": "2026-10-07",
    "sources": [
     "greenhouse"
@@ -28108,8 +30314,8 @@
      "remote": false
     }
    ],
-   "salary_min": 166000,
-   "salary_max": 220000,
+   "salary_min": 183000,
+   "salary_max": 243000,
    "salary_est": false,
    "summary": "Most data work stops at the dashboard. For this role, that’s where the work begins. As a Product Engineer on the Data team, you’ll build internal products on top of Anduril’s unified data model.",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5259097007?gh_jid=5259097007",
@@ -28365,10 +30571,10 @@
     }
    ],
    "salary_min": 170000,
-   "salary_max": 210000,
+   "salary_max": 200000,
    "salary_est": false,
    "summary": "Own analytics and end-to-end measurement across all growth marketing functions, ensuring consistent and actionable reporting from spend to revenue.",
-   "url": "https://ripple.com/careers/all-jobs/job/8257667?gh_jid=8257667",
+   "url": "https://ripple.com/careers/all-jobs/job/8257679?gh_jid=8257679",
    "posted": "2026-10-06",
    "sources": [
     "greenhouse"
@@ -29149,12 +31355,12 @@
    ],
    "mode": "remote",
    "travel": null,
-   "score": 45,
+   "score": 34,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 130000,
-   "pay_est_max": 155000,
+   "pay_est_min": 95000,
+   "pay_est_max": 125000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -29944,8 +32150,8 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 125000,
-   "pay_est_max": 175000,
+   "pay_est_min": 140000,
+   "pay_est_max": 165000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -29962,10 +32168,10 @@
      "max": 203000
     },
     {
-     "title": "Senior Systems Engineer, Tech Foundations",
-     "company": "Airbnb",
-     "min": 164000,
-     "max": 193000
+     "title": "Senior IT Systems Engineer",
+     "company": "Tines",
+     "min": 145000,
+     "max": 145000
     }
    ]
   },
@@ -29995,15 +32201,21 @@
    ],
    "mode": null,
    "travel": null,
-   "score": 39,
+   "score": 46,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 95000,
-   "pay_est_max": 145000,
+   "pay_est_max": 165000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
+    {
+     "title": "Enterprise Account Partner - Veeva Data Cloud",
+     "company": "Veeva",
+     "min": 80000,
+     "max": 300000
+    },
     {
      "title": "Senior Data Engineer",
      "company": "Penn Interactive",
@@ -30015,12 +32227,6 @@
      "company": "HealthVerity",
      "min": 150000,
      "max": 185000
-    },
-    {
-     "title": "Structural Engineer - Data Centers",
-     "company": "Olsson",
-     "min": 95000,
-     "max": 145000
     }
    ]
   },
@@ -30918,9 +33124,10 @@
    "tags": [
     "erp",
     "ai",
-    "regulated"
+    "regulated",
+    "hybrid"
    ],
-   "mode": null,
+   "mode": "hybrid",
    "travel": null,
    "score": 52,
    "first_seen": "2026-10-21",
@@ -31176,7 +33383,7 @@
    "salary_max": 178000,
    "salary_est": false,
    "summary": "In this role, you will build and enhance Clearway’s internal quantitative modeling platform (CWENQuant), develop advanced BESS dispatch optimization and price forecasting models, and provide independent risk analytics — mark-to-market, value-at-risk, credit, and scenario/stress analysis — that…",
-   "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5250917007",
+   "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5259697007",
    "posted": "2026-10-05",
    "sources": [
     "greenhouse"
@@ -31220,9 +33427,9 @@
    "feed": "index:greenhouse:galaxydigitalservices",
    "tags": [
     "manager",
-    "on-site"
+    "hybrid"
    ],
-   "mode": "on-site",
+   "mode": "hybrid",
    "travel": null,
    "score": 48,
    "first_seen": "2026-10-21",
@@ -32312,9 +34519,10 @@
    ],
    "feed": "index:greenhouse:judihealth",
    "tags": [
-    "data / bi"
+    "data / bi",
+    "hybrid"
    ],
-   "mode": null,
+   "mode": "hybrid",
    "travel": null,
    "score": 36,
    "first_seen": "2026-10-21",
@@ -32461,7 +34669,7 @@
    "score": 33,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "d4dedb64de68",
@@ -32550,7 +34758,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 85000,
+   "pay_est_min": 90000,
    "pay_est_max": 105000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -33243,13 +35451,13 @@
    "active": true
   },
   {
-   "id": "fc0217a742fc",
+   "id": "6cfa45f1467e",
    "title": "Business Systems Architect – Finance (D365 FO)",
    "company": "Axon",
    "locations": [
     {
-     "label": "New York, NY",
-     "state": "NY",
+     "label": "Boston, MA",
+     "state": "MA",
      "remote": false
     }
    ],
@@ -33257,7 +35465,7 @@
    "salary_max": 237600,
    "salary_est": false,
    "summary": "Location:  Remote with a preference for Axon Hubs (Boston, NYC, Seattle, Scottsdale) Director, Business Systems ERP Solution Architecture: Lead the design, development, and implementation of innovative financial solutions within the Dynamics 365 Finance & Operations (D365 FO) platform.",
-   "url": "https://job-boards.greenhouse.io/axon/jobs/8011895003",
+   "url": "https://job-boards.greenhouse.io/axon/jobs/8011863003",
    "posted": "2026-10-02",
    "sources": [
     "greenhouse"
@@ -33276,13 +35484,13 @@
    "active": true
   },
   {
-   "id": "6cfa45f1467e",
+   "id": "fc0217a742fc",
    "title": "Business Systems Architect – Finance (D365 FO)",
    "company": "Axon",
    "locations": [
     {
-     "label": "Boston, MA",
-     "state": "MA",
+     "label": "New York, NY",
+     "state": "NY",
      "remote": false
     }
    ],
@@ -33290,7 +35498,7 @@
    "salary_max": 237600,
    "salary_est": false,
    "summary": "Location:  Remote with a preference for Axon Hubs (Boston, NYC, Seattle, Scottsdale) Director, Business Systems ERP Solution Architecture: Lead the design, development, and implementation of innovative financial solutions within the Dynamics 365 Finance & Operations (D365 FO) platform.",
-   "url": "https://job-boards.greenhouse.io/axon/jobs/8011863003",
+   "url": "https://job-boards.greenhouse.io/axon/jobs/8011895003",
    "posted": "2026-10-02",
    "sources": [
     "greenhouse"
@@ -33806,16 +36014,16 @@
      "max": 315000
     },
     {
+     "title": "Software Engineer, Integrations (US + Calgary)",
+     "company": "Syndio",
+     "min": 125000,
+     "max": 148000
+    },
+    {
      "title": "Senior Business Systems Engineer, Salesforce CPQ Developer",
      "company": "Navan",
      "min": 95025,
      "max": 211300
-    },
-    {
-     "title": "Full Stack Developer",
-     "company": "Cell Signaling Technology",
-     "min": 157000,
-     "max": 222000
     }
    ]
   },
@@ -34084,38 +36292,6 @@
    "active": true
   },
   {
-   "id": "254cd53cd227",
-   "title": "Principal Software Engineer, Asana Platform",
-   "company": "Asana",
-   "locations": [
-    {
-     "label": "New York, NY",
-     "state": "NY",
-     "remote": false
-    }
-   ],
-   "salary_min": 365500,
-   "salary_max": 380000,
-   "salary_est": false,
-   "summary": "The Platform organization at Asana builds the services and shared experiences that every Asana product runs on. That starts with the Work Graph, where our customers' work lives, and the APIs that let people and AI agents act on it.",
-   "url": "https://www.asana.com/jobs/apply/8227428?gh_jid=8227428",
-   "posted": "2026-10-02",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:asana",
-   "tags": [
-    "ai",
-    "hybrid"
-   ],
-   "mode": "hybrid",
-   "travel": null,
-   "score": 44,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
    "id": "f0acc6dc362d",
    "title": "Senior Software Engineer (Institutional, Financing)",
    "company": "Coinbase",
@@ -34346,6 +36522,38 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "254cd53cd227",
+   "title": "Principal Software Engineer, Asana Platform",
+   "company": "Asana",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 365500,
+   "salary_max": 380000,
+   "salary_est": false,
+   "summary": "The Platform organization at Asana builds the services and shared experiences that every Asana product runs on. That starts with the Work Graph, where our customers' work lives, and the APIs that let people and AI agents act on it.",
+   "url": "https://www.asana.com/jobs/apply/8227428?gh_jid=8227428",
+   "posted": "2026-10-02",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:asana",
+   "tags": [
+    "ai",
+    "hybrid"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false
   },
   {
    "id": "a4216bc7d634",
@@ -35557,8 +37765,8 @@
      "remote": false
     }
    ],
-   "salary_min": 194212,
-   "salary_max": 242765,
+   "salary_min": 242765,
+   "salary_max": 303456,
    "salary_est": false,
    "summary": "We’re looking to hire a Solutions Engineer, Enterprise to join our Field Engineering team. As a Solutions Architect, you will be a trusted technical advisor to some of our largest and most strategic customers, helping them evaluate, adopt, and expand their use of dbt.",
    "url": "https://www.fivetran.com/careers/job?gh_jid=7999916003",
@@ -35648,7 +37856,7 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 115000,
-   "pay_est_max": 265000,
+   "pay_est_max": 225000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -35791,7 +37999,7 @@
    "salary_max": 242500,
    "salary_est": false,
    "summary": "The Ads DSE team builds the core capabilities that power Instacart's off-platform advertising, secure data collaboration (cleanrooms), automated taxonomy management, and their associated platform foundations.",
-   "url": "https://instacart.careers/job/?gh_jid=8246054",
+   "url": "https://instacart.careers/job/?gh_jid=8281965",
    "posted": "2026-10-01",
    "sources": [
     "greenhouse"
@@ -36621,12 +38829,12 @@
    ],
    "mode": null,
    "travel": null,
-   "score": 45,
+   "score": 34,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 120000,
-   "pay_est_max": 155000,
+   "pay_est_min": 95000,
+   "pay_est_max": 125000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -37274,10 +39482,10 @@
      "max": 105000
     },
     {
-     "title": "GTM Solutions Consultant II (Presales)",
-     "company": "Apollo.io",
-     "min": 175000,
-     "max": 185000
+     "title": "IT Security Analyst",
+     "company": "Kairos Power",
+     "min": 108735,
+     "max": 127923
     }
    ]
   },
@@ -38601,7 +40809,7 @@
    "salary_max": 240000,
    "salary_est": false,
    "summary": "The Identity and Access Management team builds and maintains secure, user-friendly authentication and authorization systems that protect users, safeguard company assets, and provide a seamless access experience for developers.",
-   "url": "https://www.brex.com/careers/8859393002?gh_jid=8859393002",
+   "url": "https://www.brex.com/careers/8859337002?gh_jid=8859337002",
    "posted": "2026-09-30",
    "sources": [
     "greenhouse"
@@ -39096,35 +41304,6 @@
    "active": true
   },
   {
-   "id": "6136e5fafe33",
-   "title": "Full Stack Software Engineer",
-   "company": "Wilson Elser - Business & Legal Professionals",
-   "locations": [
-    {
-     "label": "New York, NY",
-     "state": "NY",
-     "remote": false
-    }
-   ],
-   "salary_min": 145000,
-   "salary_max": 180000,
-   "salary_est": false,
-   "summary": "At Wilson Elser , we are redefining what it means to work at a national law firm. With more than 1,400 attorneys across 46 offices nationwide, we are recognized among the top 100 law firms by The American Lawyer and ranked #30 in the National Law Journal’s survey of the nation’s largest law firms.",
-   "url": "https://job-boards.greenhouse.io/wilsonelser/jobs/5439606008",
-   "posted": "2026-09-30",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:wilsonelser",
-   "tags": [],
-   "mode": null,
-   "travel": null,
-   "score": 40,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
    "id": "0a0368627ad1",
    "title": "Staff Threat Researcher",
    "company": "Zscaler",
@@ -39154,6 +41333,35 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "6136e5fafe33",
+   "title": "Full Stack Software Engineer",
+   "company": "Wilson Elser - Business & Legal Professionals",
+   "locations": [
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": 145000,
+   "salary_max": 180000,
+   "salary_est": false,
+   "summary": "At Wilson Elser , we are redefining what it means to work at a national law firm. With more than 1,400 attorneys across 46 offices nationwide, we are recognized among the top 100 law firms by The American Lawyer and ranked #30 in the National Law Journal’s survey of the nation’s largest law firms.",
+   "url": "https://job-boards.greenhouse.io/wilsonelser/jobs/5439606008",
+   "posted": "2026-09-30",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:wilsonelser",
+   "tags": [],
+   "mode": null,
+   "travel": null,
+   "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false
   },
   {
    "id": "02962acf599e",
@@ -39974,6 +42182,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "IT Security Analyst",
+     "company": "Kairos Power",
+     "min": 108735,
+     "max": 127923
+    },
+    {
      "title": "Payroll Systems Analyst",
      "company": "Wave",
      "min": 88100,
@@ -39984,14 +42198,40 @@
      "company": "6sense",
      "min": 73577,
      "max": 103913
-    },
-    {
-     "title": "IT Security Specialist",
-     "company": "Axios",
-     "min": 85000,
-     "max": 105000
     }
    ]
+  },
+  {
+   "id": "523265f8fa5b",
+   "title": "Engineer I/II, Research Operations (1st shift)",
+   "company": "Lila Sciences",
+   "locations": [
+    {
+     "label": "Cambridge, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 75600,
+   "salary_max": 124800,
+   "salary_est": false,
+   "summary": "We are seeking a versatile and detail-oriented Engineer I/II who can quickly learn and independently execute high-throughput workflows across a range of biological applications, including DNA, RNA, mRNA, protein, and cell-based workflows.",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4291695009",
+   "posted": "2026-09-30",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:lilasciences",
+   "tags": [
+    "manufacturing",
+    "on-site"
+   ],
+   "mode": "on-site",
+   "travel": null,
+   "score": 28,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
   },
   {
    "id": "d98def5407f3",
@@ -41930,7 +44170,7 @@
    "score": 40,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "0f265d804f27",
@@ -42452,11 +44692,6 @@
    "company": "Formlabs",
    "locations": [
     {
-     "label": "Boston, MA",
-     "state": "MA",
-     "remote": false
-    },
-    {
      "label": "Somerville, MA",
      "state": "MA",
      "remote": false
@@ -42466,7 +44701,7 @@
    "salary_max": 130000,
    "salary_est": false,
    "summary": "Do you want to change how the world creates? At Formlabs, we’re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices.",
-   "url": "https://careers.formlabs.com/job/8241429/apply/?gh_jid=8241429",
+   "url": "https://careers.formlabs.com/job/8241424/apply/?gh_jid=8241424",
    "posted": "2026-09-29",
    "sources": [
     "greenhouse"
@@ -42535,16 +44770,16 @@
      "max": 420000
     },
     {
+     "title": "Director, IT Project Management (R6372)",
+     "company": "Shield AI",
+     "min": 210000,
+     "max": 320000
+    },
+    {
      "title": "Head of Growth",
      "company": "Code3",
      "min": 180000,
      "max": 200000
-    },
-    {
-     "title": "Head of Marketing",
-     "company": "Code3",
-     "min": 155000,
-     "max": 180000
     }
    ]
   },
@@ -43568,15 +45803,21 @@
    ],
    "mode": null,
    "travel": null,
-   "score": 48,
+   "score": 55,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 130000,
-   "pay_est_max": 150000,
+   "pay_est_max": 185000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
+    {
+     "title": "Manager, Analytics Engineering",
+     "company": "PatientPoint",
+     "min": 129700,
+     "max": 185400
+    },
     {
      "title": "Manager, Analytics",
      "company": "WPP Media",
@@ -43588,12 +45829,6 @@
      "company": "Yext",
      "min": 148500,
      "max": 303500
-    },
-    {
-     "title": "Senior GTM Analytics Manager",
-     "company": "Cloudflare",
-     "min": 167000,
-     "max": 230000
     }
    ]
   },
@@ -43870,7 +46105,7 @@
    "salary_max": 300000,
    "salary_est": false,
    "summary": "We’re looking for a Staff Software Engineer to operate across Acquisition Engineering.",
-   "url": "https://www.brex.com/careers/8829325002?gh_jid=8829325002",
+   "url": "https://www.brex.com/careers/8854165002?gh_jid=8854165002",
    "posted": "2026-09-28",
    "sources": [
     "greenhouse"
@@ -44180,16 +46415,16 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 195000,
-   "pay_est_max": 245000,
+   "pay_est_min": 200000,
+   "pay_est_max": 250000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
      "title": "Staff Solutions Engineer",
      "company": "Fivetran",
-     "min": 194212,
-     "max": 242765
+     "min": 242765,
+     "max": 303456
     },
     {
      "title": "Lead AI Solutions Engineer",
@@ -44764,6 +46999,37 @@
    "active": true
   },
   {
+   "id": "435bd9d6565c",
+   "title": "Software Engineer II (Authentication)",
+   "company": "Pindrop",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 107000,
+   "salary_max": 132000,
+   "salary_est": false,
+   "summary": "Develop applications in Golang or Python on top of a modern cloud focused platform Develop and maintain services using AWS native products such as Kinesis, DynamoDB, and S3 Deliver production ready code from start to finish",
+   "url": "https://job-boards.greenhouse.io/pindropsecurity/jobs/8236612",
+   "posted": "2026-09-28",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:pindropsecurity",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 22,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "d304adafe0f9",
    "title": "Software Engineer || (Authentication)",
    "company": "Pindrop",
@@ -44792,7 +47058,7 @@
    "score": 22,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "54e302291c0e",
@@ -45140,7 +47406,7 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 120000,
-   "pay_est_max": 200000,
+   "pay_est_max": 210000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -45151,16 +47417,16 @@
      "max": 200000
     },
     {
+     "title": "Solution Architect",
+     "company": "C5MI Insight",
+     "min": 149000,
+     "max": 224000
+    },
+    {
      "title": "Salesforce Technical Architect",
      "company": "NeuraFlash, Part of Accenture",
      "min": 94400,
      "max": 266300
-    },
-    {
-     "title": "SAP SCM Architect",
-     "company": "iFIT",
-     "min": 115000,
-     "max": 135000
     }
    ]
   },
@@ -45395,8 +47661,8 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 140000,
-   "pay_est_max": 165000,
+   "pay_est_min": 145000,
+   "pay_est_max": 175000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -45432,7 +47698,7 @@
     }
    ],
    "salary_min": 191000,
-   "salary_max": 253000,
+   "salary_max": 254000,
    "salary_est": false,
    "summary": "As a Software Engineer in Lattice for Cyber, you will build the core capabilities, experiences, and primitives that our offensive Cyber programs rely on.",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241676007?gh_jid=5241676007",
@@ -45793,7 +48059,7 @@
    "score": 52,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "e07b63515c74",
@@ -47354,7 +49620,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 150000,
+   "pay_est_min": 125000,
    "pay_est_max": 195000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -47695,6 +49961,41 @@
    ]
   },
   {
+   "id": "841fbfcc39fe",
+   "title": "Sr. Manager, Enterprise Data (R6103)",
+   "company": "Shield AI",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 180000,
+   "salary_max": 270000,
+   "salary_est": false,
+   "summary": "Manager, Enterprise Data is responsible for leading delivery across Shield AI’s Enterprise Data team as the organization enables business domains onto its governed Databricks data platform.",
+   "url": "https://jobs.lever.co/shieldai/a8c0ff24-9436-4149-8fb8-a1a5428d12b2",
+   "posted": "2026-09-24",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:shieldai",
+   "tags": [
+    "erp",
+    "manager",
+    "data / bi",
+    "manufacturing",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 63,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "7d8818315d7a",
    "title": "Principal Solution Architect - Cloud",
    "company": "Ensono",
@@ -47891,6 +50192,41 @@
    "mode": null,
    "travel": null,
    "score": 54,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "19ca92493061",
+   "title": "Senior IT Systems Engineer",
+   "company": "Tines",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 145000,
+   "salary_max": 145000,
+   "salary_est": false,
+   "summary": "Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines – a single, secure environment for every team’s apps, agents and automations.",
+   "url": "https://job-boards.greenhouse.io/tines/jobs/6204139004",
+   "posted": "2026-09-24",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:tines",
+   "tags": [
+    "sap",
+    "erp",
+    "ai",
+    "itar / us person",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 53,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -48809,7 +51145,7 @@
    "salary_max": 335000,
    "salary_est": false,
    "summary": "Reporting to the General Counsel, you will lead Brex's Regulatory Affairs function and guide the company's relationships and interactions with its federal and state regulators, including the OCC, the Federal Reserve, FINRA, and state licensing agencies.",
-   "url": "https://www.brex.com/careers/8842315002?gh_jid=8842315002",
+   "url": "https://www.brex.com/careers/8831612002?gh_jid=8831612002",
    "posted": "2026-09-24",
    "sources": [
     "greenhouse"
@@ -48965,11 +51301,11 @@
      "remote": false
     }
    ],
-   "salary_min": 101000,
-   "salary_max": 273000,
+   "salary_min": 158000,
+   "salary_max": 220000,
    "salary_est": false,
    "summary": "Join Cluster Scalability, one of MongoDB's Online Transaction Processing teams, and help build the core infrastructure that makes MongoDB a world-class distributed database. The team builds the infrastructure and tools that let customers scale their workloads past what a single node can handle.",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8221182",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8221184",
    "posted": "2026-09-24",
    "sources": [
     "greenhouse"
@@ -49505,7 +51841,7 @@
    "salary_max": 183000,
    "salary_est": false,
    "summary": "Lead backend development, building and maintaining server-side logic Take real ownership of the services you work on: deploy them, operate them, and keep them healthy in production rather than handing them off",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8204384",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8209734",
    "posted": "2026-09-24",
    "sources": [
     "greenhouse"
@@ -49847,6 +52183,42 @@
    "mode": "remote",
    "travel": null,
    "score": 36,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "94d3946ab9f0",
+   "title": "Software Engineer - Container Fabric",
+   "company": "New Relic",
+   "locations": [
+    {
+     "label": "Baltimore, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Philadelphia, PA",
+     "state": "PA",
+     "remote": false
+    }
+   ],
+   "salary_min": 126000,
+   "salary_max": 158000,
+   "salary_est": false,
+   "summary": "Platform Orchestration: Oversee and enhance a massive Kubernetes infrastructure platform, ensuring peak availability, performance, and reliability. Automation & Engineering: Evolve internal tooling to eliminate manual overhead and streamline platform delivery across global teams.",
+   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5431953008",
+   "posted": "2026-09-24",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:newrelic",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 33,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
@@ -50704,7 +53076,7 @@
     }
    ],
    "salary_min": 191000,
-   "salary_max": 253000,
+   "salary_max": 254000,
    "salary_est": false,
    "summary": "As an engineer on the Robotics Data Foundation team, you will design and build the Anduril-wide cloud systems that host our ingestion pipelines, storage systems, and tooling that carry vehicle telemetry from onboard systems to the cloud and make it discoverable, searchable, and analyzable across…",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007",
@@ -50735,7 +53107,7 @@
      "remote": false
     }
    ],
-   "salary_min": 166000,
+   "salary_min": 167000,
    "salary_max": 220000,
    "salary_est": false,
    "summary": "As an engineer on the Robotics Data Foundation team, you will design and build the Anduril-wide cloud systems that host our ingestion pipelines, storage systems, and tooling that carry vehicle telemetry from onboard systems to the cloud and make it discoverable, searchable, and analyzable across…",
@@ -51867,7 +54239,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "We’re looking for a Senior Software Engineer to join our Email team, which is responsible for building and maintaining the core infrastructure that delivers billions of personalized emails a month to our customers’ end users as well as processing all associated reporting data.",
-   "url": "https://job-boards.greenhouse.io/braze/jobs/8214372",
+   "url": "https://job-boards.greenhouse.io/braze/jobs/8214281",
    "posted": "2026-09-23",
    "sources": [
     "greenhouse"
@@ -52102,7 +54474,7 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 120000,
+   "pay_est_min": 125000,
    "pay_est_max": 155000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
@@ -52114,16 +54486,16 @@
      "max": 117600
     },
     {
+     "title": "Systems Integration Engineer",
+     "company": "Hypori",
+     "min": 135000,
+     "max": 145000
+    },
+    {
      "title": "Software Engineer III",
      "company": "Garner Health",
      "min": 175000,
      "max": 195000
-    },
-    {
-     "title": "Systems Engineer IV – Systems",
-     "company": "Voyager Technologies, Inc.",
-     "min": 125700,
-     "max": 173700
     }
    ]
   },
@@ -52422,7 +54794,7 @@
    "score": 61,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "b75dab178f53",
@@ -53338,38 +55710,6 @@
    "active": true
   },
   {
-   "id": "88176a86fa4d",
-   "title": "Director, Infrastructure & IT Operations",
-   "company": "PeopleFinders",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    }
-   ],
-   "salary_min": 170000,
-   "salary_max": 180000,
-   "salary_est": false,
-   "summary": "We are seeking a strategic and hands-on Director, Infrastructure & IT Operations to lead the technology capabilities that keep our digital products, cloud platforms, and employees secure, reliable, and productive.",
-   "url": "https://job-boards.greenhouse.io/peoplefinders/jobs/5238771007",
-   "posted": "2026-09-22",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:peoplefinders",
-   "tags": [
-    "director+",
-    "remote"
-   ],
-   "mode": "remote",
-   "travel": null,
-   "score": 40,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
    "id": "c00827bb5998",
    "title": "Assistant Editor, Data Journalism",
    "company": "The New York Times",
@@ -53416,7 +55756,7 @@
    "salary_max": 160000,
    "salary_est": false,
    "summary": "This hire will be responsible for expanding and optimizing our data pipeline architecture, as well as optimizing data flow and collection for cross functional teams.",
-   "url": "https://triplelift.com/careers-posts/?gh_jid=8223758",
+   "url": "https://triplelift.com/careers-posts/?gh_jid=8208036",
    "posted": "2026-09-22",
    "sources": [
     "greenhouse"
@@ -53463,6 +55803,38 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "88176a86fa4d",
+   "title": "Director, Infrastructure & IT Operations",
+   "company": "PeopleFinders",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 170000,
+   "salary_max": 180000,
+   "salary_est": false,
+   "summary": "We are seeking a strategic and hands-on Director, Infrastructure & IT Operations to lead the technology capabilities that keep our digital products, cloud platforms, and employees secure, reliable, and productive.",
+   "url": "https://job-boards.greenhouse.io/peoplefinders/jobs/5238771007",
+   "posted": "2026-09-22",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:peoplefinders",
+   "tags": [
+    "director+",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 40,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false
   },
   {
    "id": "512dd8086192",
@@ -53824,7 +56196,7 @@
    "score": 35,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "e30b113c5600",
@@ -53941,6 +56313,65 @@
      "company": "DigiCert",
      "min": 115000,
      "max": 160000
+    }
+   ]
+  },
+  {
+   "id": "61c083b42dbf",
+   "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+   "company": "Mozilla",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused tooling role that makes the WebCompat program faster and more data-driven.",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8306479",
+   "posted": "2026-09-22",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:mozilla",
+   "tags": [
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 40,
+   "feeds": [
+    "index:greenhouse:mozilla"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 130000,
+   "pay_est_max": 165000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Software Engineer",
+     "company": "Mozilla",
+     "min": 137000,
+     "max": 183000
+    },
+    {
+     "title": "Software Engineer III",
+     "company": "Garner Health",
+     "min": 175000,
+     "max": 195000
+    },
+    {
+     "title": "Software Engineer",
+     "company": "SmartAsset",
+     "min": 119500,
+     "max": 180000
     }
    ]
   },
@@ -54172,8 +56603,8 @@
      "remote": false
     }
    ],
-   "salary_min": 166000,
-   "salary_max": 220000,
+   "salary_min": 167000,
+   "salary_max": 222000,
    "salary_est": false,
    "summary": "As a Software Engineer in Lattice for Cyber, you will build the core capabilities, experiences, and primitives that our offensive Cyber programs rely on.",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242907007?gh_jid=5242907007",
@@ -54324,7 +56755,7 @@
    "score": 49,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "042f838e2e0d",
@@ -54428,28 +56859,28 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 130000,
-   "pay_est_max": 160000,
+   "pay_est_min": 135000,
+   "pay_est_max": 190000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
+    {
+     "title": "Supply Chain Program Manager - Rack Integration",
+     "company": "Cloudflare",
+     "min": 138000,
+     "max": 189000
+    },
+    {
+     "title": "Engineering Manager, Data Center Operations",
+     "company": "Cloudflare",
+     "min": 174000,
+     "max": 239000
+    },
     {
      "title": "Sr. Manager, Data and Analytics",
      "company": "LOTTE BIOLOGICS USA, LLC",
      "min": 91000,
      "max": 142000
-    },
-    {
-     "title": "Senior Marketing Operations Manager (Reporting and Analytics)",
-     "company": "Vestwell",
-     "min": 105000,
-     "max": 140000
-    },
-    {
-     "title": "Manager Business Integration - Technical Supply Chain: Data and Process Operations",
-     "company": "Curaleaf",
-     "min": 135000,
-     "max": 150000
     }
    ]
   },
@@ -54861,7 +57292,7 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 130000,
-   "pay_est_max": 195000,
+   "pay_est_max": 175000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -54872,16 +57303,16 @@
      "max": 203000
     },
     {
+     "title": "Senior IT Systems Engineer",
+     "company": "Tines",
+     "min": 145000,
+     "max": 145000
+    },
+    {
      "title": "Senior Systems Engineer, Tech Foundations",
      "company": "Airbnb",
      "min": 164000,
      "max": 193000
-    },
-    {
-     "title": "Sr. Developer, MuleSoft",
-     "company": "NeuraFlash, Part of Accenture",
-     "min": 94400,
-     "max": 266300
     }
    ]
   },
@@ -55663,7 +58094,7 @@
    "score": 25,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "4e1965e3cfa2",
@@ -56042,7 +58473,7 @@
    "score": 64,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "46dcbda48405",
@@ -56059,7 +58490,7 @@
    "salary_max": 246000,
    "salary_est": false,
    "summary": "As the Senior GTM Architect, you are the domain expert for how Klaviyo's marketing, sales, and customer experience systems work together and how they should work differently once AI agents, not just dashboards and workflows, are doing meaningful parts of the job.",
-   "url": "https://www.klaviyo.com/careers/jobs/7999545003?gh_jid=7999545003",
+   "url": "https://www.klaviyo.com/careers/jobs/7997136003?gh_jid=7997136003",
    "posted": "2026-09-18",
    "sources": [
     "greenhouse"
@@ -56079,6 +58510,63 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "602e15a21e55",
+   "title": "Principal Analyst, GTM Analytics (Costa Rica)",
+   "company": "Fivetran",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We’re looking for a Principal Analyst to join our GTM Analytics team, where we turn data into the insights that shape decisions across Sales, Strategy, RevOps, Marketing, Deal Desk, and more.",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7994507003",
+   "posted": "2026-09-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:fivetran",
+   "tags": [
+    "data / bi",
+    "quant",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 55,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false,
+   "pay_est_min": 170000,
+   "pay_est_max": 220000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Staff Analyst, Investor Analytics",
+     "company": "Upstart",
+     "min": 157000,
+     "max": 217500
+    },
+    {
+     "title": "Staff Data Analyst",
+     "company": "Cribl",
+     "min": 150000,
+     "max": 190000
+    },
+    {
+     "title": "Principal Data Engineer",
+     "company": "Axonius",
+     "min": 171000,
+     "max": 190000
+    }
+   ]
   },
   {
    "id": "01522f35cc66",
@@ -56124,7 +58612,7 @@
     }
    ],
    "salary_min": 191000,
-   "salary_max": 253000,
+   "salary_max": 254000,
    "salary_est": false,
    "summary": "As a Software Engineer in Lattice for Cyber, you will build the core capabilities, experiences, and primitives that our offensive Cyber programs rely on.",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5241519007?gh_jid=5241519007",
@@ -56241,12 +58729,12 @@
    ],
    "mode": "remote",
    "travel": null,
-   "score": 55,
+   "score": 44,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 130000,
-   "pay_est_max": 155000,
+   "pay_est_min": 95000,
+   "pay_est_max": 125000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -57324,67 +59812,46 @@
     {
      "title": "System Architect, Space Electronics",
      "company": "Anduril Industries",
-     "min": 146000,
-     "max": 194000
+     "min": 147000,
+     "max": 196000
     }
    ]
   },
   {
-   "id": "602e15a21e55",
-   "title": "Principal Analyst, GTM Analytics (Costa Rica)",
-   "company": "Fivetran",
+   "id": "3fa8317ad691",
+   "title": "Supply Chain Program Manager - Rack Integration",
+   "company": "Cloudflare",
    "locations": [
     {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
     }
    ],
-   "salary_min": null,
-   "salary_max": null,
+   "salary_min": 138000,
+   "salary_max": 189000,
    "salary_est": false,
-   "summary": "We’re looking for a Principal Analyst to join our GTM Analytics team, where we turn data into the insights that shape decisions across Sales, Strategy, RevOps, Marketing, Deal Desk, and more.",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=7994507003",
+   "summary": "As a Senior Supply Chain Program Manager, you will own the integrated supply-planning interface connecting capacity demand, L10 hardware supply, and L11 rack integration.",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8214726?gh_jid=8214726",
    "posted": "2026-09-18",
    "sources": [
     "greenhouse"
    ],
-   "feed": "index:greenhouse:fivetran",
+   "feed": "index:greenhouse:cloudflare",
    "tags": [
-    "data / bi",
-    "quant",
-    "remote"
+    "erp",
+    "manager",
+    "consulting / si",
+    "manufacturing",
+    "pm role",
+    "hybrid"
    ],
-   "mode": "remote",
+   "mode": "hybrid",
    "travel": null,
-   "score": 55,
+   "score": 41,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 170000,
-   "pay_est_max": 220000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Staff Analyst, Investor Analytics",
-     "company": "Upstart",
-     "min": 157000,
-     "max": 217500
-    },
-    {
-     "title": "Staff Data Analyst",
-     "company": "Cribl",
-     "min": 150000,
-     "max": 190000
-    },
-    {
-     "title": "Principal Data Engineer",
-     "company": "Axonius",
-     "min": 171000,
-     "max": 190000
-    }
-   ]
+   "active": true
   },
   {
    "id": "2e92487ce9c0",
@@ -57480,7 +59947,7 @@
    "score": 39,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "90a9b7710695",
@@ -57572,62 +60039,6 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
-  },
-  {
-   "id": "8bafc4dc59a8",
-   "title": "Senior Analyst, GTM Analytics",
-   "company": "Fivetran",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    }
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_est": false,
-   "summary": "We’re looking for a a Senior Analyst to join our GTM Analytics team, where we turn data into the insights that shape decisions across Sales, Strategy, RevOps, Marketing, Deal Desk, and more.",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=7994710003",
-   "posted": "2026-09-18",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:fivetran",
-   "tags": [
-    "data / bi",
-    "remote"
-   ],
-   "mode": "remote",
-   "travel": null,
-   "score": 25,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 100000,
-   "pay_est_max": 130000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Senior Data Analyst, GTM",
-     "company": "Hello Heart",
-     "min": 145000,
-     "max": 160000
-    },
-    {
-     "title": "Risk Analyst Senior - Financial Risk & Analytics",
-     "company": "Pathward, N.A.",
-     "min": 72000,
-     "max": 120000
-    },
-    {
-     "title": "Senior Analyst, Pricing and Business Analytics",
-     "company": "Hungryroot",
-     "min": 110000,
-     "max": 125000
-    }
-   ]
   },
   {
    "id": "a1702a1ae83b",
@@ -57791,66 +60202,6 @@
      "company": "Anduril Industries",
      "min": 166000,
      "max": 292000
-    }
-   ]
-  },
-  {
-   "id": "3fa8317ad691",
-   "title": "Supply Chain Program Manager - Rack Integration",
-   "company": "Cloudflare",
-   "locations": [
-    {
-     "label": "New York, NY",
-     "state": "NY",
-     "remote": false
-    }
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_est": false,
-   "summary": "As a Senior Supply Chain Program Manager, you will own the integrated supply-planning interface connecting capacity demand, L10 hardware supply, and L11 rack integration.",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8214726?gh_jid=8214726",
-   "posted": "2026-09-18",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:cloudflare",
-   "tags": [
-    "erp",
-    "manager",
-    "consulting / si",
-    "manufacturing",
-    "pm role",
-    "hybrid"
-   ],
-   "mode": "hybrid",
-   "travel": null,
-   "score": 45,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 135000,
-   "pay_est_max": 220000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Manager Business Integration - Technical Supply Chain: Data and Process Operations",
-     "company": "Curaleaf",
-     "min": 135000,
-     "max": 150000
-    },
-    {
-     "title": "Senior Marketing Operations Manager (Reporting and Analytics)",
-     "company": "Vestwell",
-     "min": 105000,
-     "max": 140000
-    },
-    {
-     "title": "Sr. Manager, Data and Analytics",
-     "company": "LOTTE BIOLOGICS USA, LLC",
-     "min": 91000,
-     "max": 142000
     }
    ]
   },
@@ -58144,6 +60495,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "Head of Total Rewards",
+     "company": "Chainguard",
+     "min": 204000,
+     "max": 240000
+    },
+    {
      "title": "Head of Growth",
      "company": "Code3",
      "min": 180000,
@@ -58154,12 +60511,6 @@
      "company": "Code3",
      "min": 155000,
      "max": 180000
-    },
-    {
-     "title": "Head of Strategy",
-     "company": "MATTE PROJECTS",
-     "min": 200000,
-     "max": 240000
     }
    ]
   },
@@ -58308,6 +60659,62 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "8bafc4dc59a8",
+   "title": "Senior Analyst, GTM Analytics",
+   "company": "Fivetran",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "We’re looking for a a Senior Analyst to join our GTM Analytics team, where we turn data into the insights that shape decisions across Sales, Strategy, RevOps, Marketing, Deal Desk, and more.",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7994710003",
+   "posted": "2026-09-18",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:fivetran",
+   "tags": [
+    "data / bi",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 25,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false,
+   "pay_est_min": 100000,
+   "pay_est_max": 130000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Data Analyst, GTM",
+     "company": "Hello Heart",
+     "min": 145000,
+     "max": 160000
+    },
+    {
+     "title": "Risk Analyst Senior - Financial Risk & Analytics",
+     "company": "Pathward, N.A.",
+     "min": 72000,
+     "max": 120000
+    },
+    {
+     "title": "Senior Analyst, Pricing and Business Analytics",
+     "company": "Hungryroot",
+     "min": 110000,
+     "max": 125000
+    }
+   ]
   },
   {
    "id": "73a6421060e1",
@@ -58493,7 +60900,7 @@
    "salary_max": 200000,
    "salary_est": false,
    "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is looking for a Staff Data Engineer to join our Data Platform team.",
-   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240996007",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5241002007",
    "posted": "2026-09-17",
    "sources": [
     "greenhouse"
@@ -58789,7 +61196,7 @@
    "salary_max": 225000,
    "salary_est": false,
    "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.",
-   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240950007",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240951007",
    "posted": "2026-09-17",
    "sources": [
     "greenhouse"
@@ -58840,12 +61247,12 @@
    ],
    "mode": "remote",
    "travel": null,
-   "score": 64,
+   "score": 60,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 145000,
-   "pay_est_max": 205000,
+   "pay_est_max": 195000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -59824,10 +62231,16 @@
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 175000,
-   "pay_est_max": 205000,
+   "pay_est_max": 210000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
+    {
+     "title": "Senior Data Scientist, Safety Enforcement",
+     "company": "Reddit",
+     "min": 190800,
+     "max": 267100
+    },
     {
      "title": "Senior Data Scientist",
      "company": "Care Access",
@@ -59839,12 +62252,6 @@
      "company": "Counterpart Health",
      "min": 176900,
      "max": 230000
-    },
-    {
-     "title": "Senior Data Scientist",
-     "company": "ExtraHop",
-     "min": 165000,
-     "max": 180000
     }
    ]
   },
@@ -62962,7 +65369,7 @@
    "salary_max": 240000,
    "salary_est": false,
    "summary": "As an engineer at Brex, you will help develop new products from concept to launch, whether for a 5-person startup or a 5,000-person-strong enterprise. We’re looking for folks with an interest in building products and tools, and who are comfortable in dealing with lots of moving pieces.",
-   "url": "https://www.brex.com/careers/8815476002?gh_jid=8815476002",
+   "url": "https://www.brex.com/careers/8815495002?gh_jid=8815495002",
    "posted": "2026-09-16",
    "sources": [
     "greenhouse"
@@ -62996,7 +65403,7 @@
    "salary_max": 240000,
    "salary_est": false,
    "summary": "As a Senior Frontend Engineer, you will be working across the entire Brex stack, creating and maintaining new products, features, and building tools to help scale Brex.",
-   "url": "https://www.brex.com/careers/8815466002?gh_jid=8815466002",
+   "url": "https://www.brex.com/careers/8815462002?gh_jid=8815462002",
    "posted": "2026-09-16",
    "sources": [
     "greenhouse"
@@ -63325,11 +65732,17 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 325000,
-   "pay_est_max": 400000,
+   "pay_est_min": 300000,
+   "pay_est_max": 350000,
    "pay_est_n": 7,
-   "pay_est_confidence": "partial",
+   "pay_est_confidence": "close",
    "pay_est_examples": [
+    {
+     "title": "Director, Client Solutions Architects, Northeast (Remote)",
+     "company": "Myriad360",
+     "min": 300000,
+     "max": 350000
+    },
     {
      "title": "Manager of Applied AI Architecture, Startups",
      "company": "Anthropic",
@@ -63341,12 +65754,6 @@
      "company": "3Cloud",
      "min": 162800,
      "max": 244200
-    },
-    {
-     "title": "Sr. Manager, Enterprise Revenue Architect",
-     "company": "Gong.io",
-     "min": 181000,
-     "max": 239000
     }
    ]
   },
@@ -63465,7 +65872,7 @@
    "salary_max": 190000,
    "salary_est": false,
    "summary": "As an engineer at Brex, you will help develop new products from concept to launch, whether for a 5-person startup or a 5,000-person-strong enterprise. We’re looking for folks with an interest in building products and tools, and who are comfortable in dealing with lots of moving pieces.",
-   "url": "https://www.brex.com/careers/8815438002?gh_jid=8815438002",
+   "url": "https://www.brex.com/careers/8815443002?gh_jid=8815443002",
    "posted": "2026-09-16",
    "sources": [
     "greenhouse"
@@ -64962,8 +67369,8 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 110000,
-   "pay_est_max": 145000,
+   "pay_est_min": 120000,
+   "pay_est_max": 150000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -65223,8 +67630,8 @@
     {
      "title": "Partner Solutions Architect",
      "company": "Fivetran",
-     "min": 218487,
-     "max": 273110
+     "min": 209748,
+     "max": 262185
     },
     {
      "title": "Partner Solutions Architect – MSP",
@@ -65607,43 +68014,6 @@
      "max": 215176
     }
    ]
-  },
-  {
-   "id": "44780b8ff7bc",
-   "title": "Head of Supply Planning",
-   "company": "Formlabs",
-   "locations": [
-    {
-     "label": "Somerville, MA",
-     "state": "MA",
-     "remote": false
-    }
-   ],
-   "salary_min": 135000,
-   "salary_max": 200000,
-   "salary_est": false,
-   "summary": "Lead the development and execution of scalable supply and demand planning strategies to drive operational excellence, align with growth objectives, and support new product launches across all product categories.",
-   "url": "https://careers.formlabs.com/job/8202157/apply/?gh_jid=8202157",
-   "posted": "2026-09-14",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "greenhouse:Formlabs",
-   "tags": [
-    "sap",
-    "erp",
-    "director+",
-    "manufacturing",
-    "on-site",
-    "startup",
-    "growth stage"
-   ],
-   "mode": "on-site",
-   "travel": null,
-   "score": 68,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
   },
   {
    "id": "b478ab74ad44",
@@ -66232,6 +68602,72 @@
    "active": true
   },
   {
+   "id": "5148240bbdb3",
+   "title": "Marketing Automation Architect (US)",
+   "company": "PointClickCare",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 159000,
+   "salary_max": 177000,
+   "salary_est": false,
+   "summary": "The Marketing Automation Architect plays a key role in influencing the strategic and technical direction for the Marketing Operations and Analytics teams within Adobe Marketo Engage and the marketing automation ecosystem at PointClickCare.",
+   "url": "https://jobs.lever.co/pointclickcare/5b2d6e7b-a499-4cde-811b-59f6049095b7",
+   "posted": "2026-09-14",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:pointclickcare",
+   "tags": [
+    "architect",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 48,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "529f78c7ec87",
+   "title": "Head of Total Rewards",
+   "company": "Chainguard",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 204000,
+   "salary_max": 240000,
+   "salary_est": false,
+   "summary": "Own and set Chainguard's total rewards strategy across compensation and benefits Manage and develop the Total Rewards team Lead our approach to global compensation and benefits strategy as we expand into new international markets, including the UK, Canada, and Germany, with more countries to follow",
+   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4713282006",
+   "posted": "2026-09-14",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:chainguard",
+   "tags": [
+    "director+",
+    "data / bi",
+    "ai",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 47,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "7d47381247a2",
    "title": "Senior Software Engineer, Backend",
    "company": "Flex",
@@ -66694,13 +69130,13 @@
    "active": true
   },
   {
-   "id": "d2e8e3c2d30f",
+   "id": "8c9d8dd152cb",
    "title": "Associate Solutions Engineer, Aerospace & Defense",
    "company": "Xometry",
    "locations": [
     {
-     "label": "North Bethesda, MD",
-     "state": "MD",
+     "label": "Waltham, MA",
+     "state": "MA",
      "remote": false
     }
    ],
@@ -66708,7 +69144,7 @@
    "salary_max": 73500,
    "salary_est": false,
    "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is seeking an early-career engineer for a critical role.",
-   "url": "https://job-boards.greenhouse.io/xometry/jobs/5236799007",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5236805007",
    "posted": "2026-09-14",
    "sources": [
     "greenhouse"
@@ -66730,13 +69166,13 @@
    "active": true
   },
   {
-   "id": "8c9d8dd152cb",
+   "id": "d2e8e3c2d30f",
    "title": "Associate Solutions Engineer, Aerospace & Defense",
    "company": "Xometry",
    "locations": [
     {
-     "label": "Waltham, MA",
-     "state": "MA",
+     "label": "North Bethesda, MD",
+     "state": "MD",
      "remote": false
     }
    ],
@@ -66744,7 +69180,7 @@
    "salary_max": 73500,
    "salary_est": false,
    "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is seeking an early-career engineer for a critical role.",
-   "url": "https://job-boards.greenhouse.io/xometry/jobs/5236805007",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5236799007",
    "posted": "2026-09-14",
    "sources": [
     "greenhouse"
@@ -67030,6 +69466,64 @@
    ]
   },
   {
+   "id": "dc401bf090a4",
+   "title": "SVP, Product Management – Data Products & Strategy",
+   "company": "PointClickCare",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Reporting directly to the Chief Product & Technology Officer (CPTO), the Senior Vice President, Product Management – Data Products & Strategy establishes and leads PointClickCare’s enterprise strategy for Data as a Product.",
+   "url": "https://jobs.lever.co/pointclickcare/84909f18-2874-4a24-98dd-e7fdd6aed00e",
+   "posted": "2026-09-14",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:pointclickcare",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 22,
+   "feeds": [
+    "index:lever:pointclickcare"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true,
+   "pay_est_min": 85000,
+   "pay_est_max": 105000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Marketing Data Analytics Engineer (CA)",
+     "company": "PointClickCare",
+     "min": 82000,
+     "max": 92000
+    },
+    {
+     "title": "Marketing Data Analytics Engineer (US)",
+     "company": "PointClickCare",
+     "min": 87000,
+     "max": 97000
+    },
+    {
+     "title": "Electrical Engineer (PE) Data Center Load Management",
+     "company": "Meade",
+     "min": 117100,
+     "max": 145500
+    }
+   ]
+  },
+  {
    "id": "d6990b0c2f14",
    "title": "Solutions Consultant",
    "company": "Braze",
@@ -67150,7 +69644,7 @@
    "score": 24,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "b0bcaf7c9952",
@@ -67316,11 +69810,11 @@
      "remote": false
     }
    ],
-   "salary_min": 190000,
-   "salary_max": 252000,
+   "salary_min": 220000,
+   "salary_max": 292000,
    "salary_est": false,
    "summary": "and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold.",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236502007?gh_jid=5236502007",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007",
    "posted": "2026-09-12",
    "sources": [
     "greenhouse"
@@ -68341,7 +70835,7 @@
    "score": 49,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "1b5fae0d3810",
@@ -68601,6 +71095,37 @@
    "active": true
   },
   {
+   "id": "c9b99c0eeed3",
+   "title": "Senior IT & Corporate Engineering",
+   "company": "Flex",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    }
+   ],
+   "salary_min": 145000,
+   "salary_max": 200000,
+   "salary_est": false,
+   "summary": "This role owns IT and corporate engineering at Flex, end to end. It reports directly to the CTO. We think IT's job is enablement. The measure of this function is not how many tickets it closes or how many controls it can point at.",
+   "url": "https://jobs.lever.co/Flex/2d3d7d25-cbe9-4a56-a2db-4c47f88ebd9c",
+   "posted": "2026-09-11",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:flex",
+   "tags": [
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": null,
+   "score": 44,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "c54d89d572f5",
    "title": "Senior Analytics Engineer",
    "company": "Chainguard",
@@ -68692,12 +71217,12 @@
    ],
    "mode": null,
    "travel": null,
-   "score": 56,
+   "score": 52,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
    "pay_est_min": 145000,
-   "pay_est_max": 205000,
+   "pay_est_max": 195000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -68708,16 +71233,16 @@
      "max": 203000
     },
     {
+     "title": "Senior IT Systems Engineer",
+     "company": "Tines",
+     "min": 145000,
+     "max": 145000
+    },
+    {
      "title": "Senior Systems Engineer, Tech Foundations",
      "company": "Airbnb",
      "min": 164000,
      "max": 193000
-    },
-    {
-     "title": "Sr. Developer, MuleSoft",
-     "company": "NeuraFlash, Part of Accenture",
-     "min": 94400,
-     "max": 266300
     }
    ]
   },
@@ -69404,7 +71929,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "Rewards is one of the most strategically important platforms at Moniepoint, and it is being built into a dedicated charter with its own engineering and product leadership. The platform sits at the centre of our retention strategy across a user base of approximately 23 million people.",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972437101",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974190101",
    "posted": "2026-09-11",
    "sources": [
     "greenhouse"
@@ -69414,7 +71939,7 @@
     "director+",
     "remote"
    ],
-   "mode": null,
+   "mode": "remote",
    "travel": null,
    "score": 44,
    "feeds": [
@@ -69429,6 +71954,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "Head of Total Rewards",
+     "company": "Chainguard",
+     "min": 204000,
+     "max": 240000
+    },
+    {
      "title": "Head of Growth",
      "company": "Code3",
      "min": 180000,
@@ -69439,12 +71970,6 @@
      "company": "Code3",
      "min": 155000,
      "max": 180000
-    },
-    {
-     "title": "Head of HR",
-     "company": "Launch Potato",
-     "min": 170000,
-     "max": 190000
     }
    ]
   },
@@ -69983,50 +72508,6 @@
    "active": true
   },
   {
-   "id": "9b77512d4318",
-   "title": "Staff Software Engineer",
-   "company": "Xometry",
-   "locations": [
-    {
-     "label": "North Bethesda, MD",
-     "state": "MD",
-     "remote": false
-    },
-    {
-     "label": "Boston, MA",
-     "state": "MA",
-     "remote": false
-    }
-   ],
-   "salary_min": 160000,
-   "salary_max": 180000,
-   "salary_est": false,
-   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Xometry is looking for a Staff Software Engineer to join our Core Platform team.",
-   "url": "https://job-boards.greenhouse.io/xometry/jobs/5240985007",
-   "posted": "2026-09-10",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "greenhouse:Xometry",
-   "tags": [
-    "edi / integration",
-    "manufacturing",
-    "hybrid",
-    "startup",
-    "growth stage",
-    "ai"
-   ],
-   "mode": "hybrid",
-   "travel": null,
-   "score": 51,
-   "feeds": [
-    "greenhouse:Xometry"
-   ],
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true
-  },
-  {
    "id": "03301e4f3432",
    "title": "Staff Software Engineer",
    "company": "Xometry",
@@ -70052,6 +72533,50 @@
    "salary_est": false,
    "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Staff Software Engineer (Thomas)",
    "url": "https://job-boards.greenhouse.io/xometry/jobs/5261835007",
+   "posted": "2026-09-10",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "greenhouse:Xometry",
+   "tags": [
+    "ai",
+    "manufacturing",
+    "hybrid",
+    "startup",
+    "growth stage",
+    "edi / integration"
+   ],
+   "mode": "hybrid",
+   "travel": null,
+   "score": 51,
+   "feeds": [
+    "greenhouse:Xometry"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
+   "id": "9b77512d4318",
+   "title": "Staff Software Engineer",
+   "company": "Xometry",
+   "locations": [
+    {
+     "label": "North Bethesda, MD",
+     "state": "MD",
+     "remote": false
+    },
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 170000,
+   "salary_max": 195000,
+   "salary_est": false,
+   "summary": "Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity. Staff Software Engineer (Thomas)",
+   "url": "https://job-boards.greenhouse.io/xometry/jobs/5261836007",
    "posted": "2026-09-10",
    "sources": [
     "greenhouse"
@@ -70747,6 +73272,39 @@
    "active": true
   },
   {
+   "id": "70ad9e8ea8b4",
+   "title": "Senior Migration Consultant - Clinical Data Programming",
+   "company": "Veeva",
+   "locations": [
+    {
+     "label": "Boston, MA",
+     "state": "MA",
+     "remote": false
+    }
+   ],
+   "salary_min": 100000,
+   "salary_max": 160000,
+   "salary_est": false,
+   "summary": "The Migration Team works within this group, focusing on migrating customers off legacy systems—such as Medidata Rave and Oracle InForm—into Vault CDMS. We are looking for a Senior Migration Consultant with hands-on experience programming and processing extremely large clinical datasets.",
+   "url": "https://jobs.lever.co/veeva/7667f8c3-845a-4069-8f83-f192352b9350",
+   "posted": "2026-09-10",
+   "sources": [
+    "lever"
+   ],
+   "feed": "index:lever:veeva",
+   "tags": [
+    "data / bi",
+    "consulting / si",
+    "remote"
+   ],
+   "mode": "remote",
+   "travel": 10,
+   "score": 43,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": true
+  },
+  {
    "id": "4566790727de",
    "title": "IT Engineer",
    "company": "Ethos Life",
@@ -71418,7 +73976,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "Field Verification is how Moniepoint knows that the people and businesses on our platform are real. Every Moniepoint customer, retail and business, requires a completed field verification as part of KYC.",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972356101",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972352101",
    "posted": "2026-09-10",
    "sources": [
     "greenhouse"
@@ -71607,8 +74165,8 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true,
-   "pay_est_min": 125000,
-   "pay_est_max": 175000,
+   "pay_est_min": 135000,
+   "pay_est_max": 170000,
    "pay_est_n": 7,
    "pay_est_confidence": "close",
    "pay_est_examples": [
@@ -71817,7 +74375,7 @@
    "salary_max": 306144,
    "salary_est": false,
    "summary": "Location: Hub-based (Boston, San Francisco, Scottsdale, Seattle, New York) Schedule: Hybrid onsite Tuesday–Friday, remote Mondays Reports to: Vice President, Business Technology Direct Reports: 15 across BSA, PMO, and QA functions",
-   "url": "https://job-boards.greenhouse.io/axon/jobs/7985028003",
+   "url": "https://job-boards.greenhouse.io/axon/jobs/7985035003",
    "posted": "2026-09-09",
    "sources": [
     "greenhouse"
@@ -71979,6 +74537,66 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
+  },
+  {
+   "id": "8de763ddc866",
+   "title": "Senior AI Researcher",
+   "company": "Recursion",
+   "locations": [
+    {
+     "label": "Remote (US)",
+     "state": null,
+     "remote": true
+    },
+    {
+     "label": "New York, NY",
+     "state": "NY",
+     "remote": false
+    }
+   ],
+   "salary_min": null,
+   "salary_max": null,
+   "salary_est": false,
+   "summary": "Your work will change lives. Human biology stems from four billion years of evolution, which creates a proliferation of complexity and heterogeneity. The combinatorial explosion of biological hypotheses easily surpasses the number of atoms in the universe.",
+   "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8188707",
+   "posted": "2026-09-09",
+   "sources": [
+    "greenhouse"
+   ],
+   "feed": "index:greenhouse:recursionpharmaceuticals",
+   "tags": [
+    "manufacturing"
+   ],
+   "mode": null,
+   "travel": null,
+   "score": 50,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "active": false,
+   "pay_est_min": 175000,
+   "pay_est_max": 260000,
+   "pay_est_n": 7,
+   "pay_est_confidence": "close",
+   "pay_est_examples": [
+    {
+     "title": "Senior Market Researcher, Insurance Product & Marketing",
+     "company": "Oscar Health",
+     "min": 163944,
+     "max": 215176
+    },
+    {
+     "title": "UX Researcher",
+     "company": "Lyft",
+     "min": 128000,
+     "max": 192000
+    },
+    {
+     "title": "Researcher, Figma Design",
+     "company": "Figma",
+     "min": 169000,
+     "max": 250000
+    }
+   ]
   },
   {
    "id": "e72c6cea1bb9",
@@ -73052,11 +75670,11 @@
      "remote": false
     }
    ],
-   "salary_min": 111780,
-   "salary_max": 146711,
+   "salary_min": 100602,
+   "salary_max": 132040,
    "salary_est": false,
    "summary": "The Manager of Data Mining leads a team of individual contributors, ensuring the team is meeting savings and recovery targets in the payment integrity space. You will lead data mining auditors in the post-payment payment integrity space, and oversee data mining vendor management.",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8188906",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8188907",
    "posted": "2026-09-09",
    "sources": [
     "greenhouse"
@@ -73076,66 +75694,6 @@
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
    "active": true
-  },
-  {
-   "id": "8de763ddc866",
-   "title": "Senior AI Researcher",
-   "company": "Recursion",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    },
-    {
-     "label": "New York, NY",
-     "state": "NY",
-     "remote": false
-    }
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_est": false,
-   "summary": "Your work will change lives. Human biology stems from four billion years of evolution, which creates a proliferation of complexity and heterogeneity. The combinatorial explosion of biological hypotheses easily surpasses the number of atoms in the universe.",
-   "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8188707",
-   "posted": "2026-09-09",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:recursionpharmaceuticals",
-   "tags": [
-    "manufacturing"
-   ],
-   "mode": null,
-   "travel": null,
-   "score": 50,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 175000,
-   "pay_est_max": 260000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Senior Market Researcher, Insurance Product & Marketing",
-     "company": "Oscar Health",
-     "min": 163944,
-     "max": 215176
-    },
-    {
-     "title": "UX Researcher",
-     "company": "Lyft",
-     "min": 128000,
-     "max": 192000
-    },
-    {
-     "title": "Researcher, Figma Design",
-     "company": "Figma",
-     "min": 169000,
-     "max": 250000
-    }
-   ]
   },
   {
    "id": "c1925a2ea222",
@@ -73188,7 +75746,7 @@
    "salary_max": null,
    "salary_est": false,
    "summary": "POS Hardware and Device Platforms owns the software behind the physical side of Moniepoint's business: the systems that track, move, maintain and account for millions of POS terminals in the field.",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972187101",
+   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4972197101",
    "posted": "2026-09-09",
    "sources": [
     "greenhouse"
@@ -73199,7 +75757,7 @@
     "ewm / wms",
     "remote"
    ],
-   "mode": null,
+   "mode": "remote",
    "travel": null,
    "score": 48,
    "feeds": [
@@ -73425,6 +75983,12 @@
    "pay_est_confidence": "close",
    "pay_est_examples": [
     {
+     "title": "Engineering Manager, Data Center Operations",
+     "company": "Cloudflare",
+     "min": 174000,
+     "max": 239000
+    },
+    {
      "title": "Senior GTM Analytics Manager",
      "company": "Cloudflare",
      "min": 167000,
@@ -73435,12 +75999,6 @@
      "company": "Galaxy",
      "min": 129000,
      "max": 207000
-    },
-    {
-     "title": "Senior Program Manager, People Data and Insights",
-     "company": "The New York Times",
-     "min": 155000,
-     "max": 170000
     }
    ]
   },
@@ -74632,7 +77190,7 @@
    "score": 28,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21",
-   "active": true
+   "active": false
   },
   {
    "id": "6dca1fa32c58",
@@ -74807,62 +77365,6 @@
      "company": "Wilson Elser - Business & Legal Professionals",
      "min": 145000,
      "max": 180000
-    }
-   ]
-  },
-  {
-   "id": "5ae477bc8c37",
-   "title": "Senior Data Engineer",
-   "company": "Moniepoint",
-   "locations": [
-    {
-     "label": "Remote (US)",
-     "state": null,
-     "remote": true
-    }
-   ],
-   "salary_min": null,
-   "salary_max": null,
-   "salary_est": false,
-   "summary": "Build and maintain robust data pipelines processing large volumes of data Update and optimise our data platform for speed, scalability and cost Coordinate with different functional teams to understand and meet their data needs",
-   "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4969916101",
-   "posted": "2026-09-07",
-   "sources": [
-    "greenhouse"
-   ],
-   "feed": "index:greenhouse:moniepoint",
-   "tags": [
-    "ai",
-    "remote"
-   ],
-   "mode": "remote",
-   "travel": null,
-   "score": 40,
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "active": true,
-   "pay_est_min": 145000,
-   "pay_est_max": 165000,
-   "pay_est_n": 7,
-   "pay_est_confidence": "close",
-   "pay_est_examples": [
-    {
-     "title": "Senior Data Engineer",
-     "company": "Clear Street",
-     "min": 150000,
-     "max": 250000
-    },
-    {
-     "title": "Senior Data Engineer",
-     "company": "LendingTree",
-     "min": 100000,
-     "max": 130000
-    },
-    {
-     "title": "Senior Data Engineer",
-     "company": "Velir",
-     "min": 145000,
-     "max": 160000
     }
    ]
   },

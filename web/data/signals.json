@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T16:18:37+00:00",
+ "generated": "2026-10-21T23:10:29+00:00",
  "items": [
   {
    "id": "2967164f1c50",
@@ -58,6 +58,28 @@
    ],
    "state": "NY",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "63a32cf17b7b",
+   "title": "China skeptics raise alarm over Hochul's plan for upstate NY chip plant: 'Red flags here with yellow stars'",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlVVRzhZYjBXNzJLVDZyWVhTX1VyWjJmS2tULVFpbnZhLWNiZUkwMFV5cmxrSnJkQXJWWU5xU2lUQmdKNVhaV2R5Vnl4eXpIcEtyMjl1NjFEUVIwNlJQYVA3WTl5RWRBRVFOME9jZXBtYzFrR0M3eF83a3I3VTZDQ1RwdnBtaUVheUN4WkdQd2pab3o2bEowSkFKTU91ZVpDakxpaGZsU09VeVdJa2tQcEJKM2p5SmNJa1dGc2NiVUNPeUd1N0NiNjNfX3FHQzE5VHI2bjln?oc=5",
+   "source": "New York Post",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "61655aaee13c",
+   "title": "MRF upgrades for Republic, Circular Services harness AI and tech",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkxQcEJjU0ctcVlTRVFMaVl2UzQ1S3Z5V0xzN3VMZjU5X3ozNVg5MXN2T2djUzY3LUNPWk9TM09lQ2dvMF9sQVkyNWVPdmVRRGNoWms1QkN6UGVZdHphWnkwanBBN2Z2R1ZQVnZKdEV5Z0dnRHEyUVZCZ1NQOHJEWGd3a25BaGVVVDBNTkpTcFBDcXFsd3hTV3NFbEJabmk1M21XVmk1NW12Rmk1dl9EdVlHUTJXVFpCVVE?oc=5",
+   "source": "Waste Dive",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-10-21"
   },
   {
@@ -1144,6 +1166,19 @@
    "tags": [],
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "9bae95cbbc7a",
+   "title": "CordenPharma breaks ground on newest manufacturing facility in North Augusta",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWW41UC1uWmdVdUJzaVY2VFg1czdXOXVWUko4YndXU2FGUjAxT0lRcWdhaXgzUkJOY3U4V3BhN0VkT0N0ODV2Y0NMZXY2RVJYWXI5Wm1xVlhlTk53bEc0TkwyTHJvWVI3MUltVjV2WFZnaU1YemtrRHNrdEgzb0xIMk1YYS15U0haRWdFLXNaUjMtenctWHZnVTA4cU1XeVlFMTNqdHRTRFFhWVZqSVpuODQwb183Z1RJQzhsR1dlaFI5UFlJWUNqU1pwLXpyR09DUTk4Zk5EMU44bzRZdl8yS1lnNkdsNFNHZkFONUt3?oc=5",
+   "source": "WFXG",
+   "date": "2026-10-08",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-10-21"
   },
   {
