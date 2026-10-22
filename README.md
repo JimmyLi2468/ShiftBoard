@@ -23,7 +23,7 @@ Sources, none of which need an account or key:
 - **Google News RSS** for the Signals tab.
 
 Adzuna is supported but off by default (see below). Nothing logs in anywhere and nothing touches LinkedIn or Indeed.
-
+<!--
 ## Setup (about 15 minutes)
 
 1. **Make a GitHub repo** and push this folder to it. GitHub Pages is free for public repos; a private repo needs a paid plan for Pages (or run locally, below). The repo only holds job postings and config. Your tracker and notes never leave your browser.
@@ -143,3 +143,4 @@ pip install pytest
 python -m pytest -q
 python scripts/refresh_sample.py   # rebuilds the sample data embedded in web/index.html
 ```
+-->
