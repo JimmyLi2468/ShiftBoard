@@ -1,6 +1,39 @@
 {
- "generated": "2026-10-21T23:10:29+00:00",
+ "generated": "2026-10-22T15:56:27+00:00",
  "items": [
+  {
+   "id": "e5b68847f5a5",
+   "title": "Berlin manufacturing facility scores multi-million dollar military contract",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0Z1MjlzRnl4YjBibFpYLUItdHZGN01fLTM2dEVVMGtzOV9nVVpsclpZT203MDFKUHRwaFpoU1N4WHZUdGFGckRNYVFHSkFnYWVLakk4NDd4Q1daWmFIRzhWZ0FLNi1nVW1FSlRsU0xDcXppTkpyRmRtYlBPLUhJRG9Vd1UyX3pHeTlHcHJqeUV2N1hId0JSclNOVVV0RXRzOFBWTWNRY2s4LWtaZHUzdENBOHNLMFg0c0t6dk4tdk5PeUR3RWJ6SGEyQWdhclZ6LTB3N21tWXptNTJOYnBtQng5S0g?oc=5",
+   "source": "fox61.com",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "bb2bfbe1cfb5",
+   "title": "Rebuilding Careers in the Empire State: The Best Jobs for Felons in New York in 2026",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQV9rTUpIRnM1Ulk4Rm9odTM2U2d4bE9iazgxTXJCTFZaZGtoTDItWGhlSkJIQ3h5ZjBpMFlVZExWY3hkV2l2SXRrREFzeGY1ZDRjalY2RlJGTEdDcEhmWXNYSHFaREdDVHplQkNOTzFJMHVVMXd3ekdCNExndkluLTlNcWFDNEZFZlgzeUVCdy1fYkxweTZZeEFPMExyNnctNk10MkFUc0hNbTNNYldQRTNaS0xZQkMzRnNrUFNjRExtczJIckR6bQ?oc=5",
+   "source": "Big News Network.com",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": "NY",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "a5ebc4b46dbe",
+   "title": "Yash Highvoltage Reports 95% Revenue Growth in H1 FY27",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0EzZlZCSWxuZlkzM0pzdTFXY2Fhc2FHRkV3UFljRFhyU2xBZmV4QUtfVTAwbWRkWW91dDFZMncteDJOa0hJSUg4d0tDeUtwdWgxWG1DS2U1aS00bUNlZGNFR3dPcjdlNWY4V2dXcUxDNlF2RUtOUC1xRk1IMFRZN21kNXhZZU9UU1poSE94WEo4ZkFlQzBRSGp6NUE0c1N0SW9lQXR2QQ?oc=5",
+   "source": "Passionate In Marketing",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-22"
+  },
   {
    "id": "2967164f1c50",
    "title": "Inspired Capital closes $450m fourth fund; Monomoy hits hard cap on debut family fund",
@@ -303,6 +336,30 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "acd92d51eec2",
+   "title": "GlobalFoundries Plans Two New Semiconductor Fabs in Malta, NY with $21B in Funding",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFFqcGlOWWQ4Ym9MRC1vWU9sTXE3V0ZxQm8wSTdWOFMtS3ZwZDdiQ0pEXzN0dEFRbEVhVUxQQkhyaEZKSEJYNzZoSml5djNvT0pLMUh2U0xDbzFmRFZGVHNTbXFLNDZSRFMtQ2RuUkswMEQ2N1RSTTZzZTRwemVjNVBGYVAyM0I0QzJWME5zLUFNYWRmYldIYWEzY0FaQjZoZFHSAbIBQVVfeXFMUHVIbmlWajVRVGo2QVhwYWhPQ2xQamZtNGVrOTI2Tjd1c2RrQ0ZuWGhfY0lVcG9OcjlWX2RGeEZtWlhnWGdSZVpCVF82dlVMZmpWVWd6TDZYV3VocS1RdnZlTlFOODJsWGNUVUdDSV93bnltV2E3bFhsQTJhSWNTNkxHUWZZUEtibExyMk00TkxobHc5enVkOEhwNzBrdzdHU1pudG1jc2piZFBDcHJmWmtsdw?oc=5",
+   "source": "ConstructConnect News",
+   "date": "2026-10-20",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "3169bdcd3401",
+   "title": "Technology on the Factory Floor: Shaping Manufacturing’s Next Leap",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanBTNHNjMFNDNEVNVnJQUEc0OW1zeEliVnZMZndsM04tSHdoSFVWX1FBdTdTNG00b2lnQlZQX3h6QkUtSzJ4eFp3ek94X01oUEdFMWxFckVVbVNyM3RIcFhlM3M5WE5uY1JleUFLSFgySnR2eUdmT2NwTk9IMEVzR2t4LVNCTHVSMy1uQTJ1OFdSQWp4SV9ORTUxMV9TRlEtcTAydXBiTzlDM0hBTV9BdE02djY0TzA?oc=5",
+   "source": "Nigeria Communications Week",
+   "date": "2026-10-20",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-22"
+  },
+  {
    "id": "73d53fff7ee5",
    "title": "GSK Investing $800M in Biopharma Manufacturing in Pennsylvania",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNllWUVZnWnItUGNUYXJZdnhqd0Z6aXNsQ2gzQ0hHd1VyeVhreFoxSkNiZU9ndFhZTGxUdkZjb0tDaHFCUFJfNGlaRTJUWU1xMEQ3MzVodlhXdzZuVm1RMTd5WjdLd3pxVjEwb2VGcFY1MlZNejlzeGEtdU5wYzhzRTdRdUVvZWs?oc=5",
@@ -513,6 +570,19 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "c25bab6fd85b",
+   "title": "Alcoa plans to sell part of its Massena East site for $315M",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ05NNV9MdmVOYVJJcElqM0hBeThHTzkxWnhWLW9WWmZYTUxJMElNa2Y2NUlEek1sTUl5VVFEZTBQeGlNVGRhV285N2xFV21ZblV0d2lnQWhlcmI1YUtQQXdJVFZ2Rl8yNTd0c3dfRXVVd1ZUOGNUakpITlViQURtWVpid3RzZlppSXh0by1MTlIzWW1nM3dKT19kSmxlbUNmOWVEQ005NjFGRnFG?oc=5",
+   "source": "Manufacturing Dive",
+   "date": "2026-10-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-22"
   },
   {
    "id": "483c14be85ba",
@@ -958,6 +1028,30 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "7971cdf10486",
+   "title": "Aurelius eyes industrial AI with Nokia’s Enterprise Campus Edge carve-out; Riverside’s Dastex makes seventh add-on",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb0V6SGx4bHFCdnNZNFVrcTZrQ0FsZFBjR0JMMnFVaFFDdG1sRXg2NjNlTFdtODA2MXp0aC1SRVh2c1BzRnI3Sy1VN3hMc2U2d2E2ZzQ2Z1BiTWtmcXBwUHhPX3NvSlpLbG90RVM1NlMyTnlnanlEZkUtT0d2MDdLSFpFbmFJdDY0RTJON193UFpqQm9XZFc2bk1zYU5Hd3YtUFh3enJpOV9BX0VOS2tpVDJXbVFjQmJsVVVYRDh6cHpqWTFYeVpTUnRQaHZqYkN5TGEzZnF1Xy11WGVaQUt4STU1OE1UWldaWlln?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-10-13",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "eeb6c16d63a2",
+   "title": "Nokia exits enterprise campus edge business in asset sale to Aurelius",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGFndnVNYnNBcGdLbEotZDdJOTBoWEtqLWpfb2N2S2htR3k0NExyTTM0cnF3VGJnU08wNG1jS3U0S2RVaElRblR2OGd3Y0xIUGtmZEVKWHlGQ1k3bzB4QzBvVFY5THpwYjZvcWR0bTNtcU85RjROdVhSM2FLd3lRQV9xRFkyc2h4dHViWUNJWGduODdVYUpYU2J2UVJqcC04aVdUU3ZRMndKZkM2R2pTNHFn?oc=5",
+   "source": "Telecompaper",
+   "date": "2026-10-13",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-22"
+  },
+  {
    "id": "7b7b0db9b897",
    "title": "Manufacturer breaks ground for Hagerstown-area plant",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTNub3Y5SWZVWlJMNDNSb3JHa0VidGlXVXBUOHo2Zl9JZXVmSHR4NmdNWVc5OXZSS3diNDRtSFI1TC0wR19oejJCMFM3dUswNnp6YzIyOWFYRl82V3N6Q3pCQkc3ZFU1ZFZocHI5MWN4ZjBBODc5aExoMVN3Z3hKdVdkYjlkQjV1VGx1RlhQMV9YbUg5cEE?oc=5",
@@ -1004,6 +1098,17 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "4a7713cd3f2e",
+   "title": "GlobalFoundries rallies after US$2bn TSMC deal",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ba2RXaS1VU0twSVU1UGh4amtINVVtUjQ2S0JkeHhYVzNmbmJNaTJDR2hzV2oybUkwaVF0NmFrZ25OTDF4NVh2VGVSZ2p3WFBaNWU0SUJfUl8yVTVVUDNWdDg5MWVhTzFwNmk1VkNJamgxTThvN3c?oc=5",
+   "source": "Taipei Times",
+   "date": "2026-10-10",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-22"
   },
   {
    "id": "2c86bba8417e",
@@ -1180,6 +1285,19 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "60971a471a5d",
+   "title": "Anugal Announces U.S. SAP IDM Readiness Campaign Ahead of 2027 Maintenance Deadline",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmY3S1REVGRFZXRRUjNfMXNGNUJONURBMWF0RktNZ3dubHZRb2FYcFJXWHBjVmNmR1NJOWFubHN6VW55bDZUSDBmT3F4VXB3eEF5NVpqeEFBXzZ5WlNmdFhQX3k0U0RETGs4VXo3dE5WeExnZHNyaWlJQ3V3ZUg5cWNieGJDWjB2cEdTUGk0ajJBTU1N?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-08",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-22"
   },
   {
    "id": "c34040f6b0fa",
@@ -1380,6 +1498,17 @@
    "state": "PA",
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "0a93c9c1651e",
+   "title": "Bulgarian-Style Yogurt Fueled by Pennsylvania Milk | Dairy News",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQU1IOWc3NnRDYzc0Y0hRZi1PY3hBRUd1dDJVNE9Bbm5zbDBnb2hicEV2d0dsRGRvOE94dDJEcFZqeXB0eGs2dEdaaXdvd1hncE95Smh2VF9weFFsLXg0LXRFdzlfRHFZT2lXR0RBZ0c2RkJTLVB6NTkxVl9Tak50dVNSVTNfcXg3aGllODJ0NXpTR0p6bDZCV2VwdzJuSktfcVB2Z0xiMzhfQmVBUlh2N1A5RDlxdVhEUzBmVEhzM0k1aGczdGt4a3lZU0UtaTJXTkpwSmFYQ3hpYTl1a0ZhQUV4eG1JcVk?oc=5",
+   "source": "Lancaster Farming",
+   "date": "2026-09-25",
+   "tags": [],
+   "state": "PA",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-22"
   },
   {
    "id": "e5a4634dc67e",
