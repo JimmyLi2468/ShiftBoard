@@ -1,6 +1,54 @@
 {
- "generated": "2026-10-22T15:56:27+00:00",
+ "generated": "2026-10-23T15:48:00+00:00",
  "items": [
+  {
+   "id": "a3ee23d3014d",
+   "title": "Opinion | The Factory Outside Phoenix That Could Save American Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXJYZ1VDWGFrUHZfWERaTVFOZkJwTXNjNVkwcnYxcjFHTWhGUWRxNWtmbnBmdE5rQUw5Q3BwbC1KMVpRc0R1V0ZRUE9XMXhZUUJQUndxVTljQ2dNWnVyQnRZellJVkxOU0xzYUx6R2lQNm44eVgxQUQ2V2N1eTlNWkl1WWZ4blEyblJvMFRxZ3VMOFZZUGZkRjFsZHQ?oc=5",
+   "source": "The New York Times",
+   "date": "2026-10-23",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "6969ceff9b76",
+   "title": "Eli Lilly breaks ground on $5B West Creek pharma facility",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG52bnpvdGZLb0ppcTNUekdCd1A0Y09ORjRWUkNEdEJSM2kySVJibVNyY2xmeElWUmRWM2xJejgybTg2dm01VkVnLXJFWDdLUmtESGdKSWpidjdWc2RIeEl5bFJrWnEtZ01BdFR6X1BZOHhMWlJwTHhqWTdKNGJ3NXZVTlpIVFlKempJaUZObzMzVEd2UFlweXZWWWN3Zw?oc=5",
+   "source": "Richmond BizSense",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "7c12d2935e58",
+   "title": "Latham & Watkins Promotes 36 Associates To Partner, Bringing 2026 Total To 58",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmNsdVh6Q3NPakFYMU9XeXhSUmdoN3l6RWFmMFpyazJzZUZ0bGE2UHJ5NnlSN2VicFdRTlVKaU9NdzFlUDN3bjAwbFktVnpZSktQc1RMWkFzdDlLenZOdVU3R3ZZQ1dNbUJNLTU3U3oxa0VkTjhFeTZmUC1rU1lJUllWWmNnckJtUUhRTm5fckNGc2pXa1hiTXhB?oc=5",
+   "source": "Pulse 2.0",
+   "date": "2026-10-23",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "08c9f429ed21",
+   "title": "Tesla begins production of 'Optimus' humanoid robot",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2tLVGtySTA5OUk1S2dqdjVOb0psNHJKNVRMRG9PYWE0RHRUcUpTOTB0Sk5aTzVFNHpnS2xrVTUzdlBQQ0MxdXNENkhpWjk2dGFNMXlOVHFla0hIQjJoeHFTOEVzUk9zQS1Bd0dLa2t5TFVFRUhZUzNoVkZBZDRJUWt6cjhjakXSAYwBQVVfeXFMT21vQ1U3Mmh2WVZld2R6dU13Z3ZnanFNeFRoTDJTS0ZSNmQ1N1JlMGtOUDBvenJ6anA0NGgzbzlNdS1NZjR0Z04ya291b3Y5V1RrXzl0a0FsZ0RibTlRNEstLVhUbHRyajBHSTc1MXV0T1A4VUtsVGZLLXA1cGxqdWV4UU5qaDZEUzhsQkE?oc=5",
+   "source": "ABC7 New York",
+   "date": "2026-10-23",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-23"
+  },
   {
    "id": "e5b68847f5a5",
    "title": "Berlin manufacturing facility scores multi-million dollar military contract",
@@ -33,6 +81,91 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "989b5558338c",
+   "title": "GSK plans to open biopharmaceutical manufacturing facility in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZzdjZ05FNDB5UFVxQUp3ZGhSVkllMlFMQVlOWnE3VVBHZHpja2tmZWp6M2poY2FVUWQ5c1NQWmlnX2UtbnJuSDdPWHFqSXJqNlZOQW1vRjF4QmY2NFE0TjJGM3U0dFM2eDZwM3pmTWNxU2Fqdml0Q0VZV0VPZkk3MkFFREJtdGdxam1QOVVEa1EzRGdGOHNqS3p5QUtDMWZVeXBWZnU5eEpCLV9xZWZ1bmdIOFpTWjY3WmhlV2ZjYWVxa2F2b0VlTG9WajQ?oc=5",
+   "source": "Plant Services",
+   "date": "2026-10-22",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "4b24ee9e957a",
+   "title": "Berlin manufacturing facility scores multimillion-dollar military contract",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0Z1MjlzRnl4YjBibFpYLUItdHZGN01fLTM2dEVVMGtzOV9nVVpsclpZT203MDFKUHRwaFpoU1N4WHZUdGFGckRNYVFHSkFnYWVLakk4NDd4Q1daWmFIRzhWZ0FLNi1nVW1FSlRsU0xDcXppTkpyRmRtYlBPLUhJRG9Vd1UyX3pHeTlHcHJqeUV2N1hId0JSclNOVVV0RXRzOFBWTWNRY2s4LWtaZHUzdENBOHNLMFg0c0t6dk4tdk5PeUR3RWJ6SGEyQWdhclZ6LTB3N21tWXptNTJOYnBtQng5S0g?oc=5",
+   "source": "fox61.com",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "2c6ffd8caa8c",
+   "title": "ARCO Design/Build Breaks Ground on 355,000-Square-Foot Advanced Manufacturing Facility for Jamison Door Company and BMP Group in Hagerstown, Maryland",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOM0hMRGtSb01WcXF1Vmt5cDBFcERpNGRaeFNDZmN5MkdjcEVlaDI3cnk1ZUdQNDR2Vm9KWXBTSDBWMmpoNDhNakVjVjNXTzVoN0xsc0VaMXVlR3U0Zm5vX2NZX0JSbWVKY3FjdmtlNU1TYkZIZVN5VTRPMFJQX1NiVHRsMDctRFV0a1FqRzhhVWZDV0Q2Vkd0QjFVbEFEbEhIeDJVOGljM0RhZUZ6UE13dUN4bDBZeERxdTBjNDMyc1d0dXZ1NEdMVndTTDRnRm93c0R3WjdCQktUT0lzNHp5WmhZa0tfeEwxS0tCTDlrcFAxUWMyTFJjaVIxSlVrTHdUWjEyY1BtSngyZmFjeDV1VUVDNGpJVE85TDRLNVVZMERoV0hSZ3hUU3Zpdw?oc=5",
+   "source": "PR Newswire",
+   "date": "2026-10-22",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "2fba0fef6414",
+   "title": "Tesla’s US$10.1B Solar Plant Wins Fort Bend County Tax Breaks",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2hvRGRZYWtNbmo0Y3gxX2ZWV1F4cDY4YW1JY0ZRV3VrRFFiOWlIclhkbWNIVmFNMWN2RElWNVhwNDNsRGEzYk5zNzNKWTU4T0hqUjlKcTB5SjJPVVdObi1vQUZ5a3FiQ0E4bUFxa2UzNldkTmJXZjJTNWJ5Mk9kWkFpbHB4TXZpRVktYmdxRWhPNU4yZGc?oc=5",
+   "source": "TeslaNorth.com",
+   "date": "2026-10-22",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "c29464e47d76",
+   "title": "Lilly breaks ground in Richmond to expand American manufacturing of next-generation cancer medicines, advancing its build-out of 10 new U.S. sites since 2020",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOem1rMmZJRTRBbDloLVMwaGFYM1dJYVhFaHVoRWlFVEpXZkNMLWJfMjAwakZOak00eVdudUIxQlRtbktxQ1JOM2F6LTQyalI2QVd6b3dJa1Rabmg5SGVaVU1SUjZxTWx2RnRsMm1JcE1DLV9MSmYtU0UzMVlET1RPOEZrbFR4UFdhWE1xQ2ppdTFwT3lyZTYtNXJodGxwbVhHYlFxNU50VEx4RDR6M25QSUpfYVFnMG5ocy1McHhXT2ZXSGJFTWYwcUVhQjJpR0JDNmRZQTNuQVVXa2Z1Mnl3bnNpODlWcXRDRlNWMjNOeTRYOE1SSzJtUU04YnhGZEFMZFJ2eWtPZ0pNLWpkeDQ1emkxdVBOdzN3M3Znb2ZycDdyLVhpN0gtWGY1azJjangyalhuVg?oc=5",
+   "source": "PR Newswire",
+   "date": "2026-10-22",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "29122407db50",
+   "title": "Global private equity investment reaches $1.5 trillion as capital concentrates in fewer, larger deals, according to KPMG’s Pulse of Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZy1SZWNVX0tJeFpFMUl2RmhjUUFEYkxSd0JHbFhCbV8xeU40U20zeWtKWFN5Mkx3MDVaeXZzXzNreXdWT1pUN1BUYVhGY1FLbkNBNEpGaHl4ZEVJRzE1dVItdFpvZXRzVVpTY0FSdHp5SXFTTEpCaWFZdjR0UVJlbHBOYlBjekR1QW9BeVJGWGlhZVVrUTd6S3E0eFpTMTBnYjU4WDI2WTZPNEZRME9sLUZubjJ0cnJaNC01eTYwd2VkZWJyME5tb3dvMElKR0M2TlJJdW9GQlRmZ3NUMEQxcWZJSlpkbE9oQXdEMi1IM3Y4cEZMWDNPdg?oc=5",
+   "source": "KPMG International",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "84378dfb49e3",
+   "title": "Latham & Watkins Names New Partners",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYlhqakh3NUNJM1NTUXZ4US1hSWJKNDFaUEF2c3Z1RjFEX2tBRVN0ZEdpVk95b3BxQjV3OEpmdUFJUkM0SmMyT2ZRWnV6S0NuWjJIRTBkUDRheW9kcUQ1ZTVTU09nLThoTmVTZ3lKcmZpdEY0RkE3VlJKSlhIY1MxTXJnT1pmbnZUYUZoWFptd2ZUbU5P?oc=5",
+   "source": "PR Newswire",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "2967164f1c50",
@@ -360,6 +493,17 @@
    "first_seen": "2026-10-22"
   },
   {
+   "id": "6e3b7edd5168",
+   "title": "New Jersey - Economy, Manufacturing, Agriculture",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JZHZ1TWRLRlB6dlU5aXdjaktoWWdOWXlpUF9GVkVlcUx3ZzVaYUd5WF9fNXR4Q25vS2FtVTY1eVFGUFliMGFRWkVrSE9LZS02UU5aSTM5eGVXUWRQel9jVg?oc=5",
+   "source": "Britannica",
+   "date": "2026-10-20",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "73d53fff7ee5",
    "title": "GSK Investing $800M in Biopharma Manufacturing in Pennsylvania",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNllWUVZnWnItUGNUYXJZdnhqd0Z6aXNsQ2gzQ0hHd1VyeVhreFoxSkNiZU9ndFhZTGxUdkZjb0tDaHFCUFJfNGlaRTJUWU1xMEQ3MzVodlhXdzZuVm1RMTd5WjdLd3pxVjEwb2VGcFY1MlZNejlzeGEtdU5wYzhzRTdRdUVvZWs?oc=5",
@@ -583,6 +727,43 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "29e5ccdf5f0b",
+   "title": "Creating Jobs in Armstrong County: Governor Shapiro Secures $31.7 Million Investment from Brunk Industries to Expand Manufacturing Operations, Creating 64 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNVVYZnNIS25nYjhpSnczcFc2eVpYSkNIYlBCX3dSWjhFd2FfZFhWUExtWmRzcHc5ZnVRQVNVVW5LbmVpYjJUalNkS1pMQWlaTmJ1OUNGVFlKNWlfcnJvM0xsQ1l0dWwxS3J4T0R3SlBOakVHM1pmVEdBSFl6emlJTUZoX29vbnhuc3MzLTJhejNUMW9zVzllLWVMUEJtMVRMYkpET0ItUDRqVzhycFJjemhUMWlIZnlqa3ViUGNUdGN1M0tLdVQwc2VGQjN6THA5SC1jbk5aX0VKWVFBUUNUZmtveFQ1M3pjS04xY1hwZkgtdUJNWjhQbnV6dy1MRm95UW4xNjYxdXY5YWJaQnIyS0xvZm9EM21fRWc?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "d5efd8dddfba",
+   "title": "Creating Jobs in Mercer County: Governor Shapiro Secures $16.3 Million Investment from CCL Container to Expand its Manufacturing Operations, Creating 30 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbk1wMHloY2ZJX3VNSjdfdU93dlBBdktzbUdLeDNMNVZvTlp1TnpOeEtxeVZuTEJGQVppWUpjUXZEdWpDcmlpd3RZcnJRZURfSURQcDB1TmZkdXFleEZoOVBhRi1fdDg3YTVxa2ptaGRzRFlReUhDQml4X3BWdTBoZWRPRk1DNzBIb0hIOWl4QzJBYmdobXkxT2gxMGVMTEFBbXR1SlJWYVAzWldveVNiMFVpMXNIamVYM0dXWUxwRjk3azBaeWR6aE90X05rVVZiWmR6M3BNeUVOc21aLXctUEFJWk5QSjdRZWZhYUwtWUhuUlpsb1NVYlA0dE9WN1BSTllUNWQwNjhzdi1rX2dNeFNTckFQRWs?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "c8024c6fdce9",
+   "title": "ICYMI: Governor Shapiro Lands Another Major Private Sector Deal for Pennsylvania, Addresses Business Leaders in Lehigh Valley",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS0xmOV9HbW1XLXhzR0E4NXFHWXRzRTZQa2xsU1BfUUI3WVVBSG10Yzd3aEpXVTRPRlIzckh4aGNUNjViXzJfZnRLWHAyYkZaSFl2V0NQaFlSLVZKU0F6VGtoNkM2OV9aNXRVNHdhT2ZDUkZvcG9YNFZlc1h0UFFOV2V4dFhzRlNXYnl3STBDRzhmbXJNY1dUZVdQdW84ZGktZ2lic3dJcU9TZjZrWXFmcmJ5V2ZjTnRsd1lKUHdOaU85UXBoeTlyNDZ4Z0xGS3F0REtMMDdLS1RxZWhtOGQ2QjFmSm9aaGRp?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-16",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "483c14be85ba",
@@ -865,6 +1046,56 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ac9cfb179b8b",
+   "title": "GlobalFoundries to operate 2 chip plants with $21B Japan investment",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUg3VXgtcmwxTFByaXBpRjVSTkVZUVNxU2UwN21Hdmo5Y1M4Q3pfNERvRHR6d2RKT0VLRUk2VE8yNzBmclN3eHFCaXFmMEtZYUtEeTFzcGVWVEhwZkpGYUpVWE8zVVNSUGFIMy03UGJwdVNBaHNsc3NfblpYODU2dA?oc=5",
+   "source": "Quartz",
+   "date": "2026-10-14",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "302b75c1d646",
+   "title": "The new R&D and manufacturing facilities powering our US growth",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2tFQ0VVWGZBQVlTaG0ycVotSzBtY0ZLRV8waktUU0pmalkxY2hGLXZvSU9lRnhWNXhuUmpLN19INU9oOEJSNm1iazFYVWtXOXRXbHNDYl9aeUpGbkFTSXhkdEo1LVVSVmFSVGJZUDBoZzctMUxUNGJiYnhMQ0ZZNEdvMGtaZjcySXctSFNCVQ?oc=5",
+   "source": "Merck | Home",
+   "date": "2026-10-14",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "de0d01ac7342",
+   "title": "Japan to fund $21B deal to expand chip production in New York",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObW1iMGZ5VzhLbURrcjIzcjlLQVpVbFE0X2hjNkdtLUdybHVOVkpCQ3BVZEZpMmpkUjcyX2JyQkd6MWpqZ0FQWC10d1lWQXhhWVNCbkJMX0ZxRUtFSzl5ZHdiWG1OSzk2X2s2YjBUaWRVMFp5bTRSa01YeVREMFk2V0RWYUPSAYoBQVVfeXFMUFNEcEwxUFNmR2lYSlNDbkFyMk91NzV5ZFdPZ2JCdmtPNEtCV0xDOWtCblVDM28waXEyOVo2alVtRHdjZDhHeWZibjhhc3ZYMk44M0VvTnR3c21sYW4xV1paY3dRRklabjRwTUdoc0FlQ19mWHF1SnNXQWRBUkVHR0NiRWloTTlsSHBR?oc=5",
+   "source": "The Hill",
+   "date": "2026-10-14",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "3c90b766d4d7",
+   "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOHIwVERTRUVqaGdZRUpHLXBFcTNwNHBlb3JXaW1pbmwzd0xzelU0dFctdVJMVDlCZ0lmTS1UUEREOHVZaDRnbDNESVRubmNjbUtvUHg4aHNyNFhzTXVwNmhXUHJvemRidlh0SDlqaXBqRWlNcF9lLVMyMmZYVktoaXktdlg?oc=5",
+   "source": "Financial Times",
+   "date": "2026-10-14",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "4cdda879863b",
    "title": "GSK to invest $800M in Pennsylvania expansion",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVd1WF9LcmdQZFAtbktRM0J5TmR6YXk0WVBoZ2g5b1lKcmlvbEo1SDJfbWpZNHZnRmFfZ2lSSks5UGsyOHQ1UksyVW1zYi0yMjExSnp5RGlmcDRWMkNxV0tjQlpCdm9EU2tnQlRObmY4S01oQzZWQ1l4OHVEZDNSb2ZxZmZOTENOMUdwcjczR1FNVVdaYlNQcERJdWRrNFVjbGhXUmdoQTVqWllITGhLUVF2NA?oc=5",
@@ -1089,6 +1320,32 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "1ebff7f6e144",
+   "title": "Hovione’s Pharmaceutical Manufacturing Facility Expansion, New Jersey, US",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZzN4TTd6cW40dkhndjFYRlNSb1U3YzdrTGljX0lfWWdsZnVvdGd4bDNLcEtpYXFoNXFqUkEyRGY2U3UwckdHUTdzYTdxZ2xiR1U4Z3QyaVN2cXVRd29PaXpJV2sxd05UWi0yVlBLSkI0bl9vSnhac05JN1Nxdmw5aEpxVWUtYjBjdFI1bW15ajZGR1BETG5mel9n?oc=5",
+   "source": "Pharmaceutical Technology",
+   "date": "2026-10-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "7c15d853533f",
+   "title": "GSK pledges $800M to add biologics production capabilities in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0RYZTdCYlBpdFpPdTRzN2lqWE0wd3dtanREU3NiaVhnQ1RpRVhndkxrZ0FYY1owRUVrYWZPQ05MbHdTV2o1SHJRdWc2c3RhVVVMYlEzSG9yNkx3SUJhNTB3VkhXeHRQdTdMVF9heVZBX0xtZWlhdzQzS3V0dnJCelVqaDZUTGNiODZXVVVYU0g2bGtPRW56WlJMeFdpc3ZvTTZRaTJPbkg5cms?oc=5",
+   "source": "BioSpace",
+   "date": "2026-10-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "0dbddf94114c",
    "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0FvdU5zajNFSTBxQlNRTHBwS2tDeU5KM0NOU3FuZWNILTlSN0RPTEVxMzJ5bno3aDRCLXVGNDI2MGJGRlFFa2FsUTJicXU1ZFRvSElmbVNOVkUwa05NRzFkVW1vcVp0cHZPRm9EUVlXdEhvclpTa19XZjhNY3o1SXVoM0pOQm1yWWNUdmRncVRZZ3ZuejA4VQ?oc=5",
@@ -1109,6 +1366,17 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "f50022230584",
+   "title": "Edinborough Products goes live with group-wide digital transformation",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbW8wOEJZQnJsbzBlenpIYmhuZlJuMnJLbzhKR0p3UnZPRXNJbVRoSnNJcFdUXzVpZDRzMlFvMFJoSFZzRmhLQVVldnhaSXQtX0JlZG1lSzdBY1JWaHdZb0pncXpnUzVWX0l6MmFDcVIwMHI4R25sa19oTnQ2OFdWWFk5bGc4S191RHdWbEUyRWJvdldjQ1NvamVRSDBCM19JVzY0LVd4cW9LX01objA0S0g1YUZRaTVoTWd1Wm02U0xmZzFjTEE?oc=5",
+   "source": "Daily Mirror - Sri Lanka",
+   "date": "2026-10-10",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "2c86bba8417e",

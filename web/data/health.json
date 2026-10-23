@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T15:56:27+00:00",
+ "generated": "2026-10-23T15:48:00+00:00",
  "calls": 675,
  "sources": [
   {
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 20,
+   "jobs": 23,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 2068,
-   "note": "659 of 3,749 boards checked today, 650 with matching jobs, 0 unreachable. harvest paused: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))."
+   "jobs": 2085,
+   "note": "659 of 3,749 boards checked today, 642 with matching jobs, 0 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=jobs.ashbyhq.com%2F%2A&output=json&fl=url&page=0."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,21 +139,21 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 56,
+   "jobs": 61,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 6,
+   "jobs": 7,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 24,
+   "jobs": 10,
    "note": ""
   },
   {
