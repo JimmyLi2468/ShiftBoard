@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:48:00+00:00",
+ "generated": "2026-10-24T14:33:57+00:00",
  "calls": 675,
  "sources": [
   {
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 23,
+   "jobs": 21,
    "note": ""
   },
   {
@@ -62,7 +62,7 @@
    "name": "Bridgewater Associates",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 1,
+   "jobs": 2,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 2085,
-   "note": "659 of 3,749 boards checked today, 642 with matching jobs, 0 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=jobs.ashbyhq.com%2F%2A&output=json&fl=url&page=0."
+   "jobs": 2065,
+   "note": "659 of 3,749 boards checked today, 636 with matching jobs, 0 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=jobs.ashbyhq.com%2F%2A&output=json&fl=url&page=0."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,28 +139,28 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 61,
+   "jobs": 58,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 7,
+   "jobs": 6,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 10,
+   "jobs": 23,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 23,
+   "jobs": 27,
    "note": ""
   },
   {

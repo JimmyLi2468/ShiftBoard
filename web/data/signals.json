@@ -1,6 +1,19 @@
 {
- "generated": "2026-10-23T15:48:00+00:00",
+ "generated": "2026-10-24T14:33:57+00:00",
  "items": [
+  {
+   "id": "25e1088ef292",
+   "title": "Mutares considers Houston presence amid US and chemicals expansion",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3l4Y3lBRmNjaDRESW1lNUNZZVNjdHhDWlR3QUZ6Mk5YVVNEYVFqSW5sWjAzZHEycm9MSUZ0M1dUcWh1QjdSeUtVOGNPQkdVUVdnWjVtYkxCMWlfcVl1QnZ0UHYtVldDa2Y5cm0xSEdIeHRmNkdoSDYzMHp3MEhfRWhQcjRwN1dLd2MxOFFzTFFkd0xaYWhpMkdUWENReFNKUnJNeTl2bmpnMHRjTnNZ?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-10-24",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-24"
+  },
   {
    "id": "a3ee23d3014d",
    "title": "Opinion | The Factory Outside Phoenix That Could Save American Manufacturing",
@@ -48,6 +61,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "32463f07f41a",
+   "title": "Opinion | The Factory in Phoenix That Could Save American Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXJYZ1VDWGFrUHZfWERaTVFOZkJwTXNjNVkwcnYxcjFHTWhGUWRxNWtmbnBmdE5rQUw5Q3BwbC1KMVpRc0R1V0ZRUE9XMXhZUUJQUndxVTljQ2dNWnVyQnRZellJVkxOU0xzYUx6R2lQNm44eVgxQUQ2V2N1eTlNWkl1WWZ4blEyblJvMFRxZ3VMOFZZUGZkRjFsZHQ?oc=5",
+   "source": "The New York Times",
+   "date": "2026-10-23",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
   },
   {
    "id": "e5b68847f5a5",
@@ -168,6 +192,43 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "e6f69dfbeaeb",
+   "title": "Colliers facilitates new lease for SendCutSend’s Pennsylvania manufacturing expansion",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcTJpc2ItaE1fWEo4NmxKRGF2VGs5SGtVbm1IVTU5OTdCdzF2aUNMUVZGSUVwTEs2cVBKQ2ZVTUx0T1h5OG5kTmpWWmwwaVhxbXhQZk1tZ1VVLXUyM2ZkcnV2T2hvNnZORFo3bkRzZmVydnJiODdfMURVTVBXdHhvM2ZjZ0xKZHdxQ0ZUaHg3T09qaU42dTNpZEFhUG9ZN0g3d0EtOGk3UnZyQ1VvY05aVm9BMHcxMlNjajBQUEMzcVVKSTRTekpXc1V3?oc=5",
+   "source": "Colliers",
+   "date": "2026-10-22",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "f784055e911a",
+   "title": "SAP Managed Services for Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0p1Wnc0eXQ0cHZPOGpBWU95NkVVT0pBS2d3YVRWWTZmb0VhUkVBS19sLU93RlNNQkFPbHR0Zmc0ZGlNTlo2a3gwa21OeTBaLTJwb2hwa1ZZUW9zeVlnSXZqVFVUR0ZDdVItTk1EWGRBd203VGdncTNGckhFZjVMRDVuUHg3WGJSWF9FaG40ZkxkQ2JZc1hUUVZZeHdVVmZicC1NOFFBMFM?oc=5",
+   "source": "PwC",
+   "date": "2026-10-22",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "74a92fd013f1",
+   "title": "Nelson Advisors: HealthTech, MedTech and Health AI Strategic Growth Frameworks 2027",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDJZSUZSMnZzNGtSX1hFLUphVGt5RFBwRkxRRndMYnZsWWVyamZXdDdrTzdZTFdKNXdpQnoxdEREYTg1enN2V3lFMnQ4RXV3UTMzSk5pTlVadER5aUdGbW1aMUdHZDBXSi0wUWs5bG12eXBGa1hqWGdOVGxvbXVqZUU1Q1QzQ2l5TTBkRmFLTWRNY1U2WDExMGU0b3RsRENGN1FEMnM4Nlp6R29FTkJTMlB2TVZ6VmZhVEk5R3RhLXV5Zw?oc=5",
+   "source": "healthcare.digital",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
    "id": "2967164f1c50",
    "title": "Inspired Capital closes $450m fourth fund; Monomoy hits hard cap on debut family fund",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkJxbWs5ZlBhbVVjeVdPd3NuMDBna3JFTmN2dTNHNFp6QnZqcXEyMTlldk0tNzltc2ZCb1dLcUZzU3hIckx1WGlCYWlkM01LMlRJUUw5WmsyejhpaF9GRURYQUNwRlc2MG1SdnRiUVlya2t1QnAyaTlKVXJVTGdNWUl3aUgyeThyZzY3X2JJM0dzalJsdUJMdk1XRXEyZjlRZkJjbEJJYVNldk0?oc=5",
@@ -247,6 +308,17 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "5e880381ef0b",
+   "title": "Merck Expands Montgomery County, Pennsylvania, R&D-Manufacturing Operations",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkViTHQ5RGFlV1ExVXlHd0lId2tjdkVWWVR3TERxd3FTbFFDYXE4aW94Yy04WDlZc1hUUmdERFl6cnRHRUJscHoxbkV3ZnY2allWanI2YnpGQ3NvMGZ6cUJnWEtydmdMbm1YbTVidXJrWUdkUUZ4ZkdIUUxKVWZJTUIzRnFVcTd0d21YeVltbnVqek53N1FOMDZROA?oc=5",
+   "source": "Area Development",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
   },
   {
    "id": "bc4b02a58488",
@@ -766,6 +838,17 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "c69d29fa008f",
+   "title": "GSK Expands Montgomery County, Pennsylvania, Manufacturing Operations",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjYyd0tvMXVIWjg4dWoydV9CX0JDdGhlb2xxV1JtZTI3cmtBTEpwWHd4dmZCZmtpdXNSd2hkRUwtbEhjR01mUHpLNkdMNThranNDY09BVHNKZjhiYzFCV0t4dWZkS2Q2dGZZRGJZTnprUll1cjdodGdZbXlKaEFSdkFJZVI0Z1lsRzBuLUdvVW82Tmp1X3F3dHkza3lhZw?oc=5",
+   "source": "Area Development",
+   "date": "2026-10-16",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
    "id": "483c14be85ba",
    "title": "GlobalFoundries to open 2 new chip plants in New York with $21 billion in financing from Japan",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUW1hLURrWWJIdXQyR0hBRXIwZHRia3lqRkVCZU5mcnJPZzU1UTZuY0FjWFhVVmZ5bklId2MxbG5kWWs2NW1YOUdxZzc2WmJwM0NoN3ZKNTduMUZMeHJMV0stRTZNTnVxSjBIZGhhQzI1bU5jVkp5NThjdzUzRFJkNlNRZkFIdko4Q2xBUEhwekdEWGZtTVhRVDV3MmtEYWNERjlEUmRuZktoNmZBRml4ZnRtb09za0ZzQVlkN2NUVnlmdDVNMy1RNFlYNEN1MEJFQTdnXy0zOFVCRDdaaUE?oc=5",
@@ -1096,6 +1179,33 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "818d66ec5b9a",
+   "title": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZW8xQ1AtdjA2d1B4YXlXNkp6YnBCblFZNTI1YzZVYVYtMXBhZGtjdm9RMnZaOUx6M3hrRlFpbzhuMmZwcV83ZmNtSUh0aTB0MHlnQkpMSFhWamFhRnEwSFZuV2lpMmI0SWhjY29GVTNfX2NVdmhOUk0zN0dORXNnbGpnSjZ6RFY0OFVYazFnUGhkMDRUOGpEek5sZVZFWlIyb2loYg?oc=5",
+   "source": "WSJ",
+   "date": "2026-10-14",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "5c0d7a17d116",
+   "title": "GlobalFoundries to open two new chip plants in New York with US$21 billion in financing from Japan",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1pOWjU5S3lOcVdiczR1S3pIN09PM0JKUjNnSVpfSjNnWTBfd3YwQlhBYjNyNEROY1BCcG1LT0lNQS1LeTNocExfeHVpT0l0RE4tUERPZXZyT1dacUdDc2Y2eTlQUWdkMVVoel85bDN3MDE4WHZkWm9DOGo0dW5wV1BfUVZ4a3hDUVR1cG1wME9QTzdXRTdETmZ3SGtnLVBGNmZWanBueE42VzU3NkNCbGgybnNHTkw5dzJZVWVZaUxvcG1UV2dVd1ljc0VIYmxJT2dGU2hKWUpVaFdfZTU1SmJJT2o4OUNUSHVpbHd3d2M?oc=5",
+   "source": "BNN Bloomberg",
+   "date": "2026-10-14",
+   "tags": [
+    "plant announcement",
+    "plant opening"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
    "id": "4cdda879863b",
    "title": "GSK to invest $800M in Pennsylvania expansion",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVd1WF9LcmdQZFAtbktRM0J5TmR6YXk0WVBoZ2g5b1lKcmlvbEo1SDJfbWpZNHZnRmFfZ2lSSks5UGsyOHQ1UksyVW1zYi0yMjExSnp5RGlmcDRWMkNxV0tjQlpCdm9EU2tnQlRObmY4S01oQzZWQ1l4OHVEZDNSb2ZxZmZOTENOMUdwcjczR1FNVVdaYlNQcERJdWRrNFVjbGhXUmdoQTVqWllITGhLUVF2NA?oc=5",
@@ -1283,6 +1393,39 @@
    "first_seen": "2026-10-22"
   },
   {
+   "id": "3db3757d51da",
+   "title": "Wallbox debuts on the New York Stock Exchange in alliance with Kensington Capital",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHBLMmRObk5fd2JEcE52bW45OUZ4QVJKQ1ZUYzJRRkdSTzMyXzNDWXZvRmc5NkxHWnAxSk04UU5qNmQzc0YtM1dGZ2VNUjJXMzJrZGdCZUdrTjQ4S0Q4clp4dVhMa2hTRmNIRTRuSDB6TjVVU015b0daQXBhdTd3NU5RM1JSZ1lVN0RhMkdoWE1EVEZPZ2JTQkQtN3d5VURxU1hMZ21TU3V1VzF5ZGhwM09NX2RFQlVEaE5haHJaN3dCTXM?oc=5",
+   "source": "The New Barcelona Post",
+   "date": "2026-10-13",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "467c573b4efc",
+   "title": "Pymatuning Wildlife Management Area",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV3doR1lUWTZJSTZWbjBXWElOb3RvblJLUk9QUW1BVW1mTklHOFcwbVdYelotUGU3QkhFWFVoT01Qc2JhNVRaZEgwSlNSQi16NFJ6SDI0NF94MlE2U3poTDJRMHZqNGpSWHI4eEpHQ2FhUFNBVDJGbjM4a0s4ZHo4QzhiaEVHN1ZGR1BsdlpUYlMzSUM4alRKbmtiOUQxSVlVMXo1WnJwbjhFMGFuUjlDRGJTdkdzVk0?oc=5",
+   "source": "Commonwealth of Pennsylvania (.gov)",
+   "date": "2026-10-13",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "29d16eb7af7b",
+   "title": "Wynnchurch’s ORS Nasco strikes deals for Techniweld and Sycamore-backed Essendant brands",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYkFHWFEzcUxMelQ3eFpwbk9kQ1NMTWxfVXYyeWVXUjVkdTgzeHUyRnpjRV9KcU1oNVdKTUNpSnQzR1JtZ093UF8xYjZVU3AydlEtNnQ1dE1MVnFXUWRnLWJ1dVBwQklVNURQTVRUU1lQdmpNNS1GLUFmcGtQYjZTV0pOWGZFTkF5WjllQW13bjRyNnQzZlBOak4tOFpJQUM0dXI2LTJPU2szWmR3TW1Wa3ZraDNTalFkX1J0NmhKOEotMDZhVWw2S2EyYw?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-10-13",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
    "id": "7b7b0db9b897",
    "title": "Manufacturer breaks ground for Hagerstown-area plant",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTNub3Y5SWZVWlJMNDNSb3JHa0VidGlXVXBUOHo2Zl9JZXVmSHR4NmdNWVc5OXZSS3diNDRtSFI1TC0wR19oejJCMFM3dUswNnp6YzIyOWFYRl82V3N6Q3pCQkc3ZFU1ZFZocHI5MWN4ZjBBODc5aExoMVN3Z3hKdVdkYjlkQjV1VGx1RlhQMV9YbUg5cEE?oc=5",
@@ -1344,6 +1487,32 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "7f08cd3ee32a",
+   "title": "GSK to invest $800M for new R&D, manufacturing hub in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWhVVE9zNzNrTmlfU19kYXgyQmx2alRiTk5qZWVZdDBwODhZRFJnRkxaYUZTZ3ZfVVIybzI2VFNtajlBLVBHRlNvRGNnekVxdVl6aTZXOHZCcGFGU294N0c1Unpra3RMem5PTkFteVQ2dWZYQm9TVXRrYk5KSjBRaU9aSXlnRmxsNmNGTHB2YUs?oc=5",
+   "source": "Endpoints News",
+   "date": "2026-10-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "863e2256ea48",
+   "title": "GSK Commits Over $800 Million to Montgomery County Expansion",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5MUnl1RmZiczY5M2FGMV9waExjcWJhV00wVG5jRGRfYUVXakpNQTBZV3hTVFZPNDFoeFN6c1BGYlhtTTNJSWpHQ0Jn?oc=5",
+   "source": "MyChesCo",
+   "date": "2026-10-11",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-24"
   },
   {
    "id": "0dbddf94114c",
@@ -1579,6 +1748,19 @@
    "state": "MD",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "2ed8ca6b6f22",
+   "title": "E3 Electric.Ai begins production of Trion electric scooter at Hyderabad plant",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUNzWVFjQjk1YXlUWGUwbVhZWUZuTUFQenYzbzByMVM1WjhiQnAwc05mSmNkSDlDR0FqMW5oZzZ1bC0zb0xpVjZwTGJTbWNtZkUwOXJvaE53QzU1REdzOTBsal81Zzg0eUUxZy1vRENNZE9jNlVGWFJadHV5UXBMLVQ1S2JTV09VOV91a1AxbHMzU01JQUYtREl0bENTUUNnRU9FX3htWQ?oc=5",
+   "source": "Telangana Today",
+   "date": "2026-10-07",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-24"
   },
   {
    "id": "90f62fd2facd",
