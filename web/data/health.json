@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-24T14:33:57+00:00",
- "calls": 675,
+ "generated": "2026-10-25T15:23:17+00:00",
+ "calls": 5078,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 21,
+   "jobs": 20,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 2065,
-   "note": "659 of 3,749 boards checked today, 636 with matching jobs, 0 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=jobs.ashbyhq.com%2F%2A&output=json&fl=url&page=0."
+   "jobs": 4765,
+   "note": "3,279 of 6,369 boards checked today, 1299 with matching jobs, 208 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=0."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,35 +139,35 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 58,
+   "jobs": 63,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 6,
+   "jobs": 8,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 23,
+   "jobs": 22,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 27,
+   "jobs": 28,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 4,
+   "jobs": 2,
    "note": ""
   }
  ]
