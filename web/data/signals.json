@@ -1,6 +1,67 @@
 {
- "generated": "2026-10-25T15:23:17+00:00",
+ "generated": "2026-10-26T17:39:33+00:00",
  "items": [
+  {
+   "id": "be28a7a52f61",
+   "title": "Layoffs: Real Food From The Ground Up Plant to Close in US, 93 Jobs Cut",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmVVbTZGaHNGdTZsYVNUNS1hN0VXbTNMSEs3LWZueUpxWUw0Vnkydi1QaG5fOUgyWkJtYU5OS19jeVZraEwwMDFHdEdPYmZZUTI5R0F0SW51TlZqNUhQaFZHRFVPNmxHSVU4TFc3c0U2OUR3a1k3eGpDbWxJQkhwN1c5VFBmcUNRSnYzYWx6SEhHRE5zUnlyUkhKQXVuaGctclJSNE1QLXk0QllpUV9v0gG0AUFVX3lxTFBEZnJJYXdXTkZ5aXZublhYazFKMHRPbGVyUVlrMVJuTHloN0lVZjdTRWZJVEhUU29pMWt3RmRqaFJoSFRPdllyU1JsM3RubTRnZ2h1SUUwVlNHZmNMd2RxRnFHU0xDY1BSUnZYVHRyaXpDNl9lWlFIZzNRRDNsQmpoc1FNMk5JOHNzRkZpWHYyZjI0Y2pQZERpMHZvYXp0S2c1Z2xyV2E0bUxtWkFJdjdlN2pQXw?oc=5",
+   "source": "LatestLY",
+   "date": "2026-10-26",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "0aa80b0457f9",
+   "title": "Mayor Mamdani and Governor Hochul Announce Groundbreaking of $35.7 Million Project to Fight Flooding in Harlem and East Harlem and Save Drinking Water in Central Park",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXlBMHZtbmo0Qy1JdzAxNGdGZEQ3S2p2TGNFbmNFN1pkb05pUEc2VFBhN3pPWXZUdExyM3BkVk81M2Vqb1FPbE9WT0ZxWXV6R2hzazdiVDNJeWg4ZU5xNXlrdG1nWmtXeXdETFVXMlNpWWp6UlZ5dG1CZ3V6N3lZUTVINmFYUkctTFVtU1ppQWdzSVlFcGZISHpvSmVCOTBXLVVHV19WOTJMeUtvem9LeQ?oc=5",
+   "source": "NYC.gov",
+   "date": "2026-10-26",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "d1537c884f60",
+   "title": "SAP S/4HANA vs Oracle Fusion Cloud ERP 2026: Cost, AI, Customer ROI and Top 10 Cloud ERP Vendors",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUc0OWZiRThZSkExV2k2N1c5R0dGa01TNVRNcVhTbHBOMDF6X2hoYnl6aGlGdC14cHRSRFZ5ZV9hZ3VQcjlUa0luMVhEczBDVkNwMksxUHpPLTE2bVNwbzhNaUhZU0t6SzAwN0NMclVPazBBOFJialR4ME95V2t0RWRjWlp1QlVsc3l1QS1KZlJ5M05DelNOUkhvZmVVOXlVcFFlNVBZTms4aEFFbkZ0cEV4djYtVWlhMzg5Z3VoWlVkVTkyYl9xbThSYm1IcWRONnfSAdIBQVVfeXFMT1FHNDlmYkU4WUpBMVdpNjdXOUdHRmtNUzVUTXFYU2xwTjAxel9oaGJ5emhpRnQteHB0UkRWeWVfYWd1UHI5VGtJbjFYRHMwQ1ZDcDJLMVB6Ty0xNm1TcG84TWlIWVNLekswMDdDTHJVT2swQThSYmpUeDBPeVdrdEVkY1padUJVbHN5dUEtSmZSeTNOQ3pTTlJIb2ZlVTl5VXBRZTVQWU5rOGhBRW5GdHBFeHY2LVVpYTM4OWd1aFpVZFU5MmJfcW04UmJtSHFkTjZ3?oc=5",
+   "source": "InfotechLead",
+   "date": "2026-10-26",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "86eb1c00adcb",
+   "title": "ShinWon accelerates AI transformation with new ERP system SPHERE",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzk2QUNWUVdHY3FOV293eVNVRXctRmZPZjc4YmJMTVcyN3I5TFJEUDd3X1BrSUxXNzNVT0pGZmd0bnpiRkdyNTVwbWJzTXdsNTRtUmFCS0hRM1JBMENhMi1idExjUDVRbVVpWkp0Qm56UVNpZWN1VHJEY0Q5a3BRcjNQSlZSa3gtNk9SdzVUWnJ1RXVsWWdVNg?oc=5",
+   "source": "Apparel Views",
+   "date": "2026-10-26",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "5476ab503113",
+   "title": "Healthcare carve-outs: the shift from distress sales to strategic portfolio choices. IIH talks to DC Advisory's Andrew Murray-Lyon",
+   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQREpURnBpOXZDOGFoLTZWbFNfOFNxNDFsUTd4Nm5aam9TZlFoSXRWLUpRRWFRRTRqU0YyXzBWOFBQRW0wUGd1Zi1sS2liVlRIaHBuVllsQ3ZHbEdneUdVdUF3X1o1YTNUQVpKbkdHUlZ4YlJjVm1jVFMzUkZXa2UzSVVGWjY1RHRxalpKUGk2dXd6ekpFeGJWRzVPZjRRLXk0ZVJkR3l4ZFp6Tk84Qk9wWF9EaVZ3ZTB5WExia29Qam5PQzZHZFRvZ3Y4SE94ZE41Y3Noc3BxQjhBQl9VMEV2R1J5UVAxdWxRTkxoMmdlUGpQaU9udnpTY2RsV0pfZkJKOHExRFh6aExfZFVBa2cwQjVfaTdtOGFiY3ZDUl93?oc=5",
+   "source": "Investors in Healthcare",
+   "date": "2026-10-26",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-26"
+  },
   {
    "id": "d4935fcdea82",
    "title": "Japan Cloud ERP Market Forecast to Reach US$14.3 Billion by 2035",
@@ -35,6 +96,19 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-25"
+  },
+  {
+   "id": "fed47ba06279",
+   "title": "IAG's SAP migration brings process and data into sharp focus",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0FtUGtCcEFGOEE2Z01xVGtfckxRcUxjLXJvdm9YQVVBSVpqSGlLQ2phUHZPZVR3MENvNUxNSHJoMTFlSjl5NFVXYlVKanRENmdkbFpMTGpQM2dsLWxsbnpiNjVCQkc5RXpDMzd4SGdxQ0I3QTVxRWJPVXJuTXlHZXZCS3d6RVlIcHRoRlZJSWFRN3BUUTdHc2EybXhLZw?oc=5",
+   "source": "iTnews",
+   "date": "2026-10-25",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "25e1088ef292",
@@ -153,6 +227,32 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-25"
+  },
+  {
+   "id": "caa7d61f97ec",
+   "title": "Creating Jobs in Allegheny County: Governor Shapiro Announces Mondi Bags USA Selects Pennsylvania for Manufacturing Expansion, Creating Approximately 170 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQN1ZaUnpTZThzVGcyNUM0T19DVkpwNHpoUVJSc3JqemF0QUpfbThNSGt1a1NTMVI1SUEtV1FKeXR5YmJ1TE5BalZMMHpDQlRfVG56Y3VfcmxtaG1aVFo5eC1BbUNZNFE5QlNiYjk5QTNsUEIzVGhBNGFYYklGcncyLTBESDVNUlF4eFpRNTE5TjYzYkwwTTVJVG8tbndWT28ydElEY0l4ZC1lV0VoZ2NISmxYZkNSdGJ3NVFMNFRsb05yX21LY0owQUV4RDF5SHpieXQwZm5WbEJkaGRRbXp0bXg2VkpJdk1NdzhHc3FyTDk2bXloeTZPc2xWalVUSS03NmJPQ2Zsblg0S3NSNjAyYi1YM3lUaTA5U1E?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "6f050c2a3c4c",
+   "title": "13 notable ERP implementation failures and why they failed",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjU3dzlYS2N2bWNiVlJ0dWRvYk92XzQ5V0VDNGxtLUxaMlluVzFBOEZaRHM1Q3Nwd0Z6ZEpGRUx1MktRRGJlenc4ZlZDRjUxLVFFdzhFQXFUcjlaR0pyX2ZtM081NE9wLThIVFdJODFialdoeUEzYmtMenlpYWZpRDd6SU5RallBTko2OVF6cmxnMHVUMkFNbEV3cjMtOUg0bFhaYW9qb0hJZUMteUtEYkloZw?oc=5",
+   "source": "TechTarget",
+   "date": "2026-10-23",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "e5b68847f5a5",
@@ -413,6 +513,17 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "fdefd9aad64e",
+   "title": "Tesla Begins Optimus Humanoid Robot Production in Fremont, California as Profits Drop 43%: 7 outlets compared",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFVnZHNNalcxUkhrUEMyMDZJbWxxS2NHdkJseXJfMUk0b3U1ZlJkbE9RQ2J2WUtmU1F0UlBfTjlYRm8yOHRoOTRLTi1HZ2sxMnRzSXFQZjI0T0ZkcjhqazBKcWVsLXcyeEdQeElaOTlwUDc0UWZxUThGTmVBYVVZbHFfc1BTT1Z1WHBKQkxjc1RGcVhob2gxSHlMNUU0T3d1QzZmdHBxUW1ycTFyRkdTTGM4WXN5Z0g0dTMtN01kbEpEdDZpeHFiTkR6UkQySXZCUlRsWi1MODZwbjdiemhfNG1DRjQ2TjVL?oc=5",
+   "source": "NewsCord",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": "CA",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "bc4b02a58488",
@@ -793,6 +904,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "b9a70079e309",
+   "title": "Nelson Advisors: The Ascendance of Founder Bankers, Macroeconomic Dislocation and the Liquidity Imperative in European HealthTech, MedTech, Health AI",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRXd6RHJOczQ4Z1NvNld4ZDZOdnI0VHJVaVd2OENSdDdrOGNZWXhRbDRMSW9mOEJRZl9mWTc0RjkxVHcwNXNLR3hnc0xVWmF6dGc3bFItTUs4cmxyaHdCY3NOTjFxVUhTN19XNW00SE8ya1pFdmlEem1IQzJGdk4ySXlfS0w3dnRiUjFDYkpjV294NTAzWlpNVGtGdnlmTnNETDhMaE5hR1hEeXctTnF0cUVyeXQ0MmhiZjNkUlJWeUQ2ZU9TczNCa1cxb2NzRFg1czdIVFZyVm0?oc=5",
+   "source": "https://www.healthcare.digital/",
+   "date": "2026-10-17",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "b617e8ef9313",
@@ -1572,6 +1694,17 @@
    "first_seen": "2026-10-25"
   },
   {
+   "id": "61cab07ae55e",
+   "title": "The Billionaire Option",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14VVlRTHBNdmhBVlU4dW95NnJxTUlNUVh3RHNSXzNobkRzS2tSeGFiZ3Mtbm5neUxnalR3M2dnNU5fU1p6STlFNUJRNlVfQ1l1WC1jdmNPQzVJRzFDNlE?oc=5",
+   "source": "The Lever",
+   "date": "2026-10-13",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "7b7b0db9b897",
    "title": "Manufacturer breaks ground for Hagerstown-area plant",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTNub3Y5SWZVWlJMNDNSb3JHa0VidGlXVXBUOHo2Zl9JZXVmSHR4NmdNWVc5OXZSS3diNDRtSFI1TC0wR19oejJCMFM3dUswNnp6YzIyOWFYRl82V3N6Q3pCQkc3ZFU1ZFZocHI5MWN4ZjBBODc5aExoMVN3Z3hKdVdkYjlkQjV1VGx1RlhQMV9YbUg5cEE?oc=5",
@@ -1964,6 +2097,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "b96c35b0bb2c",
+   "title": "Best ERP Inventory Management Software in 2026",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13VXk5c0Y1eEJiOVNaeU9EWTEyd3Yzb1RoZmJWUldRUTZrS0hlZkk4bF9IclpxdmNhR1RUbnpEX2FKclJuejREZnRLUG44TGp4eEttMVFMdkhSd0Izbm5hY0pHRzhDQlBERUJ4cnNyejk?oc=5",
+   "source": "ClickPost",
+   "date": "2026-10-06",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "438981ea8e54",
