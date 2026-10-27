@@ -1,6 +1,128 @@
 {
- "generated": "2026-10-26T17:39:33+00:00",
+ "generated": "2026-10-27T16:51:00+00:00",
  "items": [
+  {
+   "id": "86a97fd18112",
+   "title": "Microscreen continues U.S. expansion with new Baltimore, Maryland manufacturing facility",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWdIWWRVcGxOcGY3ekFKNXNUTl85ZDJJbEYtdWJuTGVCcDBnRk9HOUZ0SjZfQkhOV19wMENwS0syTU8tellNNXBuY3N3QnJDeFA0Z1FOYi00ZU53M1B1Y1lITV9ZeEQ3c05RNWNRVkFLSDlEZ3pTZVBteVJtVEhrd09Za016RHdydnoxaEdMTDhFRVZEU0FrOEhyaVYzNmpFRU1aTFVaYTFnTXB2Uk5rRDd4TXVPTEc3cG54YmFDdW55OHhpa1E?oc=5",
+   "source": "Defense and Munitions",
+   "date": "2026-10-27",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "183fe359e41a",
+   "title": "Infosys Successfully Delivers Syngenta's Global SAP S/4HANA Transformation for Crop Protection Business",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmZoX1lUYlN6cXdYZFZtaDhxLUlPZWNoNTRNTVRON2RwN3lER3pmaEs3aVpUbkd3NWhtX05qMFM0QnBJTnJlVTN6NHA5bEpZR3otMFJJVnp3NHNOWnY1SHBoY0F0aEtHeE5YTjlVb3NYd0ZadmR3LWs5MFQ5R3czb2lya2NxOHNrU2Etd094YjdSVDRHU2w5WGN4T0lUZTd3RFVkTUZzQXB1anhFbWlkNUpPUUF6TWxxdzlJMDBHTlE5OHJVdE5rSXZ4WC1Qdjh5WEY2d1NBc1M2c0dBTDA4MHVMMy1KUWItWUhJU1JR?oc=5",
+   "source": "PR Newswire",
+   "date": "2026-10-27",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "cb7713063344",
+   "title": "One system now supports more than 10,000 Syngenta employees.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelhTVno0ZDRsZmFhd0o0Mm55bzdZUjZJUnptMkZSaEFfR3VBelM4YWFuWmRuTmk0X1dVSHd5VWFvNnJUOG54WFRuVG51OTBOOGlham9YX05uMVZVQlhvYzIwUnIyajM0aW0tOUkxMkFEMlZVN1lLdXdKUzFfaGQ1NGxwcFVQeFplbUhvQjVTNDh1bjBHWUd2VVgtOTNncFBfdGFFMmk2RWRIcXVGZFgwZVdUaDA?oc=5",
+   "source": "Stock Titan",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "09b6071d128d",
+   "title": "News by CNBC TV18 on TradingView, 2026-10-27 — cnbctv:768878992094b:0",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9veVJza0VOamhMcUpiSzV6aWRQX2dNRlVCaFdTdTk4V2Z0VTZQbEpzNmJzbzFpbDhTUjJJYWZ5T1dmUVdZRXY5bHo0YmVxSmZDdEtBYnVORkU5Y1VKbFlzQmhTV1NOSFE?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "19df2e4d6826",
+   "title": "Driving Intelligent Manufacturing Through AI & Enterprise Digital Core",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0htNjZ4bUk5b1hYV3Z5MnBaRVZjTFIxRk40UWR0TFhNZXVRclBjRjRBY000NzV4ZDgzTkdlLW5JZXNaZW92T3FKU182aGlCdjdJVHdmZ2FRWVEtSlVRY1dFVlRtaUVhRlNaWXNveWxzMVd4ZWlnN3dyMW5pMnozRExZVXNfOXVtbExxSzB4M3J6eHc2X2hhNnd6VkF1eGc?oc=5",
+   "source": "VARIndia",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "aaa92187b174",
+   "title": "Infosys completes global SAP transformation for Syngenta’s crop protection business",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTDY3MEk0ZXE3aU04d2NMQVV3VmxFMElNT3ppZS13aWFJdDN5Y1h0SWZka3dKclJJYTQ1NUZ3dGczS2JIWDhiekFCOTBqc2JwdkJpay1GYi1QSjYydUhObExCQnk4NHJKZWRRQ0JKSW9TOUlKRGktUklEajdFWEhHM011ZmNaX3paUExnUmxRUElXNDFYLUdCZFJUUnVrSnFvTFRNZ2UzYTBtZTlrcmVTam9rTTdsSElETzM0RjRZN3htNFAzd3dOLUpWbHlpSE5TQU1nSDRsY25mWnFXZElOcUE1YWxpd9IB6wFBVV95cUxQU1FqMksxWGM5YjhlNVBFdVVYZ21CRmxoSW41d3M3TDF4MEtuZUlYZmdaNGlXR19HTkZWTFRqNVRjd0FLNjdkS1RzVWhzN3dra3dvcWIwZ29qNmhpMW5YNUphNVA4Ykd3cUo5Zy1TY2ZqMFZFX2VtYWl5NjBGVXB5WHA3dndQRVV1WkVlUWE0Qm9GWDFnZ2FkWDN1bF9WZzhrSDFBZkNZSml6cjlYUWVCdmtiaGxNcWh2Q0l3cEdSbklkRFctc0NjLWxURUUxUndoV2dVLTJWRy1ETmNvN29OZzJzUDhUNGNLQW1v?oc=5",
+   "source": "CNBC TV18",
+   "date": "2026-10-27",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "bf05a9a0f930",
+   "title": "Truelink Capital agrees to carve-out of Johnson Controls’ global intrusion products business",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObzBIMjRPc1I2OUo5WVlmUlNYV2hTaE50RG9EdXZsYjBpTzg0RjZSTnVmNkM3YldVUHhPbmNhWUpHekxTdGVXZ3hQMllTbUVQOGQtV2NXM1o2R2lSYXlEZlR3ZldwM21wT0g3MzA2Z2hlemxmUExXOW91TTFKVnpxVEprWXZrMXdYTU01cnl3eGJqMmVDcnZYd0pGYmdmNGVFekZ0QUNYc0dxeDFrQkE4OHpILS0xRnlfY3cxQzlzUXZZbDFNZ0p4M3Nfam1Venhy?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-10-27",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "b58d8e1d5221",
+   "title": "Q3’26 Pulse of Private Equity — Global insights",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14UXlCMmI0WDQzbnJZdVdMMzd0c1dJWXpRODlhVmEzZC1CQWgwX1U4OVRIMGk3TjdIa1pybFViUEZHVTFxQmdFR0pkWEdPVnBoZlpKakQ2ZkFFb1lVbUkyeno0OHdfMi11ZnlGbkhLN0xnX2dDMno4?oc=5",
+   "source": "kpmg.com",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "9aa53471bdf8",
+   "title": "Advent International raises $30 billion, including nearly $27 billion for its 11th flagship buyout fund",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTWtMLU1NQkdCdHk0ZGJYWGpSbmNtbkFMeFkzUE1lZEh6TU5hMlNQV3hLX1kwcms4eXh2b1N0S0YwSmowRHN4MEtkcXphX0xKc1FzX2JKSnJmRXY1Y3pFU3dtbmFYb0hzeFFGZzhFVzVkWHM3bHFHSC10LWtXc09xZXpHVC1ZWWs0NWh0b0tXRDdxVkhEb0VsQ1JHUGF2cEl5U0FiaTU3ZHZRdkVqMmdZX1dVdTdTLV9aUnpFY2VBSUxHcnhUTFhUWkJWZjFkalFvcTB2ZHRjdW9CcXRVdld6WEFUVmJDbDNRRlY3bTFxbFNfSkxIVGdlcVNudHZXNVg4QUN0bzVaVk9MdVNrbHlHWEV30gGXAkFVX3lxTE5KR0xEMm5OcFFZdU52NEs4anJfN1dWbzBYeUZiQldFVVRmQTZiYlVpZkhXZUxuY29NVGRnTDZIb1RXVHVPck1jSjZhTVJsazBCQURmVlFTVWtmdkNiQkx1TVpFX1A3VjNwUXdoaEoxUHVLd1E2Q2w0YVA3N21vY3lZZjBKQ1lSQlk4YmdPX0xZUm15MHR4SDJ6bkdXRW9ERWp0Nnp1VXVkbHVnTEd2WnZ4T0NNdUJLM1VWbDBTVDdtUVlSc09jOXdVeThDa1JzdmZjemVJSWxQQkJFeC1ORWdYamF1RWpQNmVoV1FQNE5nOURiNmpaVmx1T3NCNWljRnEyanNFeUJySkU3bm1ySGpsSlhXZl82UQ?oc=5",
+   "source": "The Economic Times",
+   "date": "2026-10-27",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "0c4fdcdde6b3",
+   "title": "Affinia advises waste management business on carve-out sale to acquisitive group",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzZTN01CZjlTNXFkb3gtUTcxbEFHbFBoOVRPUzlEel9JbWlFOFRuclJmY0pqWmRmblhuamFNT2JpbnYtQXJtUklWT3V5aWx6Z2phZFZZRG9wX3F5NmhyQ0FLcXduVERRZk1SUWltcTFPX25jQXg1ckJxYXBkdS14LXVXVEhBTmhPdE5RVTRUQ3FtOHh1eFdsRzJyaFFrUGpud1hId1RJUlpGcDlfUFQ4WVkxRFRyZ2ktS25qLWhBOVA1dm8?oc=5",
+   "source": "Insider Media Ltd",
+   "date": "2026-10-27",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-27"
+  },
   {
    "id": "be28a7a52f61",
    "title": "Layoffs: Real Food From The Ground Up Plant to Close in US, 93 Jobs Cut",
@@ -61,6 +183,54 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "941faa2e6328",
+   "title": "Persimmon Technologies completes 17,800 sqft cleanroom fit-out at US robotics facility",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkdUMG1VbGRRZWtIWG82TGlOa0tmMVNWSGU0Zk9vYVptVFhuaDV2cUVOS2t1WnpWaks0OU4xdUF0N1ZNbjE4bVNpWUpJYzBtTGhHQmxNRFVVeEtVVEwybXJ0bWFyMC1zdDlQSlVRTXdQLW9oS2h2NEN1V2ZPcnZpYWswR09BRU5ZTlNlS0pIaldCOXZVS3ZmVlNxTVB0dzg?oc=5",
+   "source": "Cleanroom Technology",
+   "date": "2026-10-26",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "798f38198e1b",
+   "title": "SAP ECC Retirement: What Happens to the Data Left Behind?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vU1M3NmFaLTFyaEo5YURsWWlRTHNYN1F4Y2tCY0lDUXVsMDhJc3JKNUZ3TXVQaVNKMlA2VWFLR2tuMmM0WkQxR0VBNTFISmFXbnR5dDgwV3RWdkdiVGhBdThCekF1WTB5YkVXOGdaeXlsM0tvVGg1RksteFFubVE?oc=5",
+   "source": "ERP Today",
+   "date": "2026-10-26",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "57fe4353048c",
+   "title": "SK Hynix, Kioxia and the Geopolitics of Chipmaking",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHFuOG9sd0RVTVV6N1BQUUwwZjB5ZHVZdHVjZ2VKZVVJYzZ2cGJBMk5TdkxFNnZVeVhwVUVlWDNNX3RDNXpEQmpGLWlkcWNvWHdKSHE5QXhsTHhuOFB1bTBJOUlVRlJrOGw0TTA3eFdHVVVvdGpzZktFQ084ZTVlYW1NQWZpalRWanlRbzNn?oc=5",
+   "source": "Technology Magazine",
+   "date": "2026-10-26",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "16f35cf91119",
+   "title": "Truelink Capital Signs Definitive Agreement to Acquire Johnson Controls' Global Intrusion Products Business",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWDhEeGFaX3prOXI1Sjk4Y0E4dE83eGp1bHJWSDVpMUpzYm5ROUJweE5kMGI4Z0ZoT1oyclIzTUlJU3kwY2hLNG41Nzh5LUVOcE84WnN2bDk1LXVHeldsUFlsTF9wWmtDeU1BT05YSmIzeWFkYkNkT3lTNEJrcDRfb3V6YktSWE5YOXg5NnVZM3FTRTV0bGVqWUtrU2I4NmtqVUhmajUwanR6V0RnYUd0OWhEWHVKUmhUSkg0QnJJRjdSbF9SdUg2RVNMWHF6REdWOFlJb21xajBtdy1OWlFjc0xfQzNCYjl6Y3hhUzAxOExLWE9M?oc=5",
+   "source": "PR Newswire",
+   "date": "2026-10-26",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "d4935fcdea82",
@@ -253,6 +423,59 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "277afac36881",
+   "title": "Governor Shapiro Secures Over $1 Billion Investment from Johnson & Johnson to Build New Cancer-Fighting Manufacturing Facility in Montgomery County, Creating More Than 500 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPRlh4Sk5PSjVsYjR0bFNNVngzd0xJRXAyUkpOZy05dW9GaFdLaDBnVTZPa2FCMGJTV3E2MGRDcWtWMjZxX2JLZDBaOC1oMU54OUwtRzlEbkJyQmtCWlRzNHhXdjFvOFpUekI4aVh6cWtUSDRfZDFWd3BaSHVGWEFmZ0ExY1N3T1pOZi16d0V3ZDRUdHFzTF9FVkYzQVV0RF9CTHFsWERES3VSY3hUYUFTa2Q1eW9FMVE5eHFZeE9fUjZVWW1laDdpNjQtWEhCWGRPZEljWHlCZ1A4bVdRMEItVlprZGk4YzYyN0ZsUGROY3lHTThLTm16dVF3WVZZQUZVcEVuR05uaV9SekEwZG1lYmlyZEx6NXQtZUVSbUhrYmRIMVdjeGI1Znc2RW9HLXM?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "ea217c27daa3",
+   "title": "Creating Jobs in Lawrence County: Governor Shapiro Secures $6.5 Million Investment from Ezeflow USA-Flowline to Expand Manufacturing Operations, Creating 30 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNb0dIV21uOFB0cTlfTFBZYlR3U0VZVDBzT1Zpbk1UOENNRFd4VHBwNTlVNmRFYWd6M3FPV3RBYzVJUmVMUG5xMG5Ua1Etcmg0aTBUaFEyaEg0bGo0bE9lZHhjbzRzWWhJXzZPbmpFQ1YzSTRCaUtCU3BJSmZNYXdDUGFJYUZDMGtqUG9FWFpzQk9tUHpQUy0zNDBsdnZkcTBYVVA0WEw5ZTJVV0R5cFlOYmh3WDZVTWJGYzhOaWhYc29iR2NqbUlqX0ZrZ0FYZ3NMQmhNN294dU5oNVd3cUpnYldHc0hLUW1PNUdvQm1fYkFpbTlJOFAzcU16VDE0dzl3RWIwT3pTNVV3bXd3T0JsT2FQSkNjMWdZd3V3SA?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "0dadfa050f1b",
+   "title": "Creating Jobs in Columbia County: Governor Shapiro Secures $5 Million Investment from Berwick Industries Incorporated to Open New Manufacturing Operation, Create 125 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVU8yRDd6OHhDTmlxd3JfM0lwRjA0QVBxNWtFcXhZcW8zT2NIbzloZDJzRnY3aDM3VzN5LUtzTExJOG5VT1REdDV6N2ZIWWtxVWphVnAzdWJyX1NITm1NSGtGYmw3cHd5QVBNZ0tiNnlHcnRfQTBRRnZ4aVg3RTQ4X000aktLX0JtT3dtNDlaQUhhZ0JDSWRPdVB5MEVtSUJRRk1fVEdLZVBfREFsTlVaNTJ3WFlvZ2VZT3ByRDlGTnh6TmlHYWlNNFZFdjhFZG5ta0I2TXZKN19DSXpLbW10SEswQkdDVW9jQUlxSjFnb2tzRGpxV1luNnZuQmNWOUNfNGg1OTBwSjFPYUo1aUJQZksyaThVZjRWMlpvbUdyc1Jzd2FhR1VWVg?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement",
+    "plant opening"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-27"
+  },
+  {
+   "id": "79e7ffb9e190",
+   "title": "Governor Shapiro Invests More Than $109.3 Million in 68 Community and Economic Development Projects in South Central Pennsylvania and the Lehigh Valley",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMDRkejh5SkVHZ1hGeEZ2eUxya2dNTjAwLXVLcVpEOVd5QVpubm9CNGhzMWVfOGtlcFVBQVJqam1QX196eDUtNXJGdmR4M1FlZHhsV3YwaFVUSXJOUkxQLU9UZ2NFcGF5V1RKSFVDSVhGYjBmUmtsS0xEUEQ3SW1vZVdsVVJhMUV0T2h0LWlRZ1NySnMwU0NWdTJfS05oN29sRGlrYmNzYXF0ZFFfUWpvRjZzUkFWMHEtUGJYVWR2REc0bzZOVUE5MTRZRjJzdUpYd29hak1OR0k4X2toS0dEc09DTnRnZkFhSERxUUFVVndFRnlkdER4Q2paS0lJRlVwSEc1Zll4UUpFU0ZR?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "e5b68847f5a5",
@@ -524,6 +747,17 @@
    "state": "CA",
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "e8ba164f4deb",
+   "title": "Axing private equity tax break is OK, but not retrospectively",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeWZ3TlNHNWt5LWFEVG9jYVpoRUgtUm9BdF9xUFNNZ1B0NG5Md2pnekYtaHl4ckt0bW1KWjFORXltMzVUeVZ0V05VaDBNLS1zdkdPdjJzOUxTZnZDZjZXd3hIcFhxRDNMQnp4V2xzZGhSVW1BUDNoZDRpWGJzM2ZYQW9oSE9RTVdGUDZMbTJ6WVFVLU5DRkRJQkxzM3U3UlhFMUs4cms3dEFJM25sNUdGcFdzeTIzb0lra2JB?oc=5",
+   "source": "AFR",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "bc4b02a58488",
@@ -2229,6 +2463,19 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "bdf8f8a067b0",
+   "title": "SAP Testing Service Market Size & Industry Analysis [2035]",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2V1MlJiRmI4V0M1c2EzVkZwajdDNDVqblNHX25iRV9mTkRXVk43WHRRbTFpbjJwZ1N4WlQwb3V0OHZzZm5tZGQ0SFZFWVpDOFNiVnJGRXF2QkJnUTNZZG9pYWxGV0FlNzIybFlrMVFhZnp3eHE4QlhLcnVrN0YyMFJwVnBqakZqbWQ3eQ?oc=5",
+   "source": "Market Growth Reports",
+   "date": "2026-09-28",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "1591b73f5d17",
