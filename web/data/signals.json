@@ -1,6 +1,63 @@
 {
- "generated": "2026-10-27T16:51:00+00:00",
+ "generated": "2026-10-28T17:22:09+00:00",
  "items": [
+  {
+   "id": "eb6cea83310b",
+   "title": "Fairfield loses 61 jobs, and Sherrill's New Jersey business exodus continues. -",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGs4UUpQRWRJQlFObm9ITjJjalo2RXFBdl9DWUdGbVh4Wkx0amgxeEVENHhHcklhcFJtYXp3X2FFR3oxQXZtSnlheGxjSkp2N0tVQjBtcm5OQ2FqczlFNVhtcGNVSDBMMlJfMmhRemFiaTh3NU1PbXFGSV8wN2VPZUl2WjN0TEhrUXF0YWlSak5oM0lZcXM2Y2lCc3NBUWFPR0ptV1UwTEg3QQ?oc=5",
+   "source": "Save Jersey",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "0930dc8091fb",
+   "title": "Better Apart: When a Carve-Out Transforms Both Companies",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZbTB2T1lpalcyNkVnWUZ1MnNhbC1BbU1YU2FMSGhkV2hWZFpNR0p1RjJfMUgzaVVscXBQQUZmN0hQMXpqanBXc21xT2hpX3I2TXpwVmtrYWRKam9CTWtudEpzeS1QSVVSaFhkZFUwalpjdFBFQ0RMamRxMA?oc=5",
+   "source": "Boston Consulting Group",
+   "date": "2026-10-28",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "4b8d8af4ba2e",
+   "title": "In Brief: The Case for Asia Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84bWRmVGFXRXRLSERZaFoxSG9UYVNLNmp3ald1ZV9sc3l0NGZjRHRRQVNxNG55bHYybHh3dmI1UldPV1NYZGpjRUNhbEQyaUhPcWNmYW50NTdMZXVJTVlpWXRzakVhUTB0cm9BWUpSa25EcnRyZndsSzVn?oc=5",
+   "source": "KKR: A Leading Global Investment Firm",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "9f958ce0a9b4",
+   "title": "Triton Partners to sell Trench Group to GE Vernova",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTFp4Z1VPMm93cGRZa0UtWWhzSTk3WEpxV2V5T19IT3RiSEtpOTFRVTRzT0tfZzZEcllzSTZBUkdubzlaY2o5NE5hS1J1M2JUYlNpWUVPalJiQWt0aUpBazRQY3lfQ1FXSElNdkVFVzNEcHY3M2g2SXg3VkpDd2xtTXFKX1hrdGJKdFlYYW9wNFNTUEZtQnlncE13TmRQSHNqOWp3bzZ5TQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "366364b20e1c",
+   "title": "Lockheed Martin to Expand Alabama Plant for Hypersonic Missile Production",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY2dTYkU3WWdkYWRCTWRaNTdaZE9ZT2hieGd2UzdnTkR6b2dpTUZmdllPa1hFaFZPLURQSWZJZ1gyTTdfSEpQcmxmS243RXVnR0NJbW5IYzRnLXVpNGtQYkpCRGNTeE5ib1NWT1BJYXhYVzN3cnBXNzZ5S0ZIRXA5dUdmM2N1Y1VKTXdxTmI2aTVyT3JVREMyb2QxN1ZMR2ZfYW1yWjNDUDdkek15ZjFSMUJWMTV2bm9jNGtFc09PaXkxcXk0SXRDM3JhcjVRcTNEX0xaRFNtVjhCV3ViN0Qw?oc=5",
+   "source": "Design and Development Today",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": "AL",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-28"
+  },
   {
    "id": "86a97fd18112",
    "title": "Microscreen continues U.S. expansion with new Baltimore, Maryland manufacturing facility",
@@ -122,6 +179,54 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-27"
+  },
+  {
+   "id": "27f1f3df4850",
+   "title": "Teva telegraphs 61 job cuts amid plans to close 'underutilized' New Jersey plant",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaTJaWFZVWTJ6bG9vR2Q4TnVlWEU5c1lqZUM3d3VGcHQwbVVhbFJzcWJRVnQwZjdYeXdkaVVhNUNNNXlEVFVibnhXdDM0TjNNcTU3R0owTlFWVWpQdG1vZzc2ZHpyS3AydV84RXBPbER6cE5CR0dKNVdfUVFzSVFwZ195RE5pV094dHYxWTZsUUR3NF9DSkNhTlhVVTVjYzVSMUpjY0NmWExoRzRkdVM5eQ?oc=5",
+   "source": "Fierce Pharma",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "5ae26512aa3d",
+   "title": "Teva to cut 61 jobs in Fairfield as it moves manufacturing out of NJ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FN2gxcFI1UjN4VGlGNmRhbEY4eGp6ekdIcEpWcGozLTQ1TVZ6VkNEUFJfbmZER2hOTE1kaVc0d2gxVzI4ZlNGRmZKRXZWN3ozQzBzYnI2ZXQtLWZ0UGRKMndhVmlNdw?oc=5",
+   "source": "NJBIZ",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "93a73383d6be",
+   "title": "SAP Learning Roadmap: From Beginner to Expert (2026)",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yVGFMUWdSQzN5YzhsUGpJZkc3NGFsenZ1UV81dG5STGhQUGhnTkx1UlplTkZzMzRiRnJzV1BRcTAyLVZXZi0ybFBtWlFISzNqU1JJWjlDdUplU255c0tPdFVkLWJLdw?oc=5",
+   "source": "Coursera",
+   "date": "2026-10-27",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "71e498043957",
+   "title": "Infosys Successfully Delivers Syngenta’s Global SAP S/4HANA Transformation for Crop Protection Business",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVFQ0M1psdzF1RTZrLWI1UF9kTFJ6a19lQlNuSGFvN0w3MHVvQVdfbWRZbndqSVhxOVBNOW5kdHM2SDN0TFRLUGFCeENRN2xZZVB1OEdmZ21OV2NUX0JSMTNkd3FJaVZKVDduSjItS2NmQ1B4N3JkS1FTYUtYdXJUWjR5TXV6dE1VOHdIanpjV1VzYlF5SUE0bjE0QzN0bHlScndYLTI2VUNlYm12V3pPOGR2dExvUmVVT1hIRFVvTkI5bUZwWjA0OWMxUjN0Y0xRQWxia3hFUnlNQQ?oc=5",
+   "source": "PSU Connect",
+   "date": "2026-10-27",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "be28a7a52f61",
@@ -476,6 +581,85 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-27"
+  },
+  {
+   "id": "614d2097f1fa",
+   "title": "Creating Jobs in Lackawanna County: Governor Shapiro Secures $15 Million Investment from Premier Brands of America to Open its First Manufacturing Facility in Pennsylvania, Create 58 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOLTRJZUtxNXVzT1JWYkhsVEptT0Z4RllYT2twMGxEcEZHRGZMT0t2ZFlDNndKSndjVVFITVJYc2xOaVBSWnRLdTNNeXJvU01XcGlhVEh1bU5aczVjMU9aTWJmd0ZubjVwYU80R09KZmFlTGJybHNXQURzMFpXMlpLNE53T0s1YV96dVJLZXpTbG9EdHRKZmJYOHhJc2NpUGZxZHJ3eXVnOUlDd0NySGNac1lFRkMxYy1meXdEbmcwR09QdXM4NE9MYTRoY0c3TXJvZDdiZjl2Y0NLZVVJUW9PR0wxQzRDYTNBLVJVYnBoN1I2RjdFVXZ1Wlp6WWpLR0pfZ3hSZUJJN3BxRnMzX0EyMnhSLWs1bmh5OVBPeHEyZUlnZ2V1QWhTR3RWeE9XTkdiZFIyMko0eTdZOHNnWWdZ?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement",
+    "plant opening"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "26777cc1cfa9",
+   "title": "Creating Jobs in Venango County: Governor Shapiro Secures Nearly $10 Million Investment from Conair to Expand Manufacturing Operations, Creating 126 New Jobs in Franklin",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPalRPUWlNLUVGRGxHbW43TzBLalB0V2JlbHdQbExZUkxoWVhpWmViTUowMFFEMUxvNmEzMFczOG9tellLZHFMTGIydlAwODJKbEQ0VFI2a1VzZkQ1ZUlKcDR1ck13ZUpIdjVnRk81Qk91dWhJb1VzbndaRzVkRUFSZWRZTVlWTFJodnZMREw4RkRBYkxrV2MyZ3lNdEVkZnN6OTJkeldSaXJoblYwQkxWekRFV3FRbWxFdFJITGNZS290QjFyZ3Y1Q3RScjhZWmJxeURER251RUhlQWNsRHhITVh2MmFQcjJvMjRTWkUwYjhTUGlETnlpenRLYjN6RUk1ejN4Yzcwa1cyR2FBRUtjc2cxZ3pEakNNN3dVZ05jUFlTdw?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "580b94af680e",
+   "title": "Creating Jobs in Philadelphia: Governor Shapiro Secures $450 Million Investment from TerraPower Isotopes to Build Cancer-Fighting Radioisotope Manufacturing Facility in the Bellwether District",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSUFFOEdEYzdJY0FNcEJtcTBFTzk5Wi16eFd4eFktOFFNRDZQakYwbEtfaUlITmJsRWpTTFQ4bUd4Z0NJdUFjUWRnMjRmSk9lQTNPOExDNXc3dFA1UlBOTnY5NVBaVVlpT0UtR2JtZnk3OTExUFNXMDNfSlBuXzV1a3BvdzN3aEtQV3JEelRxSkFxdmUxNDN4UlgyVjh6aWNOeG5PYzhMb2wxajZUcnl3U28yUkN1NVhiU25jUU85RlIwczhRSlFvamoyZl8zcGlOZ3drUVBNWnU2NDVITndaaXhHVzltNHlXN3hWYkNmUV9qQks3a3poSlBHZjRsTS02ZVM1c3VtNExTTE9kNUoxelNmM0llRWNGYXEzaWJYeVh3d1FDQ29FRkxsT1RLdGJ2WUVsNUdqSk5Gclc3WGM4S3BR?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "28d16a996733",
+   "title": "Creating Jobs in Union County: Governor Shapiro Secures $10.9 Million Investment, 78 New Jobs as John Brothers Holdings Revives Manufacturing Operation",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTkhKUnNHUzV2ZGg1LVZ2WTBJX1AyVlZWbERsUmRteEdzQWFWT2VqQVNsTXZMaEVKdzFtaVFGUGUwNmgzYnRvMnRxTE83U3l1QjIwMEE0eVE4eEc2dWxKUVp4UkhXMTkzNjVMT0UyY0Z4UWEtTzVmMnUzNS1XZDNmR1h2RU1jWEVHOGN3SnVTQVg4ZjFwSXAyUElnNHlDcDFJa2piQzJ4ZXFRemtHbUsxODhlSWkxWVAxSU5XU0xpMFYxVVJxWlBld3I0bEd5R2RZaGJRLWZHaVk3YXFuREt5N3BUejVSVWt1YXVWVk4tT2RDcDAxdnFpSWRHNXZMYkt2OU1iSWpXVFpDUQ?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "00dabf19fe56",
+   "title": "Creating Jobs in Allegheny County: Governor Shapiro Secures $80 Million Investment from Curtiss-Wright to Expand Operations, Creating 150 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQmgwSW9CaTFMcEhIU2xGMGNua25wZjU5UXBoWHpNZ19NdEF2YlhyS21ibEtzYng3MkRRVHNhQnBMMTlsQ2NZVXRYS2x4S3NhNmFueVVuVnI3UGptWUM4QU5zUzRrSUpCX1lRNDJERFlCQnJSRmxPSWpERWN3M19xUDVBdExpMU5FQ2FvS3RkMmRWb1Jfd2xMRHJpM0k1ZURXRnlWcVRSU2xPbFZXTmpTTEM5UDJURzlPVTc5RkM5TllzSC03c29sVDRVWEt4Z0N2NlNuMk9fMnRkUGdNZGtiMUhZQ3RNdnZMMFQwOVh4RllnM09YWTZ2cU5uUzZQWEQ4T2Vr?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "877667cfa176",
+   "title": "Lilly Richmond Groundbreaking: 650 Jobs and a 2028 Talent Push",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmV4bU5HZGJUTVFadjFHVm4tWC1OYXJZczFpQTRieERndjUySWxVZV9hbW1IUF9tRElHOU5fdHkybTlrSm51UGo0VUlnMDRSNGF5VTAwVWlqRmRDbEp2d1kwNUZ1ZDRkNVJaRnd6VVFQTWUxa1hjX3hoaUxzTDlsTVVHRTFmWWpreWRJ?oc=5",
+   "source": "BioBuzz",
+   "date": "2026-10-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "e5b68847f5a5",
@@ -2013,6 +2197,17 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "293a40ed6486",
+   "title": "Best ERP Software Vendors in 2026: Pricing & Features",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hdWFOaWktbUozRThsNGV0UGxTeEg3em95ZXpiZWxlc0M4bXpybG5HZGNId2lWazRjdmpCUW9idlYxX2loUVJZNHVYYi1QVTZ5aV9sNjdWekNXLVF0NTdHS2l3aw?oc=5",
+   "source": "TechRepublic",
+   "date": "2026-10-12",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-28"
   },
   {
    "id": "863e2256ea48",

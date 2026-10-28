@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-27T16:51:00+00:00",
- "calls": 2339,
+ "generated": "2026-10-28T17:22:09+00:00",
+ "calls": 1913,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 20,
+   "jobs": 21,
    "note": ""
   },
   {
@@ -62,7 +62,7 @@
    "name": "Bridgewater Associates",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 1,
+   "jobs": 2,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4758,
-   "note": "1,792 of 6,383 boards checked today, 1284 with matching jobs, 65 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=1."
+   "jobs": 4828,
+   "note": "1,369 of 6,383 boards checked today, 1265 with matching jobs, 1 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=1."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,7 +139,7 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 32,
+   "jobs": 31,
    "note": ""
   },
   {
@@ -153,21 +153,21 @@
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 28,
+   "jobs": 33,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 26,
+   "jobs": 12,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 3,
+   "jobs": 4,
    "note": ""
   }
  ]
