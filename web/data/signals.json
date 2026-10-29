@@ -1,6 +1,58 @@
 {
- "generated": "2026-10-28T17:22:09+00:00",
+ "generated": "2026-10-29T17:40:08+00:00",
  "items": [
+  {
+   "id": "a21be178a701",
+   "title": "Infosys completes Syngenta’s global SAP S/4HANA transformation across 80 countries",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWVNdVRLLXRDb1JSWDNIVlFuTXBtcTNPSG9LRUpjcEtpRmZfQXlCODlaN2tka29nTVlrOEtzZVIxNk5vNjkyZ0VNbjAwbWNLYk9OQ25tMnh1dk8xbjBncWYzSU41Skc4S0xHNWN1d24tMmplRXVYM0pjZDRNN0RlSTFIYXlVTHo4WG9WTTQ2NGNWM3dEY29yMWdWalB2MW1SQnhjYlFDMWRMbkhySktqdTBLWHQ2MGpRa1hiR2xn?oc=5",
+   "source": "CRN Asia",
+   "date": "2026-10-29",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "f24d62a9746f",
+   "title": "Total Economic Impact Study Finds smartShift SAP Custom Code Transformation Delivered 254% ROI",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTHB5WWt1YWhOTUtLN0NYZTVCT1MyVmpHUlZ0QlpiR0N6eUowaVF5Vi11U0ZtV0pJRVdWYnZLbFk4QXJVSnVlWHNJYnk0WGNDZ2l4RkZtUUZZSFRpWC1zZkRFMVBjLWRnYUg1MlF3SUxVeUJXZk1VTWJHU2Q0UkVJMklfR1RRNVFPNktrR0U5c3hMSGllZWZNaW1obTJVWG9Ia19vNUV3dENXS3RiY1AyNktCTnc5Q0cyTXF4dQ?oc=5",
+   "source": "Macau Business",
+   "date": "2026-10-29",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "64beb5dbaab1",
+   "title": "Study finds smartShift's SAP code transformatio...",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWxSUGwtWmoyTG5JSWUzNFlSM09RZHA4LVlJejJCNGN6ZWx4T0d3WlppOWlrc0FEWnF3TmhELUQtV1I3TjBUSE1tdzZZZzNGalY4WjdSaDhpekFzMkdYVG9Wa1FwdzJueUstekZKa3FKcWt1WURpang2TnZ3QXd2aEZrb2FkaFZrUENxTDZNMFctVElWaS04?oc=5",
+   "source": "Pluang",
+   "date": "2026-10-29",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "4b6809244f0d",
+   "title": "Dealmakers bullish on UK post-Budget; Polaris Growth Fund backs aerial drones biz; Exponent to carve out flow control company",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQmlVS0pQckVrQ2VSamJWQUdmdzg4VjdCbk1VRUo2ZjNqZFdndUt2S1Vxa1dDVHVaMTRaOVNuU3dJQndYQ0hiNUFVYXRIYzdXeUlKRDJncFhEXzRnN2NLdDZFaC1CazRBMHpmNU51OGNiSzY4RzVWdjU3LVJVNDN1cVFlakRYcnBiUGl5clZTaUVlNWVZMXZpeEVZRXo5eHNlZlVveDMtWExYMUZnaHlxeDhneGpWYkFMM0pBeDJ0WmtKUFJpdGNyVHk2cE1HWjhNSFBSMWZlNnJjdjhjWEJzNHRlOHUwVGhvRDNaSXpUMU14SjFkRU1MejBGNA?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-10-29",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-29"
+  },
   {
    "id": "eb6cea83310b",
    "title": "Fairfield loses 61 jobs, and Sherrill's New Jersey business exodus continues. -",
@@ -57,6 +109,65 @@
    "state": "AL",
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "485e072e86e5",
+   "title": "Supporting Pennsylvania Manufacturing: Governor Shapiro Secures $4.4 Million Investment from Superior Huntingdon Composites, LLC to Expand Operations, Creating 26 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcTRTYmFmcFZKZnVtaGRzdDA2eDM2X0M0Q0NLamFkNkRSaVNndzEyMzhDRHBQbVRkN0VwcVpnMmRjTm9sV2k0bmptcTNOeWdmMDc0UXlYZlg3b0N4Nmswekc4YU5FdTVPT21IQW1QWGxqU2V5R0lXb3pSS21WRXZvM0hGNlF0NTBrSE5vYXlkeUw1WGx6UmtpaHZmaklJTHhwVTB6R3RHckNzZ0EzUFB0OXlIeXdaWTVMcE82Z2pIN3ZnR1RseDNaalR0MDZvRTczdjlOdTlycTFfdndVempmc1o5b21ibWJUcGViOGtLVXRCSHkwT19PaG83NVF4RVE4U3dUeXZXYjlQZGRFNDVVWUszZWZkM3NyNTRqYzZRU2x1ams?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-28",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "66f3d0751535",
+   "title": "News | Industrial specialist picks up cold storage in Maryland, manufacturing facility in Arizona",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUxNYXdGRzd4b3ctLXV0Q1ZrS1J4aHp3UHN5VzRHQW9BVlI4ZWNZbU1CTkFtX2pDTFNmQ2pmbExWdEpLV20xSXFDQl92VGhPRnVYbVYxUFlUTmZkaGgwWTVWYnNQNnFLbm5DdGFObEhQR1VWNkpMcUtMQm9fajRybFN6MUNldG0wU2JjX1ZYTUwtck1YTEIzOTU2REtiMy1MTGhiYlRTX0ROTGJMMk5XelVwd3NfX0Y5U2RDUEFnVUtPbFpZdmpWLU1EYw?oc=5",
+   "source": "CoStar",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "96d7f1fd6ad9",
+   "title": "Pennsylvania Targets Business Expansion With Shovel-Ready Sites, Incentives",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU0M5RUNKcVkzR3ZUaS1waFhxeGxRX2JQNmhSRjZOUUpiVnFzT1VDU2pxRWpNdkVoUldBYWFxQXdROXlsS2xuREtlQTQ5X2NPMVFuLXZSdGU1VC12M1AzcTJraTU4WlI0UERDcWVPOXFUM0ZrYWNUVTZrczZpREJDbmZCeUhKSDd3b3RnM01ENHU2cHVsNEY2OWMyUQ?oc=5",
+   "source": "Business Facilities",
+   "date": "2026-10-28",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "cee52721c435",
+   "title": "Atlas Copco Gas and Process expands manufacturing footprint with investment in Voorheesville, New York",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTjhzUG94WGRjSGRmcDF4aWl0QVdtRHNGNm5aeFFsN21hRjg0S3pFZzN1UzV2T1NrVGJ4bTRBSzMwNFItT1Z4WS1ZdHpNb2NnQ3dzTlo4NGx1SU84TzgxeFktY1pydzhqMjM5eXZ2V2IzWEl6Z0Jlc2ttcFpRU3FMS0xITHVlUmpwUXRDdzhKb3ExSjFvUklibXluTjY3V3lxb0hXMllnLXRsUGxVTzEyWXJod3p0dC1SNGxfMGNtaTBfaHhIWGotWXhBUDJ6TUZxYkY4VnNFR0xYQUx4UXQyckZXYU5yY0Z1MWtNbFhrSk13QldOaGtPVUllUnBzNHc5enpz?oc=5",
+   "source": "GlobeNewswire",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "b861cbfc60cc",
+   "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLXc1bXJZLVA0NWhuSHp0ZnNySldKa1RISV9IX0VzQ2pXNVp3dGQ2V3k4cV9GeFNTVVFlek1ZMFdfZzdJQkphcVhJR0ZRQUFGRmlwWVh2ajJvWTZuZXd6Zlh6azcwQm9EM0h5LTFLNXdUWFVwTEN5QzJiZk5xZUhyOXZNMmlnWG00UDZOV21UQkpJSk5QRm1wLXNFX3czTk5vM0wtc083bk8zanZuTFhLbVBCU0hBVzJRWUhXcFBpT3NDbzVGZWNoZzdCOEwtUWJBZlFsUQ?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": "NY",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "86a97fd18112",
@@ -229,6 +340,19 @@
    "first_seen": "2026-10-28"
   },
   {
+   "id": "d0a50202688e",
+   "title": "Infosys completes Syngenta global SAP S/4HANA transformation",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGU4eTI2LTVCNUtMa2tnX2ZHYmhkeHkzcFN0eGZWN0VBNmtnRm9IN3VXUnJKeE9naWhyVmNhREstaG0yOTFiRmFBMDZSaVR3NlppZklHcmdhVWE3WTdTTWJJSC1Dd2JVeUpZeU40RHdsWlZ1d3JjS01hWDZUQkdJRjU3bVlyZHV2MGwtYTJWQy1Cbzl5dy1JMnBZQ1NialdrYVQydUlDSlNkTkVwMmZuYnNlNG14UWhm?oc=5",
+   "source": "scanx.trade",
+   "date": "2026-10-27",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "be28a7a52f61",
    "title": "Layoffs: Real Food From The Ground Up Plant to Close in US, 93 Jobs Cut",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmVVbTZGaHNGdTZsYVNUNS1hN0VXbTNMSEs3LWZueUpxWUw0Vnkydi1QaG5fOUgyWkJtYU5OS19jeVZraEwwMDFHdEdPYmZZUTI5R0F0SW51TlZqNUhQaFZHRFVPNmxHSVU4TFc3c0U2OUR3a1k3eGpDbWxJQkhwN1c5VFBmcUNRSnYzYWx6SEhHRE5zUnlyUkhKQXVuaGctclJSNE1QLXk0QllpUV9v0gG0AUFVX3lxTFBEZnJJYXdXTkZ5aXZublhYazFKMHRPbGVyUVlrMVJuTHloN0lVZjdTRWZJVEhUU29pMWt3RmRqaFJoSFRPdllyU1JsM3RubTRnZ2h1SUUwVlNHZmNMd2RxRnFHU0xDY1BSUnZYVHRyaXpDNl9lWlFIZzNRRDNsQmpoc1FNMk5JOHNzRkZpWHYyZjI0Y2pQZERpMHZvYXp0S2c1Z2xyV2E0bUxtWkFJdjdlN2pQXw?oc=5",
@@ -338,6 +462,19 @@
    "first_seen": "2026-10-27"
   },
   {
+   "id": "ee1709b12aa1",
+   "title": "Groundbreaking Of New $25M Five Ponds Clubhouse Tuesday",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakJ3ekRkZW5qcGRGSUVpZGZDb0ozekpFMWt6Y29oUFdxSkhkTjhuUjZQWk0xZGtzOUY0RW44UnZjSy1CWU9MaHpObkw5YTI2cmxnZW1nRzg2WExmZm1lbWkxd0UzVmxvM0d0N2QzaEhRWmRFTFNfTXlnMkpwSHJWb0NoSEF0SWc0cGNjcFRwczNibHN6TEU2M9IBrgFBVV95cUxNMUxzNTlMellYVjFRYkpDQkg5RlRTOUl5X09QNkVEVnNvSVZPbllQRFBRMmFXZHczb0FWUzIyM01VdjJVQWl3OGJDQ1NUNG13OGUwMVVuX3NCTGFMdG5VYnVHRGtCcnBySXJXSVNNdmhOU0YzczZsMlhhYnVtMnYtM0ZERS0yb1NsRnBHVVpfdFRtSUJEZDdkam5uZjh2LUQwVko0LV82RkRkOUhESUE?oc=5",
+   "source": "Patch",
+   "date": "2026-10-26",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "d4935fcdea82",
    "title": "Japan Cloud ERP Market Forecast to Reach US$14.3 Billion by 2035",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHg0Wng5N3Vkalkxb3pYd0JGRjF3YXpGOEh6Mnk3MVdLUlR2bTl3VGVmVWJsalJVRHFCZ2wxSE1kUmJPOE81cGhScUk1UkNGVVd4M3J2UVVEVHZoWWw4MDVhWWZHTjhmQkIzLXpmZ0dPak1JOFBUNUx3QWVicVp2VWhXeHRmUUNGWGItajE0ZFR2YjdESzFzSGxrZkdFcXNyWnc?oc=5",
@@ -384,6 +521,17 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "90fa22893689",
+   "title": "This Massachusetts Apparel Maker Draws on Deep Roots to Drive its Progress",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemNYcGdnVk5qOE9rWmc5aXQwY19PS2NTOWsteXF5VmhkelNhNldvUloxcFgybVRaVC00VHk3UUljRDhsRURlQVpNbmRRX1gyWHd0M0wyeHphMEhDN09VSUZkYVBvOU1xbl9pbmttVVd6a1J1ZnJ5R0VzZm1SQjhObURmX3l5cnBTbDJOS0FscXQ3dE4wMTRLVmUxTDlPYXJEV1JjYnpCUGtFajU2VkxOTWVEcGlRd296Tmc?oc=5",
+   "source": "Alliance for American Manufacturing",
+   "date": "2026-10-25",
+   "tags": [],
+   "state": "MA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "25e1088ef292",
@@ -660,6 +808,41 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "064f439e95ea",
+   "title": "Championing Manufacturing: Meet Pennsylvania’s IRC Network",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXFsVTM4VzJTS29KM3pKc044cmVpNUJodnNpOW41cVhCUkFJUktTc015Rkt2SHJHMlZsT2RJTHlWZzNDQk9LSWlBX2pMcWVYUFZBd2Zpek5ZTzU1eW91Mm9OcWdhbEZRSjlLTVgwMzJjSktqQ0hMbVYzdTVQeGt2bFNnTTdSRjg2Q01uQXNoclFCSGM?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-23",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "9b92a39aa860",
+   "title": "What organizations running SAP say about the road to S/4HANA migration",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1lvYVhOdlU5bnVrRFBRcUNiOWlySWJCbHl3Z2ZtTWwxQVlpZnpFN1J4OGJyVHRvek16T2dHbGxFMkRwcjl1Y2Z4cHVQTnhBeGNrZi1pNkE3NzB5b2tobFdObmhYanE3Y2dTVUVWcjFxak80VHJCbDBfY0drcDFHdXotT0w0N3FkRHp0SG5KZjVsYnhhUG5haDFJQm4tZGc?oc=5",
+   "source": "OpenText Blogs",
+   "date": "2026-10-23",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "cbc241af7033",
+   "title": "New York state woman charged with voting illegally says she recently learned she wasn’t a citizen",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWTlPVDk1VVJDLXFYVi1qeVpZaEVWSS1EZXBES3RLRDNkaWZKSkktR2FQUl9Tb2V3d1Y2SllNRFI2c1B2THBHR1g5S21xbmxHMVZ0SHAwZjVabFZFZTlYLV9oeWozZ0pVcHEyZnRLTC1GSEVYQ2F5eldvZWZPYnJMNEJ5TFhEalR6ZVpPOXFlLXdpakNBdHBjNWFfZmFrcjZWNmpzYkQ4NnRzSlR1cFIwdHhnUEtUYjNFSjBlc3R1WGRfaVo0SFB5ci1RUm5Xa0otdUwzNnFDMjhOTmM?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-23",
+   "tags": [],
+   "state": "NY",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "e5b68847f5a5",
@@ -1269,6 +1452,17 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "659a09019697",
+   "title": "The 540: Thrifting haul vlog with 10 News Producer Caroline Rogers",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uVFUzTmZTT0NwX0ROZFgxb256Wnd2WktZeW1CTHJoV1dzUXVFZmZfM190ZGhLYjZUUUlqaHMwVTBpb213b3czVldJQU1CT3pHZDE3Y1lJdWpad3RYckItNV95Q3JzMFFLZ2lyRm56aFZkdEctWnc?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-19",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "ae45e94d239c",
    "title": "7 Best ERP Consultants for Automotive Manufacturers Implementing Cloud ERP",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGZQZF8zbW9yNEtvNmZJMmRfZHp1TV9IaUNuNTRtNHQ5VHJLZEh0ZWJVUFZoekFVZkZSN1ZnaVF5Rjh4ZlFPOEF5SEhseTRFbW5FbS1jQUZjTk9OUXRuQmE3YWlLRnRqTmJ1S0ItS2w5YlNQX1MyZWtFdjMxZk1lVmNZOTlZYW01YWR0SGlyOF9pZ3dDTFduTkRjMVg5blNtakxSYllPT0NEYk9hd2RTNTZKMjdneEF3NlBQVg?oc=5",
@@ -1289,6 +1483,17 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "45f69450524c",
+   "title": "John Harbaugh says no Giants QB decision yet after J.J. McCarthy replaces Jameis Winston",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjUySVZIcEQ0TTBFa00wWDhIUm5qR0hKS3RyMHg4STJHa25taHEzV1JVWGN6YlVkV2lvUWhKLUh1MVdmcDN5Y1p0eGhadi1hZnBfN3JDYVUtLTIxYW1MLUR1VkNzT2tQT1NJemFxWVBhUW9TNE5WRXI2dmI2Ylh0azdQSmhXelpIZUdsLWRlWjdGcU0wQ3MyTmVHbk9kYmw3Nk9Wck5kSldiUk0yX3FGcjdIb2daRDdhQkxZcWZ6TXdXRGZh?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-18",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "ebd6be58e568",
@@ -1507,6 +1712,17 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-25"
+  },
+  {
+   "id": "5a496abf634f",
+   "title": "After Welcoming China’s Electric Vehicles, This Country Is Paying the Price",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ad3drMEpQTjFSQjNNckptcHdNZktDQWdBTVA1S21lZk1MUUJZUUR3V3RtMUFEamU4bWlmNE5XMS1MUTkxWHRZTkprLUQ0X0paVHBfWUlVOFZOckg4OVYzY3k1aWxCTEZuNUZTeHIwaVNUTE1Bc2Myelg4Zw?oc=5",
+   "source": "The New York Times",
+   "date": "2026-10-16",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "483c14be85ba",
@@ -2208,6 +2424,17 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-28"
+  },
+  {
+   "id": "32c7dedea2ca",
+   "title": "13 arrested in connection with Roanoke County illicit spa investigation",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcU9TZTVoOHRtRlFneHVmdUtZamR0SDlOMzBpamZUVktuTUJzNkxMemUySEdGYmJ3c05fSzdCclBVeXFIbUJ0SnlQZnZNQndvUnRkbmszUTFUakFZRm1WcUpiZmVfd1dQUE9ZaXFaajM2SFJxaGk1anBnaUcxaWt1d2pFeVcwNEZRZWZSNWJrZXA0bS1zdHNhbk1LRnB1Uk5Pb3ZtNEotaWVPNU1xUVdQVHhLVzVaUQ?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-12",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "863e2256ea48",

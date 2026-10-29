@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-28T17:22:09+00:00",
- "calls": 1913,
+ "generated": "2026-10-29T17:40:08+00:00",
+ "calls": 1964,
  "sources": [
   {
    "name": "Augury",
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4828,
-   "note": "1,369 of 6,383 boards checked today, 1265 with matching jobs, 1 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=1."
+   "jobs": 4917,
+   "note": "1,393 of 6,407 boards checked today, 1256 with matching jobs, 3 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=2."
   },
   {
    "name": "HN Who’s Hiring",
@@ -146,7 +146,7 @@
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 7,
+   "jobs": 8,
    "note": ""
   },
   {
@@ -160,14 +160,14 @@
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 12,
+   "jobs": 9,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 4,
+   "jobs": 9,
    "note": ""
   }
  ]
