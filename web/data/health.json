@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-29T17:40:08+00:00",
- "calls": 1964,
+ "generated": "2026-10-30T17:20:10+00:00",
+ "calls": 4256,
  "sources": [
   {
    "name": "Augury",
@@ -48,7 +48,7 @@
    "name": "Xometry",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 25,
+   "jobs": 23,
    "note": ""
   },
   {
@@ -69,14 +69,14 @@
    "name": "Point72",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 5,
+   "jobs": 6,
    "note": ""
   },
   {
    "name": "AQR Capital Management",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 5,
+   "jobs": 4,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4917,
-   "note": "1,393 of 6,407 boards checked today, 1256 with matching jobs, 3 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=2."
+   "jobs": 4971,
+   "note": "3,329 of 6,416 boards checked today, 1305 with matching jobs, 216 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=3."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,35 +139,35 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 31,
+   "jobs": 30,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 8,
+   "jobs": 9,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 33,
+   "jobs": 27,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 9,
+   "jobs": 23,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 9,
+   "jobs": 14,
    "note": ""
   }
  ]

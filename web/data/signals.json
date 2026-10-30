@@ -1,6 +1,32 @@
 {
- "generated": "2026-10-29T17:40:08+00:00",
+ "generated": "2026-10-30T17:20:10+00:00",
  "items": [
+  {
+   "id": "9d98541d2ce9",
+   "title": "Edwards Vacuum Celebrates Grand Opening of New Semiconductor Pump Manufacturing Facility in Basom",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVS0yMWVkTFZFNHZoRWJCblUtbEdaYzN1a0VMbHBfSGlfcFB4cXp2OGhQV0tJak1kdWh1OEhqNl8xWVBYLVJqWU01em5CZWZzVlZGU1o1OFZLZVVEUjRQdjdLSDEwUGNFQXhQb05aNjBSNWFWdXRjY1lnenlNOEtMY3A3ZXVFRkVEZGw3MkpXNWxUWEt5WU9TSWVKZWxxcFMxQXM2bkl3M3YyUi15RERjLTEyNnlvRUdDZFZKRmhHeGtCTXM?oc=5",
+   "source": "The Batavian",
+   "date": "2026-10-30",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "df40e89b4a42",
+   "title": "Pittsfield tech hub expansion breaks ground",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWVNVN0lwOGZFbEdUUFVyekE4N21XX3o2dnM5QWtaRks3OWVaN0lTcWY1WENBS1BiN21SNU5fVVBrOFRfSVZSQXkyNGdlMTYwb01jMU9YU1pfUHRLdVJScmt1UjZucUNjUHhXSHdGdGlwZGFLR0g5VlUzMkNfV0FzeVZJYXFxNnNXTkhUMXItSE14djVVNGJ4MDVKZmNSN2ZoS3RZc0liLUU2Mlhnd1d4N0Y4Qk9nSF8tdFMweVFkTTQzVk01UDZiVHlUSzJMLThNcGZwaDRvRHJOc3Nh?oc=5",
+   "source": "Berkshire Eagle",
+   "date": "2026-10-30",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-30"
+  },
   {
    "id": "a21be178a701",
    "title": "Infosys completes Syngenta’s global SAP S/4HANA transformation across 80 countries",
@@ -52,6 +78,65 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "c8e91f8d3778",
+   "title": "First-of-its-kind manufacturing facility now open in Western New York",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNVJuZ0hLeXJCRlRNUTQtY2lpeGJvNkY5aXVZcFBMamk0dmpKR1VqZXJoQ05sWklaVDVQMy1rWTRYQkhtMXlpRTBJcUw4d214Wmh4UmctZjU2b3ZpdjJhc0pzYnBLS3lMMFdRWEFYYlIzWmZzTGZiMFpXZUdTYkFEMGRIeFZ4R1pQY1FWdDhIQUJQcWpUeXJUMmU1c096V09TZjlPYWY4cGJLeTgwUEJXODJYMWJwYVFQZkZkOWlodUdxbzFISXczYmJSSWNucTVlajY3cG9MMWJkX3gzZm10d0lFTk40Q0gtSnphbE1XZEppZkFCRnFqVFd1TUtBOGFoUW5LZjMzNGQ?oc=5",
+   "source": "13WHAM-TV",
+   "date": "2026-10-29",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "3c1a1708e81c",
+   "title": "Edwards Vacuum unveils $319M facility in Genesee County",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3kwbWQ5SmxBN3V0OXQ2T3VhMjZKNWFKNE1VRUJWd0FCMXZwLWNWSS1OMWtjWDB2Xy10R1V5aTB0dDZjbWhzNGZpYlduLWU5RUkwNXJrWWhNcThjNDFKNnhmQmk0VWcySDFaNkxzazdJbFVqNDNrWnNqekFza0xxUFdwaFNIUWxPOGpDUA?oc=5",
+   "source": "Rochester Business Journal",
+   "date": "2026-10-29",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "dc9f6849e870",
+   "title": "Connecticut Manufacturing Keeps Moving Forward",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEVxZWFramxHM3BVX2dZWjVEcXk3ZXNuMHBHdDlJa0NBSXdhZ2Zhbm5ocGNlSDQ2OGhFLXJ1UDB1UUFXNnVhcWJTNHNCX0hHTU4tUkhKaUxhcTFGVmlNX2ZSLUpSaWVDNE1Idzg1VHFjckktb3BIVU5TSkQxaVFleTVCR0h2TEF3em9JMmdnNA?oc=5",
+   "source": "CBIA",
+   "date": "2026-10-29",
+   "tags": [],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "d09d2f862f2c",
+   "title": "Chancellor King Visits the State University of New York at Stony Brook to Highlight Research Excellence",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLUp0a0l2UDA5UjVMbkdhay0zaWpXREliSDdBQkFYS242UktMNEVsZG9iaFhYcjBaS2FaTFZ6TFh4TGlnWGtObHQ5SEFSdFRoXzZXbGRBa2t6SW1VWXZ6aVluVkJBRlIwdjBqekF3bXFXX2FXZXh5cmdPSVlnSC1wZWQ2UmQ?oc=5",
+   "source": "SUNY - The State University of New York",
+   "date": "2026-10-29",
+   "tags": [],
+   "state": "NY",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "9ab100c43e82",
+   "title": "Q3’26 Pulse of Private Equity",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWnE1YnJPWk1KN29hZmRJd20xRmFEWE1wSUtERFo0M3Jyd3NNLUZqSFUzZU9UQWlCTWxDYkk2V0FKV3RsTzJfd1NGNGZVeG1ReTBYdjhGaHFRNkIyZUcwWTk1VEJCWl9VbFFsYkQ4cVhaNEdZS3lBWWU4N0Z0Q3p1bXNXeTgxOXNVRGtLcEtB?oc=5",
+   "source": "kpmg.com",
+   "date": "2026-10-29",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-30"
   },
   {
    "id": "eb6cea83310b",
@@ -168,6 +253,32 @@
    "state": "NY",
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "7bd342c441bd",
+   "title": "Governor Shapiro Secures Over $800 Million Investment from GSK to Expand Operations, Creating Over 300 New Jobs and Growing Pennsylvania’s Robust Life Sciences Industry",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVG1BVG5KMGoxWWZiS2YyQzJoRnRsLUpqaEtaN0VRZ25oSWVMajJ0QWVJVmxfVFc4X1cxX3RaRk9MU3QxaDh5STZPekZXUzh3OWJzS1RYY0xvcnFoR0txTWFPTVk4Rmc1enBMSEVNV1cwcjlXMkc4X3VJdTFPMnV0OUpCYUJBbjBIRDA4dmM0MHZ5VlR1d19oOVZlZ0VLMlZrNGhRQUZSZzAyMlFCLVJ6NlZiLWV2N1R5Z1MySmNtUm5IeFN6VHFvZlNJTUxVS1lkR0dVOEhPR080ZmxVTXR3UnJQb0c4Nms5anFUbl9EWjBWQmNGOHo2aExTM0NWMlFIVndIVjRWWlh5V0JpdVl4N3h4Vmt6NVY0NUNyS2ZuQ1E?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-28",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "8cc5cfdee425",
+   "title": "Governor Shapiro Invests More Than $134 Million in 100 Community and Economic Development Projects across Southwestern Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZFBZR0pWc2gzaHliYTE1OTNLeUFFb19IakdGakhocXBqUTQ3M0ZWVGt2NG1LSGZkMkl4d3ZpRjRWUk1mcTRJX0dnWi14aGZjaGs3VmdRSzVKYlFrMlpUTGZoZzQyXzBzNFVRSjgxZm9iRk1tVHZEaGZQalNWZTNqdlVOU3hiNkJIUXU3SWo5OUpmYmdIMEloRWRWbnV5Q1UtVk1BTUo4Q1BFYjFMSXVxTEdndk81djVtZDBFTWlFa3F6VDZHckVacjNQQmZIeEVkQWtyUFRDYnd1SVdNM081Z1FvWlRoMGM4YWVuU0ZSZWJoUQ?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-28",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-30"
   },
   {
    "id": "86a97fd18112",
@@ -351,6 +462,28 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "3e248a1e20ff",
+   "title": "How private equity can help founder-led succession planning",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVZ0bE96QldnS2NscVptUlhYZnFlZFlicURxcUd1Z281Vk5aQ1hYY0o3QmdjdmNsWHRobmppOUh2RjV6Sldwak9fVFVkeEJHeFRBVk02ZTBkX1NWUW14M01pMjN6NjhkQ3Vqa0tDTHNxTlZSNEhkcm51a2p2ZndhQk5FaUFaRU9jRTRBaGYyT0ZkUDZLeDNTQksyTlgzUkFzQlJrZ0ZXUjZ4TzRSTmpTR3hfMGViM3RKWFE?oc=5",
+   "source": "Inflexion",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "171e78c6f7ec",
+   "title": "Who Stands to Gain From an Anthropic I.P.O.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTJqNWFTVDd0dGZUZEZKRDdFMm9ZTzhhODBZMXQzbGUwRHVjMkJjNlJ1ejcxMjlOMUNDcFNJNDVJYWZMOTVZNXR0M1UyS0V5U0cyOUNfUjFNZ0VTUFprd3BuSXZCM1ZYMnMyMTQ5T21iVkplaFBaMUZkWTJLWHktcEFGRnlFWWh5MTg2UXNZRVNiQlk?oc=5",
+   "source": "The New York Times",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-30"
   },
   {
    "id": "be28a7a52f61",
@@ -1013,6 +1146,17 @@
    "first_seen": "2026-10-25"
   },
   {
+   "id": "03fdadfb1034",
+   "title": "Jury deliberates in trial of New Yorker who became a teen bride to an Islamic State fighter",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckgwMzQ1NzZBQnNFMTRFYU9qWENvbmE2SDFJVHhBTEhaczN5eUV3R0F6XzNBQlN2U2pVWk9RQmg5RGEyMnlHNXkwdnY0R1l6LTFQdXl0RHJaX3BOVnF4NDlhanBGM3VQNHhKNDFIdlhTczJ4ZmhqSFVSdmFHd3RjZDhnZk91eFdKYTc3SzJEWVdsMTJKY2Y3X2JyR2NoeFdvbC1rYnNoR1FEVmN4NzFzNGhoRW5iSHRQVHg3TjNCbGFBWWhjU0VMbmc3MWNnZk00a0FYRg?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "2967164f1c50",
    "title": "Inspired Capital closes $450m fourth fund; Monomoy hits hard cap on debut family fund",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkJxbWs5ZlBhbVVjeVdPd3NuMDBna3JFTmN2dTNHNFp6QnZqcXEyMTlldk0tNzltc2ZCb1dLcUZzU3hIckx1WGlCYWlkM01LMlRJUUw5WmsyejhpaF9GRURYQUNwRlc2MG1SdnRiUVlya2t1QnAyaTlKVXJVTGdNWUl3aUgyeThyZzY3X2JJM0dzalJsdUJMdk1XRXEyZjlRZkJjbEJJYVNldk0?oc=5",
@@ -1125,6 +1269,17 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-27"
+  },
+  {
+   "id": "a1e1330bd524",
+   "title": "Israeli forces detain and then release US congressional candidate at West Bank harvest",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWFlRRm9SQ3FEbDNoc1Y1Y3hwRGNrakFPM3BKNTZXXzRmczNaS3ptaHp1NzlYNTBuMzMtVkpvcVV1ZlhweUQ4QzZhZVo1MzBlR0NpeGJweUN1SzRMUTZlUTRQNWJmNVp6VEpOSFBJcElOX2hEcXh4aFdZRHBYdlFiNTBKdG5ISUlvM09NVG5CTUlyTTdGT19hQ1hRalJKLXhkLVRvczBLUk5kaEN2b0w4ekhFTy12Sm1zem5kMjZMc3o2SGgtSzNUbGV3?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-30"
   },
   {
    "id": "bc4b02a58488",
@@ -1870,6 +2025,17 @@
    "first_seen": "2026-10-25"
   },
   {
+   "id": "014bf453396e",
+   "title": "New York man shot by ICE officers appears in immigration court",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1VlcEs0MEhNZTI4VUxnY2RnYmFwNndUQlRDQXFJQXNtS0xUaXpYYjBKNVh1TFU2YXkzVzAyZ2RBT2lscW9YVlhBczRiNWZBbGhwYzkwRERkMGR1TDNmS0NGRm9heHhlZFAzcFdaeEVXTEFxR1I0eG9VanFfcHFJcXhVUm5RN002bk9aVTJRWVg5bW9yc3J2am9UbXp3QTExZnc?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-15",
+   "tags": [],
+   "state": "NY",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "46ede9ce8a68",
    "title": "GlobalFoundries selected to operate two new semiconductor fabs in New York under landmark U.S.-Japan initiative",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVW9mTXJLZWtuSlVKNGw4bTZ1aTJuXzZ4UGZkcW14SFpXVjc5eDFsQUo5eldnMFo1a1NBNFpvTnhVSm5qRHAxbzE3Nl95cU9OMkhFLWMyamdST2ljcTl3NnhndjJzRnNnR3BwSWtiNTA5TWl2Vkx4YVBIVE1rZC1haFNDZjhUQUNXanlGZUFVN3NFT3Bzckp4UFRXaXRWbEZtYV9GbjBlakNXazBkSEtoSDJUbWJLTTFwOFZBMm1oWnN4T2dnSjIyY2laazlNLUxZQ3NrZWswMUY0M0Z6RWZn?oc=5",
@@ -2461,6 +2627,17 @@
    "first_seen": "2026-10-25"
   },
   {
+   "id": "b5502f188ca0",
+   "title": "Jayden Daniels returns and scores twice, but overtime gaffe costs Commanders in 27-27 tie vs. Giants",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRnFrbGx5QWZVUDlsLVJNS0tkR2FLekhPRW9iRTd4Vy12bUF2RlduX2Z6d2lpajZwSVc5RTQ4Q1U3VGt2ZzNZUUNuM3NVWFBEWGZYQWNZZlpabzFIaTB4NUo5b3pOaVAzRmk3VTh3Vkk4ckRpV2pweU8yTDNhUC1MWE01SVZrbm9sZ1dOMHA2V2xXSUNnZ0YxbW1faUt1TFpRM1AwVC1tTEp3blQ2Y0ducmFDWEZla2NEQ2ZPdjJUTzJXSGtWNVlrd0gwdU80SXM?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-11",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "0dbddf94114c",
    "title": "Shooting leaves 9 dead including suspect in Erie, Pennsylvania, police say",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0FvdU5zajNFSTBxQlNRTHBwS2tDeU5KM0NOU3FuZWNILTlSN0RPTEVxMzJ5bno3aDRCLXVGNDI2MGJGRlFFa2FsUTJicXU1ZFRvSElmbVNOVkUwa05NRzFkVW1vcVp0cHZPRm9EUVlXdEhvclpTa19XZjhNY3o1SXVoM0pOQm1yWWNUdmRncVRZZ3ZuejA4VQ?oc=5",
@@ -2618,6 +2795,17 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "3b24c948d298",
+   "title": "Singing `New York, New York,' Rays revel in recognition as they head to AL Championship Series",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDVwMjlEQWl5QWJzQ21vbi1GQlBxYzVYNGFhWG1CMFg5NVhhalZkd2szakh6aklvOXNid3dtZmJvOExoblNyT2R0WDVwaTltYlFxczg4dGp2aDgtZU5Dd2s0bGdiRmhmWTVVbG5UU0lMV3o2dHhTeVZmLWV3QVhDMC1VUkJmbUtFXzZCQVVURjR4T1NtZU0yVldWSFhVd05reVNram9zUW5SY2FrMW9RLU1HMDJ5RHlCdnRNRkU2bTFxOGRRb1owRndB?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-09",
+   "tags": [],
+   "state": "NY",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-30"
   },
   {
    "id": "aecc74e7ab12",
@@ -2802,6 +2990,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ea137f7c73f7",
+   "title": "NY governor says Cornell rape accuser was 'failed' by people obligated to protect her",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2Q1aS1RN1VLSEl5WTJrczVzZFFPYWhhSG1ORzFqdV9UaDNXQ0dNZzB1b3JuRzU0dmV6cUFqWHhqM2ZHbGhHbWJwejQ4S3NUYWtEdVM4SWk5WW1wNXVxN2NEOEpGdlBNd3puRjlDNkY2eTVyT3QwM0UyYXB0VUhOa0FOWUpHalJRcVd1N0VZV3lZbG51RTRRMnUxa0MzWVFLRWhSSHhjZjZJZUMydGZYZ21RT0w2Tk52U2Mw?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-02",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-10-30"
   },
   {
    "id": "99fa5f11deda",
