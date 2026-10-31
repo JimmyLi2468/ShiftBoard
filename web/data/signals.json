@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T17:20:10+00:00",
+ "generated": "2026-10-31T16:23:33+00:00",
  "items": [
   {
    "id": "9d98541d2ce9",
@@ -26,6 +26,80 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-10-30"
+  },
+  {
+   "id": "d49322ec00fd",
+   "title": "New manufacturing site for semiconductor industry opens at STAMP",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU9faG9OSWdNYXJkSm1yLTNQOXA2OFZCWnB0MHU1MmFCcmF2MkdfVzBCQVRKeFAwMzhOakd4WVlwdU52UmRiN011MW9uQzFOMlZyYkxxN0lzcjJTMWJ0MnNuNF9Pb1p5OGt6QVNRUWVnX21kT3FfbERSUXU3bEhUOVEza0Z0dGhRdVZnNXYzN3llQQ?oc=5",
+   "source": "Orleans Hub",
+   "date": "2026-10-30",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "af42f803cd6e",
+   "title": "Kentucky: Maintaining Momentum",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sM0VvbDhpVUlSZHFlY3Q5Q2JwTTRXYVpDNXZBcFpudTRnd2FyUWdQbDFDaE9vSWF6d2lpcnpaRTRFSDRjYkU2MEF6VTZVQk9Ecm5ueUdRTTVoempYQUZ5bVpfRldTTGk3c2pqZkxR?oc=5",
+   "source": "Business Facilities",
+   "date": "2026-10-30",
+   "tags": [],
+   "state": "KY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "5f45e36e5a42",
+   "title": "New Staten Island children’s center groundbreaking caps years of community efforts to save site",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbTNXUUxWVzJWLVA5ZUVDMmFCYUhWbTIzQXFWc2ZjV0IxZVRUWnR1ZlA3eS1wYzZfZC1hTlczNlRuQjdnSDFQRnUzZHhhcDVNY0NBTzFsdnJ2cXRnLVRjTElTWktFUTJzVnBHWlNWLVZBWC0yZWlZV2cwOFlHZVkyNUk1MTZmVU51SWg5ZC03M1hQNGgxS1R1a0p6RUt0N1h3eTg4MmdWQWdpTnNodW12c2VnT1loRzNPaXRscUVhQlJxVVJvSTRXM19OZ29pMmdL?oc=5",
+   "source": "SILive.com",
+   "date": "2026-10-30",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "9fa719b280ac",
+   "title": "A Major E-Commerce Company Is Investing $1.3 Billion in Georgia, With 1,000 Jobs Expected",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT1lzRlpoeHJFbzhSYUV5eFhWbkxRY3FON1pyWUFLYXpIUUJ1V2l6N2hvV2E0QjlCN3VPcWxwOHpwSEN0Uy00QklYc1hsM0xJUEh5S2Rodjl2cWRkUlRCSDZFOUpjYm1sa2FJbzFQTFAxMGNWaXk2bzhsRzc1d2wyUUNEek9mYmk3TU5IQWU5SDFOWDd1THlHVE5Ccjg5cVFlOHZrLUVQWTFkbVg4SC1UUVhHZXJncEZ3d1JOa3J3ZE82WTFVV2c?oc=5",
+   "source": "WhatNow",
+   "date": "2026-10-30",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "GA",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "16a5b7611eb1",
+   "title": "SAP Automation Trends 2027: AI & S/4HANA",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEJOdlF2eUhNdE01Wmpra0xRYTQzR29leXI4V0g3NU1mRjFXWlZyS3pSWmpDMi1ycnV1ZzJmV0FFbEwxR1dwRzBHcFNPS0VRMFhydi1GRTBnM2tHT0Y5Z1Z2NkxKTm5YMDluSW55d0wyVkNLZnlpRWMyM2FTdzFNbWNISGVacFNWWFNVRQ?oc=5",
+   "source": "Precisely",
+   "date": "2026-10-30",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "12e1a46416ee",
+   "title": "Deal Structure in Medtech M&A Considerations, Part 2: Should Founder Stakeholders Reinvest in Themselves?",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2tyWXhNMjgweUZ4Wm5xZUtIcnUyRlVzbGE1c2JtYm1xWUlYQXNNNkdiWlRqRGlheGdMaGZ1bjNXTFlZMWNSVzhJcmZuUFFfTWpwS3VkOXBKVno3TUxFY2NqRmg4U1hyTDY2d044SlUwVHlTN0Z3RmZLbmt0RHdmOHExUEF5WDBBNjROSEdDSTZ0ejVnbnREQnVEVHp4RFhiZVpXYnRmS3J5S2cxeFo4eEMxMlg3VmFHQ181b0I5MjFsWEZh?oc=5",
+   "source": "Medical Product Outsourcing",
+   "date": "2026-10-30",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-10-31"
   },
   {
    "id": "a21be178a701",
@@ -137,6 +211,19 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-30"
+  },
+  {
+   "id": "7a0d5aa3b2e8",
+   "title": "Phoenix Tailings to Build Rare Earths Processing Facility in New York",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2dQUHBjMEEyMlZGblZFbVU1cVU0MGFhcnIwZVU3eWN5QVlRdTNUTVVFMGk2d0d5UzdEY1VZODRKNnJwdFFFSTdxWW5PSFJUQjV6dFQ1NFJab005TmV0N3BnSTVQOUhfUzdmWmxRQzF1NUd2UnlZY0Zlc2VFSE9mSkVSZ2lqZDJiX0FpaWJfNA?oc=5",
+   "source": "National Association of Manufacturers - NAM",
+   "date": "2026-10-29",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
   },
   {
    "id": "eb6cea83310b",
@@ -279,6 +366,19 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-30"
+  },
+  {
+   "id": "d9b49c519cdb",
+   "title": "3D Systems, Precision Resource break ground on two new manufacturing locations",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHc4UTJtLXdPaURFLVd0M01CdjhaSm0yOFphX3RmVWJ3VHdGV3luWmR4NGRRak8tUlQyZHNHQ0FwMlkzQXFQbTY5dl9rdW9vbXBwNGVSWnBMeElQQ3hxY2tiVkswS21oRGlHZG1oaU9zWGEyb0xMckdtS3hsLWt4V2FRRWNqdUZrZ2xOMmdoV3dJR1pucjlpLWpFNjQ5em03V21ZNndiZTMyM09Bb0RCX1BDWnFqdHBPdUlTWVNiNldjWlRaR1E?oc=5",
+   "source": "TipRanks",
+   "date": "2026-10-28",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
   },
   {
    "id": "86a97fd18112",
@@ -486,6 +586,17 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "551315893623",
+   "title": "https://marylandreporter.com/2025/10/25/freedom-bank-wins-an-award-in-dubai",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOTzRYYlJlT1VWQkdENkpZWDU1cEdjSEpZZDlENWdJNnVmZ2ZULWFsUGJCM1cwNmxWZU1tUzhNdnV1OC1GYlo4V3lNYTdjLTR4a3g3SHR2RW11Z2JjODRrdklqdTZaWnJEdUtHRkd4eHZ1QzgyanhoQ21aVk5FNjJaWmwxdVF5UE5GZDF4MnVfU2VkbkVpNHhxVFhLcGdNRVNnNWlqVXgwR2RFdjJfakJRUmgyX0dUNk5ON0NHbUNYVUVqbHpTRXlIWjZ0VW1nZjN1bVU5RlB5N2VnOGhPMnkxTXU2UlRObWNEMTZPODVCNzZ0OVpzQk8tS3dUdnM5SHZoakdPMDNvQzQ2c3RXbG42eDlXaXJ3ZzBTeGNsNjB3MEdvVUZ0MDlfZkFIVmlKd1FQ?oc=5",
+   "source": "MarylandReporter.com",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
    "id": "be28a7a52f61",
    "title": "Layoffs: Real Food From The Ground Up Plant to Close in US, 93 Jobs Cut",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmVVbTZGaHNGdTZsYVNUNS1hN0VXbTNMSEs3LWZueUpxWUw0Vnkydi1QaG5fOUgyWkJtYU5OS19jeVZraEwwMDFHdEdPYmZZUTI5R0F0SW51TlZqNUhQaFZHRFVPNmxHSVU4TFc3c0U2OUR3a1k3eGpDbWxJQkhwN1c5VFBmcUNRSnYzYWx6SEhHRE5zUnlyUkhKQXVuaGctclJSNE1QLXk0QllpUV9v0gG0AUFVX3lxTFBEZnJJYXdXTkZ5aXZublhYazFKMHRPbGVyUVlrMVJuTHloN0lVZjdTRWZJVEhUU29pMWt3RmRqaFJoSFRPdllyU1JsM3RubTRnZ2h1SUUwVlNHZmNMd2RxRnFHU0xDY1BSUnZYVHRyaXpDNl9lWlFIZzNRRDNsQmpoc1FNMk5JOHNzRkZpWHYyZjI0Y2pQZERpMHZvYXp0S2c1Z2xyV2E0bUxtWkFJdjdlN2pQXw?oc=5",
@@ -606,6 +717,17 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "5cf2e05ff87b",
+   "title": "More Than 200 Defense Contractor Jobs Expected in Southern Maryland and Anduril Surpasses 300 Hires at Ohio Defense Manufacturing Facility",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTjdBSkk1V1hmRy1MY3VVcGUxN0NDRkdncS10TUxpS0xCdmwtemdEWWZsQzBYQlQ0VVAzc1F6UFRKUnFJVWJoUGZ4dnFLeGhRUWo3UVVSZ0JjdDJmNG8ydXBFbk1KRnJKTzQzSWdfbDVFVFdPMWpFMXpQcVJnTVRIT0laZFU2NmlZa3lrWFRoV09EbllBYUU1SzYyX1VLSGpYMGRjQWVIMURJdVRrSEd3UjRwX250NE1OVndQejNzYkEyS3RsblR5ckxMdlNVUHR0QnNaSzNRaUhIbkwweGRlVkxnS3FTcFRGbWFiRTVNYjZpWlUwWGlRU2Q5enNLR0REUzlOcW5ZMTlaT1E4Wnc?oc=5",
+   "source": "Security Clearance Jobs",
+   "date": "2026-10-26",
+   "tags": [],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
   },
   {
    "id": "d4935fcdea82",
@@ -978,6 +1100,28 @@
    "first_seen": "2026-10-29"
   },
   {
+   "id": "736318541837",
+   "title": "Mack adds 270 staff at production plant in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DN1F1ZWJFOC1DWVhMSjY4QnJaZDk2N0lJTm5VUGNBdWp0MTY0cHpvUTFNVTdwT3oydy1MVU85VW9LQTR3YkYxa0pYa2tZblpaenZaVGtqQk1rRHdqVGxGTnZCclM?oc=5",
+   "source": "Transport Topics",
+   "date": "2026-10-23",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "7b09065f5159",
+   "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2NaR1hQVlJCOVpOLWNwb0FjS2hoeGR5VFF6aDczWnM1NTNWdHdpZ0NuQUZMTk1xQWlNbWhTcjM5bUNBQ2VHR09TZDhsWVp5R2l6U0NPNm91V0xQUVRCRUgxQmZGZXpZcnNRX0h6WXl0S281Smd0MDhSTmZ4dGV6MQ?oc=5",
+   "source": "The New York Times",
+   "date": "2026-10-23",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
    "id": "e5b68847f5a5",
    "title": "Berlin manufacturing facility scores multi-million dollar military contract",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0Z1MjlzRnl4YjBibFpYLUItdHZGN01fLTM2dEVVMGtzOV9nVVpsclpZT203MDFKUHRwaFpoU1N4WHZUdGFGckRNYVFHSkFnYWVLakk4NDd4Q1daWmFIRzhWZ0FLNi1nVW1FSlRsU0xDcXppTkpyRmRtYlBPLUhJRG9Vd1UyX3pHeTlHcHJqeUV2N1hId0JSclNOVVV0RXRzOFBWTWNRY2s4LWtaZHUzdENBOHNLMFg0c0t6dk4tdk5PeUR3RWJ6SGEyQWdhclZ6LTB3N21tWXptNTJOYnBtQng5S0g?oc=5",
@@ -1157,6 +1301,30 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "8dd89d9b9b85",
+   "title": "Phoenix Tailings selects Rochester for critical metals processing facility",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVVIzNjcxYUFiX2MtUVVOeXFFWEpTTXFRLWZaRHFKaHh4Q0RzNmIyc1NtcW9KWlByVEVCbmtocFVMX2FrY0s4QzVnT0xyTmNtMkpNdm92WDcxM3RJSXpsZzVXd1hhUnJGM0FqZFFNUVBoSWMxeWZ6al9RSWsydjZxWU40QmxINWxWSDRSTktUVWFtQ1pPYy04T2VqNy13ODZieHZrY1FrOEFmT05pOHVGc0Q3VWU2bHRXbFpnRg?oc=5",
+   "source": "Recycling Today",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "0b3d28009c70",
+   "title": "Phoenix Tailings Plans $375M New York Rare Earth Facility",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDdWNWlkM3dYbUtYbWY5bFh5TTRRdlFQMWNUOHZxcVBJRzhqWTNNczFoNWVXTWNudC1hc0dvdGtfbEZKVnliQnp6OW5nY2VzQjM3LVE1NF9yQVo0d1ZLOHQxNVJqV1Zib1ZxMkVpWWl6ZmlmVE9KWGlsMi1nYkVaODhYelE3Xy1pNG8tS2NpWjBjX0JBTGxUTENFYlJoc0FhVTkzYmJoVlY1M3ZIclRBZFZ1WmFLU1Ba?oc=5",
+   "source": "Construction Owners",
+   "date": "2026-10-22",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
    "id": "2967164f1c50",
    "title": "Inspired Capital closes $450m fourth fund; Monomoy hits hard cap on debut family fund",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkJxbWs5ZlBhbVVjeVdPd3NuMDBna3JFTmN2dTNHNFp6QnZqcXEyMTlldk0tNzltc2ZCb1dLcUZzU3hIckx1WGlCYWlkM01LMlRJUUw5WmsyejhpaF9GRURYQUNwRlc2MG1SdnRiUVlya2t1QnAyaTlKVXJVTGdNWUl3aUgyeThyZzY3X2JJM0dzalJsdUJMdk1XRXEyZjlRZkJjbEJJYVNldk0?oc=5",
@@ -1280,6 +1448,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-30"
+  },
+  {
+   "id": "77e42a787f8c",
+   "title": "EXCLUSIVE: Samsung, SK Hynix upgrading China plants to make more advanced chips, people say",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmZxYjhQQjhXcUZzRnh3dHJIMWQzWUxyNDFMLTM1b1R3d3NFMEFycFpkQkx5NW5sQjBNdVJldDNhakRYcUMxRERYRnR3ZWdoVDBZUmljM2VENTdmRzFVdVY4eUMxTDk3VmtCWk1jQ1dvZmY0cnVCQ1FpTl9uZ3lrWWU4MGp0aDRsbG9jNTBvUDBadXpoZVAwOUFYRUlITXVUMUMxakpMVGc3QXJmQjJxeWZoWWJlTHNDSHNmZGprUVY?oc=5",
+   "source": "Reuters",
+   "date": "2026-10-21",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
   },
   {
    "id": "bc4b02a58488",
@@ -1550,6 +1729,41 @@
    "first_seen": "2026-10-25"
   },
   {
+   "id": "0fa2e30d2dcb",
+   "title": "Apple commits up to $100 million for US titanium in domestic manufacturing push",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDM5WVpJZWxMa0taUVhrM0I4OEc2SmtweUZGLWVBcHNTTmlDX0FOTmdLRFE2MUV5RDJpU01kMGhjclAtS19SU3pwVm5kLWN6TWRnTlhIX3RyUGdXZk9GQ1JNQmJub1N0Y2lVZ1hpOUJqYTRtbnBKY3NqMjRtUHQ4MXRmcVc5ZWpId3VwV21ZOTF3WkJSc1dYMXpzb0lic29menJKSmtkRHZ1NnNlOEVmR2RHRTZUd0x1ZEYzT2ZmZHhMVGU0NmxTag?oc=5",
+   "source": "Reuters",
+   "date": "2026-10-20",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "019443bf0a6c",
+   "title": "Rare-earth processing facility to be built at Kodak Park",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2lRVzNWQm5VZkt5Q214NDA4S3ZHWHlhX0lKd0tPMHFkYVdEd1M2cUNMOHVWRDNQWER4M09GdHhwN0w1MFJvT1dmV3NaOGxXSGlMR1l3VDN5SzBUS3lSd2ZMMGpZMXdwTnZGMFhLcDNwUUY0cHVJWmpTRF8yX0ZpU0E5RDA2aHhuMFJIbWt2T3JOb0Z6eE5rWVltc2FNUkdMdGhQS005NDlfb0hNOHUwcDZBb20?oc=5",
+   "source": "WXXI News",
+   "date": "2026-10-20",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
+   "id": "e7bcac54589c",
+   "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3R3LWx1TU5HOXRMcXY2ZkNnNllXMGlWa0h4bVVlc0lHRS04VW1oUzgwcDhVeEZ5Z0RVWkd2QUNtYWxDb0NoOGVic2tYWUEzRDd0blZRWTc1RXpWYnloMUhIQlN4N2xKZXNHVlktRVBScWxpRzhHSGFRTzE0NGVWd1VNRzdRSHh3WVpIRTB2MlpFNHg4RDdQMVRzeGhOX0xLZUFvZ3c5MHc3WDcwdGxfLUY1Y0RIa2U5WVpkWQ?oc=5",
+   "source": "Apple",
+   "date": "2026-10-20",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
+  },
+  {
    "id": "73d53fff7ee5",
    "title": "GSK Investing $800M in Biopharma Manufacturing in Pennsylvania",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNllWUVZnWnItUGNUYXJZdnhqd0Z6aXNsQ2gzQ0hHd1VyeVhreFoxSkNiZU9ndFhZTGxUdkZjb0tDaHFCUFJfNGlaRTJUWU1xMEQ3MzVodlhXdzZuVm1RMTd5WjdLd3pxVjEwb2VGcFY1MlZNejlzeGEtdU5wYzhzRTdRdUVvZWs?oc=5",
@@ -1616,6 +1830,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "43b5a5856970",
+   "title": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YOUFCLWNRMHFFTGJURjJBMnN6ZzFkdGNzUV9GNHFWa2NOaHJ6ZExJa3FDdmZVT055WGpWdTY0ZGVyOGFXd1I3VVQ5Y0EtUGFxWll3VFFQYWdYOHRyRy1lRm1vcTVaUXZWSE9mV3F1M2VMTE9HejFtc3RMUDRKUlU?oc=5",
+   "source": "Silicon UK",
+   "date": "2026-10-19",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-10-31"
   },
   {
    "id": "ae45e94d239c",
