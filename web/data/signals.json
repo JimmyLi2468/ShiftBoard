@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T16:23:33+00:00",
+ "generated": "2026-11-01T17:20:47+00:00",
  "items": [
   {
    "id": "9d98541d2ce9",
@@ -1325,6 +1325,19 @@
    "first_seen": "2026-10-31"
   },
   {
+   "id": "ef03353924aa",
+   "title": "U.S. Steel Approves Nearly $3 Billion Investment in New Hot Strip Mill at Pennsylvania Plant",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUxobHNhajVGckJWN2RsYzExelB2NHZrWl94NUZWdENZLXp6S2MwWExKQmI2Zmw4aGl6U0Y1RDl4RWRqbzR4eDh3eXFzX3Y1aTJVMm1lYkZSR2E5T0FLV0lFbEpuSFhERUdLTWRSUHZQUEJwaXRxdGloWDdpSXZqUEk0NXN2SEI3RTJMbzRSTVAyaEpVMG1qbEVHNWZFOXpobFZPeTh2TVNKc1N5Z3FJT25GLS1KWHpua3JoSUZGb3FjRExNajVIbw?oc=5",
+   "source": "citybiz",
+   "date": "2026-10-22",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "2967164f1c50",
    "title": "Inspired Capital closes $450m fourth fund; Monomoy hits hard cap on debut family fund",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkJxbWs5ZlBhbVVjeVdPd3NuMDBna3JFTmN2dTNHNFp6QnZqcXEyMTlldk0tNzltc2ZCb1dLcUZzU3hIckx1WGlCYWlkM01LMlRJUUw5WmsyejhpaF9GRURYQUNwRlc2MG1SdnRiUVlya2t1QnAyaTlKVXJVTGdNWUl3aUgyeThyZzY3X2JJM0dzalJsdUJMdk1XRXEyZjlRZkJjbEJJYVNldk0?oc=5",
@@ -1762,6 +1775,33 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "804d75a8bbea",
+   "title": "A key Micron competitor might open a chipmaking factory in nearby Upstate NY town",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlF4VTZuU3J4OFlwTkF6M3BVVVE4RnpXbFdHSWgxYlYtcVp4eGZtZ0N0WG1xUTF3end0bUI3NzRPelo2S04weXBUTUpFOXA5RG02TXVyQmpEQVozN1FCSkwxNXQ3VmJodGt2LXgtYm1wVGJHUXlFY09kT0Y0WVNGMGFZWmd0X2IxZFpHWDZPWEI1d1R2QV95MDJzTFhRY2RhblJFMVZId3BWZmZWbGY2N0k0bDZQZ2lXajdMQ2FpSm9SWVpY?oc=5",
+   "source": "Syracuse.com",
+   "date": "2026-10-20",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-01"
+  },
+  {
+   "id": "7d4fec740521",
+   "title": "Creating Jobs in Luzerne County: Governor Shapiro Secures $63.2 Million Investment from SendCutSend to Open its First Manufacturing Facility in Pennsylvania, Creating 309 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTHg3QlZfbEkzMFl2X25KTy00WFZMWmlHUkxjaDhJNFJPTlRRRnhtNEprUXBaRGtOcVpDc1d1REVhU3B5OC1qa3dqMEZmazZMdHQ2eHBTazNlMDA4RmRrWWpaX3JLSUNWczFZc2Q2R1FPTVdEeFR5azRZUldGbFNfY1c3T05ZejRMR080TTh5NkhDWEk3Wk5XOTBtNkRQb1dadlAxV1FQeTcydm51S1JfS01QdmZGYzl2UVU0eUVqZ29IbTNlOGtVYk1LbEhWRXpDNWNrYVhpSUVtZTVnX3c3Sk1SRHZtT1FETUxTLWdEeGxNM1Z1ZVdoeGlLZG5qazBmS1VCM3RRRlNkTXBnVkZfbg?oc=5",
+   "source": "EIN News",
+   "date": "2026-10-20",
+   "tags": [
+    "plant announcement",
+    "plant opening"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-01"
   },
   {
    "id": "73d53fff7ee5",
