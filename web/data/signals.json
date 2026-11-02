@@ -1,6 +1,97 @@
 {
- "generated": "2026-11-01T17:20:47+00:00",
+ "generated": "2026-11-02T20:57:52+00:00",
  "items": [
+  {
+   "id": "bd0dc3500521",
+   "title": "Edwards Completes $319M New York Semiconductor Pump Plant",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2VTRURiYTZaOWxKdGFBTnp3M0VDeVh3LVlxUnlsd1dMcWxNUV9BNERxekd3QzJHbm9QS0l2MlBBVWxCTkNGYzhhMW1RNm9VdUtCMzR3RHE4b3NyNnhVRzFoZ2ozY3BrR1M4eGtPWjFtTjljMlNrRzZsZnVmeEhMaG1VRFI2YmF2d1R1Q2p3NE5CVnFLYi1qTXRnV251TnJKWnVKNF95amw2VGdpcmMydg?oc=5",
+   "source": "Environmental Leader",
+   "date": "2026-11-02",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "0ef0283cc2f8",
+   "title": "Edwards Vacuum Completes $319M Semiconductor Manufacturing Facility in New York",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWVwZnJ4c0pLZVBnd1NOQ3BOSTBoYURYZ3ZFaEtPWW92MW9Ob1R6aE9Gc0dDTnBYdUh5dGt3VXVSdmVwRFV3eVdCQVAtRUpjVHlPNnpVMS1adDZIZ1pzWWdaM19lUEw0ZWpob1dKYl9RN1cxMVlsNXNHQXRpVDZTSHZTMnFEOXdzVzhnd2F0UTVTa0k1UkxpTndSZ1dwY2k3WWZqUlFSalVmVWJETmltRWJISUh3UTdYMnc?oc=5",
+   "source": "Construction Owners",
+   "date": "2026-11-02",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "35cea6a2888d",
+   "title": "Terrestrial Bio opens its new Boston HQ and manufacturing facility",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFhkc2dNQ1B1dXVWeDJjNXRGcVpSWDJ1cUY5dTU1YTBEZnkySlZFam8wc2l5VUlJYVJ0cjdNWi1hWWxJLUtFTUVaWTNsaDVCY0c2Z2ZsYmJCeHR5VFBCQS1nYk1aTG9XUElXU2xRTThXcGpBNzEzV3RFR2xwQjMxbXJ6cWxqajVf?oc=5",
+   "source": "The Business Journals",
+   "date": "2026-11-02",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "b56fd25e6ae6",
+   "title": "Edwards Vacuum Opens $319M New York Factory to Produce Semiconductor Pumps",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFFpa1JUMXJhdTRXSl9hTWM4Z0JlMnV1TU9zM2pzTUlCb2MybzI5VEI0Y21xZkxqQ3V5XzJIekhGVVdESDdSd09aX3R5UkhKZXFwOFhCUEloNnNXUHQ3b3Ayak82enRvTzVqbU5VYTlzSHh0c3BydS1zWTRwbGJXSldESXdhN2FoUDNCUGlqcXFDM2w3RG1iVktpVXNJVkxGaUVmZmlfTTh5M1lCMUV5bg?oc=5",
+   "source": "Construction Review",
+   "date": "2026-11-02",
+   "tags": [
+    "plant announcement",
+    "plant opening"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "20ed8e57b360",
+   "title": "Hexagon Completes $1.45 Billion Acquisition Of Waygate Technologies From Baker Hughes",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlJacjhsODFIY1dTUXJ1UmZ1YUtlRnFEMDlMcjlRYkRZXzJfQzFIVHNXTXRoa2NjS0R5MC03VnJYNUVobk9obG1kdFRqS3lUNjhQWDhXNVpYd25PT3lzVEdSWDZJUXd3emMtUnZzQ2lyakZGNWQ4Qm1EQ2FwN25DTG5Yb3RBeUFkRTFoRVExX01hY1Y3dm9QQVV2cmIwVkZRNXhwbWVqdw?oc=5",
+   "source": "Pulse 2.0",
+   "date": "2026-11-02",
+   "tags": [
+    "plant announcement",
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "f730ee58a9dd",
+   "title": "Omron Healthcare begins production at first India plant",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTQyelJrMmxlamJJMDRZc1BCbjJpWnFzV2Yya3lkanI5aW1qblFPSmZTME56cEtycUtmdWZpQkRlTHZVOGZxQ29GZTFKUzBqRGdKSkRhWTNIWEM1UWUyU2xXNEpaV2h0aWdXZk9tWk1aVTlEdWNQQkltQk9IRjl3QkZEUXJPdnFBZVlLMDQ4NWVhaXJWaVdERlp4RmllVnJET1lv?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-02",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "3f3a00999e5a",
+   "title": "Clearlake’s José E. Feliciano on AI disruption: ‘Everything’s being lumped into the same bucket’",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPR3dlaVdCajNyWHlPRVY4cVEzdkxiZ2ttTDhGTjV4dHdyblRCY1lseV9hbWxqVUN4d1otZVE0Z1VkakRtd3JUSG9rVkxfNHVBRkRsUGMxQ0pVbFVlUVJDdkZVZXo4S0lFbWZ3VnRmUDZ3WFJCcVdHRnNSUUM5eElRdG1wYlpjMzZuZmRkUjQtcmtiWFJwUTJVTEdvbXZXanRyNF9obnZBTHRHQkxOek1rbFF4ckRFZDY1OERQeDdkOWZTNVBuN1hYd2hIZnBVWEFJWXpHMDJ2OC11bjcyZVlaaWtmUXRaMFVHWXNWSXI4YW8xdHZxSHJuczZHbEpKVzl3Xzh4eHBR?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-01",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-02"
+  },
   {
    "id": "9d98541d2ce9",
    "title": "Edwards Vacuum Celebrates Grand Opening of New Semiconductor Pump Manufacturing Facility in Basom",
@@ -226,6 +317,17 @@
    "first_seen": "2026-10-31"
   },
   {
+   "id": "de9ffa671824",
+   "title": "Partnership Ensures Affordable Energy, Powers AI Future at Portsmouth Site",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcENwNmMwZGFZeHp1aVFURlJkampiMlNicnAwMUh6M1BwakZhanQtaldaQ0haM3lSQVhWUXZEWDZoXy0yVDhPSDgtWXJtdlJBdWFkb2RDcHhocU4tZW1UTlFWRFRJZ045YkxsS3BfbncydEhIZzNUSEZpTkxKVTYtVDk1WGdUcDltVUpXdklWNFpXLWFZX3VGdEV6SnUwS3ota3ZSd2RDQnI?oc=5",
+   "source": "Department of Energy (.gov)",
+   "date": "2026-10-29",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-02"
+  },
+  {
    "id": "eb6cea83310b",
    "title": "Fairfield loses 61 jobs, and Sherrill's New Jersey business exodus continues. -",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGs4UUpQRWRJQlFObm9ITjJjalo2RXFBdl9DWUdGbVh4Wkx0amgxeEVENHhHcklhcFJtYXp3X2FFR3oxQXZtSnlheGxjSkp2N0tVQjBtcm5OQ2FqczlFNVhtcGNVSDBMMlJfMmhRemFiaTh3NU1PbXFGSV8wN2VPZUl2WjN0TEhrUXF0YWlSak5oM0lZcXM2Y2lCc3NBUWFPR0ptV1UwTEg3QQ?oc=5",
@@ -379,6 +481,17 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "6f2cd5e1fcf3",
+   "title": "Top stocks to watch today: Jio Platforms, RIL, HUL, Adani Enterprises shares in focus on Wed, 28 Oct | Full list",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcUItaDJhSmo4UTRvVGt0b2ZDM2RwckhHUXNxZi1HeHRHV3h2eEd5ZlVGbHBOX0wtT0s1SVUyOWRwSkpyMTRUTkVBT1U5eTJUei1XU0ZmT1JRRUdBY1NUVkw0N0Y2RElpTXJGcjJEVWpUQ3BjVE9GN1hOYkhuSHpuUDgzZDg5QmhJZExmY0hWaUs3Mk1UVHlaM2dIMTdiNG9KWW5wSEkyR2ZEX3JXbEJKZDUxcmN5MkNHOTc4QkpVLWotMFpVQnZSVl94MDFaazdwRWNDclIwcEtuSE9RUm5HNlIxVXo2N0kzdlRQeTdzalpFWWhneTFEWmdhM0VJbmJ4SlpzR1pR0gGLAkFVX3lxTE03Wkl5RHBCYThYMUZTYWljYnJ3TkZTTktvZnJoaEV4UjlEQlJVSER6OGZKdHhJaW1CZGdnd0lUb1JJWHVfNEJ3eENzQ2g3YllMbmVsWUtNZ3JXQXlDZ01TM1VfMWtFQ3h2RmJldy1XYzN3MEEwZ204MTZXemx0YmFJNzNhUEVPUC1GSlBBTjBiZDJBYktjWFAzbmhtakZoTjZBR0VjVThrc2tMUl9DRnBHaGM0dGNrUnB6c1NfRW95ekhpLUp0bXAwRzZ0NE1LRjRORTQ4YkdaLTh3QWc1NFNSdjFRWXk4VDlLZXhTc3Iwa2lvSVJvU2NOeXRyeUNzd1dZSVRGLWdpaVhWUQ?oc=5",
+   "source": "Livemint",
+   "date": "2026-10-28",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "86a97fd18112",
@@ -800,6 +913,28 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "4f468ef163e5",
+   "title": "Where AI earns its place in the supply chain",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbjNkWWUtTEpZenpKMGE2Tld5NVduQkFxNzI1OEFLU3BoWUtCbUZiaFkxNjZVNTZBZ2tJSWVVVG5hcGJCQ002ZFhGMkpVRzA2aFV1ZmR5VDFaNDNqNmswaXNNaUdsWUc3Vzhhb1puTkhmUXp1NzdCSWJldnUtNGFENTJtMU9Za1A5TWFGd0FRNV85bmJ2U2dYaTBVN2dFSkFCSk5ZZ3JEQjFzS3dDRU9MMmF3eFZBYXM?oc=5",
+   "source": "Manufacturing Today India",
+   "date": "2026-10-24",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "0738d6688354",
+   "title": "Yash Highvoltage® Reports Strong Financial Performance for H1 FY27",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWI0d1VRemtzd2pBbDR5VFFTX1dzMUR3dS1Qb1NfbFVIM0VESGdScnhhUWdTVmpZMFViT3JEV2xHZTNDNFF4bEpCUm5GQThKZ2Z1RGtPM0pRZ3VWX2pnQ1NfNVRBeEpLQ0FlMG53ckZOd3FDX012OGdXcHpFcDZmVU1GZFp4amhsRlRhQWg2U0NmM1VJbkZGNlJZQ2VOZw?oc=5",
+   "source": "India Education Diary",
+   "date": "2026-10-24",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "a3ee23d3014d",
@@ -1881,6 +2016,19 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "4ff47e25a832",
+   "title": "Shamrock AI Raises $5M Seed Funding Led by Endiya Partners",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXdmeFFQWTJxd1p1Qld6NHY5NHlRQ2ZVUTI2REtQUmwxQXpDYzhnVjEwLUplZGsxUUNFbENwdlR3clVfaV8waUI5d0dvNGRlRTN0UGE2TGVSQU4wdjVsN0hrSGtocjdEcFZPSk53MDNhRFd4WlQ4ZllCMFFtOXZXV2NPWHduZEUta0p4YzhEd25zTld5MVRocW80aV9kMzM0REM5VWFSSWNnd2s2YUhGYWdsT3dUaTZW?oc=5",
+   "source": "KARV Tech Insider",
+   "date": "2026-10-19",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "ae45e94d239c",
