@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T20:57:52+00:00",
- "calls": 2037,
+ "generated": "2026-11-03T18:39:21+00:00",
+ "calls": 2085,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 21,
+   "jobs": 22,
    "note": ""
   },
   {
@@ -48,7 +48,7 @@
    "name": "Xometry",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 11,
+   "jobs": 7,
    "note": ""
   },
   {
@@ -125,28 +125,28 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4825,
-   "note": "1,479 of 6,416 boards checked today, 1279 with matching jobs, 0 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=3."
+   "jobs": 4768,
+   "note": "1,498 of 6,416 boards checked today, 1262 with matching jobs, 1 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=3."
   },
   {
    "name": "HN Who’s Hiring",
    "kind": "aggregator",
    "status": "ok",
-   "jobs": 1,
+   "jobs": 2,
    "note": ""
   },
   {
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 31,
+   "jobs": 30,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 13,
+   "jobs": 14,
    "note": ""
   },
   {
@@ -160,14 +160,14 @@
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 10,
+   "jobs": 18,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 4,
+   "jobs": 5,
    "note": ""
   }
  ]

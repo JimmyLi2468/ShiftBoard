@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-02T20:57:52+00:00",
+ "generated": "2026-11-03T18:39:21+00:00",
  "items": [
+  {
+   "id": "b5c3c5b9fdb2",
+   "title": "Factory job growth hits 5-year peak as US manufacturing keeps growing in October",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZndIVklIZlpGOVdvV0wyMFpqaUJrWUN2V01QMHloTjROeHE0eldoU1ZWMjVZNW5kTndNUnpZR1dnR2RmeGxGRDFEYVZ4M25qaVJxdEdSNC1VQjlTRHJJbXIzS3lfYkw4enczb3VXTlM2RkpZZzBpeWFOeHdER2dnNmR2TW1NN3BqU3pIVUFhd29ZbkQ2eFZjeWlFNjRCZFY0OGZRQUNLNVJKeUFyVXdCMVFHRHpmdDg0NWpLOEdR?oc=5",
+   "source": "Baltimore Sun",
+   "date": "2026-11-03",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "51f0022b943b",
+   "title": "Worker, 25, electrocuted at Connecticut manufacturing plant, police say",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmU0S3Y0Wmc5RnM1cWNnbFQ0cFk4RnBIQ3VrdFV2djI0SnozZFpMRDB3VmVLb192dWx4eGxtWmtUTHBLUjJiNTJ1MDBfZDdMeFAyQ2pyLTFpTEI5YU9rRU5WR09CajJOeUs2YWQtZDA4UkoyY2pYWGQyRE9QZ0FPU1RVR3hFWjlsbWV4b25lYy1TQQ?oc=5",
+   "source": "New Haven Register",
+   "date": "2026-11-03",
+   "tags": [],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-03"
+  },
   {
    "id": "bd0dc3500521",
    "title": "Edwards Completes $319M New York Semiconductor Pump Plant",
@@ -191,6 +213,32 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "a587428cd958",
+   "title": "Governor Shapiro Secures Historic $1.2 Billion Investment from Chobani to Establish its First Dairy Operation in Pennsylvania and Create 900 Jobs, the Largest Single Investment in Agriculture in Commonwealth History",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPVVd0S3NMQVMyeUF5bjM3R2M2UG5iRkplZTJsRDlKd1RENHJYc281RVdpd2RjTTZBUHRNc1FJOE5tR0p1QTVBQnNvNDlqSkxQOHNZTHVNRndibC02Q0hqVnRYNG1IcjJYN0wxa2szU1ZvQlNVc2V2M1htem9wam5RQjg0MkFHaFlXdjNrMUplSkl5TllQX2FRZ09XV1ZkX3BiaTN2cUZtc1BZcXZKMFBUOGlORHNFWEExSHk0Ykl1RFVveXF0Mkc0MkQzY0JMZmF2Z0NHMno1MUREUUk1YjdVdTh1ekw2ellhM1lDZlBjaHVTaUx5QkdkTTlzQ21uUXNQcDNKYVktVTlOLW9zZngtZkRXc1hRS213MzVyODZTaERjNWNKOGx3RzNoOXhzVm8tS2pTbndyTDZZZ1BUalNzTWFpa3l1ekladlJuSw?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-30",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-03"
+  },
+  {
+   "id": "dee3c9eb18a7",
+   "title": "U. S. Steel Breaks Ground on $1.9 Billion Arkansas Direct Reduced Iron Production Plant",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbG1PYy0tQUd1R3h0LXNSNG1pZ05XTVlKeE9RUlhwQTMzNWRFODVybTF6Q0NtR3pjQVJvY05acnhMMWZBTm1nQUFPX25Ic2FrbDRzZkliM2lkTlJ1Z3ZvSldKZ0lpblZFUjNzYjdKY1Y4SEV2alZac2xOUmowWmtBenRQYVlKYnpRVjNMSnJHX0JfWlY1RUcyZW1IbFFSQnpuOTlWWGxZODBQSjJRSDNaVGJDeUtTTmxkcFZvZnVOV0dKbmxkaTRqamRMQlZDS3k1Umg0MmtOZUpCa1lqcjhr?oc=5",
+   "source": "Business Wire",
+   "date": "2026-10-30",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "AR",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "a21be178a701",
@@ -708,6 +756,17 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "8366242863f7",
+   "title": "KKR Carves the Safety Business Out of HOERBIGER",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVko1d2ZqMjdzSlI5UDlwdmdqRF9DcTE4dDNQeFBUU1VDRGtGSEVlRVd5SE5hQ2NqTzkxOEF0Xzc2TTZCbHEyZmdGZ2Rfd2RCbmhwRXpHNFpHVVFZZ2FJdjVSbGRDeVctSFFxUE1oNU9oMlFQN0gxVkI1LUVFYnFDeG8yLUJmUEN6QVlV?oc=5",
+   "source": "Private Equity Professional",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "be28a7a52f61",
@@ -1471,6 +1530,17 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-01"
+  },
+  {
+   "id": "9392e11f4c46",
+   "title": "Tracking CHIPS and Science Act awards",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMk1ETzdLLXp3Z19hM0hvS21talpEUUMzNnNOMHpUczJGUndUSjI4ZXd0X3lRRWlNYnZrQWYyaUJzZFdLVXNkLWpYN1FGdUhQYVl2MUR5MkNpRTlOWkJXeDJDelh1WW9aQmdmdW5LQkdNS205aHZoOUF0MHpXS0pucVAwZWNjWXoydHQ4bWZ3STg5N3k2c0pmRVJtbExnaG8zZ3owTDVlMA?oc=5",
+   "source": "Manufacturing Dive",
+   "date": "2026-10-22",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-03"
   },
   {
    "id": "2967164f1c50",
