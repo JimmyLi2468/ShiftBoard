@@ -1,6 +1,41 @@
 {
- "generated": "2026-11-03T18:39:21+00:00",
+ "generated": "2026-11-04T18:57:02+00:00",
  "items": [
+  {
+   "id": "181333c50294",
+   "title": "U.S. Export Restrictions Delay SK Hynix's $45 Billion New York Investment",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVlpEVnFWV1lhTDR6VzJ6RmtBRUp5cklLMlpDY3h5NXpfZ1FDejRHV0Vlc0xza1VTd0d3c0FsakN6N0c5ZEhpN3g3MGdROXEzamhZSEhKQjZBUEdYTHdTREFib0FfYVFGMFA0V2lPZmpjRFBxX05rYlZRempMVUlLOWlNYjRBXzFoOE1RR2VB?oc=5",
+   "source": "조선일보",
+   "date": "2026-11-04",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "806e928eb702",
+   "title": "Jabil to lay off 94 employees at Maryland drug manufacturing campus",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWY4ZG5iemtuWGtjZXVyeDQ3WUlzM2pDSjM1ZW1LbFZscnpsLVhfbldkYjhDaDVuSDRobk8xYWlfZ1docUJMMUtSNHBsbW5OUTlkM3haOUs5cmNPOWF0cGFQTFY2TE43M3RTZ0xFR3dyUm1BSEFZaHdkcGtyV3NtTVQ2MmVnZk12emlmOFZHamlUZ2tE?oc=5",
+   "source": "The Business Journals",
+   "date": "2026-11-04",
+   "tags": [],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "de64256f6fa5",
+   "title": "Global Private Equity Investment Hits USD 1.5 Trillion as Funds Favour Larger Deals",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1YXFKNlc5UjR5aUZYT2RYT0YxWE5kRmk3TEx0NkdxRlpDd2VrTFlMdFlPVHV2SXdvWmYyUkhZRktUMFJHbmpxQXA2c3kzWllFdTI5MERHcVowbzhsaFpYMHc4ZjlrN2x5ZWZ0S2EtZWk?oc=5",
+   "source": "CEO Magazyn",
+   "date": "2026-11-04",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-04"
+  },
   {
    "id": "b5c3c5b9fdb2",
    "title": "Factory job growth hits 5-year peak as US manufacturing keeps growing in October",
@@ -22,6 +57,32 @@
    "state": "CT",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-03"
+  },
+  {
+   "id": "de2488e24469",
+   "title": "Massachusetts touts $10M in manufacturing grants, new workforce program",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazRTdWdxMEdXclZnZTBhTE1BNzZhZFg2SG5tWjdBcnZoNDNSN2VQeTRVeUFxQjhuVzhTM21kUU1laHhhN0VMSFh4UXdvUDE2ZXpSUklUVjFoR0QxZ1llTUxBbnlOcXNPRU5ialhVaDZVQ05hQVFFbWFzZVdVM1JQa0xVOVowckZUOFhNTnNFaktRR3lFNUZMaFNtNUp0M0FPMXpqWGY2UlM?oc=5",
+   "source": "Manufacturing Dive",
+   "date": "2026-11-03",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "e638223a12b4",
+   "title": "Pell City Schools hosts groundbreaking for CTE Center",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNVdhVHgtd2RiTU92LVpzVnNFMHgtclM0VjlBWmdBTnlFcnl3aFlqdHpDYktxWUdVcTJLaWx0UEwwUTZrcmJ4cmREUzlQbE8yVEJkV1h3cnV6eEpUT1ZjN2FYUlBWWGFiODVXQjR4OTRzZlZvcWRjd1BvTGxhSnVmNGdXaXlTQmNNYmRic3cyYktSd0Y0YllJaFZwZE44STFlN3FNZGlwcUdrZm11TGdKUmJqWGtWWU1MNjJfc3BGak1nNVJENXA1bmlxZ3ZaLWgtWXU1VHB1VHZ4NHZvSVpXX19mQVVEWXVSRWN2Ni1VdG1qRG5leUhlelN1OA?oc=5",
+   "source": "The Anniston Star",
+   "date": "2026-11-03",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "bd0dc3500521",
@@ -102,6 +163,30 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-11-02"
+  },
+  {
+   "id": "4a8beea91f21",
+   "title": "Edwards Vacuum Completes $319M New York Facility",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWVwZnJ4c0pLZVBnd1NOQ3BOSTBoYURYZ3ZFaEtPWW92MW9Ob1R6aE9Gc0dDTnBYdUh5dGt3VXVSdmVwRFV3eVdCQVAtRUpjVHlPNnpVMS1adDZIZ1pzWWdaM19lUEw0ZWpob1dKYl9RN1cxMVlsNXNHQXRpVDZTSHZTMnFEOXdzVzhnd2F0UTVTa0k1UkxpTndSZ1dwY2k3WWZqUlFSalVmVWJETmltRWJISUh3UTdYMnc?oc=5",
+   "source": "Construction Owners",
+   "date": "2026-11-02",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "bbe7b4651517",
+   "title": "Layoff Tracker: Vistagen cuts workforce for second time in 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+   "source": "BioSpace",
+   "date": "2026-11-02",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "3f3a00999e5a",
@@ -1314,6 +1399,19 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "17ef6d0a1b2d",
+   "title": "Cover Story, Manager Magazin Supplement: Agent-Based AI Is Changing the Economics of SAP Systems",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUxndEtGcHJvNG5nbHRiMG9fTnVMSTRCMmZpTGhiUTZTMHJNcFFtay1oRVJzM3NfZ2VZckxxb2JySzF4cmZZeGhxN1lQeDBXSHFZYVZkRmtkdTR1RVNVSi1zd2FmXzEyN1RuX3JQWXhUbEhPbU9RRzR1WE1pamRFbXZUclVWeDNT?oc=5",
+   "source": "E3-Magazin",
+   "date": "2026-10-23",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "e5b68847f5a5",
