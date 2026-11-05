@@ -1,6 +1,89 @@
 {
- "generated": "2026-11-04T18:57:02+00:00",
+ "generated": "2026-11-05T19:03:18+00:00",
  "items": [
+  {
+   "id": "2861342a2aea",
+   "title": "SK Hynix losing out on US plant has major implications, Wedbush says",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbExkSVUtdlV4bVFBUEdkUU5RRHhZcDVoT0pGX0R5cDFoZGhPY0tMVVl1dE05Z2MzZUVEa1l4bU5kZkpXTDR2TVhpcHVzSEhMcHBuZmFvMGdrWU51LTdoY3MyNm1mWXVDakd0TnFDT3lmZVZGNHlUSzNrcldZNTRyY0FidTRZcEZXLTFSa1hWWHR1anpoOXA0UFlhLUNzc0FZVU5UdTkyNzRpeVlTRXVZVVBLSWtXcm51TlduY0xsbUlaRTlxczdUMDRB?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-05",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "371d9f9808ff",
+   "title": "ARCO Breaks Ground on 355K-SF Advanced Manufacturing Facility in Maryland",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmprd2RpMmxEXzFVeGs4VjdZaWctb2RZajlHYldqYUwzaTN1SGtIUUxCam1oYTJlek1aXzJDWF8tbUxlcm5tZDRjUmNkTGIzejBYRnlYSk1CMkZlbjNzTllXRnI5TTE1WHVxVlFtdzlTdTR5dTE2S3ZGd01ZZ0NRVzNpaG1LZzdJTS1VNUYtdzk5Ym8xVE5EMU9QQkRGeUxQelhDR2hWdmJDNG9JREE?oc=5",
+   "source": "Connect CRE",
+   "date": "2026-11-05",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "6fe7da4b0735",
+   "title": "Trump promised more manufacturing, but NJ firms say they're in limbo",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZW1Udk85dDlIcG5adFVwTExlVkdxbDBHZXNmaVB0WXFjZEhpaGxpaVZrMF9vQVlERUUyc2FEazBXTmNMdGJfRWQ5Sm5IMUg3bWFnZUhyV0ZpNVdpS3JZeHozVWJxOWpCY2wwYm83NlhvRXlrZUQ5bGhuUXJQWElBRTVzMVFubEZQVGZxYlJxb2FsZjZjbVlfbzVlcVNkcjBaNXUwV3IzYTlHTmpvVmk4a3NUamxzV0FxM3BJYjBoVkVCd1k?oc=5",
+   "source": "Bergen Record",
+   "date": "2026-11-05",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "dbc656ab1c05",
+   "title": "York County nonprofit celebrates groundbreaking for facility to help care for homeless",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNelpTTEo0dzBrcWxNQ21CRnZ3elVWNDRCWHF5bDhuRjMxVDNENkJPMWJLaGpmdS13cjZFcTRjazA2amlPT1E2Q0RoaEJzU282Q1l2SVFZek9XV3RWRnJJelFVRnBCQkgtNFNOU1VOX0dXaEEtUTNZVXFXZklQXzhMQjByOXIyNE02dHh6RDYydndpZ1AzSVBkdlZ1SjFHWExFUjRvbVFTNFg2NEVyZDFhcUlCMXQwWVVGclJaRlNIdm93QzBiTUE5SER4R1ZhODlaSjczSFh0M1pPY081VlF3Tm5pZ2VDSUFidXZfcWdyWG1lbk05UkpvaEwwSi00QVFLb3pBN2pwQ085Wmt1bnpRVlM3eFBNQlhVNjVZUWxFaV93cVVDY0E?oc=5",
+   "source": "WHP Harrisburg",
+   "date": "2026-11-05",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "005c5c49cce5",
+   "title": "PE Weekly: M&A Roundup Oct. 30-Nov. 5",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DamswZWFGc0tvUjNHWjJNUTd1U3J0d01mNFdiblZUeHpLLXljZ2w5dUo3REpqU2NORl9Zd2ZKZFJoNk9aSFBvWE9QTVk3ZTF3UWJEOHhPTmhGOXdGZXlac1pwSlYtWG1SQ1UtRFAzSkcwdk9xMG04?oc=5",
+   "source": "ACG Insights",
+   "date": "2026-11-05",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "702b14ca4c91",
+   "title": "Latham Promotes 70 Associates to Counsel",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uMkpGOGZmSURwTVZZYWk0MW9ZekJMZ3RMOW1mSXBmWGhjMExuQUNNNV9XN2J5dGI5RGJ1XzFKOUF4dWE0Q3RDNEs4LXI2UWtkN2l3eFd0bnVaYTFnX2FRR1BKeXpSbURIZUd2dkFTQ05mRS1PQ29R?oc=5",
+   "source": "ABF Journal",
+   "date": "2026-11-05",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "31993f6756ee",
+   "title": "Kuwait’s first ammunition factory begins production of small-arms rounds",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbXhJa0dHOFItTmhXQk96VjBtVVpEellyU1ZnNlNqdUl0cDlPM2ZJLXJXcm1QR3FpdHBRMV9DdjU2amEyQlVEM1ZzVFdNbS15UnVSUV92NXVqYmhmSDJNN3hTOGJMRTc1RmdnbHNLOHRMQTlzZm5ENnVkVW1OcU1lemtfY3Y5cmkySFB2S0xLSzNya2pWTUtuRFdKaWQ4QlJmMGpsODByMXQzMGw0VFAzWW9NcGlTSmpV0gG8AUFVX3lxTE1yTi1uSVZDNk5Way02N001ZkE3SUkzakhkVHg0V2ItRTJWemU5U0lsOFVMNnNtN0VySU5weFg3Y0E4eXh4M0NJQTJfMW5CWHhjellfRXY0NV9DWnd3WWFaRlRWVjlsQ0VPcDFWaGhiNHJma29rODdRenZhZVdrQXN2R2NTSndIb0tMeFFIMVREZVA5YW1sem1XblNDcXpQZzRSeklUSWJRWHRJcGp2bHgyRktMSFUyQS10N2Rf?oc=5",
+   "source": "Kuwait Times",
+   "date": "2026-11-05",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-05"
+  },
   {
    "id": "181333c50294",
    "title": "U.S. Export Restrictions Delay SK Hynix's $45 Billion New York Investment",
@@ -35,6 +118,32 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-04"
+  },
+  {
+   "id": "817403cdc03c",
+   "title": "Allied Gold Reports Q3 2026 Results, Begins Production at",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdkx5Rmo2Mml4LUZycC1iSW9KQlhtV2RuaGtTY1hHZF9rQ2FDdXhlbzRUSDkzRUpvcUVJek95cldHSW82aHo2b1d1VDdraWZURkRZczdBNXJVU3hrMlBWQW1MLWIwZHNmVUJwZkhIWGVLTkJjd1BoSVB4UzBndEU4Y3IyRlk2VjNMSzVXTjlKdjdWbXNGOG5oN0dOTTM1Rk1EVmM0NlZMWW5wSHB1Q3NoUnlFeVhpcnNSTjVHQUdIczN1Sm50MWRBbnBrWlBRSkpUUzRLOTBuYk5GZnNCZ1owQzR2cVZzRlQ1RWE0ZmlmM2FuMk1Bb0xtSF9La1l3UHJEMHpJRkdWWXR0cENUMDAyRk50S0VZSFJFQUFxbFJjMzVicDYwSVdnNi0xSW9UbUxxMVJmWQ?oc=5",
+   "source": "GlobeNewswire",
+   "date": "2026-11-04",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "095182e7504c",
+   "title": "Allied Gold Reports Q3 2026 Results, Begins Production at the Kurmuk Mine and Delivers Strong Performance at the Côte D’Ivoire Complex",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYnBVWlVnaDdYamFSbnBWSGdOSWc1eW1VT1JPZjNtU3hvaUswVXRzVXVpMUE1N0hqblpnVTJwdVJLZHZqdFBzekJfNW1hUzhKSWdLQWNsZTctTHNhc3J0SzlzeC1YUTJqNFJLUUswZEtBakRaSDZJQmdfTjc3eHRVTmNzWVl2Y21Fa2FyeVVRWWlJaUFpV2JicV9ZQ3JET0NpVHF3S05iaXcyVUlySGZIS2NqZVk5aUdCYm9UNkNObUd5QXhFb2R5NHBteGJPWHlzTHRTSEVibzBtb19Cbk5MdnlqeldCNjgtYWk5MXRPY1hmRE9Cc3k1dHJyVGpBMU4zcE9YMkF3NkZTR3VlSkMyWFE1ZC1VQWxMb3ZxS3VyNGFrbDZ2clpsQkNlekV0V1lzMW9nbNIBtAJBVV95cUxNYnBVWlVnaDdYamFSbnBWSGdOSWc1eW1VT1JPZjNtU3hvaUswVXRzVXVpMUE1N0hqblpnVTJwdVJLZHZqdFBzekJfNW1hUzhKSWdLQWNsZTctTHNhc3J0SzlzeC1YUTJqNFJLUUswZEtBakRaSDZJQmdfTjc3eHRVTmNzWVl2Y21Fa2FyeVVRWWlJaUFpV2JicV9ZQ3JET0NpVHF3S05iaXcyVUlySGZIS2NqZVk5aUdCYm9UNkNObUd5QXhFb2R5NHBteGJPWHlzTHRTSEVibzBtb19Cbk5MdnlqeldCNjgtYWk5MXRPY1hmRE9Cc3k1dHJyVGpBMU4zcE9YMkF3NkZTR3VlSkMyWFE1ZC1VQWxMb3ZxS3VyNGFrbDZ2clpsQkNlekV0V1lzMW9nbA?oc=5",
+   "source": "The Manila Times",
+   "date": "2026-11-04",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "b5c3c5b9fdb2",
@@ -324,6 +433,32 @@
    "state": "AR",
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-03"
+  },
+  {
+   "id": "8c9665d6691d",
+   "title": "Shapiro Administration Invests More Than $3.1 Million to Help Boost Manufacturing Innovation Partnerships Across Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUXJYdTh2TlI0clpnaEVmaUgyRXdCdXVuTFpwYTAycDhab1hHRkNZSVZSMjY3ZUhUZDV3eEFqeUlaOEM0SXFqOV9HWWotdUtzRzVrMDJ6ZlhpeG54VWItcy02VjMySWF1SFgxUFZyUWtsLW9RV1pmX0NTbi1VOURIdlAwY3lBNjRpYXA2bm5uMEpmU3R2QmdmSl9fM1ZBUmRRbnp2Qmo5WERyWmNqOFNkMUNzdEZJY0xNeTJkYTJWMlJ4eXZKRzQ5dEJ2cHVYYmo1RnBGbmlxeWZFcUJNV2swS3BsV0lzTUtFLXc?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-30",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "a0aa1927a598",
+   "title": "In Northumberland County, Governor Shapiro Announces $5.7 Million Investment to Build New Pad-Ready Site, Boost Pennsylvania’s Economic Competitiveness",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQ1dzaVlwclRSTzA0TFJ3MUphMmJUcXMxYndlZXFYS0FNOUFscUJsclpmVlQ0b0NtcXpVOGVLbHlWMG9nUkloNG9udWZMLVhPS2FVUU1WdjlHLXJoRDlHLUZsUWVhdWlDa0M5cFA4djNLSWdkb1QzcjhnS3B6UVJESTlmclFnek9kUnJVbzFXZVdwaTBhYVExTWR4bGM1N0RYcGdJLUxxb2NXcU9raHdhaUpZLW05TVBwSF9JdlhjaUhCMUpvV1VDajdIREJjcWlkTjlrdldXdUwxRWdhOHZQcW1TaGVFZmpWeHZUUFhDS05TTkJWdllrdTYzd092dk1jM1hXNEJhdS0?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-10-30",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "a21be178a701",
@@ -2105,6 +2240,19 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-01"
+  },
+  {
+   "id": "e46b28d45493",
+   "title": "Stellantis begins production of Leapmotor B10 electric crossover in Spain — InsideEVs",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUpXR0pVSE11ckpYdXVhZnpfajZfQXE3RFRzeTk2a3Q1TVRjU3RhVDdZN1FRdzN5VWl2SE13RGhpMzB1WGF2RlpQOWNWM24wYnpjODM5TXpnc3l2aUFRbVNfd1JGMGhobW5tSzUxRDRTVGdaaE1BelFjNWd6ZmZsaWdRSlVaNVlaOS11Y3p0cERfRUstQXRPUDBRV0hVNVVVbVg3YWIzaw?oc=5",
+   "source": "UA.NEWS",
+   "date": "2026-10-20",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "73d53fff7ee5",

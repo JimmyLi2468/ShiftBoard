@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-04T18:57:02+00:00",
- "calls": 4299,
+ "generated": "2026-11-05T19:03:18+00:00",
+ "calls": 4066,
  "sources": [
   {
    "name": "Augury",
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4904,
-   "note": "3,367 of 6,416 boards checked today, 1302 with matching jobs, 215 unreachable. harvest paused: 504 Server Error: Gateway Time-out for url: https://index.commoncrawl.org/CC-MAIN-2026-39-index?url=%2A.myworkdayjobs.com%2F&output=json&fl=url&page=3."
+   "jobs": 5005,
+   "note": "3,427 of 6,452 boards checked today, 1319 with matching jobs, 23 unreachable. harvest of CC-MAIN-2026-39 finished: 6,452 boards (+36 today)."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,14 +139,14 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 31,
+   "jobs": 30,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 13,
+   "jobs": 12,
    "note": ""
   },
   {
@@ -167,7 +167,7 @@
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 5,
+   "jobs": 7,
    "note": ""
   }
  ]
