@@ -1,6 +1,45 @@
 {
- "generated": "2026-11-05T19:03:18+00:00",
+ "generated": "2026-11-06T18:11:54+00:00",
  "items": [
+  {
+   "id": "eea577f0b5a1",
+   "title": "Pfizer Building $650M Groton Manufacturing Technology Center",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzlHZWFkUUhMc3lhekZFUVlMc0dUclZfUWRnNGgxVUs3d25XS3dYdm0yMXRIMkE5bTBGSHp1b2lxTlVscXdKY0tvbnVSeWRIcnFSQW10aVhUNmJUR2RoUjRaYUZPTlI2UVJveHpOcllxSE83cjlvREVzSjYtZm55a3VNWVN2YU0?oc=5",
+   "source": "CBIA",
+   "date": "2026-11-06",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "2bc3241504fc",
+   "title": "Pfizer to build $650M manufacturing technology center in Connecticut",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1pKa3NqWG03S0VzanB6eWxHTzBYTURIclNwMlNXSi1IT3dfdVl4aDZaN2tKT0loMXhZeUxMVV8tUlhPNi1JejdETkxJejFOem01ZWZ4aDNPT1BONFdoTWlRY0tmMFFnV01RZTZvbGRMTEVOb0wtanpFeUNzdjNfQWxPTjlqTkVSUEhud2ROS3ZzbXNsVnpwbDMzUnNNT1RRcnhJdw?oc=5",
+   "source": "Manufacturing Dive",
+   "date": "2026-11-06",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "d94730235ac1",
+   "title": "Building HR to Scale With Portcos: Part 2 – The Carve-Out Edition",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU3gzMUwtWDZ3YjNSUUVjcy1RQkxhYkpKR0hLQmxXRHJGQ0VyU3RRMDJiUVdwZkZJS0RCT2hCZHZlcGZ1VmJvZ1VSdVpaQk1DM0pxU1RKNmpzTV9pR1BGQVN1M0dDVElzYTBLRUhLOEdWNHBERjlKb3liNUIzeXFtSjRCMldmTmxVSE1WWWpn?oc=5",
+   "source": "ACG Insights",
+   "date": "2026-11-06",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-06"
+  },
   {
    "id": "2861342a2aea",
    "title": "SK Hynix losing out on US plant has major implications, Wedbush says",
@@ -83,6 +122,43 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-11-05"
+  },
+  {
+   "id": "22bd4b41a9e6",
+   "title": "Pfizer plans $650M manufacturing center at Groton campus to expand clinical research",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2gtQ0otY3FCeVAyMFNURkRuZXQ0X2VOQmU2ZGJhLTh6cGZEeV9hQlo2WGRjbjdHbkdVSzNVNEpmSVNOVFNmRWhEaG9YQnBnY1FWU3ZNdjhwOWhKWmJhUThRd3ZjTmhjUG1BaTBVbTdmRGpNcHRkWWlCdGpaaXhUc2RlZV80Qm1Sb1BJNUY5bzZ2eFNZalRybzdUZ1FtdW9RLW14ZVdwUkhsa0w3M0FRa2w1QkFkcHFvbDlpQ0Jn?oc=5",
+   "source": "Hartford Business Journal",
+   "date": "2026-11-05",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "b50bfbd4ba35",
+   "title": "Goodyear closing chemical plants in Niagara Falls and Houston area",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTEpxX2poTjNRc3NYcW1TeUJBVFB6VGhpYXNVQ2hiR2tyVmdSZDJvQ0lFS1RIelVNbjNtdi0tOTM0S0cxaUNOeTcwaWV1cTdiSWFoWVV5eExCQjZyRWE0Zk5mWE1kcW5JWmxjczM3QmZWWW5qQVB2WHhMNjdVTXRDWXhoQVJUUGF2RjdQeFVrLVM1enNOU3V0dXA4MzZtLURjeS1ISC10QzlScVJxUnF0cFIzSkpMaU1ZRjhnT1BqNEttdno4UlYtcTBKcEJNSTRW?oc=5",
+   "source": "Akron Beacon Journal",
+   "date": "2026-11-05",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "71a7945ac793",
+   "title": "Plattsburgh YMCA to host ceremonial groundbreaking",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONldRRnQxeHo1Q3ZpdEJFN3BJYUJkUlE0bHgwalJQekFqOGxhV2szd215U2lVUnhBUllIWGRuYkRQVW5HVjUzdmU2Qlk4MVpJdG1fazR0QzI4d1BuQXp0Z2IwQnM5djlnQnRIa0ZKY1J4anFPMzNkOUk1NklWNGVuMDVpR01tcEpaVGVVOVF1Q1BQXzl5YXlJ?oc=5",
+   "source": "Sun Community News",
+   "date": "2026-11-05",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-06"
   },
   {
    "id": "181333c50294",
