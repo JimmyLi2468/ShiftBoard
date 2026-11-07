@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T18:11:54+00:00",
+ "generated": "2026-11-07T17:02:13+00:00",
  "items": [
   {
    "id": "eea577f0b5a1",
@@ -39,6 +39,19 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-06"
+  },
+  {
+   "id": "38ef6008f6af",
+   "title": "SAP SE Stock (SAP) Moved Down by 3.49% on Nov 6: Drivers Behind the Movement",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdS1DNzI3NDNJaVk5bVdsNXNoRDRNang1M1BXSGQzR3RzWml0a1VLUHVSSDdFY09IaVBwZV9qblF4ZGlsaWhvOWYzajI0b2UtT25EUHBHb1ZPcEJhXzFUTVd2eGduUHhoai1TdUhIOUYzQW1YR2xKS0E0TTk1WmdJUzVIeWJJMC1zUVE?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-06",
+   "tags": [
+    "s4 migration"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-07"
   },
   {
    "id": "2861342a2aea",
@@ -220,6 +233,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-11-05"
+  },
+  {
+   "id": "3de98f5b9925",
+   "title": "Connecticut Manufacturing Worker Dies After Electrocution",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1JIU1RnNVRxWFJ6aHM2emd1VWllengtRk84c29QTGZicVk2ZW81WXVOV0cxVFJ5ZUctUEtZd0VEN0dfTXNYTW9tRWlndXZfYVpKSnJWeHZ6RDVGajJwa29GT05ra2ozLThwQTh2QWF5TFF0THpIRm03Q2xMTFpfOW9vQXIyMmxQdm9ITXNGaGpobEFhNkxXNnZCS1hMYjRlSWd4QXZ5Yw?oc=5",
+   "source": "Occupational Health & Safety",
+   "date": "2026-11-04",
+   "tags": [],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-07"
   },
   {
    "id": "b5c3c5b9fdb2",
