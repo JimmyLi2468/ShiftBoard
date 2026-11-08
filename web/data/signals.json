@@ -1,6 +1,19 @@
 {
- "generated": "2026-11-07T17:02:13+00:00",
+ "generated": "2026-11-08T17:13:35+00:00",
  "items": [
+  {
+   "id": "6a2785c461ce",
+   "title": "Triton in talks to carve out Bureau Veritas' fuel testing and inspection business for €470m; CVC back in packaging sector with Clevertech move",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdDJjdWxZb2JjMFYwaXBJUzZCTWdidUxJZV9NdUpWWWc0Y2VkZnkxcmtVaFVsLUwteW1rNDlFUlhGak1kN2lhRzI2REh5SVUwZGdCcWtENEJJQm1SbGs0YVdWQk80TjVQcHNRbHlJd0Z6U1hNOFU4SUwtSnhHSnozX3JxOERmejFIY1lvLUtPUWFaU25SRzZudmRYaHZOM0F1RW9QMGNYRVZCbXIxTmJRVUlycFhXSlUxV1lmSTVLd3U3cy1XbXBPcl9ma0FDbFpDaEh2MEFrWkxYeEFWZXJkb1lhQUd0Y1F0VzVpaWJuc3Fxemh6RHJJV21LQkhwOG03Um5QV1lIb0NmUFNRVWx0YWZn?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-07",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-08"
+  },
   {
    "id": "eea577f0b5a1",
    "title": "Pfizer Building $650M Groton Manufacturing Technology Center",
@@ -52,6 +65,43 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-11-07"
+  },
+  {
+   "id": "012911fb35bb",
+   "title": "Pfizer to expand in Connecticut with $650M Manufacturing Technology Center",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSzIyVEJCdjUwRUlpMzg4RTB5blBHRnZIUEN5aFEzR2Z0cU9ZSTVOcU5uRHJkNlRRR28tOS13T2FFd1FxVl95T2RjU3o0YWhWdXZ2UjB6U2dYR29LTk8xZ2VQV2FfSlhLUWJTTjIyeGNlTHV5T19iWENXbEhXZlQzSm9HTENkakJoaFRyUC1RZGNhQk5qYm1aWS1jVWFrYjRidU5KZkdvNzJnYkRLamdjdWdNa3N3YzNQYkhlQXJqOGZoUUUwUm1SOGlvTmdiOUhzU2VIN0JRZTRENVoyR0NVUVBqUV8?oc=5",
+   "source": "fox61.com",
+   "date": "2026-11-06",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-08"
+  },
+  {
+   "id": "557bada95fee",
+   "title": "Pfizer plans $650 million manufacturing center in Groton",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1FV1lRbjZEd0FJSGhseHB0cWEzV0cwUTFSdDdXTDIzaV85clY3WEdCU0xEalVZb1JEMURJa19nRjQ3c24xY1VqQUw3Yno0Wkh5c09OeUExMktTeXBSQlN5WTBvbTNYZFZLNy1TNXpyeEY2R2IxcGk2ZVQxdENpTXJVdU1zb3E5czFzSld2YnRSVTlaS1ZMUmR3aFZQV3ZtLS1fWjRTbmY?oc=5",
+   "source": "CT Insider",
+   "date": "2026-11-06",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-08"
+  },
+  {
+   "id": "e54f9c2b63c4",
+   "title": "AI dominated dealmaking in H1; Wynnchurch exits aerospace components biz PFG to HIG",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcUpLOXd1OVhZR2RLTHA1WTFVaEltWEdHUlBRMFBIYU00RmQ4WXY4cUg0UFBzOUZOTnViNTBuazVSNGZiMjJpYnlnVXpYMl95NnFkLWItUkMyb3hLRFlJandnVll6aFJuRFFRSEJBejFpSVJudkZiM09PSG9sTFJ4UTN4NjZ2bEhtN2taRjNCOFdCbHdHWjY0RlRmbEZleEprZzFOMXlfMVZ1UDY5eFNMeGF4dUdXM25KR250Yzg1OUtGTUEx?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-06",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-08"
   },
   {
    "id": "2861342a2aea",

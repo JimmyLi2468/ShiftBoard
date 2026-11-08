@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-07T17:02:13+00:00",
- "calls": 2583,
+ "generated": "2026-11-08T17:13:35+00:00",
+ "calls": 2180,
  "sources": [
   {
    "name": "Augury",
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4974,
-   "note": "1,979 of 6,452 boards checked today, 1298 with matching jobs, 6 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4874,
+   "note": "1,573 of 6,452 boards checked today, 1279 with matching jobs, 2 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,14 +139,14 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 29,
+   "jobs": 30,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 11,
+   "jobs": 8,
    "note": ""
   },
   {
@@ -167,7 +167,7 @@
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 4,
+   "jobs": 5,
    "note": ""
   }
  ]
