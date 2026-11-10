@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-09T21:43:02+00:00",
- "calls": 4109,
+ "generated": "2026-11-10T18:59:24+00:00",
+ "calls": 4092,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 21,
+   "jobs": 19,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4818,
-   "note": "3,192 of 6,452 boards checked today, 1274 with matching jobs, 8 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4811,
+   "note": "3,454 of 6,452 boards checked today, 1281 with matching jobs, 21 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,28 +139,28 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 29,
+   "jobs": 28,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 9,
+   "jobs": 10,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 9,
+   "jobs": 10,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 11,
+   "jobs": 16,
    "note": ""
   },
   {

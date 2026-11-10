@@ -1,6 +1,93 @@
 {
- "generated": "2026-11-09T21:43:02+00:00",
+ "generated": "2026-11-10T18:59:24+00:00",
  "items": [
+  {
+   "id": "8f417d16c3ac",
+   "title": "Pfizer's latest $650M bet is in Connecticut. Massachusetts officials aren't concerned.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcllqVzRPc21wakhNNzlZWFJEQ3o3bURibDBoTWVrVnRXSWJKVXgwWTFpUmRNSzdULTFtU2p3aDhnejZvMzRKYlZRTFd2bTFIVUQ4Ymo5bm5QREZzZjRoVmZ5ekdGUW8za2Z0Q3pja3FuUkwtazd4S2syNnIzYWdXbjdWR3FvcVRtYVAxTHh6cGFVTzExRENvaVhick45WXJWZ09r?oc=5",
+   "source": "The Business Journals",
+   "date": "2026-11-10",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "73171068542a",
+   "title": "PharmaLogic: Lantheus CDMO Acquisition Expands Radiopharmaceutical Manufacturing Capacity In New Jersey",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS1VZSXhDOFExRUxPdng4NHg0cTN1SmExVmlyNUt1V0trUFNEMHhfWm9jZFFCb1ZTVmEyaVRndTY5QThrc1VKR1JsQ2E2U1Q1YWlpOElfVUlBcjdnaEV5VG0telNnZUk0QVdCUUd5T2NPUVZpel9BNy1DMzB1eTl4TXp3NGNKMmVEZnNJeVVvZWhELUVDRTNYVFF0cVhxOE5YbTJaLThlUDBCV056Y1FmMDZXcUZMNU9RSDVFdml1UQ?oc=5",
+   "source": "Pulse 2.0",
+   "date": "2026-11-10",
+   "tags": [
+    "carve-out"
+   ],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "4cb684d3c44e",
+   "title": "Learning Care Breaks Ground on 11,408-Square-Foot Everbrook Academy in New Jersey",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2NPd1NlS0VFM05yRkl0SWM5QnNMZ1JZTC1KOG9kOWFJU1BBUUdhVmVhVVZpeFpkeVBqcnJiZHdwaHVuUG5sR1RxdnppTGl5bG5qVEZtQUhIeVRpOS1IczBvSVpsaURZUTlNQS1uZC15bUpfem00amVoclVXcHZHdjIzVTdKYi0wTzUxZWFmTDFHSUFnel9lWnlGRGZqeExta2FDc01PenNQX081eWFhWlZ4ZHozUTItOHk4?oc=5",
+   "source": "citybiz",
+   "date": "2026-11-10",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NJ",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "a8135a1ed083",
+   "title": "KSB reports strong order intake in third quarter",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWt6MjJlOF9BQllEbVVTTkFLRUpDR19NN2kwUmdxQmQyN1FzYzM3cFRPN2NocDdSNW8tZDlGYW1GYXIzOFZybGhRM0l5NVR3RlJGb2NCNnF6T010UXdHSjdlbjJBUXRlbzVoMU52U1dsWXVtRzhCeVl3aDFnYzdycEZMWllhNU5pdlVieUVGS3RkSlNsbTNCOHVKaDhzMEhKUzQ3dw?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-10",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "b57ccbfc0d0e",
+   "title": "Why private equity is chasing medtech carve-outs and take-privates",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ25iNll2RXM3bHpLYm1PVGNuZmdESWxLSG5GQUk0UVEzNEZVclo0UmoyWDMxV0xYOTZSamRrWnZvMWxhcnRuYTVDc2ZzdGFJZE9DWkRHY3plUUxxVy1tZFlmbnA5YTFnRlotS3VDaTZ3bUJBT0tyNzA1ZVNKRV9COVVLZmpZdW1oQWNjckVxLUk2WEF0MUNLWVMyRHN3Tmp3ZWo3eHBOQUZhdEM0VXc0?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-10",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "34f4ef4bddaf",
+   "title": "Scale-Driven Deals Reshape Device Manufacturing Outsourcing",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQam5wQUhXamEtUXFoVUVSRm9WcXFGMGMwWVNEdjk3c0J0MVlnOHNuNlljYmhHSEFTSTh6bWhYclRXdGdDcWR3bGxVOVRsSXB6aUtDYVUzTkJCLXptZnFscUtUVTY0eGJPWTk2cUNWVk9mbmNpa25mb0d4V1gwalFEWjQ1SmpraG92MlU1b29oRUhTaWJpOWFPbFFzWUZyelE?oc=5",
+   "source": "PlasticsToday",
+   "date": "2026-11-10",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "ed31c052eb0f",
+   "title": "Astorg’s Olivier Lieven: Mid-cap PE has ‘role to play’ in medtech carve-outs; KPS to buy packaging division from MM Group for €2.4bn",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQTN1WF80YkJMZ0x5WGdRaTNIOW80dnBKemFNLXkxdzMydVpiOGFOTHd4Z2JkeGJKTlF6QUxEU3Z5Y1VGZDAxeXA5dlh2a2RaUTZieUh4cmE4Y05DdzA5eGhuSHJ3ajNrNUFjbnhmWnRKcEN4RS1IeVNHc2VwVnB4aDc5bjl0V2F3NWJBa1BoMl9PM2VfMU53a1hnU05POXJ6em92RGctVWFhRnBWczVKZmwtalpJUllVeGFFdVBKaUZqNTBIcE14UnljbGMySDZkeDlsWmJyMEsta0RqdlpnNUdaRDZwOWdtZkttVG85MG1tc3hxWk1ORlhtUGtPcFNQ?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-10",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-10"
+  },
   {
    "id": "688dfbea1fcb",
    "title": "PharmaLogic to Acquire Lantheus' CDMO Business and Springfield, New Jersey Manufacturing Facility",
@@ -48,6 +135,52 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-09"
+  },
+  {
+   "id": "71b66723d8d1",
+   "title": "Why Global Manufacturing Giants Continue Investing in New Jersey",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00aThXMEh6a0M5QUthbUJuSEs4WmYzV1k1SzhvTFE1QmhSRFB0T2pLanNXQl9HbFlUbHRXOVYyUG9CQTRTcUdwQWk5TFVkOGRHYzhHRzVDQ2xNd3AzVmJ0dHpJRUpDUXVzdEdzTw?oc=5",
+   "source": "Thomasnet",
+   "date": "2026-11-09",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "1a0801ed97d6",
+   "title": "Lantheus to Sell CDMO Business, New Jersey Manufacturing Facility to PharmaLogic",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ05LdHdZeVhZckJrLTlzSU5jMEFnQTVpbFFyNjhxZjRPTXVkeW1OOFNqcFZJRGo0eVBaYnpRbmxrZDBKbTEyYUdqMlQ4d2JseWpzR2RRR0w5TS1oS3NCTi1JU05vdkkxd3dEa1dfMkNHS2xXSUJuTXFGeXRFWEwzazJpY2ppLWI2TE5PVUVsRW8xcTBKMlBobUZGd2Q3OE5QN2p3YkVfUTFQT1lLdXBUclZMamkyZWsxbkEzR2ttLVY5NV9ZUWFQbm1hWF8?oc=5",
+   "source": "www.marketscreener.com",
+   "date": "2026-11-09",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "00a92796c9fe",
+   "title": "KPS buys 70% of MM Packaging in €2.4B carve-out",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0VJOVhWa2NwTWFlWThMVUFkbm5LY3hkU0ZtOE1DX3RsUC1qay1Oc0ZxR293QnI5U0Z6Ql9LcS1TWlpQRGJZTVhpYXJoWTI0ZDEyNy0zWmU5TzZxdUdJaWtrblJ3eWotS2NFaDZpM2dQZDU3SlJtN01Kd3JidFNLVnU5aXc5Zw?oc=5",
+   "source": "Dealroom",
+   "date": "2026-11-09",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "d90ad2de6f93",
+   "title": "Italy’s private equity weekly roundup. News from SAC, Mundys , Save, 2i Aeroporti, Vinci Airports, Corporacion America Airports – Mada International Holding, Adani Airport Holdings, and more",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSmI5TzM0ZmlpMGR1Y3BXbjVMZjNIc2hxWEE1NEpFZ1VDYl9NLTY1Wlp0MjItWEg5NHU1MkZONEhVUFJPa1VGYXlYTjRjZnNzSm42LWN2dl9tTjJKc1dROUxkRGxHNmRhdjd2OHlxMmVEMVFLTld4Zy1rc2R3RGpDejAyc3hlSzYxckpRVGdRWlREYUZTUUJodi1mc2lleWhPcTZJaFFoYW43Y0pKMkpXd0ZyaVhoVHVGRkt4NEl2Y0VPdDV2Yjd4aTAwSS1uY1NabUxDQ0oxcFhQSFB0alc0Yll4eFlNQTJlRzVyNV9IZkYwODBzTXh3aUtLLUdmQ0tUOFUySjZMczNqelQzWmVBb2xFSHg0XzJmcmFtUjdvUFhaTGFyeXA2Q01VaDQ4YmIyREE?oc=5",
+   "source": "BeBeez International",
+   "date": "2026-11-09",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-10"
   },
   {
    "id": "164cd46c50d7",
