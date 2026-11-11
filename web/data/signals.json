@@ -1,6 +1,19 @@
 {
- "generated": "2026-11-10T18:59:24+00:00",
+ "generated": "2026-11-11T18:53:15+00:00",
  "items": [
+  {
+   "id": "aff7f8b57fe7",
+   "title": "Groundbreaking for packaging facility in Orange County",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2JqakFkZGZBQTVmY0p5UTlrQk1ReDdVTnNYZWVkcTlNdjhpeGNxQng2Nkhtc1ZsclZtRGxNbHQ1OUFMYXkzclNUTjl4LWRHdS1xTGtOUUMwclB3MVJnX29qdWo5WUFhTXM0Um9zQ0QzVjA0a2Q1NXJ2cUtwdWM2SHJhOFB5U1ZXc3E5ZjkxNFR0MFVleFpZb1M0Yw?oc=5",
+   "source": "Westfair Communications",
+   "date": "2026-11-11",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-11"
+  },
   {
    "id": "8f417d16c3ac",
    "title": "Pfizer's latest $650M bet is in Connecticut. Massachusetts officials aren't concerned.",
@@ -87,6 +100,17 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-10"
+  },
+  {
+   "id": "e23a973562d1",
+   "title": "Chicago-based Ferrara Candy to close Little Village manufacturing plant in April 2027",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkY2MUJITWJnbkpOX1NuRGVlQUlMNzVXSVVISkZVSzVKZWpiVTR0Zzl6ZmlIVW1nYXRWWTBGVkUtM1ZiN0dzLWI5TEVLcm8yWWpfTmxHcDVWQl9XM1k5bXNqbVpnRkY0ZUJDVllfS0pBX2k5dGdkVlBpZnVpOWp2SjJ4WTdHS1dGczJaajVHWjR5Wnp3X1ZOWk1R?oc=5",
+   "source": "CBS News",
+   "date": "2026-11-10",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "688dfbea1fcb",
@@ -181,6 +205,32 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-10"
+  },
+  {
+   "id": "57623ad87281",
+   "title": "Pfizer to Invest $650M in Connecticut Clinical Research Manufacturing Facility",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaUx6eXZtbkRURF9KOGcwYVVjRnRfcjBKTlF3REg2RUUxV005VkhpLTZ3OE5DNmRRMEY3WEtidUZRdDFUMG5yMkxEdHZxUkhKdEF0QVBYdkxqcWFTYXpiMjZ2SzhfU0wyT29MUXRyc3N2VGxkZ3NCN3BESS1BOXRmTTBtMA?oc=5",
+   "source": "Thomasnet",
+   "date": "2026-11-09",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "a6c614dc4bf0",
+   "title": "PharmaLogic to Acquire Lantheus' CDMO Unit and Springfield Manufacturing Site, Enhancing Radiopharmaceutical Capabilities",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYUM2WXNqbW50QzJrOGVQaVVTenJCenhCd3NLT3k5MkJvVXUtblhqZHJnOE1MX19ZdnJzUUFraG5kOHl2ckhlT1lHU1ZlajNONmw4NF9saW5nUlNFLVBYakgwVk1STFNveUtpaGluYjN1VzE2S2JUWEQ0bHZDMHBnX3dPTHdoQ2hxSjlwM21oWHhWYlJVa0lLSTlDNG53cmNaRVJfWnNXemF1X0phQVR2QVRCclZSdHd2NWJ3MHNHR1BOTVVfRzdublNNdVU3Yllxd1dySm1rMnFOOFF5UkhrUGJDY0lJVUZRcUJQdXZ4blFOVmF0eW8xY0ZB?oc=5",
+   "source": "Kalkine Media",
+   "date": "2026-11-09",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-11"
   },
   {
    "id": "164cd46c50d7",
