@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T18:53:15+00:00",
- "calls": 2205,
+ "generated": "2026-11-12T19:09:45+00:00",
+ "calls": 2635,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 20,
+   "jobs": 23,
    "note": ""
   },
   {
@@ -69,7 +69,7 @@
    "name": "Point72",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 7,
+   "jobs": 8,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4808,
-   "note": "1,607 of 6,452 boards checked today, 1272 with matching jobs, 0 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4839,
+   "note": "2,028 of 6,452 boards checked today, 1279 with matching jobs, 3 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,21 +139,21 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 27,
+   "jobs": 24,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 11,
+   "jobs": 9,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 10,
+   "jobs": 9,
    "note": ""
   },
   {
