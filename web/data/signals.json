@@ -1,6 +1,82 @@
 {
- "generated": "2026-11-12T19:09:45+00:00",
+ "generated": "2026-11-13T18:45:09+00:00",
  "items": [
+  {
+   "id": "bb02cf478169",
+   "title": "Eli Lilly Breaks Ground on $3.5 billion Pennsylvania Manufacturing Site",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNkRvMXpXY0d1UnZ6cTJkSmdOQmgzVjJGV0o4b2lSZ3JHbWFxZFBZYXdVOGZhTmt3czFOeDBfQXJsejctSzJGUVFuNGNac2VKcjNPZHEya2xlTHF2WUJJYzFrZGtFbDRPYk4yVC1VRHFPaHE3V2JUZGgwOVVrVU83SFRyLVBKTlpMT3BzcENjVGdoQlJSZVJDWGJkc24?oc=5",
+   "source": "Pharmaceutical Executive",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "0683f89b8c73",
+   "title": "Eli Lilly Breaks Ground on $3.5B Pennsylvania Drug Manufacturing Facility",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkwxR2l4MEJ0aE44Y0VkdG1ja01pZnpINkg3N2pFNVl4VERtMW1wT05UQkRaTEZpZWVjaDVyenBFczI2WkZ5WEhDUXBxamdzaS10QU1GYjlRNU5aRnJmWnpuZk44SXpIUWVfQW5keXFWN05iYV9fT3JVNkl2cG44Q3RSbDdiSDhoY0J0bFo0SExOQVNkX09CX2FMRVBESVV2SGNEQ0F4cGNzby1tSnJR?oc=5",
+   "source": "Construction Review",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "69273b739c27",
+   "title": "Eli Lilly pledges $1M for healthy living programs at groundbreaking for obesity-drug factory",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSTdxWjZ4cXN5dWlYYkJ3SEJHc3JWYU8wbXF6Z0NkZHUwbmJHWFNURllycVlIa3d6VG1IRFRxYkhIMXQyN0ROMmJPMjFSUXdWbWk0U3FhRjNyUkpmRng3R2hzeDZId29RZHVDN05VQnV2VTBTeF9jUzVnNFJXQlBCd2lSdzUybWJGYlZqZUh6bUkyX2Jwd0FNOERKNFBzbS00X21qM3JocVhMWENOak1yOXgtUkR2Nlk4UzdNREM2X21WRWg3OHFzTlhsWGNXenZFNGQyU0xJNVZocXFaaTBj?oc=5",
+   "source": "Lehigh Valley Public Media",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "e5a5db07f8fb",
+   "title": "150 Years In, Lilly Starts a New Chapter in the Lehigh Valley",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDlaM1Vya1phWS1Gd1pGRkRzQ3gzaWVqOVlmNXNrUmxNSjlfa1hpcGxJVHlRdk5tVkZWak5ZbEtpYmIzOWFDMHRBYlNpWlE4QnJ1ZktlSmVGYUZkWnRDUkpBOXRPdVg4a3VWLUhmMHl2ek9NQzVIQll1T1lZZ01jVDRIVER3emlBN0Q2VHFn?oc=5",
+   "source": "BioBuzz",
+   "date": "2026-11-13",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "246f5232c492",
+   "title": "GlobalFoundries breaks ground on first new semiconductor fab under landmark U.S.-Japan initiative",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1JEbGVKVC1QQ0xQMDlvMmw5ZEF6RE1HSmZ5LXhiWi1XUWhqRG9tQmlEUnB3Zk1VamM0aFVRX2lWdHdueVVndTI2dW1FeTlVa2RSeHhvOUxIaGMzR1R0ZnJYVE5RWnVnSjR4YmpqZC1TSUdNbGcybmxZcm1IajdVY050WVhheGFZY09Icy1adGdRNTFROTB6RVBFN1V2MGRNVzZaaXRpLS1wMy1MTnJwLTAxS2I?oc=5",
+   "source": "Quantisnow",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "da4625189f67",
+   "title": "GlobalFoundries Breaks Ground on First New Malta, New York Semiconductor Fab Under U.S.-Japan Initiative",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkNXazFEaEgtS3piM3RWMWF2a3lPTzV6a0ZTVU11VHpKY2ZyUnV6RUQ0cUFrN2YxQWlYLXo1d1NKMjBSVDBPelJtMHJnSElkb3NLbkN4YVczOTdBNUpLRmVoRE0yME9LazRyZ0x1NUpsQXI2TUtPM0hRN2R1TjZaT2lHQUcxdWhRZWhrRmI3YklNbHNlZHA0Q201aGliSGtXdV9udHFWWTlFTUs2YjdIaUtyN2FEUjNMRjNKazc3dkdBaldPRk4zdU92QUJ4WHg0Q2dkVHNB?oc=5",
+   "source": "Quiver Quantitative",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-13"
+  },
   {
    "id": "d790903f7085",
    "title": "TE Connectivity invests in New York State R&D and manufacturing facility to develop next-generation optical connectivity products",
@@ -81,6 +157,67 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "457d4afbe28b",
+   "title": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRHB5cC0zdV85Yl9vdkpXdTBGekNIM0JfZ09Eb2FabzJLblpJOFlrVzFZWDJzTjZfTE5CQXRHMnRWQmVZR3NiYlJHNWdFSGpVaG1ZaVF3R2Y5b2NqQXZNU0lyQ2U4Y2xFdjJoQ3pGd2x3ckNxeEtaOERkSW5pLXlIdGMyanRsUlQ2UXBaR2ZmMHdPLURVWkxGdERjRmFfWkxvMXBiQ1dTMkRnbVAwdjhhTlZTRUplYWx2WmJzbzFrZ2doWi1FaVY0UEo4MnJfXzVCWkd0bjgyeXExcFJtZTlVUXo1TXdEelIyM3lVV1h4NG9rcXVaZ0lPR2p5VUlVV3ljOEo1MmtpekZiNVluQzlSTjRmVjZDR1liWTZBX0lsZ2xwVWJIeHBoWXN0SmxKQlluSmthYUp2aw?oc=5",
+   "source": "PR Newswire",
+   "date": "2026-11-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "4e95c317825e",
+   "title": "Eli Lilly breaks ground on $3.5B Pennsylvania manufacturing site for obesity meds",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZjNhWnloU3BrYkxkb1N5WjZHUVctNHoxUGJWdmhQWkJNbTBxS0pNUjNBby1OYWg3bGlUMWcxUm93eDQzTkd5b043bzRjQVY0d0JwWnI1dTIyRU9mMU9LRWI3Zlc2MlNXVFRrNGtvQ01EOGxCWUdYWlpkSXRfb2N1Qi0xWFdNSzRTQmxNV2tNcTVqRjNzeDV2XzBJcV96M0dSVHlwWVFlY3V6UVkyY29zaTRuemJDVjFteWhIek80OHVQSEU2Tm1IekNLRHY2MkJtU0pDR3kzdlduZVk?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "d899781d1a19",
+   "title": "Eli Lilly breaks ground on $3.5B Pennsylvania manufacturing site for obesity meds.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHNHMEl0Z2h5dGtobUtLU2RTVEVxVnRrLVZOQjUtcGVaMWJ3ZkwzOTBHbmJQN01CXzJRTVF0U2FGc0VWa05NcDJnV2Q5VGlFWWhMSElUODlkLWdtbEo5T2tBdW5LZU1laTNfNlJDb2gwVW5kcjEzMTRjSHhaVk5uU2JqSEgzZXNzX3pHN1RnS3NkQkVsamNBckViMjRLZHZkSFN4YnVMWTJaMEZrb3U2SGFMLU5UN3V6TU5oWmVjYUViZjJxSEZpSTJn?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "8f48b3910ac9",
+   "title": "TE Connectivity Invests In New York State Research And Development And Manufacturing Facility",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc01yUWN3cVlmclh3ZkdlWHo4SEFVaGRyUXFzemZxLVMtQ3dMRUZpX3dPd2Rubm1xVEJRQlNOM3BOdWhabGhpcXA2QVhnel95OUN0YmE3MEpfbGVxNjdvd0VMSFpFaWNDcnFrVG1rdUF5UjdUT3hPRWJaMmZabEN5dXp0MFc2OHhLRDYwWU1Ic3Y2M2Q0c2FDek01RXowNnNXT25rWHp5elFTN2Z4TDZ2c05QMjAydDZCN040dC04alo2My1Fc3I0YWZoYlJVcmNvanlQTTlQVG9oeFRhVEJQR1hVUUlSb0stOUVzNExNaXRYT0tE?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-12",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "470e0f61e326",
+   "title": "Eli Lilly, obesity drug manufacturer, comes to Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ01lTjdRaFM1Rjl2cjJFNWNOVVRhN3BmVG9fVEhoS1JxNkdnT3Bha2FCMU1VYzA3R20yaXozVnpQaXBxRWdkektpek81WEdZbHQwRkRRNHp4TnJjUzkzT2hyekd6Yy1NYmFVWkQ2NFg2Ymk3NHU4dmZQc2tOVXZUbm16bnNOMlBLajF3VzQ5UncxUEhBZXN5ZGFR0gGfAUFVX3lxTFBjTWdTNElveXliT0NBckduZHF0SzE2blVtbEduUEJ2SmNrenNCcF9nR2NVdWQzZFV2UFp0WTlPSjBRWnhfUTdjbVVQUVdrWDljZUpzLVRMdHE5YnVIZnpnQjBPdnVFc1lYbXU3cW92dWNwNmljVjJ6UTJGV1lDT2JjNHZxSGJyX2R2bFBCZENvOEdQRmdlWHdVbmtzd2xBTQ?oc=5",
+   "source": "The Center Square",
+   "date": "2026-11-12",
+   "tags": [],
+   "state": "PA",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-13"
   },
   {
    "id": "aff7f8b57fe7",
@@ -709,6 +846,19 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-04"
+  },
+  {
+   "id": "e15aa8bbc8a3",
+   "title": "Platinum Equity acquires Warren Valve from Allied Group in carve-out deal",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazRfc19TcVFrbXhHaHBGa2FyaHhLVkxTNEFWQmU5cDB4R3dKQnYzeDRpSmNVbmhMVkRIWTdZVjdtUmlSY0E3TTZLUzA1VWJVRnhMcU8wc2hEcUlhSmk0MWtHZzdOOWhfNjVySVJjWWdRb1VqVTJwa1FZSGd2SGtfRlRTS2lDOHZVUW5fYURaWkNNMFF3Tl92TFpLOU5qQTJQVk9MTUVfVGtHSktrVnF1TnVrak9LTnMw?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-03",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-13"
   },
   {
    "id": "bd0dc3500521",
