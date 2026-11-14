@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-13T18:45:09+00:00",
- "calls": 2241,
+ "generated": "2026-11-14T17:21:48+00:00",
+ "calls": 4128,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 24,
+   "jobs": 21,
    "note": ""
   },
   {
@@ -76,7 +76,7 @@
    "name": "AQR Capital Management",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 3,
+   "jobs": 2,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4827,
-   "note": "1,631 of 6,452 boards checked today, 1272 with matching jobs, 1 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4822,
+   "note": "3,219 of 6,452 boards checked today, 1290 with matching jobs, 11 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,14 +139,14 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 22,
+   "jobs": 23,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 15,
+   "jobs": 21,
    "note": ""
   },
   {
@@ -160,7 +160,7 @@
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 13,
+   "jobs": 10,
    "note": ""
   },
   {

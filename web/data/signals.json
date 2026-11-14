@@ -1,6 +1,45 @@
 {
- "generated": "2026-11-13T18:45:09+00:00",
+ "generated": "2026-11-14T17:21:48+00:00",
  "items": [
+  {
+   "id": "f2349bfb5e69",
+   "title": "LEGISLATIVE ROUNDUP: Groundbreaking ceremony held at Lilly’s $3.5B pharmaceutical manufacturing facility",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWWs5NTZjSGpiNUZKWmE5b1BqNjR0Q3pFbTkyRnR2SGYtM0RoTDdtN3hwRlgyNDd4QTBxbzNoRTlUak8wY1dpeUVLU0hTTkRRVVd0M2pKOTcwWTBJU2hiS2VOMlZlOF9xN01zSDJZREUzVVFPbWg2Y1NFYm5nYTAxN25IZmJIUW4wQVlOYTg1VVdrSWpFR1AzZ1F6ZEtRLWxhdWp6UDNyTGVwQWFISjhPUmtwOS0yRDdjbGxROGpJT2ZnNUtWWmNJN1pFcl9lb3R1RlhYelRjOU5yZw?oc=5",
+   "source": "Times Leader",
+   "date": "2026-11-14",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "a8dfcfe45edd",
+   "title": "GlobalFoundries announced the groundbreaking ceremony for its first new wafer fab under a US-Japan collaboration, with production expected to begin in 2029.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrZ2hlOXhsSmdxNEFEMUY3MW9qd0h2a08xbXJ0WTRwVjRuMkZBcWlDakcxc25ENjJfdTdaY1RKSnA5QXFWZll5TWI2YXhIZw?oc=5",
+   "source": "超能网",
+   "date": "2026-11-14",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "5d89abc60dd6",
+   "title": "Compello Partners details manufacturing IT carve-out that exited a 12-month TSA seven months early",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQVQ4YWtKb2lMeUVWR2NJYzZFWDNLTWdad2lyMlZVdUJDMnlYMVhfeW1ueTZVOEduem50Skpxa1JQSGVCMl9TaVZnZEV5dTJjS2lCNnF3VjhpX1R6UXN0Nkg4c2F2WkNKYk1aRTFfRS0xYTMwM3pER0tuV2lJV3RqSE9OWThYUDg5WVIyblprWGdPX0MwUVVBNENHVldHcjdGTGJJQ0I2OVVGM2U3a2xCdFY4OGlGeXQ0SV9ROTJZcDFxTWN6MnhrY01hbWJTSEl1Tl9IOXVMU25NVGROUHNHNTNUaG4tZVQwQmxyZXVvS1dNaHBhOURUYXlvNFBJbE9NSlNRbDJORDFnQnlCRXdMUEJfcHMtaVF1d1JocV81QQ?oc=5",
+   "source": "WBOC TV",
+   "date": "2026-11-14",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-14"
+  },
   {
    "id": "bb02cf478169",
    "title": "Eli Lilly Breaks Ground on $3.5 billion Pennsylvania Manufacturing Site",
@@ -76,6 +115,122 @@
    "state": "NY",
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-13"
+  },
+  {
+   "id": "75c7b51cf54c",
+   "title": "Governor Hochul Celebrates the Groundbreaking of GlobalFoundries’ New $10 Billion Semiconductor Manufacturing Facility in Saratoga County",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWWIxRUJHeFhFNzZYSktzWHU1WlFBa0ZaekVTd0hqOVVmczh6QTlYQVV6Z3pjSE5KaEY3NGk0RE1GOXA2Q2wySl9zLXBIU2JGY203VlgwemQzeUZIX1VNSGhlZTZjMkd4Nk1JdENMd1hndnRKazVyZThkSUROVGVyT2ZRb25VX1hnckJScDVjb2hjLVRLZC1YSFJfTEpIcVl6Um01RWtwSnIzZWNMTGJTQTI3ZlVpdVJ4c2ZR?oc=5",
+   "source": "Governor Kathy Hochul (.gov)",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "45faad6dea4d",
+   "title": "GlobalFoundries breaks ground on new semiconductor manufacturing plant",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcGtSeHRaZ3pUQU5IU3R1elpWVjJyQ0N1MEloMEJSWXNRb00yc3FXWlY0Ump3dkRxRDdCS0k3Zjd1YzB1ZmQ0Wm1YZmFwMElHbldfVXFJaWdfcHo3T0dEb1NDYnE2VVM5WktLbW1SUGx4YzktQk03VXNsM1dhdW92czVGV3ZLeVpKNUQ3VkNvVUpxVFZUaTdzVE1zUkswb3NSbHc?oc=5",
+   "source": "WNYT.com",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "d5ecac566b55",
+   "title": "Lilly breaks ground on $3.5bn manufacturing site in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWhtZWJuOHdNTWYtTTh5ZlJhZzdDVXFIQUhTVzNYQVBXTjFkcW1Zd1V6ZGpkYzdINDBPWUV5VVdYbTllWFA2RXhQWnNodGFEZEZIYjRES1J2UHMtNEpJZ203cW54Q2VIeUlzU0YzY1BySDhBQkl3MWpBTU85S0ZTVWk3OVBscTYteVlWYmdpc29iM3RUWFRlejFCQU1UcER5dGc0eU13dzRzdGNOb3hvak55M2o?oc=5",
+   "source": "BioProcess International",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "68f310af0c67",
+   "title": "Eli Lilly to open new facility in Pennsylvania, creating nearly 3,000 new jobs",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcktLeDdZU3JTdHUxT0lPdE5YSnlOZE1tUjl6Z28wVUNJeWlxT0h1ajdDNWZ5WC1Tb3Nta01hcDluMmFXQ0FqVDd2Y0lWMS1yZnBvWEltZGxjbzhCQ3RkbGFLYVMwSm55R0dsNFFENVFXM3I1bDFOZGJVRDk0dUV1R3FtTk1TYzg?oc=5",
+   "source": "AOL.com",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement",
+    "plant opening"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "eea44c874a5b",
+   "title": "GlobalFoundries breaks ground on new $10 billion semiconductor facility in Malta",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekNIcHRtbzAxcGpIbjRLLUF4WnQ4RkNGSFVVMkx3OHgxUTRnTTduM2Y2UFE5a3BTZGVidHZhUkVWampVUHJZRlBWdFhPVVkxaThTVUpVRFJlNDA3blE4bkJ5cjdpcE80Wk5md20zdGhXSWhGb1pfblg1TDlDM184R3hweVpMWUZ1cFBOc25nNllabTYzaTZYampCakNOYlBaVzRxTVJJMFZrS2hmWVF3bW8zZURXd0JsU3c?oc=5",
+   "source": "Troy Record",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "ad474e653619",
+   "title": "Eli Lilly Breaks Ground on Lehigh County Plant | WDIY Local News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkpSeHhJN0lKTjc5c3I2SFBBWmUzN29SMnUwSWZTZkk3VFRoN0hPbmQxVFRFTml4R2pNWUdXVzVORElPNm1MMHFiaHQ5dmdaMWZJblI5cDUzMXdmcl9lZ0VfdGpkQ1BzNjAtRUR4UWMwT0hSQzZDdzViMV84RGtiMlBrYWJlYnZGZk5Vd2V4T3V2anNhLV81ZkQtYlEwZDJfRGRyR2M1Uk1wNjNLSXc?oc=5",
+   "source": "Lehigh Valley Public Radio",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "5bddde6c88e5",
+   "title": "Retatrutide, hot new diet drug, will fatten this Pa. region’s economy",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQW1hT090cjBNNkpaeVNsQjhaQ0FIeWp2NTlMbnF5UTBlc3puc0diMGwwVFhlcWpfOFU3SVN4eHUtQVdJUEdHZkFwOEhmTEI1aFZja3FISWZoTUE3NW9OeElKYUMzdTZkbDlNYl9sNXctb1dleUpOLS1KWVpRWEdXYWo3bmktZXpCWUJ0UUJFS0Jib2ZtODRvNDViZXFyMnVid1pLbF9wbWJDUVdBMG1Zc1pQeFMtcC1FcXpRQzVYTGFhZW8?oc=5",
+   "source": "LehighValleyLive.com",
+   "date": "2026-11-13",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "ec4a85cda39b",
+   "title": "Plattsburgh YMCA holds ceremonial groundbreaking on new facility",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZHlhaDlZbWdDS2RyMGNmNGhRSUcySWxYLWxuQnZ3dl9kYU1SNWxuZ1BtSFBBQnlJSGI0Vm51cTFjaVVPb3VRNHBmZHo0X2RpNjlyUWV1OHhmeTZFZUhxdnppdkJET1c2MnV4YTF5Y2RjcUdQajFwQTh4VFNhaE9pemdvZ3g3bkgxMDVqOUtHNkxRVGNFTUpWclRvT1hzTTN6UkZhaEk4TF9KNVh3d2V2US00ZUlZc0p3c1o1RGdTelRweTJLQmdwSXk0ZGZqX2gxS2lxOTlhaEpYZGcwM09EMUdTMWZDQQ?oc=5",
+   "source": "Press-Republican",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
+  },
+  {
+   "id": "6014b77ef768",
+   "title": "GlobalFoundries breaks ground on Malta expansion",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXUyTy1LT1NBVjJoTmkzVjFtUHVGWFNqM3BWOFJRd21iNW9RdjdIdV9HcEwxSWFfUy1xc1hoRnJaN1FrdFEyLXRNZDFPQ2hNM0FTOURrUldSVlg1M0RCVGJTN0ZiY2dtMENmS2pZc3AtX2hCUVM2WGlsbEZMWndZNTdVajFONWYtUXI4bUVyQkJIbjN1NVM4eVllVkpqY1g2THBSYWJPdTJRV05PdHRTZ0FPOUVRUkhYY1I2elduUQ?oc=5",
+   "source": "The Daily Gazette",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
   },
   {
    "id": "d790903f7085",
@@ -218,6 +373,19 @@
    "state": "PA",
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-13"
+  },
+  {
+   "id": "6008ee7510de",
+   "title": "Flatiron Energy Breaks Ground on Energizar Energy Storage Project in Chelsea, Massachusetts",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXVGUFJiUGt3WHZhMDNkZFNMMEEtUlI4V1VmNjRreG9TWm4zSUhoR2RxckgwRUlZXy1SaG1WSlJtdjlRSFNRRTc4Yno2OFpJdllvclU3b0NrakZBMU1CLU9fWERnVWlyN2FpWGp3enlfQVhCODF2TTRXbXBmRUFLYW5TZDh0Umk5S0l0dzRsVXFZTDl2d29HXzBkLUtBdk5pNDYxT3d3UEswbFZtZkVfWklYNzU1dlQ1UUVmUjhmTFlFUy1BZS1qNGNjbGphOTZlTEU0Nmlod1R5Uzl6NjhudQ?oc=5",
+   "source": "Business Wire",
+   "date": "2026-11-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MA",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-14"
   },
   {
    "id": "aff7f8b57fe7",
@@ -3023,6 +3191,17 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-11-02"
+  },
+  {
+   "id": "dd1bada9c84d",
+   "title": "Highness Microelectronics commissions new glass line, targets 10-40% cost savings",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDJ1c09tMlpKX1hDenB4WUtwdGpERGtBR09sTlFLZEFWV3ZVT1FtWHFHdzhnSW9QazJCVExjWnFsQkFlVXRPTG1jQ3N2U1dCb3RieFpqSDZNYkN6dkZLeVZPMWh6WkJqalFCaGRvZ2NWM01jYzdYOF9faFlxRGtWSi04UXlRbzBlTWp0SjU3cVo4ZEcxRnI2RktDWjNzRkNlRTlXVGo1RTBZNkV4TGVLMjFvSm1WeTVFWU5VNllGUQ?oc=5",
+   "source": "scanx.trade",
+   "date": "2026-10-19",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-14"
   },
   {
    "id": "ae45e94d239c",
