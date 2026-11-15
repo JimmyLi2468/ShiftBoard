@@ -1,6 +1,17 @@
 {
- "generated": "2026-11-14T17:21:48+00:00",
+ "generated": "2026-11-15T17:57:37+00:00",
  "items": [
+  {
+   "id": "76d90593b8d7",
+   "title": "Upstate growth and winter fuel risks add urgency to New York’s power planning",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaU5XWkQzV2YzZkd3bWdfWDRxT2ZOelJ2UnlUOWp5b05HZUhnMDNhbG9MM0hUTHl1OTFheVM5Rl9reURONDNUSmxkQzJITHJIWGJoVjlIVllsSmxtWWVtVEl6ZnFWb3JEMUVxSy1LWElrWC1LRTVuajBJeXcwRnJRbkpYMHFUUVhDX1U2RUgyaEJ3QlhmNFhfbFc5MGl1bWtUenBSd3lIVzF6a2w4bW51NFpfZTdZNm5y?oc=5",
+   "source": "Fingerlakes1.com",
+   "date": "2026-11-15",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-15"
+  },
   {
    "id": "f2349bfb5e69",
    "title": "LEGISLATIVE ROUNDUP: Groundbreaking ceremony held at Lilly’s $3.5B pharmaceutical manufacturing facility",
@@ -233,6 +244,43 @@
    "first_seen": "2026-11-14"
   },
   {
+   "id": "9cdf727bca9e",
+   "title": "Layoff Tracker: Milestone cutting 20% of HQ team, including CMO",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+   "source": "BioSpace",
+   "date": "2026-11-13",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "285630840d4e",
+   "title": "In Lehigh County, Governor Shapiro Breaks Ground on Lilly’s Historic $3.5 Billion State-of-the-Art Pharmaceutical Manufacturing Facility",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VUjdFb2FlMHRBLUVRQ2hac3lSUGpuWGpaTlU3VmtLZ0NFcEhRT01rM25hRzRFV0J2akk2QzFtQ2dSZVVhOFdHX3FfR043UTV6ZjNDVkRuSWtNUTJKczJMTlc1Z0VTbFk?oc=5",
+   "source": "Forth.News",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "59030e107922",
+   "title": "Lilly breaks ground on $3.5B Pennsylvania facility",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlhIREFBeG4yUTlMdXlONU5JX3NadTVFOWlTeVgxUU1KdG55Sm9obkJtamtJSlpNNTR2aWZnYmpBMzFXMWItbnZvQW1jSmF1ZkN6MTF3YllLQXFmMjQxQnNpOER2MDBTRUpIbnBhbFpZNUxQMm9QOVBFV2pwUWlTOG5pNVc?oc=5",
+   "source": "Chain Drug Review",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-15"
+  },
+  {
    "id": "d790903f7085",
    "title": "TE Connectivity invests in New York State R&D and manufacturing facility to develop next-generation optical connectivity products",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRU1rV29FUVJFSkpJTjhMYWJpTjJIanBTX2V5UUJIS1F4MnNlblhfMGJIQzJXcnpNTkhGR1pVOWw5a2tuMHhjVWstSGVDMTU0NEQzclE3bk1zWUt4dGtENXhnZF9qbUstdm1QSjVYNHpPRUFBbmtpTDhVbXRkTVlsVkVqNDlUWGs3VExScU9jME9idDVxRlVMQVBPa3JLNzlhdThkaHAyT0RwaEJDTDdKR1BsVm9ZcXJOaldMUW9MeERIN1FWLVJlOGcwMVNaUkFqZkFlRC1DUzNWZlFIb0RTVTBUM09mbGJtY2dhSmN0aXQwOURhSTNna2o1dEIzbTNrWXViMEx1a2lqdHJLNUY3Y09n?oc=5",
@@ -386,6 +434,19 @@
    "state": "MA",
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-14"
+  },
+  {
+   "id": "83bdd4b02a3e",
+   "title": "Pennsylvania Unveils $3.5B Lilly Life‑Sciences Facility and $150K Arts Grant in Lehigh Valley",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56cXBRdFJQWVhYUjJuLWlxWF9rVlAzRkx2Tlk3VDNpLWVmeWo2M2hZSy05VUJxbWVVVjJpRGJmRG1ZbjZFaE8yczZYQnU3dHo0YlJEUWs0SDFZR0ZiQ05ELUZR?oc=5",
+   "source": "Forth.News",
+   "date": "2026-11-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-15"
   },
   {
    "id": "aff7f8b57fe7",
