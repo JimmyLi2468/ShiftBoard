@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-15T17:57:37+00:00",
+ "generated": "2026-11-16T21:13:06+00:00",
  "items": [
+  {
+   "id": "1fc674977271",
+   "title": "GlobalFoundries breaks ground on $10bn New York semiconductor factory",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWlE4elY2VndtRWJoWndUemFzam1jenM1elBhdV9XdTZnSHI2MEZkb2VHdmkzc3FoSkpwZEM1VEZoUV9RbVo4SWM2QlpHVXNCUS1udlY0MGVvWm1LV19OSUlfb191UVJBZFdQVXVLYk9tZnpOUFlrZjhWcjJhVWJKcXZEVHBTQTMtNlVrejg2cktOTnpseFVsQTNNeERmdEFfZ1VxOUtxY25raEF0eGRJ?oc=5",
+   "source": "The Manufacturer",
+   "date": "2026-11-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "913b705d9091",
+   "title": "Pharmaceutical giant breaks ground on $3.5B site in Lehigh Valley",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcU44aW5oU1NXemtjYVJpXy01S2xORTczRWZBNC1oaHFySjlNUjlPWmxzQUgxdDZUb1J6ZURYZWswQjJzSDhvS3NCbmVaZndPRVVlLWVwWDI3cmhvR3o3UjA5ejlIR3RBend0SzJSU2tKRmZ3RnpIZHJUMUZFQ0Y0alBOZ3V0N0ZLRERjR2d1SF9Ld1ZTYkZudDEzX0JBNkhnZkJLeQ?oc=5",
+   "source": "Pennsylvania Business Report -",
+   "date": "2026-11-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-16"
+  },
   {
    "id": "76d90593b8d7",
    "title": "Upstate growth and winter fuel risks add urgency to New York’s power planning",
@@ -50,6 +76,19 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-14"
+  },
+  {
+   "id": "368adf317981",
+   "title": "Groundbreaking for Fitchburg Housing Authority’s $15M community-administration center",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWJPTEMyRUNWQUxHajN0WnRGYmJ6ZHp1ZXJMbWRPOVV0dFpOU3Y3REJEZWlGM0R3QTZTTmp2YnhrOVFKV3Bjby1RaE80N1hpVEdETDY3bFFkVEQ4VExVUTBkSWxFLUxFVmhSQjJpVFdtelQ5QnR5QjRtaW40Sm9YTHgzSldTZWR4andv?oc=5",
+   "source": "Sentinel and Enterprise",
+   "date": "2026-11-14",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-16"
   },
   {
    "id": "bb02cf478169",

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15T17:57:37+00:00",
- "calls": 4130,
+ "generated": "2026-11-16T21:13:06+00:00",
+ "calls": 2220,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 21,
+   "jobs": 20,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4759,
-   "note": "3,486 of 6,452 boards checked today, 1287 with matching jobs, 20 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4699,
+   "note": "1,659 of 6,452 boards checked today, 1254 with matching jobs, 18 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -138,29 +138,29 @@
   {
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
-   "status": "ok",
-   "jobs": 23,
-   "note": ""
+   "status": "error",
+   "jobs": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=new+manufacturing+plant+%28%22New+York%22+OR+%22New+Jersey%22+OR+Connecticut+OR+Pennsylvania+OR+Massachusetts+OR+Maryland%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen"
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 24,
+   "jobs": 23,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
-   "status": "ok",
-   "jobs": 9,
-   "note": ""
+   "status": "error",
+   "jobs": 0,
+   "note": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22S%2F4HANA%22+%28migration+OR+%22go-live%22+OR+implementation%29+manufacturer+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen"
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 8,
+   "jobs": 9,
    "note": ""
   },
   {
