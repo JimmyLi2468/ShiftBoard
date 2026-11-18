@@ -1,6 +1,129 @@
 {
- "generated": "2026-11-17T20:04:26+00:00",
+ "generated": "2026-11-18T19:39:28+00:00",
  "items": [
+  {
+   "id": "87d788b78c13",
+   "title": "Silex Invests $131.4 Million in Pennsylvania Chip Plant",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjR6ZUVEOHF4Q0E4azRsYXBBZTA2eS1aU1lpN254MmI2ZnFHYmFTMlhUS3c3N0lYWXEyM1daSjhNTTB0V2ZGZmswbFNWNUVqbHJQUW9zcXFJUmI5ZEtjRG0yYnhCMUl1S09jQldtRU9EeG0xZndtbVV3bU8xeDZOSGlqbXAtWjlSX01sU1RLeDRXVGNIclNXeUZLMUdSMGtNOEE?oc=5",
+   "source": "MyChesCo",
+   "date": "2026-11-18",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3f3041080bf4",
+   "title": "Visne Madencilik Begins Production at Çelemli Raw Material Plant",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVkh3TDdtZUd2MWc5Sm4xTjA2NTcxNTREU01XaUdKQXlZVGF3TU9GUWhvNmR6VHB2cXNrQ1dUeFYxYjBBR3BBZVFsYW9vYWpKdEIyV2U2bXJOV0t4X3ZPMVFrLWI3ZzJaZVhsUk8xbDJtNFVUNGpMYkVjdF80eXY3dDd1aTVSR3Eyd2k2WTF4ZnBvRXBQTjBWRFJtNW96S3h0RTlyNy13TE03QUxNUm5OeDdnOG9EV05kdGJYOHFTdTdnOXhrZ0c1bElQT2ZwRVZJMEZiVnZNdUZ3YkFybVE?oc=5",
+   "source": "The Globe and Mail",
+   "date": "2026-11-18",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "6df5f75f0e35",
+   "title": "GlobalFoundries breaks ground on $10 billion semiconductor manufacturing facility in New York",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVFpNU5ESXg5VERUQmp2VXVvYkVEZXBCaEYwX3ByaUdQMUl1OUkyZmt5SkFFd0UwMkU3VUd2ZFRYeTRFUHVrNU00TXFkMDB2dFA1RGE4Q2F6ZEhfR05JV08ydE9RNG5WMUkxanpTdmZ6WWNOVGhZUWVKNGdtSmtsVUc2bVdQdW9POVhZWGhrMGE2TnZRbkowRUJKZmlKSXgyd0I4eHpndklKeFh2WlVnenhuUEswNzd3amI4WVlfb2djcWVHZm5kTjI3cm1GeTlHUzltakgxWjZKN1l4blFUTkpscUI?oc=5",
+   "source": "Plant Services",
+   "date": "2026-11-17",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "9a7f28b0f395",
+   "title": "Cambium opens Maryland manufacturing and R&D facility",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEp1aG5YaUF5NllLTXlWeUI3dk4waTNoZGJMVGxhYmJDSzMtaFBpSHZiZGpmVFdpQjZzTGt5N2FJbzU3bXJoRmZLaXlOV1p0Y2dqVkhxRExxeHpiZFE1MVVQT3N6cGRUaF9mWDBYVWJEeDM5U1NkT3Ftb0hxbi1OU1FWNGdOdUgyajRSMno1c2hUVmY5dldGMjJ0aE9KQlVxWm9iT29NNEhHbFRsSkJLNkZmV2pnS2IxOWc?oc=5",
+   "source": "Woodworking Network",
+   "date": "2026-11-17",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b08a647ed21d",
+   "title": "Silex Microsystems opening $131 million microchip plant in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95dWNlX21wX0NmaHR2TEVDb2V6MUM2OFN3UGFCRGRNNUtDUl81VS10RVJrcVkyRk9qdFRlX3VLY1FLVjlxS0RySURZQ1JLQi1Pdk56VkE4Q0cxS0tYZlZwRHVOUVA4U0FaZ2pUenkzMGRBWlRzSlVqNTBEa2U?oc=5",
+   "source": "Lehigh Valley Business",
+   "date": "2026-11-17",
+   "tags": [
+    "plant announcement",
+    "plant opening"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "8d22982d911f",
+   "title": "TE Connectivity to Create 860 Jobs at New York Facility",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMGNDcThZOWREajUxUFdfdklTc0hYQlRVQVFrUllvQXFyVkwwaUVoS21iakE1RUxySnQzbG95VlgxT1ZkaDZ0cktUTmZjRGhpTHlVNWdTSXBEeGZnYjd0Wk1ac2dKWkp3OS0xT0xUVjM1T016MC1hYmtYaV9OejQ0dWszUzl6bjFhNlVWQmNqNl9PN1RLTkRnbW84U01kUnE5dmY0dUt4aWJSVGhuYVpyUEhQZ1kxVGFZaGdTOVJtWWYxM1dHdWlzVF9JT0VIajQwZ2wteHFGQQ?oc=5",
+   "source": "Construction Owners",
+   "date": "2026-11-17",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "682138e48564",
+   "title": "Cambium Opens Flagship Maryland Manufacturing and R&D Facility to Expand America's Wood Supply Chain",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNklCRDdwR0pKZDlpQTdJNUw4OFNpUC04UUxWTm5nclVHU0lJRE1mYjJFcmNwV3hVcnNZQjZzbFFjYzZzRC0xRm1DOUxxQ1J6TDZzRFFfS3dpbHpNLWNzcjh5V2F0UGplbXZmOFhjSzNKUkFXQzZoelFEeFNIbDVLMUlsQ2ZVb0VDZ29fLS1RdW9jOF9xdDQ1QTNqMnJ5b0E2UHNXTXJQSGZPMTFxWVpyWTR0dXdVNTRPdnVjSTBFMDVwWmRoUEdiLXh2OXNmeVIyYTc0dFBjc1pZQTNfNFJPUlhkNWd4VV9fNlE?oc=5",
+   "source": "PR Newswire",
+   "date": "2026-11-17",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "93e5b3be8aa5",
+   "title": "GF Kicks Off First New Semiconductor Fab In New York’s Capital Region",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEg3ZXp6dFBmMFJ2ZElDdWpJNm9KVUVaaEJETks4bnYzNDFqREczdlY4dzZDNmd0bjN2R3dUaE5nWmtqck55OTdiclM5SFJ5M09aRi1veExZSmxZZEdqQkwzV05LSXFlWTZrR211S1BXdnVBbDh5aEFiY1RZODdYX0IwNHNxU2J4dkZwdDQzVjZyeHdVZDFzejF3T2NscURtUDJXZEFSMjgzVlVHUHc?oc=5",
+   "source": "Business Facilities",
+   "date": "2026-11-17",
+   "tags": [],
+   "state": "NY",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "2d62835c37c5",
+   "title": "5 CIO priorities that won’t wait for AI in 2027",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXRLVFpKWE5KTmlsTHBWaWs3RWYwWTNzcnBzTDdiZ011a3lWT3N5ZFh0U0JENjBOdzd5X2l2VGNzYUhxaVE0S3dCbFlIZFoxNlZSRjJ0emI3SUpSek1LbGhHVWZRTFlLWjNxdnZGZ1NGWVhLeWtiWThOMHZwQVFISG5Mc0JSNVNwWjJ0dFc0TQ?oc=5",
+   "source": "TechTarget",
+   "date": "2026-11-17",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "3b6ec9a5917f",
+   "title": "BPX Process Intelligence Delivers 40% Faster Financial Close for CFO-Led Enterprises Across Five Continents",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmw1cGtjVkRTTVM2dEktZV9QVlFKLW1hVEFfWTZpdWtqUVluVTJpY2NIRUtVQTVUbzFsTDdJeDgwLWVOQXFud3JoVEc1RG9nQ2QtTmN1a056d0k0MnVxWEpFa1YycmFReW01ZWVuQnZyeWpiRm5qUHFtSWlISVdmU1M1d1NseWNsaWd4TmF1YmZqX0c3aDVNVWhwTQ?oc=5",
+   "source": "openPR.com",
+   "date": "2026-11-17",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-18"
+  },
   {
    "id": "1fc674977271",
    "title": "GlobalFoundries breaks ground on $10bn New York semiconductor factory",
@@ -26,6 +149,45 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-16"
+  },
+  {
+   "id": "074f20f872ef",
+   "title": "Lilly Breaks Ground On $3.5B Manufacturing Facility In Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVlnREF6QkItYjNEUmJKTHViLTBaNkg2V203WnpmMlhzVGVPSHpIT1FqY1B5azZqU0ZaejQyTHZNWV9Ra2JEXzZGeHJpREYwcGlhM3FGaU13S2NrTG9TOEwyZUlfUWJKYnBQVDkxTzUxdEQxYjlkNFVtS3FHaVQtTFBDb2tlazQ3OFhOdFZCWmVzcWxvU1J5TmJtaw?oc=5",
+   "source": "Business Facilities",
+   "date": "2026-11-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "ef37e6a92ef1",
+   "title": "BPX Delivers $8.1M Annual Cost Avoidance for Global Manufacturers Across 90,000+ Analyzed Process Cases",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTRWODJTMWtyNkZ1XzZTenRsVGQ0TW0waEkzS053amctMXo3NWJWTmVFSUZpeWI1U1ktS2xpbmZyaTdsZzNraUVkM1BkZlgwb1FqVVZoNWtTakZhQWUzOHd6RUxBZFp0SDQ4a3BzX1E1WEhUVXQwSG9vbHgtUDc4bURXNDRYQUE0d18xWWgwYw?oc=5",
+   "source": "openPR.com",
+   "date": "2026-11-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-18"
+  },
+  {
+   "id": "b5bfc2572d5f",
+   "title": "Adani Wind Begins Production of India's Longest Wind Turbine Blade; 5 MW Platform Certified for Serial Production",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3BkVldRV1NDaG03QXlka0NRaTN6NE5KM3ZXaTI4S3BEUnVLS0M0cy14ODBtWlNyQWxIbTVJMENtb3dTcExQWnhsZC1QMXJBdS1IRE12MjNqLVlNaFUxOVFGcWRreE4tSTVEQnM3bnM4cjMxQ1NLbFZmZDVWWGs4c0dfSGR0UTlqQVhKeWRndktEWmZ3TEVEYy1HcW5HNjVQT0kzQ3dyYjRhVzhMUVZ4cQ?oc=5",
+   "source": "Adani",
+   "date": "2026-11-16",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "76d90593b8d7",
@@ -89,6 +251,19 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-16"
+  },
+  {
+   "id": "bc9703340d07",
+   "title": "Pennsylvania officials, business leaders break ground on $3.5B pharmaceutical plant",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2Vsam5XYnlNU2dOc0ZxdHVIbExKSk1PcWpoOVNhZWNjME9ZRWFDNm5zaXVrUkduVG5hd3N4M2x6ckVGYnk0YnJ3bEx0aTBvN3FudERzMGd5RklnMjNUQlVyamFMdENiemk4YWUtSUJIWnJCQy12SmFaMlo0Y1VNWDBwWU5oZUlWd1ZYSGtkWGFfWGdyZDhkMXNLa2drR1V0cEs4Nzgxc2tmdw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-14",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "bb02cf478169",
@@ -318,6 +493,19 @@
    "state": "PA",
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-15"
+  },
+  {
+   "id": "281022cdaf6b",
+   "title": "GlobalFoundries Breaks Ground On First New Semiconductor Manufacturing Facility In Malta, New York",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQTdZcmZyc3JjcVV3Z1BWc0Z3REFubkFfb3RfZHJPbkdQQmlsbnBMbmtoN2wyenUyd0hvT082UmFJZ2owVnlwa0VGYU1GNVhicXJqS1Z4YTdKbkE5eTZnSWh6MFA4Qml3SFhCQzZlUkJobno5OG5ETmw2X2d6aERzY0FTRVZiZ2pnYlZBN1VRNkpPUlRtanV2LTdXSHN4bE8xblVEZVB5Mzd3UUpHYVFzUk1kaURpbDBJVVlPZm0tZHRFZHBEY2lna0pPVVpyblU5UklxRnlmYnFsYUZZRXExZTVteGc?oc=5",
+   "source": "www.marketscreener.com",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "d790903f7085",
