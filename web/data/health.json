@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-18T19:39:28+00:00",
- "calls": 2257,
+ "generated": "2026-11-19T19:47:02+00:00",
+ "calls": 4090,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 19,
+   "jobs": 22,
    "note": ""
   },
   {
@@ -55,7 +55,7 @@
    "name": "Hudson River Trading",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 2,
+   "jobs": 3,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4587,
-   "note": "1,682 of 6,452 boards checked today, 1223 with matching jobs, 37 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4673,
+   "note": "3,218 of 6,452 boards checked today, 1247 with matching jobs, 22 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,21 +139,21 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 26,
+   "jobs": 32,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 23,
+   "jobs": 22,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 10,
+   "jobs": 9,
    "note": ""
   },
   {
@@ -167,7 +167,7 @@
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 7,
+   "jobs": 4,
    "note": ""
   }
  ]

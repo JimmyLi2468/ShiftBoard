@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-18T19:39:28+00:00",
+ "generated": "2026-11-19T19:47:02+00:00",
  "items": [
+  {
+   "id": "04dfb2f4fc22",
+   "title": "Eli Lilly to create 2,000 construction jobs in Pennsylvania with $3.5bn new facility",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWtNbnlETld2cm14ZDBfUGRVMGNhRkRNVllQS3M3UW50R1pWdHVWTk5fZTlBWHNBVTdlRHlzQUdPeTN3X205SHFSV25CTC1TWmNZd1RBZjJULVhGbUZDYU5oYXVhSzBSMXAtTHBkY3dId0dPWHE3N1dIVzBJQXNyall3bmtaOWNzY2c?oc=5",
+   "source": "Cleanroom Technology",
+   "date": "2026-11-19",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "bc9e4caed018",
+   "title": "PharmaLogic buys Lantheus' New Jersey radiopharma plant with a supply deal attached",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkhLUEZrdGpPb0psanVGVTFYb09kN20xSTd5QjVsdWxpR2dGUzlNNHVEcjlpa3d5eTRfYmZwTlRic0dwX0h3Z0V1d3FHUEpuenRpbGNsMEtFbGN5clBqeDA0clBHREZadGt4VDU1Y1BLbGNIX2VwN2w4SF9UU2tuNlQtQXZjMGxWbFg0aXhXVF9vRnRPQmcxOUJsQkVVXzFuWDVFbGdPbko5Y1hhdjhTUFdFQmhKVG5yZFZmZkdDNVdudGxLQTF2eHBn?oc=5",
+   "source": "MarketScale",
+   "date": "2026-11-19",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "a66a4f8f2450",
+   "title": "11-19-26 Empire AI Supercomputing Center",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3RldnhpRmJ4bi1NOWRkUzNiejgxdGpyMXNKQWlyOTVEVEZabWlpZ0EyUmdPakxOczN6WFJVekRSS05TcThqUkN4cUt6d1hzaDNwNllIZTRPLVNXU0t6NUlqR2dvQ29LY1p5T19Id3hmejYzZWdqcG1Rb2dJZnFSVGZTRQ?oc=5",
+   "source": "State University of New York (SUNY)",
+   "date": "2026-11-19",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "fc16903eb0de",
+   "title": "Sto SE & Co. KGaA's consolidated turnover increases by 4.2 % to EUR 1,269.1 million in the first nine months of 2026; difficult general conditions persist",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTUlEMHNaWGVZYWNCUVVoYUw4MHE3R3k5SzlwcUFlUUI4ZjQ4Y01RUWF1OW1KY2dmUzRYdFB4TmcyY2JiYU9zQUVTN0R6UURWby03SVU5S21rM0dkcERTMkVhVGo5cXkzU1NXNlF1S2pZeHVQeGlWTDcwU3ZmQ3RMMjdLLWRJY245ZXZzaHI1X1ZBOVotc1lYb0hNeURCT3o1Yl9VSDd3VUxfRzhUUm5oRmlZMzNTbUQ5Ql85NGQwNzBfN3NncW1jR0ZzZjZydjBtZjB1UzNVS1lVd0pRRldPM1M5dFEyTnp4Q0djX21SQjNMVUx5M0c0RmVFOWZwU1IzTjFiZEUtdzI3MEtfajlHdWd5SDdYNUtweGFyQ2tVWVZ5R1dMbDhiWG5n?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-19",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-19"
+  },
   {
    "id": "87d788b78c13",
    "title": "Silex Invests $131.4 Million in Pennsylvania Chip Plant",
@@ -26,6 +72,28 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "58d1f6a74429",
+   "title": "Tronix3D plans to expand 3D printing manufacturing operations in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOS1pOG5OblZ1cjBUVk9ZYmJaSHZGVVRsVWtEcXNSYVlaSnhLOFhrRnhOZVkzOFlXVzY3bkhLRjRWeEtkZWNVSGNRcEE5ZVROZS1xMFFVamRidEViaXJFdzNUR3phV2Nsd0VQdHcwMlpYUURtdUlWZjlka1lNM3lEMkNWamlZVnJZbXZjeHZaZDhkZ1BYS3UxODhfZUEwN2tVU1B2UUxLUG9ibEJQN0I5NndaNnh5bFNWRzc3Q3BLRjUwOTIyZkU0UU9zMHI3enhF?oc=5",
+   "source": "Plant Services",
+   "date": "2026-11-18",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "7049e01909f1",
+   "title": "Lotte Biologics secures commercial manufacturing deal for South Korea plant",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGFqTGlQZ1QwQ3NHZVVFQW1WcTQzZm1JUURxOFN2bUlkTUgxVC1RNjlibXVQREZ6MzB1TGxIOXRZVUxTYWZyakUyYUtlbXVCVGxGbmkxTnRTS2F4cHFibWhHV25YT1VLU2NZaW9ta0ptdWR0SmlqdkktYmV4SmRBdEItMXFtd0xtNVlYNUtCaURfd0t2LVRXdDk3aEh2UENQVEd4RjZEQy1NeEo5Z0hrYWhR?oc=5",
+   "source": "https://megaproject.com/",
+   "date": "2026-11-18",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "6df5f75f0e35",
@@ -123,6 +191,30 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "55469186f8a0",
+   "title": "Governor Shapiro Secures $131.4 Million Investment from Silex Microsystems to Locate its First US Manufacturing Facility in Pennsylvania, Creating 55 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPbE93T0tycGtBNFBmZjNjY0pYUHdLS1JyWUg4SS1EOXhmLU9PRGRRWXYxVHlpUDdud3g1NlVqaVZ0OG1fX29tU09nU3JMNE0yUVE2c29LQkxMdkJ6S2cxYnNfZTNCREZlbUJ4VkVfZ0ZNNHJIWEt4U1lscExLSzFJd3ptbDZGWllkaWphSGhibi1LSDdvaDBUaEpWR3lHaEhWRk1kQnFFMWhMZ0pFOVVGQkhSd3dvUlY4NXRlV3hORS10c3ZRaklPT1NkV0s2NnpKQ3lYZ0VlcmNMZ1BCTExscUVmZWFfQXpnUzc1ci1ZNUNqM3dyQm5CMFZLT3o0aUNZRzdfdThKelE4dXZjWmp0NktGdzk?oc=5",
+   "source": "PA Department of Community & Economic Development (.gov)",
+   "date": "2026-11-17",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "d760c739081e",
+   "title": "Layoff Tracker: AstraZeneca, Calidi, Tempest make significant workforce cuts",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+   "source": "BioSpace",
+   "date": "2026-11-17",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "1fc674977271",
@@ -2121,6 +2213,17 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-03"
+  },
+  {
+   "id": "a99ac5295654",
+   "title": "Sticking with Windows 10 is getting pricier, and so is moving on",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi0yLXpNdXFWVzB2U3Fad044SVZvOWFnd09aalBGREpueFViZDZXZlcxV2tRVnliVWtJYzJsN3NuWm9mQmVZQjVHcUN4LS1mejVaZC1UR0ZOeTNPcVlEaXdnSno2YlFLSWdvYm5USWxkR29UckItcjh0RXZKVGJPdmFMT2dRd1hKd0F5SGkybDFpU1AwWE8yRldsYmhuMV9YVGFTbF9R?oc=5",
+   "source": "TechTarget",
+   "date": "2026-10-27",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "be28a7a52f61",
