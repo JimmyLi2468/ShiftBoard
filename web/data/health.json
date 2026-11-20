@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-19T19:47:02+00:00",
- "calls": 4090,
+ "generated": "2026-11-20T19:25:22+00:00",
+ "calls": 4879,
  "sources": [
   {
    "name": "Augury",
@@ -76,7 +76,7 @@
    "name": "AQR Capital Management",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 2,
+   "jobs": 1,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4673,
-   "note": "3,218 of 6,452 boards checked today, 1247 with matching jobs, 22 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4655,
+   "note": "4,000 of 6,452 boards checked today, 1252 with matching jobs, 31 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,35 +139,35 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 32,
+   "jobs": 29,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 22,
+   "jobs": 21,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 9,
+   "jobs": 10,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 1,
+   "jobs": 2,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 4,
+   "jobs": 5,
    "note": ""
   }
  ]

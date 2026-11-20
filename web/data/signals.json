@@ -1,6 +1,19 @@
 {
- "generated": "2026-11-19T19:47:02+00:00",
+ "generated": "2026-11-20T19:25:22+00:00",
  "items": [
+  {
+   "id": "79ea9db03a80",
+   "title": "TE Connectivity to Invest $60 Million in New York Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2FyNW1GYlMtNGRRVEVjSnl4STlULURmQkZUcXZHeWx2VmdxY3JndGVTU05iT2Y2bFN4TERGNVZqU1FPdndaNWdYbnlQRmVwelJjTHRvcURVNUZMeHlEOUhtYm5TZzB4VDN4UXBqWGc5OXRGNGNfWkZuNXRhV2FCNFdabGVzQmZjMDhYRXlDRDUwX1dqV2dLQWppZTZ4Q0VQdlFuRFZlVlV5Zw?oc=5",
+   "source": "Assembly Magazine",
+   "date": "2026-11-20",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-20"
+  },
   {
    "id": "04dfb2f4fc22",
    "title": "Eli Lilly to create 2,000 construction jobs in Pennsylvania with $3.5bn new facility",
@@ -46,6 +59,30 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "ffd992602c5c",
+   "title": "Silex Microsystems to Locate First US Manufacturing Facility in Pennsylvania, Creating 55 New Jobs",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMWgzU2dLbDM2Z2hpTVdFcDRhSDNFUnZZbTR4UVdPcm1wQTI3SnRsUEl3WnZhZ244MzNlazdNOEYwRmFUV09kamJzT2FTMWJDcUZncTZ5RHRFN1hIdmJNMEsyeGhmZWhHd1NwTnl2RHpYX2Y3dUNqTjBEVGV2d1Vkbkh6SzVRODE2Zld2QldrdHBOelZnTl9OeVEwc2RUU2tudkZtZTNRNTVkMzBPZmxJa3hJNXhHMzkxcXJlQQ?oc=5",
+   "source": "PennWatch",
+   "date": "2026-11-19",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "f71dc4eac44e",
+   "title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVdqNHRVcGw2amM1QVZ4SkxNZzNtdTBmb0JZdkNMYXZTRlZia0tJdDVTWHVoNnJBUWFlcUtjQXQ4NGZYMEZKNEkyUi02eWcwN214QTdtOWdRVkxUS0lobmY3SklZUUthR05TWnJUcGZXampFbjU0b0NqTGVxazJsS0phSjB1d0R0QjdDd0ppQW5hck82WTNCdEt1LVZxc0ZacFhONnE1V1pvRS1TM3JZRkY2dDZMV2RTNkE?oc=5",
+   "source": "Governor Kathy Hochul (.gov)",
+   "date": "2026-11-19",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "87d788b78c13",
@@ -94,6 +131,30 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "cbe9a726ec8c",
+   "title": "GlobalFoundries breaks ground on \"first-of-its-kind\" semiconductor facility model in Malta",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRW9xeEplVmxaanlfWE1oNTQxNjhxUnFyb2lub0ppSlZiNXZIVUpFcXpjUkJxWVdMVkJBbmJFMTUtNXVQY0pFU2FZZHNKSktsOWR4S21rR3RkTFhVcTVHaFdUektKWnlVdWlZVVVoaEFENE12LVZockRlU0dmM3U5LVhpNUZIdTlGekE?oc=5",
+   "source": "Cleanroom Technology",
+   "date": "2026-11-18",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "943a8eb0e002",
+   "title": "PE eyes growth opportunities in active pharmaceutical ingredients: 5 deals",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2E4X1J6OHZVVlF4N2xZdmNlbXNRbkp2UFRiX25Yd3JPYlpfdTFrc2duZHQ3SFM4eV9sWTN1Qkp1YnZKV19VMWVOWG90cGxNUExpalhBdjdoLWhKNm5ocVo3dXN4Ty1jVnhScXJQRVlOSWNGSGYxMnUwNUQ5RlItek9ld0RURzJYRWNCTmhFQUE4cEswSlAxQjFwakNoaFJnVVlIelRIa2JxWXdTUk1ZdlpaZG1JeHRl?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-18",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "6df5f75f0e35",
@@ -215,6 +276,19 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": "2af4833b9415",
+   "title": "TE Connectivity plans to open fiber array unit manufacturing facility in New York",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdi1QMFU2aVdXWktyQVFaS19SR3JkUlBReVpDaXpCdHotZ2xfOTRJYkNUQXFjOFZYeVNPaXFaUVJRVkdWeDVhNGRqMnBxQ0psVk1BOTNvdmFjcFIyNU4wS0NSVWVsbzM3eUpSTDA0MHpqRVVZWWluUXZhS0I5cTFmTmd5d1Vucks2b0g0WjZ3Ny1LaXFtTlZJWERSMFVhQ3hJMkdoTGI2QmFHYXN1QWZ0MHo0ZlBDR0F4QkxxVzFvRGZfS1dIUDdfdV9EQU1mU2ZLWXh4My1n?oc=5",
+   "source": "Plant Services",
+   "date": "2026-11-17",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "1fc674977271",
@@ -598,6 +672,17 @@
    "state": "NY",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "92e859dc48fb",
+   "title": "Metropolis Works Nears 10 Kilotonne UF6 Goal",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGo5TzQ4M2FyWTVKaVVkRHpnb0hQN0hEVWlrdmNUTUpESTZmRXVPQW1Tb1FqOThTUDM5Rzl6UExMektTU19XemJoQ0dialI4M2JncV9Rci1sXzRLTVJsbUlZcXRDV3dWMnJOYnNUVUpmNEljNGhndW83T0tIUXNpeHZKYWlheENFSXhMaUZDVDM?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-13",
+   "tags": [],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "d790903f7085",
@@ -1030,6 +1115,19 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-09"
+  },
+  {
+   "id": "a46b49b6c60d",
+   "title": "Vulcaflex Breaks Ground on Auburn Plant",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWc5TWhwYWtDRlZsNS10Ni16ZWVRMllmaXM1T1c2VkZHUGp4cGxWTVUyZ2hlMjZ3UU5zbnI5SXZOVFRQY1o3bFZxYW03TDJtNm1pOUJvLUR4X3JlMFVRbjZLS0psUVl5d2Y0UkdxSWhxLXdaRTFlR3BNMzlLVUFtNmpXX1pvaXcwR0wydWk2Wk1tOUo4MEl2YXptQVE?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-08",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "6a2785c461ce",
