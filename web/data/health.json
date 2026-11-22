@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T18:12:57+00:00",
- "calls": 3318,
+ "generated": "2026-11-22T18:43:04+00:00",
+ "calls": 2688,
  "sources": [
   {
    "name": "Augury",
@@ -55,7 +55,7 @@
    "name": "Hudson River Trading",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 3,
+   "jobs": 2,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4586,
-   "note": "2,729 of 6,452 boards checked today, 1246 with matching jobs, 37 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4507,
+   "note": "2,112 of 6,452 boards checked today, 1236 with matching jobs, 16 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -138,37 +138,37 @@
   {
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
-   "status": "error",
-   "jobs": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=new+manufacturing+plant+%28%22New+York%22+OR+%22New+Jersey%22+OR+Connecticut+OR+Pennsylvania+OR+Massachusetts+OR+Maryland%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen"
+   "status": "ok",
+   "jobs": 26,
+   "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
-   "status": "error",
-   "jobs": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=groundbreaking+facility+jobs+%28Pennsylvania+OR+%22New+Jersey%22+OR+%22New+York%22+OR+Connecticut%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen"
+   "status": "ok",
+   "jobs": 21,
+   "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
-   "status": "error",
-   "jobs": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22S%2F4HANA%22+%28migration+OR+%22go-live%22+OR+implementation%29+manufacturer+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen"
+   "status": "ok",
+   "jobs": 10,
+   "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
-   "status": "error",
-   "jobs": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=carve-out+manufacturing+%22private+equity%22+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen"
+   "status": "ok",
+   "jobs": 3,
+   "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
-   "status": "error",
-   "jobs": 0,
-   "note": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=plant+%22begins+production%22+%28Pennsylvania+OR+%22New+York%22+OR+%22New+Jersey%22+OR+Maryland%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen"
+   "status": "ok",
+   "jobs": 6,
+   "note": ""
   }
  ]
 }

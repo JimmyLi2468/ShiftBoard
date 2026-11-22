@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-21T18:12:57+00:00",
+ "generated": "2026-11-22T18:43:04+00:00",
  "items": [
+  {
+   "id": "4efa28955f3a",
+   "title": "Belarus begins production of a building material not made in China",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4Zkg2SmFpTlV0OXhNbXpDZkFRcmgtVkxaSWg4dzZSV3BybnptSTdoMG85LXRVX2g5VENhOEx3ZWJtZUpncnfSAUtBVV95cUxQeFZaTTlpRFJSMURva19Zcmk0WGpGaVQxWnA4amRxb3VzRGk3QmRMWkhGMmk5a1dNTHcxWTVEb2pyTUhCWVhRYkx0WFU?oc=5",
+   "source": "Наша Ніва",
+   "date": "2026-11-22",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-22"
+  },
+  {
+   "id": "0b7249f2738c",
+   "title": "Anduril Plans $3.7 Billion Sparrows Point Plant",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWh1UXlleENNSTBwSnAtQ0poVVNFYXpSWWtYd2FJQXVDX0NLTEpEcGs5QnRScjBGYTYtTl9HR1E3SkQxNmJaYWtJazIyVXNWWHVxWHB1TkowQmx5QkxPckIzX3pUN3RJTjFBT3lYN2RkR2FUZXcyQi1qWmNXc3NWVXVkdEdraWxmREtYVGlEV1J2Ry1XenRXaENkdXZPUQ?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-21",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-22"
+  },
   {
    "id": "79ea9db03a80",
    "title": "TE Connectivity to Invest $60 Million in New York Manufacturing",
@@ -83,6 +109,19 @@
    "state": "NY",
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "5423695a99da",
+   "title": "Photos: Empire AI facility groundbreaking at University at Buffalo North Campus",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbzJManJpZHBET0VoWlFseEN3ODB6SmVSUi1CT0E0YVFsVHdIME9hWENZUFQwb3pPYVA2aDNtQ1J2LWVZMFJtVnBJdkdhSUNUazRCX3p6M2VBSXVDREF3LTIySnZrZ3FhQlJyRHhmVklGUHM4VmFqZ1hyM0ZOVXFROVQ4SG9CY19IMDdnaTE2cXo?oc=5",
+   "source": "Buffalo News",
+   "date": "2026-11-19",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-22"
   },
   {
    "id": "87d788b78c13",
@@ -365,6 +404,17 @@
    "state": "NY",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-15"
+  },
+  {
+   "id": "dfccb22be25a",
+   "title": "Extended Maintenance Buys Time. It Does Not Create an ERP Strategy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm1yTDV6LXBqWXEzWldKd1o5VGk3V1o2UngxNXVVSlc0d0VhVUhQTldrYnZCZVNZd3FWVHdqMjJfQkZEdjlLMkp2NDNBVHI4LWktaW5US0R2ek9wVmJFejNqTUJkMzR5eTlEY0k5TExmNzRGVzJmVWk4eXJGYk1JT2NnbU9tOWtYU0daa2t4cHIwbXFBcVRXM1pneUpiRzhXZS1pdFJQTnY?oc=5",
+   "source": "The European Business Review",
+   "date": "2026-11-15",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-22"
   },
   {
    "id": "f2349bfb5e69",
@@ -1622,6 +1672,17 @@
    "first_seen": "2026-11-02"
   },
   {
+   "id": "cf91eebae181",
+   "title": "Toyota Mississippi to Begin Corolla Hybrid Production",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOanhjYlR5WkdfWUItaXhlQ2NjU3FjYjNabS1uQUZLX1F4YmtocFE0QVFSaE5XdlRGcGVxOGFnYVI2UV9DNnJtbVpSdGdBLV9fT1ZpcGluQWFYbDRFUFhiYUJRY21TUDE0RHRSeFRLZFRWVVZkQ0pBT2lQV0ZhdS1FbUZnaG51cWlkamNuV2ZLdXo3OF84cmk4aTBsQjI1NEZjRS1QWDN5bHBYWlpN?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-10-31",
+   "tags": [],
+   "state": "MS",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-22"
+  },
+  {
    "id": "9d98541d2ce9",
    "title": "Edwards Vacuum Celebrates Grand Opening of New Semiconductor Pump Manufacturing Facility in Basom",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVS0yMWVkTFZFNHZoRWJCblUtbEdaYzN1a0VMbHBfSGlfcFB4cXp2OGhQV0tJak1kdWh1OEhqNl8xWVBYLVJqWU01em5CZWZzVlZGU1o1OFZLZVVEUjRQdjdLSDEwUGNFQXhQb05aNjBSNWFWdXRjY1lnenlNOEtMY3A3ZXVFRkVEZGw3MkpXNWxUWEt5WU9TSWVKZWxxcFMxQXM2bkl3M3YyUi15RERjLTEyNnlvRUdDZFZKRmhHeGtCTXM?oc=5",
@@ -2514,6 +2575,17 @@
    "state": "MA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-10-29"
+  },
+  {
+   "id": "27517352348d",
+   "title": "KPS AG - Retail transformation and implementation",
+   "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9HUzV6QkNBeUFIRF9sbVVUTVNLTUhWVGpoLVlqNEZFZmFxSEUydld4cUo0WmJ2aFFCajY1WkRlbw?oc=5",
+   "source": "yespress.io",
+   "date": "2026-10-25",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-22"
   },
   {
    "id": "25e1088ef292",
@@ -5216,28 +5288,6 @@
    "state": "PA",
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-10-22"
-  },
-  {
-   "id": "e5a4634dc67e",
-   "title": "Natuvion IT Transformation Study: data quality is a key success factor for enterprise AI",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT0VTV1V6OUVhcXZXc2U2TVFZcFBzcDVIQzN5ZDAxYUtmYlRaejRFRERBVkpWeFF6MnlsSnh0WnVyQ2kyZUFuaDRoWGZHd1FuRVRnMC1TS2wzaUxIVHo2SkhKZnA1dWRaWm55a0tvd1Y3UzBGYzYySFVxY1ZGLTRjTkJKS05ERktrRllPc1MyN2s5RTYzUGU3aDk1UkQ0dTdjZmtHRDB0ZXBRcW9FUG1iSUtvM21rMVFNT2I4UWQ4VkZRZ1RpVG5JdjNSWnhTTlZHR2hIcXZlTU1hTTR6bGxoS1JpMkg3Q19EODdMOUpQci3SAfYBQVVfeXFMTWhZVUNvQy0tZnJHYkxSQzRCSDBPRjAzUWI2NWNvaFRBdUpaMF9nTWJUVlFFeDBxeG5LcVJRX2hUQ3FobXJsSk01NTV6bGFkN2xCRkFhbjdtZnFqRkszRlFfdXE0TlhkTTZETjJSYm45T3ZsOW9OY3l3d3FGV08yR2ZMRGF6TUdVSzJlekxjRlZ6WWwwdU9NeW42MzBKNnZpOUZQbmlMRmlrLVVhbUFZT0gxZllNUU5MdVBwTE91R3lLcXc5TmxHWFYxQjFyZThUQ2FVYmRSVWpxVGFWSlpYT3pMUUI1Wlk5NmRpeFRZYkFzdHF2Y0tR?oc=5",
-   "source": "The Manila Times",
-   "date": "2026-09-22",
-   "tags": [],
-   "state": null,
-   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "d64d7bdd33b0",
-   "title": "Pennsylvania Chobani Plant Announcement Is a Big Opportunity for Dairy [Opinion] | Dairy News",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYV85RnpDSDd6YlJWcXdTdDNjTmJma0EyaGdEeHFsUGVWRlFEQkhSMUdJZ0szZk5XV2d3NlVSa0x1OHU2TG00STdscWFoYUxSblpSZS1pczJJYWhlc192VFowVHRHb0xpWkx3Q2VZQ1ZRcnhYVDVyODRGZWJ4VFJaYjQ4YVotdkppMTZGeGM3Sk13UWNBUHlvdmk4TGtSLTgtTUdnbXkwY25maFRGeldzamR4NHdfNEp4R1dRUGp2YXhBakt5OFRnSFJzX3NpelJ6WktqeTY1bWhzTXhOeF94WW5wRTRqOUw1TDhiV3NYdnNJMGtKVEl3Z0VxZ01GNUt3TEV4Rm1USHJjYW1l?oc=5",
-   "source": "Lancaster Farming",
-   "date": "2026-09-22",
-   "tags": [],
-   "state": "PA",
-   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
-   "first_seen": "2026-10-21"
   }
  ]
 }
