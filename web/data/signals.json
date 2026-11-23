@@ -1,6 +1,87 @@
 {
- "generated": "2026-11-22T18:43:04+00:00",
+ "generated": "2026-11-23T22:53:47+00:00",
  "items": [
+  {
+   "id": "8c827c038b1c",
+   "title": "WuXi Biologics New Jersey Site Enters Commercial Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXpucmZkVG1NZmY0UzZGanRFRi1IZzAxMjBzVGZ2WlNiOEk1ZDdyQkdPeWVlMFJ1cVRVLTZlUTd3aEJFTWNRTFF3VTVxdTF3eGs4YlNxODl6bl9FVGM0amlwYWZXZ19TSUVSekpWZjZOdUR1YlBPN21tOVdzVHRRZkVoTDJmalZuSjRqSTZ3QmV6R0Zvby1rSDhPd2Q2MHp3dUNJNUV3ZGdVQmlZWUNiYks4RklIY01Ja1V6Y0RrNXJlZw?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-23",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "d3d75e208a76",
+   "title": "Cambium opens Maryland manufacturing, R&D facility",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nRTA0OUpuZXMxeHhITWMteUdSNFRfYktnbDVzX0VfT0huU09fNFVyMm5hWEFGZDZ5SFJoZlN6RG1tcHhrY2N2cE1tMGc4QVdOTjE2RGIyR09MR1FFWlJrUDZJdm9rN0s2aFM1NXhsU3JtSnh2eE5zZU5n?oc=5",
+   "source": "HBS Dealer",
+   "date": "2026-11-23",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "22f39c6dc4e1",
+   "title": "BD celebrates 85 years of medical device manufacturing in New York",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0prYmdrQnE0dl85bzlacmlPOWhlclpiZnpMa2hQWXU4TmJqRGhmMnRMbHJEYm53N0stblk5cm4tb2ZlRlhlY2pVb2JMYXVlalBPeW5NZVc1UURCYTRKRXBmVGNxeEZLbjY1YjRVN1VLTVFabFM2ZEdHclA5YnlTZjRySVRybkpwS25MN2FpUUZOYkVWTnFXbW83Zy1aVVlmY0xialRfS3hseGpK?oc=5",
+   "source": "The Manufacturer",
+   "date": "2026-11-23",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "869ac07dd2a9",
+   "title": "WuXi Biologics' U.S. Site in New Jersey Completes Commercial PPQ Campaign",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDFlZEVKbEZOTFBubDFQaG1YWTdWRnluYXExaWdhYTJPVDBOdjlUeFpTSDlldmhzSzJlVmxkOUNHUWM2Qzl3RUpuR2RPemluajFxTldvMHhWaTdjNC1vYjZiTUY0Ukd6NVYzcUZiMkVGTmRsU3NkM3JxcEtLYkFSTTRwdzVBZUI5NG9wUHlaVEdwcGFaRkdHSTM0WHE0T0VoeEpxOVY4ZnVTTzVFOUhjVWNYQ0loNmNPcC0ya2kwRGFCRndLdnc?oc=5",
+   "source": "StreetInsider",
+   "date": "2026-11-23",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "9fed5cfca977",
+   "title": "BWXT Canada agrees to undergo AP1000 manufacturing qualification",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUFFZV2NFVUk4X2VEVnFwei1zVm9pVkJyRkNiQV96TGw4cl91U2lFYWJEb3JwLWxJbUtiTDlDaVE3cng5d3NtRWllNFhZTVBJVGhON0pTa3FlVmVUSEN4aUo1Ujh3akhZV1VfTDhQWFB3cHRUZlVzZ1BwZ1FPU2F1UzVReGptbEJPWFBMM3pzMVhwWGJESlE?oc=5",
+   "source": "Mugglehead Investment Magazine",
+   "date": "2026-11-23",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "92b3187108f2",
+   "title": "Already clogged I-78 faces new test: $4.7-billion development boom",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmJnUGtKWmo2SEttZEhLekNmSFh5MVZLb3R2aU9qUzJOd012allPNUFSTnR5UUxCVm5ic0dsRkFMWldWNkVIdGk2YVRzck9xcEVYREdNRFlLbVhFM294SUZYWFhRYjkyNF9WUTV6NURhWEJtYkFkQ2l6cmo5YnVWem9IWUVScDFPTjZGYzhyODQyZGZkOEpWMmZRbUV1b2stWVVlY2dhTHhwaEpFdFdRbzRKeFI?oc=5",
+   "source": "LehighValleyLive.com",
+   "date": "2026-11-23",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "b603a0699d0b",
+   "title": "Coca-Cola United Dublin Distribution Center Groundbreaking",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1ByQlJVWTJTa19NNWtzZkxVamRNSVhNbmtHZUhTUDgwVUt3bG1MbDBPN2R2cmxHeHgtNTlHalhNZENZeXlGdVJ2TnRDSFBDb21DbDdlT1pxVVE2NGlBLTRhODV0d0JHcE9RSTNBLVM2UVlDVXR2UFAyVEdkY2hJbi1Xb21URXRiUjB5WHBmQ2ZhSlBOYmpmV25WR0V1ZXNHbUpKZk1CYnZYNC0tMjFqNTduOA?oc=5",
+   "source": "Hoodline",
+   "date": "2026-11-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-23"
+  },
   {
    "id": "4efa28955f3a",
    "title": "Belarus begins production of a building material not made in China",
@@ -13,6 +94,17 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-11-22"
+  },
+  {
+   "id": "5a4afc8e03fe",
+   "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzNaTFRSWC1iNk9rYXhLLUNFZkxRbXhQVGZHaGh4ekJVSmZuZTdFYm1SWENrNGE5VGhLWWk3ZWpWM05OVFd5X05pRTEzMXFwaFdBUXRhNHJtcTg3Ny1qLVRhUnluU2VuN3VfcnREQXIzYXVJdWJVMmNCNEM1d1JfT0FCd1dBUmJD?oc=5",
+   "source": "The New York Times",
+   "date": "2026-11-22",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "0b7249f2738c",
@@ -39,6 +131,17 @@
    "state": "NY",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "efd95ab700ff",
+   "title": "9 NJ companies make Time’s inaugural Top Manufacturers list",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOei0yOElPYWJ5aW1WdUxaX1Qwc054ZktHd3J4YjJPTTBxQlZrVm5EZGJKZUJHdFV2cFNLZEREd1haSjByWW5ZNjh5b3pRTEo4Tnh0MDJITlNieThTZ1oySkduR05oVUNaZk5BM1ljYjA0VWtYVlNnaGxwQnR6SW9vR1lMTQ?oc=5",
+   "source": "NJBIZ",
+   "date": "2026-11-20",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "04dfb2f4fc22",
@@ -194,6 +297,55 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "44c40ffe6065",
+   "title": "Hadrian acquires steel caster, plans $300M facility upgrade and expansion",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEhMLVhwUGtBZm5qOTdIbFYyMDJKSDgxbloyZGFVS3JZMEpQZEhSZ1p4QURlQXNvUVBTdXRabDlmOUQzUF9zUVV2cUtsN1UwNUZDazdweVhYM1BOd0l5OXRZa3VyM2NVQUpmSEtJRy1yXzgxZ2dCdGpTUzlIWG8zb25QQi1pc3JKb012N054Rnh6emtiTlp1VUtma3Q0MW01U25JRkZyNUE4MEs0MHp0clVvaWs5QkQ0a2cxTA?oc=5",
+   "source": "Manufacturing Dive",
+   "date": "2026-11-18",
+   "tags": [
+    "plant announcement",
+    "carve-out"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "10ef39445479",
+   "title": "Cambium Opens 118,000-Square-Foot Wood Manufacturing Facility in Howard County, Expanding Production Tenfold",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOWFUUlFxNEJPLU9ONldobFE4MDZUOS1abDhfWjEzbWE2T0ZYcEYyUDBiUzduMnN5WUM0djlEeGZQcHdhR3lmZS1zbWhNaXJ1WjVDSnd5bmx5VU1yVjhzZ0FrQ04ycGJsVlpjemd0OUFGdnVQU09JSWdPLXZJa2pNZmNxRDYxcXRxZUU3RlNldU9QbUF0Y05kNTkwWjBRQWNXRE5XZUgySDVVYzNiMG1NS2xzcHBWejJRMlhMdUdteUh3TzV5Q0ZkaGMyekhGcGc5eE5oT3NPZnJLSHpoT2c?oc=5",
+   "source": "citybiz",
+   "date": "2026-11-18",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "39039f25847a",
+   "title": "TE Connectivity invests 60 million in fiber optic plant in New York",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSG9PcXRpdk14M092XzhTMF90ZWlucU9VUzJTMFppY2dsTzNPdWlsZTRoTGFkY21mOGpVTHdkODZ5OS1UaXF1TU1xTVJyUXlYM25RYWZpWEoyNDJwaS1YQkd5amxMM2FDVG1pNUpCUTlWVEE3ZE11akc3TVY5REEwR2dCX3dCZmU5Y2VkZ3gybWJSbDEtV25FQ0dnVG84c3dzVElVQ0IyVGVDNjFTZWYyaTRn?oc=5",
+   "source": "Foro3D",
+   "date": "2026-11-18",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "941858a00b7a",
+   "title": "BMW begins U.S. production of all-electric iX5 SUV in South Carolina",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxZlV6ZmV6UHRBZjFQYTRYOElON2Y3cGNsYU1YOVFCWHhya3JmcU83aVNvdE12azdVZHhZMDA3S2FMRHhPWlZtTXBrdHY?oc=5",
+   "source": "CBT News",
+   "date": "2026-11-18",
+   "tags": [],
+   "state": "SC",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "6df5f75f0e35",
@@ -395,6 +547,65 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": "a955dc53bc74",
+   "title": "Hadrian Buys Pennsylvania Foundry, Plans $300M Investment in Submarine Component Production",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazlxUFRxTmlSUjMwV2VfTkp5bFF4dm5mN1FTd3p4MTdrWjhfTjFiWmh1N2RRQlRTMFZxYlgwcXp0WmdLNW1sTG9FUXlfNWwyQks2MEF2R2JyVVVLVzlIbkVNYzJsbzJQb1NTZFptMmZpMEVKT1RHR0x5QUNsU29RdXFhSFEybUlTLWxRVTU3a2Q1VkpyTEhUMmFNMmwwNXBZUVZvdVZhU3A4Y0xCNW0yclQzR1VuQUNQV2JERFJZYw?oc=5",
+   "source": "Tectonic Defense",
+   "date": "2026-11-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "7b6f0e386f35",
+   "title": "Eli Lilly Breaks Ground on $3.5B Manufacturing Facility in Pennsylvania’s Lehigh Valley",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmpLS1ZTbEtNaEJJOXBlYUFha2VDbVdManNBNDlZLTg5UXM0M2ppWjhMM3hHSVZFTjdybUNSWWhqNUZCOExpOUsxeUhiTVY4ekM0MjVvbV80cmc1LVpWbFhabEJlZTQ0bjNrTm1KemUtbGg5SUp4YUpuT21JemxVdTRwQmhjS3EtUklRU2ttYjNMUkxqS29ScXpia2lScTBoNjRORzRta1Q1ckpsZGFaTGtYS2ZoQQ?oc=5",
+   "source": "REBusinessOnline",
+   "date": "2026-11-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "b5062ef3c8e4",
+   "title": "Project Bulletin, November 16, 2026: Tomball, Texas; Manaus, Brazil; Groton, Connecticut",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmVZbUprOGdJV01jNDk5MDV2WnRmSjNRaWtNZ3NoRWRnNlBhQWZleGhuVk12RTR0TXBDQmdKcVFyR0ZiQ21TTTUtVDRxYVdoNk52T1ZMcEJGVS1VWFF3czNaRUxXTVJCUFp0Ymh1MG5kNjctLTM5N1J6Ujl0SHVMdHR4Q2NhT3VsT21RbDFfZHVuMnM5WXJaSlhZdEd0SVhFb3hicm9mLVdUNnc?oc=5",
+   "source": "Site Selection Magazine",
+   "date": "2026-11-16",
+   "tags": [],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "21413ed7f63b",
+   "title": "3-alarm fire damages manufacturing facility in Morris County; no injuries reported",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2VseXVwWF92b3BCQXVIdUxIN1hNR2JwN0ktbUNTVjBmYmZtZko3bUZBeWtjUUV0ZElxc2hYaExVVk1SVHEzM2dEWWVRVFduUVpNelQzU1M1S0p5dE5uRVhkREtLc055LUhrZFk1a09palZIdmpkaWZDZzg3WjdGY2xIVUVQWGtQUExMTHIzRVl2N1FHRVlvR3kxWXEwVDRhRkd3UU5CQQ?oc=5",
+   "source": "WRNJ Radio",
+   "date": "2026-11-16",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "a89e675e1d1b",
+   "title": "Why TE Connectivity Is Making AI Optics in New York",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUZQUmVEb1ZGbTlCNTFUXzhZM1N3NXJZYkR3dVdLekF3cjBmUjZTbzc4VkJqWENWRFpzaDAzc3REWXhfSDJ2MVNIc0pGNnJueUEtNldzWFVGTzdFbTdfZHFxb2liNHRid2xCYTBndUdObjN3REVIRDRzMmNGTXd3V1N2R190aDhGWUNHM2g2ZzdyUFk?oc=5",
+   "source": "Manufacturing Digital",
+   "date": "2026-11-16",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
    "id": "76d90593b8d7",
    "title": "Upstate growth and winter fuel risks add urgency to New York’s power planning",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaU5XWkQzV2YzZkd3bWdfWDRxT2ZOelJ2UnlUOWp5b05HZUhnMDNhbG9MM0hUTHl1OTFheVM5Rl9reURONDNUSmxkQzJITHJIWGJoVjlIVllsSmxtWWVtVEl6ZnFWb3JEMUVxSy1LWElrWC1LRTVuajBJeXcwRnJRbkpYMHFUUVhDX1U2RUgyaEJ3QlhmNFhfbFc5MGl1bWtUenBSd3lIVzF6a2w4bW51NFpfZTdZNm5y?oc=5",
@@ -415,6 +626,19 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-11-22"
+  },
+  {
+   "id": "3934cf942ff3",
+   "title": "Lilly breaks ground on $3.5B Pennsylvania injectables plant whose first named drug is still in trials",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWmJDcDBQUlNMc29KQjJ0UTRoVkZRQVhmenQ1VllkejJfeWtvbFdfajk5ODJFTXYzQUVhZXhoNjltQnd5bHpUT1EtcE5acGRRbVJsQzhSOExCd3JDZUc3bXM0dENIN1VPQzVZSEd5RDNuVXVSMlBGTkdCeWtGRzF2M3FtLUNhWE5FVXFPclk4UC16YnNIQlhmcDB0cE5lXzg2ZHB2UTJ4UXZiMXlpVjVGU0NMai1lbG5nY3NTQk1OYUtxNmQ1NmJDVFFxRUxwendMajZTR2FxS3prY290R3BuWnFlVEk5Tk5WLU12M3FlSkM2SVg0NzRRMGhyYw?oc=5",
+   "source": "MarketScale",
+   "date": "2026-11-15",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "f2349bfb5e69",
@@ -480,6 +704,17 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": "c0db62958ce0",
+   "title": "3-Alarm Fire Rips Through Roxbury Manufacturing Plant",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWXF3WnZRSlV0eU1HOExCUUJOR3dELWkwaVRaWXFXOGlOdXRocWtrN1VLbjRtdzU1c1BndTBlZFM0ZFhLSE1NN29OVldvemVMUzNDSFNocDZlbHhzVDh4SHNjZU0weXRacjl3TE5TWlZRMlVGVXBoLTktb0tNSG9KcVl4RFB0UQ?oc=5",
+   "source": "DailyVoice.com",
+   "date": "2026-11-14",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "bb02cf478169",
@@ -735,6 +970,58 @@
    "first_seen": "2026-11-20"
   },
   {
+   "id": "00687db675f5",
+   "title": "Microscreen, SMTA Connecticut Chapter to host open house Dec.10.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjJfaEZfYlB2M1NGUUYwS0YxbzVjMVZIZV9VWklTNGJsSG1Ybk9yY3c5bUZRV2c0YU9DYTBsNlRHem9JcXZSRENaeEpoVXhwQ0hkejJjZzMtM282REtCTWNaTzh2cWtobkM4N05EcFhoZl9oNW83MmExWGtIejNvbnhPYUg2dlEybnhWVjh6Q3o1cU9BMmY4UllRMTg3SE9YRW5McWpkalNyYm9HR2pYMzJUMA?oc=5",
+   "source": "Aerospace Manufacturing and Design",
+   "date": "2026-11-13",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "6f100e452e02",
+   "title": "PharmaLogic to acquire Lantheus' radiopharma manufacturing business in New Jersey",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4TEtVMm9ldWt2ZFVaYTJPdElzV25nUkNUYVVWSEZKTXBwMTI0WjlxVHIyY0hMTEJSWmxrSlh6ekthUkFDenRVNXZlYmc1bWV2?oc=5",
+   "source": "DOTmed",
+   "date": "2026-11-13",
+   "tags": [
+    "carve-out"
+   ],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "753e341ece67",
+   "title": "GlobalFoundries Breaks Ground on Malta Fab",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHhIUGFZRGlzdlZhTFdLTVJEM1BzOExNZVZpMGw5MnlmVzB1emZ3OHg1dlVPQWNlbmtjdnpkZ2ZBVUw5REEzZ2JHMnQta0JjRGRpMnBBLVl1V0VqQ3d4bHBoWnJFMkhsUkRUV0hSN2lxSm5KX3Zrd0Z6aU5QN2IxSS1HN0NPbG15Ri1NUVdTRGJjNUVKeU5GOQ?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "0cc91ed30331",
+   "title": "Trump celebrates Eli Lilly breaking ground on new facility in Pa.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaDVyMXJNVTcwN1AwMkZvVW9ScFJMY3dDQkEtZGcycEt4TjgyTlFYQkh5ajRzUTgwZ1QweHlIUEprMnhxaVoxLTg0RnN3cnFmQ1pmSUxmN0J6Vnk1Q1FWLUVRQWJKUHRQdlRBYXlTdGVocnNBMjhqVzdGMXBjVUFJWVFHQTRyOVBmanNiX052UDJaaVdtdjBrTzdUZw?oc=5",
+   "source": "One America News Network",
+   "date": "2026-11-13",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
    "id": "d790903f7085",
    "title": "TE Connectivity invests in New York State R&D and manufacturing facility to develop next-generation optical connectivity products",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRU1rV29FUVJFSkpJTjhMYWJpTjJIanBTX2V5UUJIS1F4MnNlblhfMGJIQzJXcnpNTkhGR1pVOWw5a2tuMHhjVWstSGVDMTU0NEQzclE3bk1zWUt4dGtENXhnZF9qbUstdm1QSjVYNHpPRUFBbmtpTDhVbXRkTVlsVkVqNDlUWGs3VExScU9jME9idDVxRlVMQVBPa3JLNzlhdThkaHAyT0RwaEJDTDdKR1BsVm9ZcXJOaldMUW9MeERIN1FWLVJlOGcwMVNaUkFqZkFlRC1DUzNWZlFIb0RTVTBUM09mbGJtY2dhSmN0aXQwOURhSTNna2o1dEIzbTNrWXViMEx1a2lqdHJLNUY3Y09n?oc=5",
@@ -903,6 +1190,30 @@
    "first_seen": "2026-11-15"
   },
   {
+   "id": "0c93035c0f69",
+   "title": "Lilly Starts Construction on $3.5 Billion Pennsylvania Obesity Plant",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWxEM05XLXpiaW85V3RnN1pDYU8zYmJLRWZRSGRVOWdoY2ZaVE01a1A4TmxCeTdLbXhuaFNLeDJiZWxobGRtbHA4NG1JdUZxOExrTjJmYWVySGk5aXRIT3dqZFBDaEZ5aTE2WEdOUWVqNVdNQnJ6bmJhbGRIODRqM1hrOXJwelF6SUQwaThDSkx1aW5tbC1UclhB?oc=5",
+   "source": "Securities.io",
+   "date": "2026-11-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "ef625a98a7f9",
+   "title": "More than 800 jobs are planned near Rochester for a new fiber-optics facility",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnRDWjRiQmYwOXRxMG9ybUtCQWJZTnFVd3dTVHpLenpSdzh6NUZVMFVESXo4Njhydk9xZkY5X1lQcVl5WGJGMHNhamlCRGtYTHdhSGo2TzJZLVFKUEtRcjY1N2NzODBqZjVQTEhkaVU0X21LeHVMVFo5ZjBLRDlvcGt5cmNXVGZsSlVDMXhrd2ZBMEtROXFKRl9rZC1kcnpnSkM1TXBFdkN1ckM3cFdkb0xCMkliRnp4?oc=5",
+   "source": "Stock Titan",
+   "date": "2026-11-12",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-23"
+  },
+  {
    "id": "aff7f8b57fe7",
    "title": "Groundbreaking for packaging facility in Orange County",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ2JqakFkZGZBQTVmY0p5UTlrQk1ReDdVTnNYZWVkcTlNdjhpeGNxQng2Nkhtc1ZsclZtRGxNbHQ1OUFMYXkzclNUTjl4LWRHdS1xTGtOUUMwclB3MVJnX29qdWo5WUFhTXM0Um9zQ0QzVjA0a2Q1NXJ2cUtwdWM2SHJhOFB5U1ZXc3E5ZjkxNFR0MFVleFpZb1M0Yw?oc=5",
@@ -936,6 +1247,17 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "d64d7bdd33b0",
+   "title": "Pennsylvania Chobani Plant Announcement Is a Big Opportunity for Dairy [Opinion] | Dairy News",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYV85RnpDSDd6YlJWcXdTdDNjTmJma0EyaGdEeHFsUGVWRlFEQkhSMUdJZ0szZk5XV2d3NlVSa0x1OHU2TG00STdscWFoYUxSblpSZS1pczJJYWhlc192VFowVHRHb0xpWkx3Q2VZQ1ZRcnhYVDVyODRGZWJ4VFJaYjQ4YVotdkppMTZGeGM3Sk13UWNBUHlvdmk4TGtSLTgtTUdnbXkwY25maFRGeldzamR4NHdfNEp4R1dRUGp2YXhBakt5OFRnSFJzX3NpelJ6WktqeTY1bWhzTXhOeF94WW5wRTRqOUw1TDhiV3NYdnNJMGtKVEl3Z0VxZ01GNUt3TEV4Rm1USHJjYW1l?oc=5",
+   "source": "Lancaster Farming",
+   "date": "2026-11-11",
+   "tags": [],
+   "state": "PA",
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "8f417d16c3ac",
@@ -1302,6 +1624,17 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-09"
+  },
+  {
+   "id": "d6f227268c9b",
+   "title": "What Manufacturers Can Learn from ifm’s Digital Manufacturing Journey",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Vc1NXcXBSQ29zWUtBbFUxNFVFVHl2ckoyWVNpQWgySGZqcjlSMWdoQ29oUEplVlhtbjFhTFZmYmpyeTh1YlZYdWxJTzdUV0QyOGNQbVdxUFNEY3NLZXh5aVkwdG1ncmtZRkhYdGtlX3lMeG1aVEE?oc=5",
+   "source": "SAP News Center",
+   "date": "2026-11-06",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-23"
   },
   {
    "id": "2861342a2aea",
