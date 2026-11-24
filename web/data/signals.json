@@ -1,6 +1,50 @@
 {
- "generated": "2026-11-23T22:53:47+00:00",
+ "generated": "2026-11-24T21:25:15+00:00",
  "items": [
+  {
+   "id": "02b5a622c8f0",
+   "title": "WuXi Biologics’ New Jersey Site Enters Commercial Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZG82R3B4RkVKMWlibVZ3RG9rRjZMT041Y1czbUVaTzdnODlxRUROQm1zb2VId3I4bGpPTm5VYjBxZ1h1Zmotd0pUbkZhcnNLZ0RnUTBtTmlrWS15QWgyOUpvNHA4RzdWUXY1dk92ZmtuczNmTVBvU2xrUlhrVXhnc0ktYmNwU0I2WEJyWWw3aHRlLVNZbnNEMHM2SVh6Nkx5Wl9fblFvZVhHUQ?oc=5",
+   "source": "BioPharma APAC",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "e4a35b953235",
+   "title": "Johnson Controls plans new York plant in Texas",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRU5HZTlpWGU3MUFqbEo0OEtRMGFvczFTS3VFNWdJQWhJakFhYUZUVXNhc2R3U0JoTmZTeGFYaWItLWY2SVFnVmZmT1ZNeXNrRlJ1VXNiNmEzamxfYWhfc29lTGw1NkdLeV9jNkhZYk90RlpnMDhDWDY4dDlvLWhIeGFOVGxselo2Tl9Vekp6dw?oc=5",
+   "source": "Cooling Post",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "0ed6b80f93c2",
+   "title": "What 120,000 Migrated Batches Taught Me About Pharma Traceability",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWUyTzhGRExzU3F5QW1ibnNBR1FYYk1lcjlaZi1XdXZWaFZ1TmR6OTZCaUhLTEc4WDhRY1U0TlFNekR1WUlCMVF1ZUF3QkVSbWpXazZPbTNGNzROSzhuWDc2eWdmZGh3UzE4b1RxNFlzcXJFdS1lNGxwbFdEY2xFX3Y0dlI4RUI0RGstRnM4TnR6QXpnWk5LRUJkX09KY0d6Nk93bXN3?oc=5",
+   "source": "Pharmaceutical Online",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "f26d4a930bd0",
+   "title": "Centre Lane eyes $1bn Fund VI for complex mid-market situations",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPak8yM180c3FSSVdackI3a05HSDI3OGlKNWZsWENFdUFUd3hHdVM1YUc4SXUxeF9TUUdabXQ2VU5kT1BubnRhNDEzVkFzaERJTDNhNW9nbG43WXFoRmlsbTB1czVIamJqUXRuX19sQ3pPX0t2Yi1mVG44VUF3by1UU3BydjBINWhqRHZwMDk1TjNBTmNuVWEwVmFNQ1h0elY5TGp1TWlrYkhndw?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-24"
+  },
   {
    "id": "8c827c038b1c",
    "title": "WuXi Biologics New Jersey Site Enters Commercial Manufacturing",
@@ -81,6 +125,30 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "0657bbeea274",
+   "title": "WuXi Biologics' New Jersey Plant Enters Commercial Manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWxvM2FYRWE0Q3BBTEFqWTdqVmZKbHhNWEJfdXBlMFhVdmhrM294bGwxeXRaUUlveUFHNUlNWGtESjlUNFMwMTNJb2xDa3UtOEJfMUZfV2xpTUxvS1BuTW55SHlDR3NHT1B2eU9qY1JZZC15S0p5YXg2OGJGOFNVR1lWbFZiMzlFT1oyODJudEIwYXYxRDREUDNCS2xxbmc?oc=5",
+   "source": "BioPharm International",
+   "date": "2026-11-23",
+   "tags": [],
+   "state": "NJ",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "id": "1df98c3e600a",
+   "title": "Coca-Cola United Breaks Ground on $20M Dublin Distribution Hub, Dozens of Jobs Coming",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1ByQlJVWTJTa19NNWtzZkxVamRNSVhNbmtHZUhTUDgwVUt3bG1MbDBPN2R2cmxHeHgtNTlHalhNZENZeXlGdVJ2TnRDSFBDb21DbDdlT1pxVVE2NGlBLTRhODV0d0JHcE9RSTNBLVM2UVlDVXR2UFAyVEdkY2hJbi1Xb21URXRiUjB5WHBmQ2ZhSlBOYmpmV25WR0V1ZXNHbUpKZk1CYnZYNC0tMjFqNTduOA?oc=5",
+   "source": "Hoodline",
+   "date": "2026-11-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "4efa28955f3a",
@@ -639,6 +707,17 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "d22d69fc416f",
+   "title": "Graham Partners - Investing in Industrial Change",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXb0pfSUhfT0VjaXJkNXRZMjZvcjNDMV9lVHEzSzhtcmM3ZFY5Y25KVkxhYmY3NXo0MW4tOUdRRlJMLXhuNVk0dnFVcw?oc=5",
+   "source": "yespress.io",
+   "date": "2026-11-15",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "f2349bfb5e69",
@@ -1212,6 +1291,19 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "6b9e647c0ed8",
+   "title": "AURELIUS to Acquire Resonac’s Graphite Business",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53RnhmRjRUbUZIZGN6cDlzMFdmdE5UZkNmS3Z2YXY0cFUxZVAwbUlMNW1JdF9aUFl2eWp2a0xMczlqdVBia2tIb19ic3dTSWZWRlpreHNONm1VQzhrWnQzdlQzSkpfcWQyNlVDNnVHZ2dWODlyazRSeUY0TW8tdw?oc=5",
+   "source": "aurelius",
+   "date": "2026-11-12",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "aff7f8b57fe7",
