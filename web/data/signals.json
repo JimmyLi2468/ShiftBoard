@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-24T21:25:15+00:00",
+ "generated": "2026-11-25T20:49:53+00:00",
  "items": [
+  {
+   "id": "976850579b81",
+   "title": "Wood recycling startup Cambium expands in Maryland with new production facility",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV081LWZRR0tmVmM5LUV5RGljNndOSDdNeUhvcHBNY0NBSlFsYWY4QUx6SURKNEwwNnpWdnVWZGxCWmVyOVhRSzRxVzE0UXBfUHlqVzRsbVBucUFERF9jR2w4SU9NbXE2eUFPQ1Z2NS1mempncXJMbXRUdjNfZ2NDdENVXzJ0VmdQVm1ucjQwQjRiM04zcVhj?oc=5",
+   "source": "Technical.ly",
+   "date": "2026-11-25",
+   "tags": [],
+   "state": "MD",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "ebf5e84e1148",
+   "title": "\"Meerut project an anchor unit, will create thousands of jobs\": CM Yogi on Ball Corporation's Rs 3,000 crore plant",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVHAwQ0l2UUNLdnZMV0VtVjhERENrM1Jvb0ZtYXF3Q1lTVm9pSDIzOUZSRGZobVNfT21oU0s2elA2WjBFU0tQeUFvb3d5anNhNGxEeEY1a0t2b2Jsb09kc241SVRTbG96VDJNNVMtUDNXT3N4aVJ0TDFZOUJHQ3kyNXpuTGtpZEdvS0JDcE9oNE51NGN3bmxTVzZmdzRDcHBhQ09JbFgtdUs4VVBvX0E2N0FUNmQzNEZHM0pjZ3RYd0dnemJHcUlleE9JMDg4N1BfYk5NVFVlYnRCSmR5SWJuTHJ1WVNCZw?oc=5",
+   "source": "https://www.indiagazette.com/",
+   "date": "2026-11-25",
+   "tags": [],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-25"
+  },
   {
    "id": "02b5a622c8f0",
    "title": "WuXi Biologics’ New Jersey Site Enters Commercial Manufacturing",
@@ -44,6 +66,65 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-24"
+  },
+  {
+   "id": "1b0a1b770a61",
+   "title": "OakBridge Foods to Celebrate Cudahy Facility Groundbreaking December 1",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEF5UkNZUGhXRTRrbnhxczdCOF9TcUtpck1icWlDXzBoS1ZmTFFSSVJtRHpDSWhhQzJwMWtoMnNaaERMQ2dNYTFsSW5vQlV1TDR5c1diUExiLWRXa2I3Umd6cW9xejBTdkV1N0FrQXRnWlJfYjdxNEdINWE3a3EzUV9OUHNJSC05YndBdnlDbkRISG95RHNvMmhLeVNXWHFpeGJ6eExKUGVaYWtmNmIwTw?oc=5",
+   "source": "Urban Milwaukee",
+   "date": "2026-11-24",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "dba1e6b03288",
+   "title": "Ten entities, 42 plants, one go-live: How Caparo India took the big bang most CIOs avoid",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOTZtZU1CbUtNWElRZkFXeDhybGJJcUFuZkRGT2RBRVBHSU82VHJUR01CQ1gzT0xIS0JNREVYVEIyMDFkRzA4aVB1enpiV1Z3UFNxWE9yekY0SFIySHJtQVBrUlM5OEtVM0RhbWNRdG1XdGZGR3JRME9xR09mQmd5U0k2ZzEtUHlxeXhMWjdiczJ5ZV9aTjdCbWZHbUZiemZyV2FQZlo3aUFLOE5LUllGM3NkWkRQMGI1TU9nWEdQdVJwRlVrLWJ6VFpCbURnSTNF?oc=5",
+   "source": "Express Computer",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": null,
+   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "cbafdd207499",
+   "title": "Madison Dearborn Partners to Acquire Peli BioThermal From Pelican Products, Platinum Equity",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd2dFbkpyT2lGbmRRaUhNVFZ6SWU2ek1hb2I5VlczUlFqZXZUNWI3NWhkMlQwdU5TcHB2TmNhcXctckdDT1FpQU9qcWNhU0FFdDdtbWNLT2l1RWRGU2FCbEdvak5YRjRFN2o3cHBfOVRxZF9NUURNcEN0WTA3VnBPMG5zZ1RrOFFCYnJZbGFFbUJ3UVZ0WDJkNDkxSXdHQ1AyLTdlQ2llbnRHeExiaHBYM1A0LTI1eHNFZDl1TUtOdWNqbmgxS2dwUWpmZENJXzA?oc=5",
+   "source": "Pharmaceutical Commerce",
+   "date": "2026-11-24",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "291614b0df97",
+   "title": "Pact Capital Partners backs DACH software investor Elvaston with minority stake",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1ZyWFI2V1cyVnU0SU5vRk5ZbjFmNHlkU0xGQWJJaEVzQWNtb3NzRDF5M2ZQOVYwcUZEMUF5VWN6Ylp1cVJRQnZmQzBrRV9DTEFOUU1UcW5RZ1p6SDZvU0dVMVBpM2RjaXdOcTlKZnFXVEtGZmxuRUZ4c1BGb041Unh5ZUprNXpkaUFsYmRLMUhxT2l1YzJicEo1SjJEX0xyekFNRU5CUVB4MGZsZmJCdmxBeVBseHBUdkx1X2RIZ2Y?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "9fe896f926c5",
+   "title": "Peak Rock’s Alex Dabbous outlines add-on plans for food ingredients biz JR Dalziel; Triton to buy power transmission company Flender from Carlyle",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZXRFVGFRR1JMbDlIM3dkeVBZOTgzTHJwbThYTi1mcm5TanQ1Q3VqVExMc0t3TlVPWDVtZm9ZX0pZTVBMVXRkTXVTeEsxdExESWxMRzlvRTNEVTBCOS1kWF9DU0k3b1hXN2ZSZkgyVXF1NUZWellJVzdpTGw5NVJIU1ltMWdVTDZoaEdzcnVMeGdrODIzSEtvb0FveThSa1ZUcmREcUdxTXhCMDgzLUxjeDJ3MG5CRDYwVFV6bm9OaU05dnZVTmtaS1ZMMmFleFpoMVRMVFlud19mT0lrWmtTcmVBS2V5cWh5ek9hS0ZxMFVBTVFrckZ3RXZSWExPLUEyUjhWWDBBbFQ3cjdZNVpsY053Wl9BUQ?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "8c827c038b1c",
@@ -151,6 +232,19 @@
    "first_seen": "2026-11-24"
   },
   {
+   "id": "98c3abe362c2",
+   "title": "Silex Microsystems plans to open MEMS manufacturing facility in Pennsylvania",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3lBbV9hMjBQb1FDYUlGVkRCTFBKSVBQRUhnMXhIWTFrVnVtb0d3cFR6a2NhZTNNdUN4c00wRkR3S1h6d2RmekJDeEh3OU5VNXQ4QjZUMW5xbGxPVlQxLUhtYjJBOUo4RkJCLVgyOWRMdXBsVF9VMWF0MjdEb193LVRuc2t6dWFqaDRIVlBBbXBSdDEyRGgxNkM0R2E0Sk5IcGIxMG1TOU5FUmVKTjJNQ3hqV2J4ZVdqZm5yNU80dzlpRERxLUFQdV95cGt5Ylk?oc=5",
+   "source": "Plant Services",
+   "date": "2026-11-23",
+   "tags": [
+    "plant opening"
+   ],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
    "id": "4efa28955f3a",
    "title": "Belarus begins production of a building material not made in China",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4Zkg2SmFpTlV0OXhNbXpDZkFRcmgtVkxaSWg4dzZSV3BybnptSTdoMG85LXRVX2g5VENhOEx3ZWJtZUpncnfSAUtBVV95cUxQeFZaTTlpRFJSMURva19Zcmk0WGpGaVQxWnA4amRxb3VzRGk3QmRMWkhGMmk5a1dNTHcxWTVEb2pyTUhCWVhRYkx0WFU?oc=5",
@@ -188,6 +282,20 @@
    "first_seen": "2026-11-22"
   },
   {
+   "id": "8ac9e9d997a2",
+   "title": "NexPoint Materials lands $340M to fund carve-out from SABIC",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUJvQlJWLWVrUXJaOFhfYmVzbER1Nk5LT2NnRWhlcFdmaUdSbktidlE1YkhxR19fdWFTRU00OHhvUFVERFJ6dExlQ3NyZlVSelN1SGVKYnBoQTlPSjZHaFpqblBkcloxRGZtSVpSMWVpUTFHU1NZQl84X1c0U2VjWGoyRi1kLWFUcFpTdk52UWxLSTZCUEpV?oc=5",
+   "source": "Dealroom",
+   "date": "2026-11-21",
+   "tags": [
+    "plant announcement",
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
    "id": "79ea9db03a80",
    "title": "TE Connectivity to Invest $60 Million in New York Manufacturing",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2FyNW1GYlMtNGRRVEVjSnl4STlULURmQkZUcXZHeWx2VmdxY3JndGVTU05iT2Y2bFN4TERGNVZqU1FPdndaNWdYbnlQRmVwelJjTHRvcURVNUZMeHlEOUhtYm5TZzB4VDN4UXBqWGc5OXRGNGNfWkZuNXRhV2FCNFdabGVzQmZjMDhYRXlDRDUwX1dqV2dLQWppZTZ4Q0VQdlFuRFZlVlV5Zw?oc=5",
@@ -210,6 +318,19 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "c8c9a6a1eca9",
+   "title": "Buy Complexity, Sell Clarity: Why Buying Carve-outs Is Private Equity's Smartest Bet Right Now",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdDhFUXdNa0V2Qi1rTXN5WGEzZ1czSzR6cjRtb0hXVW1VZnZ0UmNQUVZqUFNPemxfS0RUbGxxb0tUb2RmeFZQRVIyaXpEblp6SUJsS0R5dnVydTdqQ0NsUkFtcko0NERsck9yU0ZYdVBRWDFyQTNfMzRUdnRjZmlxVlM4cnlkZDhnd2JHWXc4T1FCNTBmQU5tbVpMWVZ3c1ZaekVkbFJURThOejlNWE5ReW1IQW5mVkVjaTlHeFpIOHRONDg4Vi1qLWNKWnd1RmtyTGNCUXVhMUNQNzBEek9Ud1lKZHluOWptT3BmTFBQQlVJeGMzMGpUTWQtY2xBOUk?oc=5",
+   "source": "Legal 500",
+   "date": "2026-11-20",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "04dfb2f4fc22",
@@ -293,6 +414,65 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-22"
+  },
+  {
+   "id": "67458926b303",
+   "title": "Lilly starts work on Pennsylvania obesity plant; ITM, AtomVie strike supply deal",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMTZqYjdPUEJKOF9FcFZDRFhueDFBTWt2dUNjSzg4eDRYTlFTaGhNVFJFN1ZqY05aQkhSTzBLcFJZdzZmS2p1S2lIX1p2Y2xUbk9OYUpTSEdnNkt0ZXZjOVRTMnRWbXlJLWk1RWFENTdiVHN4UjJzQklFdlBvbDhKdFhHUVdfaXZiU2lKZkRpOFJZUWNWVy1TT2VnZDF2OVRQX0ctUg?oc=5",
+   "source": "Endpoints News",
+   "date": "2026-11-19",
+   "tags": [],
+   "state": "PA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "8b8e34643529",
+   "title": "Check out the robot dogs coming to an Upstate NY chip plant",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlhWdV9kUjhvSVJXNHBHN0lXc0YxVjZjLXlQR0xQTDdtZ1p0R1g3OC1kaFI0alk4YkpMdWtCMkxWa2NpOFZmbmVOV0ZJeTc4X1c3dTdrTTVnaU8wVDdXZHJKd0EzNE1qVVpMY0w2U2FUaE9qWVZoazZjQ3VxZ04tZ3hvbnZNcFlTZHdUWDQyQ3N5ZVlyQ1RqWnkyQTJZdzlUTExBRWM4Ri1FdkE0?oc=5",
+   "source": "NewYorkUpstate.com",
+   "date": "2026-11-19",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "b2ae488e69ec",
+   "title": "New Massachusetts Facility Targets Advanced Thermoplastics",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiLTlBTXNuY0Fnd3ozMnA3NmJVUnZCVkYtVmozT0JMUjROLW5QWUEtSzh3TDg2eEJ5cVo5bTREZmZTOWRkRExjd29ZY0FRRXlKQkJRcGpsdFV0bDI5aWJR?oc=5",
+   "source": "PlasticsToday",
+   "date": "2026-11-19",
+   "tags": [],
+   "state": "MA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "46f2a3635f41",
+   "title": "Wynnchurch Capital Completes Luxfer Holdings Take-Private Acquisition at $17.37 Per Share",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZV8tRXVLNXVKWDNRd1JmWG1YeS1jV3NXb3owZ01HMmJQUmVWRUxJbTB2WVNrUjdCRmR1cGhtdzg2Rk5mTHpBR0tNV1hxWGZVR3lSbXJiR3RleE50OEVqYVh5Qi0tZGI2RUw3ZjlOd19zR2NIUWd3MXgzVm9wOVBySnVRR1pzRnlOLWRtT3gyNW1mWTFBdDZkd0NLRmF5S2NuSDZJWW1Ma2JZNzRqSm9WbG11bFZvalpyMmE3QTJPTnBkczV6bmc?oc=5",
+   "source": "citybiz",
+   "date": "2026-11-19",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "d7d810a3ee94",
+   "title": "Ohmnia acquires Polypal: advisors",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzbHFpbU03WFhxXzNDTExuX0RNN1BndUFBMy15UldJeFU3MVU3V215ZUR0eGtCdTFFa2h2VG90ejBvTG1qeXNOdEVmN01NVW12SGtQb0FDaEpQRXY2Uml6dHpWY1FwSGtWLVROcUtrSUhzYU1ISVE0NEFIbC1LZw?oc=5",
+   "source": "Iberian Lawyer",
+   "date": "2026-11-19",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "87d788b78c13",
@@ -414,6 +594,17 @@
    "state": "SC",
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "e6f2e844189d",
+   "title": "Leeds private equity firm Endless closes new £425m fund",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLU1rWmlXRDJiWFl6U1l2T0l6NjVPZjN4dEl2TWFySkJiOFhkWW5XZ2FYT2JnUFdBaW8zWWdaMDY0NlpKcGU5a1JrR1NlSnExbGVyMGsyWDVjQlRSR3A2aVBlVXNvUU9yS1o5MGtWVnBaTEZ0cHQ1S1Zxano0RTgzWXh5U2s5T3ByMUFwY1JnQWtwZw?oc=5",
+   "source": "BusinessCloud",
+   "date": "2026-11-18",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "6df5f75f0e35",
@@ -548,6 +739,32 @@
    "state": "NY",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-20"
+  },
+  {
+   "id": "47d15c151385",
+   "title": "Vijayapura Campa Cola Plant Worth 16 Billion Rupees (About $170 Million) Set to Create 2,000 Direct Jobs",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUJSUVFhNjRtSVBsWmo4ZHdJYmxUdXdEOFplbDBuTGlSY2tfekY3clZGd3lpV1hTTDQwVDgxczBxX1lWdEF1OXdqcVdwRjM2cGRjWVcxRk1OdGx5ZGhJNy1MUEZNcl9mWTgzSEw1eVItbU50TmhWb1JZbUdtUEt0WE15cw?oc=5",
+   "source": "Metaintro",
+   "date": "2026-11-17",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "57febae77f8f",
+   "title": "Private equity house Endless raises £425m Fund VI - will focus on carve-outs, family-owned firms, complex buyouts and turnarounds",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWEJPQkM5Sy0xNTRoN091cVY5OGcxOV9NVVloemhQckxER3YxNU1HUWhIV3QxRjg1eGIyX29ETGdyMmJXdGI4QnFBTEpGNVI1dFA2X2RKak81bXZwUVV0WDJMS3c3aGhCM2xONTltU1NzUDFqV2NheGQ3Y0stNjh3emdHTnJnVVdpZzNCdlZ1NEpqUllBQ2VreVZ2S3Bzc2k0VUJtZkdIUXJCVm1mTWQ5Rlc1dWkzNEUtUlFaZDVqa3FaaDhoUDRMYTgzMUhCU09QTkh4YnZfNzE0QlFVMlVObWlSWEhoRVVMbE9kQXB3eFB2cVhsQ3hrbE9pUmU?oc=5",
+   "source": "Insider Media Ltd",
+   "date": "2026-11-17",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "1fc674977271",
@@ -794,6 +1011,20 @@
    "state": null,
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "57549fda2b81",
+   "title": "AURELIUS strikes global deal to acquire Resonac’s $500m graphite business",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnJXbExkdU9jS2VNLXREV28xWkdPNERXRFNuLVlGQ3lHV3d5cjBlajhONE1PRWJFeU96eG53ZThXb1ZtZjE0SW1qZ3BqTVVmVmlrRWdSR09aQzI2Rm1kUHBscjZQUlNTM1ROb0pYY3VDVjM0bkpJWU9XRmpTTjZyNVFHMC1rWjN6cHNka0VKLUNBNnhKcXJTVjVjcElVbHEyZ0xrcU82Q05nV2VUSmJqVDZFem1TUdIBvAFBVV95cUxNbC1yNjh6Qk1qMmhNc3BXSElnenRidUVHVDl1dUY0bDFOeExSRTJqTjFyNHRqOF8ycjBVQVNWU0dFUTBCMEpoZjFNaDBzMk4zR3RwRDRqVmU4cnVTMkVTSjFjQ1ZnX1VSdVNKc0hLNm1RaXZlQ19LWGo3STMtd2xOc1lqUHB3aGwzMGlBZXl1UmJIUzFIX0tsQ29sbWdPYzBBZDdXcEVOU0lPd2ZPbkNSU01lamhKanlYQWtjbA?oc=5",
+   "source": "Indian Chemical News",
+   "date": "2026-11-14",
+   "tags": [
+    "plant announcement",
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "bb02cf478169",
@@ -1304,6 +1535,52 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-24"
+  },
+  {
+   "id": "b13dac4284f9",
+   "title": "PE Weekly: M&A Roundup Nov. 6-12",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42MHVhNktqWWhrUHRDMWRrYVY1dE5vOXBvRHdVN3JsUGZINzFJeDdKRl8tNGtkRVF6bnNYQnJoQkJtUV9iSHlzMndtbGd1YW1GMXltWHYyVDVUa0V5aHE3TGtVTVRtamhNYzVmdw?oc=5",
+   "source": "ACG Insights",
+   "date": "2026-11-12",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "d81cdf77cc60",
+   "title": "KPS Capital to buy 70% of MM's packaging arm in $2.7B deal",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlhMUGpDRWhnRzJuYjk0RU5Ea0xBNHh1NEU3SXJPMFlocVpRN19aajBvQlVBQ0R6aVdTRkIwQk0tUUc3Z2VoRnkzTGFMZWN1VHBPalo1NDZ0R1dUTWc2b0hwTUw4QnB6MU9ENURuS1QyWkMySHRfck55SjN3Y053MXB5S3FrRG5FelI1dlJkZmtZalRa?oc=5",
+   "source": "Dealroom",
+   "date": "2026-11-12",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "e27d00fdda01",
+   "title": "GenNx360 Capital Partners Announces Investment in DRT Aerospace",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdklka0dMNUZwd0FCZWE3Q0VfRFZ4cFlNeFNLT1FKOVRrSVZGMm5IMnVNUnBvYVN2T2xWRWVWSVk1dGwyTlljSEZ5MEpZSjBCaWtucm81bkI1YzBReUhzcmI2Q3F2MC1RazBLQXJ2RlJwX084OS1MV2NudVUzaENHdTZwSGdQN2k0Z0VtUmprZ0JySnJGYkxORFFtbVpSQmNWS3RMam5KMVNoVXRZMURINVVZVWEzN0RhRkgwSg?oc=5",
+   "source": "Business Wire",
+   "date": "2026-11-12",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "07dc91d90d12",
+   "title": "GenNx360 Capital Partners: DRT Aerospace Investment Establishes Standalone Manufacturing Platform",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdktTZDRUYWdpN3l6TEF2SGw1WFAwVGFlM0hnMmI3T2k2dWpqUHM3SVdZU0tJVzNMVlFOMUZUU2VkVkx3X1NCemZFZzl6d2JUalB4UkNfQUVsU0RDVS1GMWFrbWdsQTYwQks3N0kwbW5Kb1hGWTNtUWI3OThSbnJRSUppYVlfU095QWhLNnByX0RrQVU3dTJTRFREZGhkUUZtaENtUjNad29pZUM3NEdfaC1odGo0RkU?oc=5",
+   "source": "Pulse 2.0",
+   "date": "2026-11-12",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "aff7f8b57fe7",
@@ -5680,39 +5957,6 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "d194f95e091d",
-   "title": "ERP case study: How business-IT 'dynamic duo' sparked a transformation",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3pubGNtNTR2UFh3ZzN2N3hmLTNHSlpGbmVQQ0FET2JMMC1FRUp4Q3V4andKcThHSkU4Mm9PekxkR3E3SVduS3F4d0pBZElzVUlXaUk2TV92NmpRYV9qbG5ZMFlqWlN5VDk0RzJsLTBVY0xRQ21uZlhTLW42ZFRJM0V3cnpocGk4ZHZUazZYUmU3VUdXcmc2TUFEc29SRDcxYXFmRmRLclJTVFR6TVZtdmI4eUpqdEFmbWZic0tJTdIBxwFBVV95cUxPcmtrZmJLanYzZUlvdHphMFpwSy1hRUcxdzR4TTYtQjN3bjZlbDFuMWVqVHA0MXphMGtXalEtRTRNWFUybzRUQmZVTWU1Zzd2WkJPSUhRVFRJaXhseGZ4c25pSXVhVFNWd1BLel9nQ0VkNmNJWlVDMXlwZ1dOQ2pfaE53NDVweVFqVXNtZkdUNlZyeHdSSERxaXpfakdmVXAyaVNhRl91NGdBdm94dnh1ejhXMl9KWHdLZ09zc0RpWWZNQll4cVFv?oc=5",
-   "source": "TechTarget",
-   "date": "2026-09-25",
-   "tags": [],
-   "state": null,
-   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "1bb93e9981cd",
-   "title": "Bulgarian-Style Yogurt Fueled by Pennsylvania Milk",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQU1IOWc3NnRDYzc0Y0hRZi1PY3hBRUd1dDJVNE9Bbm5zbDBnb2hicEV2d0dsRGRvOE94dDJEcFZqeXB0eGs2dEdaaXdvd1hncE95Smh2VF9weFFsLXg0LXRFdzlfRHFZT2lXR0RBZ0c2RkJTLVB6NTkxVl9Tak50dVNSVTNfcXg3aGllODJ0NXpTR0p6bDZCV2VwdzJuSktfcVB2Z0xiMzhfQmVBUlh2N1A5RDlxdVhEUzBmVEhzM0k1aGczdGt4a3lZU0UtaTJXTkpwSmFYQ3hpYTl1a0ZhQUV4eG1JcVk?oc=5",
-   "source": "Lancaster Farming",
-   "date": "2026-09-25",
-   "tags": [],
-   "state": "PA",
-   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "0a93c9c1651e",
-   "title": "Bulgarian-Style Yogurt Fueled by Pennsylvania Milk | Dairy News",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQU1IOWc3NnRDYzc0Y0hRZi1PY3hBRUd1dDJVNE9Bbm5zbDBnb2hicEV2d0dsRGRvOE94dDJEcFZqeXB0eGs2dEdaaXdvd1hncE95Smh2VF9weFFsLXg0LXRFdzlfRHFZT2lXR0RBZ0c2RkJTLVB6NTkxVl9Tak50dVNSVTNfcXg3aGllODJ0NXpTR0p6bDZCV2VwdzJuSktfcVB2Z0xiMzhfQmVBUlh2N1A5RDlxdVhEUzBmVEhzM0k1aGczdGt4a3lZU0UtaTJXTkpwSmFYQ3hpYTl1a0ZhQUV4eG1JcVk?oc=5",
-   "source": "Lancaster Farming",
-   "date": "2026-09-25",
-   "tags": [],
-   "state": "PA",
-   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
-   "first_seen": "2026-10-22"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24T21:25:15+00:00",
- "calls": 2294,
+ "generated": "2026-11-25T20:49:53+00:00",
+ "calls": 4875,
  "sources": [
   {
    "name": "Augury",
@@ -34,7 +34,7 @@
    "name": "Formlabs",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 20,
+   "jobs": 21,
    "note": ""
   },
   {
@@ -48,7 +48,7 @@
    "name": "Xometry",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 2,
+   "jobs": 5,
    "note": ""
   },
   {
@@ -62,7 +62,7 @@
    "name": "Bridgewater Associates",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 2,
+   "jobs": 1,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4434,
-   "note": "1,722 of 6,452 boards checked today, 1192 with matching jobs, 19 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4519,
+   "note": "4,000 of 6,452 boards checked today, 1214 with matching jobs, 49 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,35 +139,35 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 28,
+   "jobs": 57,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 17,
+   "jobs": 21,
    "note": ""
   },
   {
    "name": "News: \"S/4HANA\" (migration OR \"go-live\" OR implementat",
    "kind": "signals",
    "status": "ok",
-   "jobs": 10,
+   "jobs": 9,
    "note": ""
   },
   {
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 8,
+   "jobs": 24,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 0,
+   "jobs": 3,
    "note": ""
   }
  ]
