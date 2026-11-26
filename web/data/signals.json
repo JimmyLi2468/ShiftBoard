@@ -1,6 +1,20 @@
 {
- "generated": "2026-11-25T20:49:53+00:00",
+ "generated": "2026-11-26T20:26:52+00:00",
  "items": [
+  {
+   "id": "5e65cf0206f5",
+   "title": "Qnity Acquires Meridian’s Electronics Adhesives Business for $840 Million to Expand AI Technology Portfolio",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOHJYNWRlcmZDRzJDaXdjUGZRSVpybDhnYUNORFN4VjZrTmxmWHJVYXFmbjhoWnBHU1ZxVzd3aU9PazZBSUZNRzIxVjgzSlJYMk5jRU14T0dOTlVpb0lKZDZpanlYU2plbE1CeV8tcUpvTWoySkd6cXJaV1ZnTlVOOVBZeldLRWVCbE9LUllnZm1tS1cwSWR5UnF4aUhFYVdRTF9MMU96ZDF4WlFvdnhwaFpzM2NiR2JkUGZlRjMzR2hpTmRsaHNuZUsxdUFyOThWYjBhY2tvcVJIeWFx?oc=5",
+   "source": "Spherical Insights",
+   "date": "2026-11-26",
+   "tags": [
+    "plant announcement",
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-26"
+  },
   {
    "id": "976850579b81",
    "title": "Wood recycling startup Cambium expands in Maryland with new production facility",
@@ -22,6 +36,32 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-25"
+  },
+  {
+   "id": "6e65d8749431",
+   "title": "Osage LLC Breaks Ground on Tulsa Drone Facility",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWnd4S0ZKVHNxbU1QejdPQmZkOEw4VnN6cmdmaVhvS2VCNV9ybkdPNF9XNHpxdkdKendHdXIzOWRnNUhRRmJiNklacUN2Zmd3M1k5aUYyVTFyVzJyVHZBNDZjZklLOV84eXZoYzNxa0RUTXQ2WWtqSzktWGJtRVNtemJqamJBZkFmejJ2WnlqY1c2OWV1V3VFNkNHV05aVXlaNS1R?oc=5",
+   "source": "Wisevoter",
+   "date": "2026-11-25",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "2a3a53d41086",
+   "title": "\"I helped build it\": Ruto breaks ground on KSh 32b plant set to create 10k jobs",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFNUMFdVcFlUSF9vMkpKVkNURHJZWS02OTdKV1VoOWxQdWhfaUZiS3BSYU9Jem9PRkxpbEllN2hEaEhmWlo3ZDNiT0czbEpScm1kZURycmJ1dU85cGVJQUlFazdVTm5xZHZoR3ZKdXRUT1IwMGxKZUZKU3Nudl9QcUdtSkhZX1NmUEtoQ0NuR0E4cU9iWTQyQnhpcmhEQTROUFhaUlBMbUdOa2pfRS12ejdSNlNvNlF2all6RXpsSlk1dw?oc=5",
+   "source": "Tuko News",
+   "date": "2026-11-25",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "02b5a622c8f0",
@@ -125,6 +165,30 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-25"
+  },
+  {
+   "id": "6bcb49e4fcb2",
+   "title": "Rockville satellite firm Quantum Space eyes new production facility after public debut",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbkI3QWNWY3puR243bloybGQyWHJhbkJ5WnpUT2hnQk1hdUUtNFhmWnBnR3BOaHMtWEE1bjYyUlBvNkV6WUFBcWFEemtncUxfWTN3MnBQMDVNdWY4MkZFVXUxMDVUYnhFM0dIUmJhR2picll6RVBtTkZRTE1iSGhIQWZRRFhwTjFaMUJRdmFwRG4tWVVjaXRpZkhOWVpZM0w1bkltZ01tMjk?oc=5",
+   "source": "The Business Journals",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "9dbe37aeefb6",
+   "title": "Px3-backed Com Laude to buy Markmonitor in carve-out",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnJjT3ZFMGFfTGFwdDRCbnZjTGJ3WEZEVUNLbXhhUDZWYXBBMmZ3VDRpUVhpN0NYeHZqMUFFX010SDEtSVNMWW5tb2pjMnh6cHZtXzNFcXJ2OE1rcll2YVlsS3J5azdxTDh0YlRZczJ6T3JqOXlDaktBeWszUC1XVmJNS2Rzb1FnQWVJd3hfcUV3S05UVnJmZ3d5MFo?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-24",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "8c827c038b1c",
@@ -243,6 +307,32 @@
    "state": "PA",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-25"
+  },
+  {
+   "id": "6058ee817784",
+   "title": "UP CM Yogi Adityanath Virtually Participates in Groundbreaking Ceremony of Aluminium Can Plant in Meerut",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXeUd1STZud1U4YU9ZZEtxNzlJU0N5QURDcWdqSjNab1FYWHRiMTJGS0NIRklWd25DSkE1ZEFKWEllNS1ULTBZNFhZSllYV1lRZXQ2Zg?oc=5",
+   "source": "thepublicworld.com",
+   "date": "2026-11-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": null,
+   "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "f474dbad3c6e",
+   "title": "BMW begins production of iX4 electric crossover in Hungary — Electrek",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcElXRGNSdUVGTkpHNjFLZktWWkRydVVuWTRldEdMeWZhbmNLdUYybzItYnExV214ZVJTeWhXNEhMM2NscUNSeTZkdVVtXzBDQnBFOGJnRzVZbEFkWEFYNlRYZnpXYS05VWMxQWYwSE5FdHZDWTB4aTJMbHNNRlpCeXNpWVltbTFyeTB5UkNiM1lmUTJJUmR0OG5SbU1RalE?oc=5",
+   "source": "UA.NEWS",
+   "date": "2026-11-23",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "4efa28955f3a",
@@ -2847,6 +2937,19 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-11-02"
+  },
+  {
+   "id": "323222be53e5",
+   "title": "Traditional Medicinals begins production at Franklin County plant",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzlIS0NKUGQwTEktcTVWZlFmRWxTVXU1TW04N3cwdGd1eFZaUmNoSk9ybXI0eERfcnR2YnVkUHdTRDJKcnFCZ240OXhKdDRtUDVkYjRuenJZZGpQejhKeVM4emxiakVTTVNEWmhLbjd4R2RNdC03Y0oybXUxX3hTeHY5UGdnZDdvUTVjZA?oc=5",
+   "source": "WSLS",
+   "date": "2026-10-28",
+   "tags": [
+    "plant opening"
+   ],
+   "state": null,
+   "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "86a97fd18112",
@@ -5946,17 +6049,6 @@
    "state": null,
    "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
    "first_seen": "2026-10-27"
-  },
-  {
-   "id": "1591b73f5d17",
-   "title": "Ramesh Poolakkil Joins ITC Infotech as VP, Head of ERP – Americas",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVldMMkdPNnhuNExJbDcxU0ppejVOS3ljcEhVd1pMeDFzLUJCalFTc0RQYm41ZFBtYVZKOHVfZElVRi02RklrcUt5OWtadTRJQlNfcGVxMTBpS3BaeGhVRWVQM3ZiQWFTakpRdUp3ZWxmcVU3dElHMWhPS2FjbUMyVW1CLW1vMjFLLUU2bXUzUzB2MER4TkZvX0J4WQ?oc=5",
-   "source": "CXO Digitalpulse",
-   "date": "2026-09-26",
-   "tags": [],
-   "state": null,
-   "query": "\"S/4HANA\" (migration OR \"go-live\" OR implementation) manufacturer when:30d",
-   "first_seen": "2026-10-21"
   }
  ]
 }
