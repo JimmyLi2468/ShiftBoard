@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T20:26:52+00:00",
+ "generated": "2026-11-27T20:13:13+00:00",
  "items": [
   {
    "id": "5e65cf0206f5",
@@ -14,6 +14,19 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-26"
+  },
+  {
+   "id": "72e32989eacd",
+   "title": "Ultrapak Completes $800,000 Manufacturing Expansion in Dunkirk, New York",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzFhNzRKSkNzT1Q1VE1NdVNPOTktcEJoR0NRYjQ0ZzZYbnRpZzE1aUJRZkNoaFVYcnEzRXdPLVRPelpnOFU1cVFBSElFbkM2Sjk1VXJvN3RsZjRYOHF4SXpEWEdXMWF4cjJkaWVsOHJlV25peTMyaHlSajQtNG9hOGUtVHA1S0Z6S2xHZmtpRklvQkI3cEh6ajNSR0VTSjJrOTRiYTlFakhOZld5dWVz?oc=5",
+   "source": "Construction Owners",
+   "date": "2026-11-26",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "976850579b81",
@@ -62,6 +75,52 @@
    "state": null,
    "query": "groundbreaking facility jobs (Pennsylvania OR \"New Jersey\" OR \"New York\" OR Connecticut) when:14d",
    "first_seen": "2026-11-26"
+  },
+  {
+   "id": "7fec1abc3f4d",
+   "title": "Layoff Tracker: Capricor could lay off hundreds in wake of FDA rejection",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+   "source": "BioSpace",
+   "date": "2026-11-25",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "c15b29d6cf3b",
+   "title": "Generation Growth Capital unveils new metal manufacturing platform American Consolidated Metals",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQUdWQWJQczlzOURuZkl0Y2ZNSVJ2N1ZUNXJOV3k4UF9DRnljSThMOUl3bHoydlF6YlNHSkh4c1BpSE40WkJNdFlJYUxsY3lOaUJ0a0ZDM2Z5LVAzWjlZbjRsb01fUTZ4OURtZDVfLXlpdWVleWd5QnVFekdNNHRjd1BkN3ZmWHhmS0h1aF9hOWVkUFBHYWdhM1RsM1ZFTkEzaFdrT1pVVG4wU2Q2TzJLd3ZCSHUwWDUyOGtVVlZwb0J2UTVnTUozbUZxRTBsVUNtTEFLMWVB?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-25",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "fc8b824210e1",
+   "title": "PE-backed Avalon buys legal tech firm Tower Legal Solutions",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2ZMd3h1VEQzRmZxUUJBVTdienZmemxvc1Jub2VPQUc5eF9OclhFdEJMWlg4VFBHeWg2a2VPSDhkamdZaGhET1puT2h2TUV4NXZlUlQtcHNLX3BsaTdsOEx6bi1pUnRqUnpYY3AtSDRVeDNqU015YkYtcmtEaXRFemoySkQxQUxYS1FabkJSWVU3WENkeG9Gdi1teEk4LVpYM05TXzlB?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-25",
+   "tags": [],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "7553b28e30ed",
+   "title": "Ironbridge Equity goes sweet with acquisition of King’s Pastry",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3ZvbWZlVjBxTmozT0w5ZmFJVTQ1ZFpMRUxEYWM2bExrdGRuTklYVVNuOWdEVGs3S2pqN3h6cGRsUXYzc0tvMGZnZ3ZnQlFtNk1nTm1pQXlLU19tTnZpMm5GS3pKX3UtNEphd2lQWWNaQjZLcHF5Ul9icDRkTzU1SE0tdVQ0VVplSkV3ejV4a0dUSTRDU1dFcmd6R3hERGhTQktFRU5hcW4?oc=5",
+   "source": "PEI Private Equity",
+   "date": "2026-11-25",
+   "tags": [
+    "carve-out"
+   ],
+   "state": null,
+   "query": "carve-out manufacturing \"private equity\" when:14d",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "02b5a622c8f0",
@@ -189,6 +248,28 @@
    "state": null,
    "query": "carve-out manufacturing \"private equity\" when:14d",
    "first_seen": "2026-11-26"
+  },
+  {
+   "id": "9d19b009b7fa",
+   "title": "Iowa 'Lead Bomb' Puts Spotlight On Toxic Waste Sites In Connecticut",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWXA0YXY3VjBPLVpidDhzVHZCVlZoNnNMWlRQRjNYZmpNRU5hYV92aVhwajJoR05WRDZJSHRHTVBWS1lLNURpanYxSnplck4zVVNZMmtKdURITnRRSWN1MmZnMDdlSzdyX0l5Qnp5N2RIMXlTUHFuc3ExLUJCYUdqb21WRnlma2NMUW1fckRldXdpekdJc3FYRVJIRXRuTmQ00gG6AUFVX3lxTFBpWVVNdDZ2X2syWXZidU1MQVNxSWU4aHR6eko5aXpNZ0R2dXFPczVlaG9VOUpDU2NoVmVhRU5SaXQxRmItUXdmSEl1WkRSWWZaZjRxYjJIZnZFOVVyUFFnN2tXcUh0VVVuVlZnRHhxeWpFd0sxd2JhdVV4eG1jUV9BWE9FUUt6MmMtMFlRcXB1VWNxeko3VFJPMngzM2RsVC0taFp4SV8zNXYyeW5kaEFSc1BnZ3k5ZW9NQQ?oc=5",
+   "source": "Patch",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "c585be56cc39",
+   "title": "Platinum Pest Control Expands Specialized Food Safety and Pest Management Programs Across Five States",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTZST2RjcU80UWpPRmxYaTBSYXdPOXE3Q29TSXVCdEJWQWV2MU5xRXhXbDBRejBXNkl6RlRVM3dYTnh1UDh6R2s0NmVfWlF0bzdscWRUemphVjhySkRjc0x2UzRkNDZwTzdibXVDTWVBcnBnRXl0UDhHVmxleDY4TjdpNmgxRkZLZ3RMQkFEUmdGaHd0Y3RVZXA3emFnTVpxR0pWSEln?oc=5",
+   "source": "Newswire",
+   "date": "2026-11-24",
+   "tags": [],
+   "state": null,
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "8c827c038b1c",
@@ -333,6 +414,19 @@
    "state": null,
    "query": "plant \"begins production\" (Pennsylvania OR \"New York\" OR \"New Jersey\" OR Maryland) when:30d",
    "first_seen": "2026-11-26"
+  },
+  {
+   "id": "2132009741bc",
+   "title": "Pfizer to build new manufacturing hub in Connecticut",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYW1TT2VLR0N3Z1B2SjRvTFJPeUVia1ZmVTJfUm5sU0xsY1gyWFJMM2F3WjNtZkY1ODJ5TkVFc2hvRVNyME1NZ1E4b1R1bHlQVXlaeUh5ZDRweDlKa3RuTkw3ZEhUUVFCbTVzcThScHlsTTVvTF9NREpjaVlOOWJQSDZvcnl1d3VXQUdrVERXUEg2VnZW?oc=5",
+   "source": "The Ticker",
+   "date": "2026-11-23",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "CT",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "4efa28955f3a",
@@ -979,6 +1073,30 @@
    "state": "NY",
    "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
    "first_seen": "2026-11-23"
+  },
+  {
+   "id": "79feec1f420a",
+   "title": "MIT-Born VulcanForms Secures $500 Million to Expand Advanced Manufacturing in Massachusetts and Beyond",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeHV5NWx6LWRGek9XRUV4SWZHRFNiTlhaUEg2czFURXFuSWdZN2VtMU9Pa2c5R2hjNUR4anpXcWswcWlScXh3NXgwdzZNdnRnUkJWNVNQakktRFNnY1hjclVySFZWT3FaWTBOTnB2cmt1RndIWHEzcHF0U1hRWWIzVjNySjZrbVQzQlFjZjRBZVpSNXZDbWlKcDJMMVZ3Q1kwQUJERnJZajJaT2NXbkJabzNxMDFYSFJSaklHa3lIUzlFNjBrZVA5OUJoRktsN1ZUZ1E?oc=5",
+   "source": "Boston Real Estate Times",
+   "date": "2026-11-16",
+   "tags": [
+    "plant announcement"
+   ],
+   "state": "MA",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "id": "298d75c2ae76",
+   "title": "New York Fed factory index falls to 7.8 in November as new orders slow while hiring hits a four-year high",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzNQc0NuLXFfVTVHbjM4SzRaMndMM1JxZHljRzYyd2JuZUowVjZtOFVlX0JibEhYYTlWTld5QkFySXQ3N2RxTjJCZkZaeUl4QUxwQnY0Zjg4bE9tMl9iT3YxaGx4ZmlTR2pOVENHa3F2d3Z6Ml9qREpaZ0R6eHJHY1FfajJ6Nm84SEdIMkpXSS1MUTFiU09fSXRXXzBleDlFUUgyTi0tZFlGQjVyWDh6M1Z5d0UyQkJrZ0Vib3FRZldjWFE?oc=5",
+   "source": "MLQ.ai",
+   "date": "2026-11-16",
+   "tags": [],
+   "state": "NY",
+   "query": "new manufacturing plant (\"New York\" OR \"New Jersey\" OR Connecticut OR Pennsylvania OR Massachusetts OR Maryland) when:14d",
+   "first_seen": "2026-11-27"
   },
   {
    "id": "76d90593b8d7",

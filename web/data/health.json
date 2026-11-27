@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26T20:26:52+00:00",
- "calls": 4868,
+ "generated": "2026-11-27T20:13:13+00:00",
+ "calls": 3795,
  "sources": [
   {
    "name": "Augury",
@@ -48,7 +48,7 @@
    "name": "Xometry",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 5,
+   "jobs": 3,
    "note": ""
   },
   {
@@ -69,7 +69,7 @@
    "name": "Point72",
    "kind": "greenhouse",
    "status": "ok",
-   "jobs": 10,
+   "jobs": 9,
    "note": ""
   },
   {
@@ -125,8 +125,8 @@
    "name": "Board index (Common Crawl)",
    "kind": "index",
    "status": "ok",
-   "jobs": 4593,
-   "note": "4,000 of 6,452 boards checked today, 1208 with matching jobs, 50 unreachable. index from CC-MAIN-2026-39 is current."
+   "jobs": 4551,
+   "note": "3,187 of 6,452 boards checked today, 1207 with matching jobs, 51 unreachable. index from CC-MAIN-2026-39 is current."
   },
   {
    "name": "HN Who’s Hiring",
@@ -139,14 +139,14 @@
    "name": "News: new manufacturing plant (\"New York\" OR \"New Jers",
    "kind": "signals",
    "status": "ok",
-   "jobs": 29,
+   "jobs": 33,
    "note": ""
   },
   {
    "name": "News: groundbreaking facility jobs (Pennsylvania OR \"N",
    "kind": "signals",
    "status": "ok",
-   "jobs": 19,
+   "jobs": 12,
    "note": ""
   },
   {
@@ -160,14 +160,14 @@
    "name": "News: carve-out manufacturing \"private equity\" when:14",
    "kind": "signals",
    "status": "ok",
-   "jobs": 5,
+   "jobs": 7,
    "note": ""
   },
   {
    "name": "News: plant \"begins production\" (Pennsylvania OR \"New ",
    "kind": "signals",
    "status": "ok",
-   "jobs": 4,
+   "jobs": 3,
    "note": ""
   }
  ]
